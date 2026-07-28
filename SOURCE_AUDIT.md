@@ -8,7 +8,7 @@
 | Bossmod Reborn | `FFXIV-CombatReborn/BossmodReborn` | `83776902` | 2025-12-16 | 與經典版同 commit，需確認 fork 差異 |
 | Rotation Solver Reborn | `FFXIV-CombatReborn/RotationSolverReborn` | `f24bf4bc` | 2025-12-15 | 已確認 API13 |
 | Splatoon | `PunishXIV/Splatoon` | `f7434a3d` | 2025-12-08 | 已確認 API13 |
-| Wrath Combo | `MeowZWR/WrathCombo` | `dff5e3c0` | 2025-12-16 | 此節點已是 API14，需找更早 API13 commit |
+| Wrath Combo | `MeowZWR/WrathCombo` | `3b968ca32` | 2025-08-05 | API13 編譯成功；`cycleapple/WrathCombo@59b67130e` 發布 1.0.1.18。12 月節點雖仍標 API13，但已使用新版 Dalamud 型別，不相容台服 API13 |
 | AntiAfkKick | `NightmareXIV/AntiAfkKick` | `7a0ebaa8` | 2025-08-07 | API13 編譯成功；發布 2.1.0.9 |
 | AutoRetainer | `PunishXIV/AutoRetainer` | `f04642ff` | 2025-12-12 | 已確認 API13 |
 | Saucy | `PunishXIV/Saucy` | `8e8d5949` | 2025-08-15 | API13 編譯成功；台服修正 `cycleapple/Saucy@a79b1c5`；發布 1.4.2.8 |

@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Bossmod Reborn | 7.2.5.109 | 技能範圍與戰鬥輔助 | 稽核中 |
 | Rotation Solver Reborn | 7.2.5.122 | 技能循環 | 已找到 API13 節點，待編譯 |
 | Splatoon | 3.8.1.5 | 場景繪製點、線、面 | 已找到 API13 節點，待編譯 |
-| Wrath Combo | 1.0.1.18 | 整合連段 | 需回退至 API13 節點 |
+| Wrath Combo | 1.0.1.18 | 整合連段 | 已發布；使用真正相容台服 API13 的 2025-08-05 節點 |
 | AntiAfkKick | 2.1.0.9 | 防止閒置斷線 | 已發布 |
 | AutoRetainer | 4.5.0.4 | 雇員相關功能 | 已找到 API13 節點，待編譯 |
 | Saucy | 1.4.2.8 | 金碟相關功能 | 已發布；含 API13 編譯修正 |

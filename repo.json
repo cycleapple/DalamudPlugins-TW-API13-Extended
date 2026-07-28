@@ -147,5 +147,35 @@
     "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PriceInsight-2.11.3.0.zip",
     "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PriceInsight-2.11.3.0.zip",
     "AcceptsFeedback": true
+  },
+  {
+    "Author": "Team Wrath",
+    "Name": "Wrath Combo",
+    "InternalName": "WrathCombo",
+    "AssemblyVersion": "1.0.1.18",
+    "TestingAssemblyVersion": "1.0.1.18",
+    "Description": "Condenses combos and mutually exclusive abilities onto a single button. Taiwan Dalamud API13 build.",
+    "Punchline": "一鍵連擊與整合連段。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/WrathCombo",
+    "Tags": [
+      "combo",
+      "rotation",
+      "pve",
+      "pvp"
+    ],
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "IconUrl": "https://s3.puni.sh/media/plugin/60/icon-2bwhkn3zf1f.png",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/WrathCombo-1.0.1.18.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/WrathCombo-1.0.1.18.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/WrathCombo-1.0.1.18.zip",
+    "AcceptsFeedback": true
   }
 ]
