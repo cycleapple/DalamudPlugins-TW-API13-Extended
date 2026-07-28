@@ -1,0 +1,6 @@
+artifacts/
+packages/
+work/
+*.log
+*.dmp
+*.tspack

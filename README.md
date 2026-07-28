@@ -1,0 +1,71 @@
+# DalamudPlugins-TW-API13-Extended
+
+台服 FFXIV 使用的 Dalamud API13 擴充插件倉庫。本倉庫與外觀插件用的
+[DalamudPlugins-TW](https://github.com/cycleapple/DalamudPlugins-TW) 分開維護。
+
+目前正在逐項稽核與重新編譯，尚未驗證的插件不會加入 `repo.json`。參考倉庫提供的是 API12 二進位檔，因此不會直接複製或只修改 manifest 冒充 API13。
+
+## 預定安裝網址
+
+完成第一批驗證後，在 Dalamud 的「自訂插件儲存庫」加入：
+
+```text
+https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/repo.json
+```
+
+目前 `repo.json` 是空清單，避免安裝到尚未驗證的建置。
+
+## 收錄範圍
+
+| 插件 | 目標版本 | 用途 | 狀態 |
+|---|---:|---|---|
+| Bossmod／Boss Mod | 0.1.4.0 | Boss 機制輔助 | 稽核中 |
+| Bossmod Reborn | 7.2.5.109 | 技能範圍與戰鬥輔助 | 稽核中 |
+| Rotation Solver Reborn | 7.2.5.122 | 技能循環 | 已找到 API13 節點，待編譯 |
+| Splatoon | 3.8.1.5 | 場景繪製點、線、面 | 已找到 API13 節點，待編譯 |
+| Wrath Combo | 1.0.1.18 | 整合連段 | 需回退至 API13 節點 |
+| AntiAfkKick | 2.1.0.7 | 防止閒置斷線 | 已找到 API13 節點，待編譯 |
+| AutoRetainer | 4.5.0.4 | 雇員相關功能 | 已找到 API13 節點，待編譯 |
+| Saucy | 1.4.2.0 | 金碟相關功能 | 已找到 API13 節點，待編譯 |
+| NoClippy | 0.5.0.18 | 改善技能延遲 | 稽核中 |
+| NecroLens | 1.0.8.11 | 深層迷宮輔助 | 已找到 API13 節點，待編譯 |
+| MidiBard 2 | 3.1.0.0 | 樂器演奏 | 閉源／需確認 API13 發布包 |
+| GatherBuddy Reborn | 7.2.5.1 | 採集輔助 | 已找到 API13 節點，待編譯 |
+| Artisan | 4.0.3.46 | 生產輔助 | 已找到 API13 節點，待編譯 |
+| Burning Down the House | 1.6.9 | 房屋裝修 | 已找到 API13 節點，待比對版本 |
+| Raphael.Dalamud | 0.0.3.0 | 生產求解器／依賴庫 | 稽核中 |
+| Something Need Doing | 0.0.0.0 | 巨集擴展 | 稽核中 |
+| TextAdvance | 3.2.4.5 | 對話自動處理 | 已找到 API13 節點，待編譯 |
+| Lifestream | 2.5.1.15 | 傳送輔助 | 已找到 API13 節點，待編譯 |
+| vnavmesh | 0.4.0.2 | 尋路與移動工具 | 稽核中 |
+| AutoDuty | 0.0.0.0 | 副本自動化框架 | 稽核中 |
+| Pixel Perfect | 3.3.1.0 | 顯示角色碰撞圈 | 稽核中 |
+| LazyLoot | 5.3.2.1 | 戰利品擲骰輔助 | 稽核中 |
+| Questionable | 5.23 | 任務輔助 | 非 GitHub 上游，稽核中 |
+| YesAlready | API13 待定 | 自動確認對話 | 稽核中 |
+| Price Insight | 2.11.2.2 | 顯示市場價格 | 稽核中 |
+| Gearsetter | 3.1 | 裝備升級建議 | 非 GitHub 上游，稽核中 |
+
+Bossmod 與 Boss Mod 是同一個 `awgil/ffxiv_bossmod` 來源，在正式 manifest 中只會保留一筆，避免 Dalamud 顯示重複插件。
+
+## 版本原則
+
+- 以 2025 年 8 月 5 日至 2025 年 12 月 16 日的 API13 時期為主要查找範圍
+- 必須由來源、manifest 或實際組件確認 `DalamudApiLevel = 13`
+- 使用台服 API13 Dalamud 與相符的 FFXIVClientStructs 重新編譯
+- 含原生 DLL、導航資料或私有依賴的插件必須額外驗證，不只確認 managed DLL
+- API14 來源不能只把 manifest 數字改成 13
+- 每個正式資產使用唯一檔名與 SHA-256，避免 GitHub/CDN 快取舊檔
+
+詳細來源節點請見 [SOURCE_AUDIT.md](SOURCE_AUDIT.md)。
+
+## 風險說明
+
+部分插件會自動執行戰鬥、移動、任務、生產或其他遊戲操作。此倉庫只處理 API13 與台服客戶端相容性，不代表這些功能符合遊戲服務條款；請自行評估使用風險。
+
+## 參考
+
+- [aliceric27/DalamudPlugins-TW](https://github.com/aliceric27/DalamudPlugins-TW)
+- [台服 Dalamud](https://github.com/yanmucorp/Dalamud)
+- [台服 FFXIVClientStructs TC-BASE](https://github.com/yanmucorp/FFXIVClientStructs/tree/TC-BASE)
+
