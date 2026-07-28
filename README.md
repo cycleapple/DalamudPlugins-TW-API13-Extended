@@ -30,15 +30,15 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | NoClippy | 0.5.0.19 | 改善技能延遲 | 已發布 |
 | NecroLens | 1.0.8.11 | 深層迷宮輔助 | 已發布；包含台服 API13 型別相容修補 |
 | MidiBard 2 | 3.1.0.0 | 樂器演奏 | 閉源／需確認 API13 發布包 |
-| GatherBuddy Reborn | 7.2.5.1 | 採集輔助 | 已找到 API13 節點，待編譯 |
-| Artisan | 4.0.3.46 | 生產輔助 | 已找到 API13 節點，待編譯 |
+| GatherBuddy Reborn | 7.2.5.1 | 採集輔助 | 已發布；含台服 API13 型別修補與 MessagePack 安全更新 |
+| Artisan | 4.0.4.8 | 生產輔助 | 已發布；含台服 API13 型別相容修補 |
 | Burning Down the House | 1.7.1.0 | 房屋裝修 | 已發布；安全範圍內 API13 上游版本 |
 | Raphael.Dalamud | 0.0.5.0 | 生產求解器／依賴庫 | 已發布 |
 | Something Need Doing | 0.0.0.0 | 巨集擴展 | 已發布 |
 | TextAdvance | 3.2.4.7 | 對話自動處理 | 已發布 |
 | Lifestream | 2.5.2.3 | 傳送輔助 | 已發布（2.5.1.15 為 API12） |
 | vnavmesh | 0.4.0.2 | 尋路與移動工具 | 稽核中 |
-| AutoDuty | 0.0.0.0 | 副本自動化框架 | 稽核中 |
+| AutoDuty | 0.0.0.0 | 副本自動化框架 | 已發布 API13 |
 | Pixel Perfect | 3.3.2.0 | 顯示角色碰撞圈 | 已發布 |
 | LazyLoot | 5.3.2.4 | 戰利品擲骰輔助 | 已發布 |
 | Questionable | 5.23 | 任務輔助 | 非 GitHub 上游，稽核中 |

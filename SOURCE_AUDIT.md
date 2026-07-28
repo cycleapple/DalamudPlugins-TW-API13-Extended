@@ -14,15 +14,15 @@
 | Saucy | `PunishXIV/Saucy` | `8e8d5949` | 2025-08-15 | API13 編譯成功；台服修正 `cycleapple/Saucy@a79b1c5`；發布 1.4.2.8 |
 | NoClippy | `UnknownX7/NoClippy` | `d32ae7af` | 2025-08-09 | API13 編譯成功；發布 0.5.0.19 |
 | NecroLens | `Jukkales/NecroLens` | `d6646478` | 2025-11-26 | API13 編譯成功；`cycleapple/NecroLens@98cd7c2` 修正 `BaseId` 相容性並發布 1.0.8.11 |
-| GatherBuddy Reborn | `AtmoOmen/GatherBuddyReborn` | `f77e7a44` | 2025-12-16 | 已確認 API13 |
-| Artisan | `MeowZWR/Artisan` | `e4a0ddaf` | 2025-12-13 | 已確認 API13；上游已封存 |
+| GatherBuddy Reborn | `AtmoOmen/GatherBuddyReborn` | `f77e7a44` | 2025-12-16 | API13 編譯成功；`cycleapple/GatherBuddyReborn@46666db` 修正 `BaseId` 相容性、更新 MessagePack 至 3.1.8，發布 7.2.5.1 |
+| Artisan | `MeowZWR/Artisan` | `e4a0ddaf` | 2025-12-13 | API13 編譯成功；`cycleapple/Artisan@4c90707` 修正 `BaseId` 相容性，發布實際組件版本 4.0.4.8；上游已封存 |
 | Burning Down the House | `LeonBlade/BDTHPlugin` | `ba39d13c` | 2025-09-30 | API13 編譯成功；發布 1.7.1.0 |
 | Raphael.Dalamud | `Dalamud-DailyRoutines/Raphael.Dalamud` | `de11e646` | 2025-09-16 | API13 編譯成功；發布 0.0.5.0 |
 | Something Need Doing | `Jaksuhn/SomethingNeedDoing` | `11422e55` | 2025-11-28 | API13 編譯成功；發布 0.0.0.0 |
 | TextAdvance | `NightmareXIV/TextAdvance` | `5716d5a4` | 2025-11-22 | API13 編譯成功；發布 3.2.4.7 |
 | Lifestream | `NightmareXIV/Lifestream` | `305dfbf9` / tag `2.5.2.3` | 2025-08-07 | API13 編譯成功；2.5.1.15 為 API12，故發布首批 API13 版本 2.5.2.3 |
 | vnavmesh | `awgil/ffxiv_navmesh` | `5f512e57` | 2025-12-15 | API 由建置產生，含原生元件 |
-| AutoDuty | `ffxivcode/AutoDuty` | `a7d1eca8` | 2025-12-08 | manifest 使用建置變數，待編譯確認 |
+| AutoDuty | `ffxivcode/AutoDuty` | `a7d1eca8` | 2025-12-08 | API13 編譯成功；實際組件版本 0.0.0.0 |
 | Pixel Perfect | `Haplo064/PixelPerfect` | `b371fe07` | 2025-08-07 | API13 編譯成功；發布 3.3.2.0 |
 | LazyLoot | `PunishXIV/LazyLoot` | `d685ef0c` | 2025-11-19 | API13 編譯成功；發布 5.3.2.4 |
 | YesAlready | `PunishXIV/YesAlready` | `ca2288dd` | 2025-11-10 | API13 編譯成功；上游 manifest 版本為 0.0.0.0 |

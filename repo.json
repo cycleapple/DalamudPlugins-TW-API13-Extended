@@ -376,5 +376,53 @@
     "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/SomethingNeedDoing-0.0.0.0.zip",
     "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/SomethingNeedDoing-0.0.0.0.zip",
     "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/SomethingNeedDoing-0.0.0.0.zip"
+  },
+  {
+    "Author": "The Combat Reborn Team",
+    "Name": "GatherBuddy Reborn",
+    "InternalName": "GatherBuddyReborn",
+    "AssemblyVersion": "7.2.5.1",
+    "TestingAssemblyVersion": "7.2.5.1",
+    "Description": "Gathering, fishing and route automation helper. Taiwan Dalamud API13 compatibility build.",
+    "Punchline": "採集與釣魚輔助。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/GatherBuddyReborn",
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/GatherBuddyReborn-7.2.5.1.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/GatherBuddyReborn-7.2.5.1.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/GatherBuddyReborn-7.2.5.1.zip"
+  },
+  {
+    "Author": "Taurenkey (Puni.sh)",
+    "Name": "Artisan",
+    "InternalName": "Artisan",
+    "AssemblyVersion": "4.0.4.8",
+    "TestingAssemblyVersion": "4.0.4.8",
+    "Description": "Crafting automation assistant. Taiwan Dalamud API13 compatibility build.",
+    "Punchline": "生產與製作輔助。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/Artisan",
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.8.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.8.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.8.zip"
+  },
+  {
+    "Author": "Herculezz, erdelf",
+    "Name": "AutoDuty",
+    "InternalName": "AutoDuty",
+    "AssemblyVersion": "0.0.0.0",
+    "TestingAssemblyVersion": "0.0.0.0",
+    "Description": "Automated duty framework. Taiwan Dalamud API13 build.",
+    "Punchline": "副本自動化框架。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/ffxivcode/AutoDuty",
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/AutoDuty-0.0.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/AutoDuty-0.0.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/AutoDuty-0.0.0.0.zip"
   }
 ]
