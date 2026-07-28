@@ -397,17 +397,17 @@
     "Author": "Taurenkey (Puni.sh)",
     "Name": "Artisan",
     "InternalName": "Artisan",
-    "AssemblyVersion": "4.0.4.8",
-    "TestingAssemblyVersion": "4.0.4.8",
+    "AssemblyVersion": "4.0.4.9",
+    "TestingAssemblyVersion": "4.0.4.9",
     "Description": "Crafting automation assistant. Taiwan Dalamud API13 compatibility build.",
     "Punchline": "生產與製作輔助。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/Artisan",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.8.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.8.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.8.zip"
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.9.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.9.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.9.zip"
   },
   {
     "Author": "Herculezz, erdelf",

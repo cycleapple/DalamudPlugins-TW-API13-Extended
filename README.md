@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | NecroLens | 1.0.8.11 | 深層迷宮輔助 | 已發布；包含台服 API13 型別相容修補 |
 | MidiBard 2 | 3.2.1.2 | 樂器演奏 | 已發布；API14 型別誤用前的安全節點 |
 | GatherBuddy Reborn | 7.2.5.2 | 採集輔助 | 已發布；支援繁中語言資料與安全語言 fallback |
-| Artisan | 4.0.4.8 | 生產輔助 | 已發布；含台服 API13 型別相容修補 |
+| Artisan | 4.0.4.9 | 生產輔助 | 已發布；修正缺少熱鍵列時的空參考錯誤 |
 | Burning Down the House | 1.7.1.0 | 房屋裝修 | 已發布；安全範圍內 API13 上游版本 |
 | Raphael.Dalamud | 0.0.5.0 | 生產求解器／依賴庫 | 已發布 |
 | Something Need Doing | 0.0.0.0 | 巨集擴展 | 已發布 |
