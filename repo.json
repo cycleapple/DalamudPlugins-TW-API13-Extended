@@ -206,8 +206,8 @@
     "Author": "кайт машина (Puni.sh)",
     "Name": "AutoRetainer",
     "InternalName": "AutoRetainer",
-    "AssemblyVersion": "4.5.1.21",
-    "TestingAssemblyVersion": "4.5.1.21",
+    "AssemblyVersion": "4.5.1.22",
+    "TestingAssemblyVersion": "4.5.1.22",
     "Description": "Retainer venture and workshop automation. Taiwan Dalamud API13 build.",
     "Punchline": "雇員探險與相關自動化。",
     "ApplicableVersion": "any",
@@ -221,9 +221,9 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/AutoRetainer-4.5.1.21.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/AutoRetainer-4.5.1.21.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/AutoRetainer-4.5.1.21.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/AutoRetainer-4.5.1.22.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/AutoRetainer-4.5.1.22.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/AutoRetainer-4.5.1.22.zip",
     "AcceptsFeedback": true
   },
   {
