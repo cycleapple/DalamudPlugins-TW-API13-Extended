@@ -1,9 +1,10 @@
 # DalamudPlugins-TW-API13-Extended
 
+> [!WARNING]
+> 本倉庫收錄的插件相對高風險，部分功能涉及遊戲記憶體 Hook、自動化操作或非官方介面。遊戲、Dalamud 或台服客戶端更新後，插件可能立即失效、造成遊戲崩潰、角色操作異常或資料損壞。使用第三方插件亦可能違反遊戲服務條款並帶來帳號處分風險。請自行評估並承擔使用風險，重要設定務必先行備份；遊戲更新後，在相容性重新確認前請停用本倉庫插件。
+
 台服 FFXIV 使用的 Dalamud API13 擴充插件倉庫。本倉庫與外觀插件用的
 [DalamudPlugins-TW](https://github.com/cycleapple/DalamudPlugins-TW) 分開維護。
-
-清單中的 26 個不重複插件均已完成來源節點稽核、台服 API13 重新編譯與套件下載驗證。參考倉庫提供的是 API12 二進位檔，因此本倉庫不會直接複製或只修改 manifest 冒充 API13。
 
 ## 安裝網址
 
