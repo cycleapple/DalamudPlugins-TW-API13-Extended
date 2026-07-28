@@ -19,8 +19,8 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 
 | 插件 | 目標版本 | 用途 | 狀態 |
 |---|---:|---|---|
-| Bossmod／Boss Mod | 0.1.4.1 | Boss 機制輔助 | 已發布；台服 7.3 InventoryAck 簽名修正 |
-| Bossmod Reborn | 7.3.8.2 | 技能範圍與戰鬥輔助 | 已發布；台服 7.3 InventoryAck 簽名修正 |
+| Bossmod／Boss Mod | 0.1.4.1 | Boss 機制輔助 | 已發布；台服 7.3 安全物品同步，移除不穩定 Hook |
+| Bossmod Reborn | 7.3.8.2 | 技能範圍與戰鬥輔助 | 已發布；台服 7.3 安全物品同步，移除不穩定 Hook |
 | Rotation Solver Reborn | 7.3.5.0 | 技能循環 | 已發布；台服 7.3／API13 安全節點 |
 | Splatoon | 3.8.2.1 | 場景繪製點、線、面 | 已發布（來源 tag 3.8.1.5 的實際組件版本） |
 | Wrath Combo | 1.0.1.18 | 整合連段 | 已發布；使用真正相容台服 API13 的 2025-08-05 節點 |
