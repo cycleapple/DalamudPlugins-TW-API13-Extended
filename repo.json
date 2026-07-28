@@ -456,5 +456,21 @@
     "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossMod-0.1.4.0.zip",
     "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossMod-0.1.4.0.zip",
     "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossMod-0.1.4.0.zip"
+  },
+  {
+    "Author": "The Combat Reborn Team",
+    "Name": "Bossmod Reborn",
+    "InternalName": "BossModReborn",
+    "AssemblyVersion": "7.3.8.1",
+    "TestingAssemblyVersion": "7.3.8.1",
+    "Description": "Boss mechanics, overlays and combat utilities maintained by Combat Reborn. Taiwan 7.3 / Dalamud API13 compatibility build.",
+    "Punchline": "戰鬥範圍與 Boss 機制輔助。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/BossmodReborn",
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossModReborn-7.3.8.1.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossModReborn-7.3.8.1.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossModReborn-7.3.8.1.zip"
   }
 ]
