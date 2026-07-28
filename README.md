@@ -19,8 +19,8 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 
 | 插件 | 目標版本 | 用途 | 狀態 |
 |---|---:|---|---|
-| Bossmod／Boss Mod | 0.1.4.0 | Boss 機制輔助 | 已發布；台服 7.3／API13 相容修補 |
-| Bossmod Reborn | 7.3.8.1 | 技能範圍與戰鬥輔助 | 已發布；最後一個未使用 API14 型別的正式 tag |
+| Bossmod／Boss Mod | 0.1.4.1 | Boss 機制輔助 | 已發布；台服 7.3 InventoryAck 簽名修正 |
+| Bossmod Reborn | 7.3.8.2 | 技能範圍與戰鬥輔助 | 已發布；台服 7.3 InventoryAck 簽名修正 |
 | Rotation Solver Reborn | 7.3.5.0 | 技能循環 | 已發布；台服 7.3／API13 安全節點 |
 | Splatoon | 3.8.2.1 | 場景繪製點、線、面 | 已發布（來源 tag 3.8.1.5 的實際組件版本） |
 | Wrath Combo | 1.0.1.18 | 整合連段 | 已發布；使用真正相容台服 API13 的 2025-08-05 節點 |
@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | NoClippy | 0.5.0.19 | 改善技能延遲 | 已發布 |
 | NecroLens | 1.0.8.11 | 深層迷宮輔助 | 已發布；包含台服 API13 型別相容修補 |
 | MidiBard 2 | 3.2.1.2 | 樂器演奏 | 已發布；API14 型別誤用前的安全節點 |
-| GatherBuddy Reborn | 7.2.5.1 | 採集輔助 | 已發布；含台服 API13 型別修補與 MessagePack 安全更新 |
+| GatherBuddy Reborn | 7.2.5.2 | 採集輔助 | 已發布；支援繁中語言資料與安全語言 fallback |
 | Artisan | 4.0.4.8 | 生產輔助 | 已發布；含台服 API13 型別相容修補 |
 | Burning Down the House | 1.7.1.0 | 房屋裝修 | 已發布；安全範圍內 API13 上游版本 |
 | Raphael.Dalamud | 0.0.5.0 | 生產求解器／依賴庫 | 已發布 |
