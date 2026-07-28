@@ -4,7 +4,7 @@
 
 | 插件 | 上游 | 截止 commit | 日期（UTC） | 初步結果 |
 |---|---|---|---|---|
-| Bossmod／Boss Mod | `awgil/ffxiv_bossmod` | `83776902` | 2025-12-16 | API 由建置產生，待編譯確認 |
+| Bossmod／Boss Mod | `awgil/ffxiv_bossmod` | `381151125` | 2025-11-29 | API13 編譯成功；`cycleapple/ffxiv_bossmod@1460e54d9` 修正台服型別與 C# 建置相容性，發布 0.1.4.0。後續開始使用 API14 `IPlayerState` |
 | Bossmod Reborn | `FFXIV-CombatReborn/BossmodReborn` | `83776902` | 2025-12-16 | 與經典版同 commit，需確認 fork 差異 |
 | Rotation Solver Reborn | `FFXIV-CombatReborn/RotationSolverReborn` | `4907d030` / tag `7.3.5.0` | 2025-10-07 | API13 編譯成功；`cycleapple/RotationSolverReborn@8b9fb1d7` 鎖定 net9 相容 Lumina.Excel，發布 7.3.5.0。較晚的 7.3.8.x 雖標 API13，已使用 API14 型別 |
 | Splatoon | `PunishXIV/Splatoon` | `ae37f2b` / tag `3.8.1.5` | 2025-08-28 | API13 編譯成功；來源 tag 的實際組件版本為 3.8.2.1 |

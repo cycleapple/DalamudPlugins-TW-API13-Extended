@@ -440,5 +440,21 @@
     "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/RotationSolverReborn-7.3.5.0.zip",
     "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/RotationSolverReborn-7.3.5.0.zip",
     "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/RotationSolverReborn-7.3.5.0.zip"
+  },
+  {
+    "Author": "veyn",
+    "Name": "Boss Mod",
+    "InternalName": "BossMod",
+    "AssemblyVersion": "0.1.4.0",
+    "TestingAssemblyVersion": "0.1.4.0",
+    "Description": "Boss mechanic modules, overlays and combat utilities. Taiwan 7.3 / Dalamud API13 compatibility build.",
+    "Punchline": "Boss 機制與站位輔助。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/ffxiv_bossmod",
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossMod-0.1.4.0.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossMod-0.1.4.0.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossMod-0.1.4.0.zip"
   }
 ]
