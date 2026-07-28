@@ -424,5 +424,21 @@
     "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/AutoDuty-0.0.0.0.zip",
     "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/AutoDuty-0.0.0.0.zip",
     "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/AutoDuty-0.0.0.0.zip"
+  },
+  {
+    "Author": "The Combat Reborn Team",
+    "Name": "Rotation Solver Reborn",
+    "InternalName": "RotationSolver",
+    "AssemblyVersion": "7.3.5.0",
+    "TestingAssemblyVersion": "7.3.5.0",
+    "Description": "Combat rotation analysis and automation. Taiwan 7.3 / Dalamud API13 compatibility build.",
+    "Punchline": "技能循環分析與自動操作。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/RotationSolverReborn",
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/RotationSolverReborn-7.3.5.0.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/RotationSolverReborn-7.3.5.0.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/RotationSolverReborn-7.3.5.0.zip"
   }
 ]
