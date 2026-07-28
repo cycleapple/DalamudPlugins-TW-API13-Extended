@@ -21,7 +21,7 @@
 | Something Need Doing | `Jaksuhn/SomethingNeedDoing` | `11422e55` | 2025-11-28 | API13 編譯成功；發布 0.0.0.0 |
 | TextAdvance | `NightmareXIV/TextAdvance` | `5716d5a4` | 2025-11-22 | API13 編譯成功；發布 3.2.4.7 |
 | Lifestream | `NightmareXIV/Lifestream` | `305dfbf9` / tag `2.5.2.3` | 2025-08-07 | API13 編譯成功；2.5.1.15 為 API12，故發布首批 API13 版本 2.5.2.3 |
-| vnavmesh | `awgil/ffxiv_navmesh` | `5f512e57` | 2025-12-15 | API 由建置產生，含原生元件 |
+| vnavmesh | `awgil/ffxiv_navmesh` | `5f512e5` / tag `v1.1.2.1` | 2025-12-15 | API13 編譯成功；`cycleapple/ffxiv_navmesh@8d90451` 發布 1.1.2.1。上游於 12 月 17 日才切換 API14 |
 | AutoDuty | `ffxivcode/AutoDuty` | `a7d1eca8` | 2025-12-08 | API13 編譯成功；實際組件版本 0.0.0.0 |
 | Pixel Perfect | `Haplo064/PixelPerfect` | `b371fe07` | 2025-08-07 | API13 編譯成功；發布 3.3.2.0 |
 | LazyLoot | `PunishXIV/LazyLoot` | `d685ef0c` | 2025-11-19 | API13 編譯成功；發布 5.3.2.4 |

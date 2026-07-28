@@ -472,5 +472,21 @@
     "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossModReborn-7.3.8.1.zip",
     "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossModReborn-7.3.8.1.zip",
     "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossModReborn-7.3.8.1.zip"
+  },
+  {
+    "Author": "veyn",
+    "Name": "vnavmesh",
+    "InternalName": "vnavmesh",
+    "AssemblyVersion": "1.1.2.1",
+    "TestingAssemblyVersion": "1.1.2.1",
+    "Description": "Automatic navigation and movement utility. Taiwan 7.3 / Dalamud API13 build.",
+    "Punchline": "自動尋路與移動工具。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/ffxiv_navmesh",
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/vnavmesh-1.1.2.1.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/vnavmesh-1.1.2.1.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/vnavmesh-1.1.2.1.zip"
   }
 ]
