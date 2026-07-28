@@ -5,15 +5,15 @@
 
 目前正在逐項稽核與重新編譯，尚未驗證的插件不會加入 `repo.json`。參考倉庫提供的是 API12 二進位檔，因此不會直接複製或只修改 manifest 冒充 API13。
 
-## 預定安裝網址
+## 安裝網址
 
-完成第一批驗證後，在 Dalamud 的「自訂插件儲存庫」加入：
+在 Dalamud 的「自訂插件儲存庫」加入：
 
 ```text
 https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/repo.json
 ```
 
-目前 `repo.json` 是空清單，避免安裝到尚未驗證的建置。
+`repo.json` 只會列出已完成 API13 編譯驗證的插件，其餘項目會分批加入。
 
 ## 收錄範圍
 
@@ -24,10 +24,10 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Rotation Solver Reborn | 7.2.5.122 | 技能循環 | 已找到 API13 節點，待編譯 |
 | Splatoon | 3.8.1.5 | 場景繪製點、線、面 | 已找到 API13 節點，待編譯 |
 | Wrath Combo | 1.0.1.18 | 整合連段 | 需回退至 API13 節點 |
-| AntiAfkKick | 2.1.0.7 | 防止閒置斷線 | 已找到 API13 節點，待編譯 |
+| AntiAfkKick | 2.1.0.9 | 防止閒置斷線 | 已發布 |
 | AutoRetainer | 4.5.0.4 | 雇員相關功能 | 已找到 API13 節點，待編譯 |
-| Saucy | 1.4.2.0 | 金碟相關功能 | 已找到 API13 節點，待編譯 |
-| NoClippy | 0.5.0.18 | 改善技能延遲 | 稽核中 |
+| Saucy | 1.4.2.8 | 金碟相關功能 | 已發布；含 API13 編譯修正 |
+| NoClippy | 0.5.0.19 | 改善技能延遲 | 已發布 |
 | NecroLens | 1.0.8.11 | 深層迷宮輔助 | 已找到 API13 節點，待編譯 |
 | MidiBard 2 | 3.1.0.0 | 樂器演奏 | 閉源／需確認 API13 發布包 |
 | GatherBuddy Reborn | 7.2.5.1 | 採集輔助 | 已找到 API13 節點，待編譯 |
@@ -39,11 +39,11 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Lifestream | 2.5.1.15 | 傳送輔助 | 已找到 API13 節點，待編譯 |
 | vnavmesh | 0.4.0.2 | 尋路與移動工具 | 稽核中 |
 | AutoDuty | 0.0.0.0 | 副本自動化框架 | 稽核中 |
-| Pixel Perfect | 3.3.1.0 | 顯示角色碰撞圈 | 稽核中 |
+| Pixel Perfect | 3.3.2.0 | 顯示角色碰撞圈 | 已發布 |
 | LazyLoot | 5.3.2.1 | 戰利品擲骰輔助 | 稽核中 |
 | Questionable | 5.23 | 任務輔助 | 非 GitHub 上游，稽核中 |
 | YesAlready | API13 待定 | 自動確認對話 | 稽核中 |
-| Price Insight | 2.11.2.2 | 顯示市場價格 | 稽核中 |
+| Price Insight | 2.11.3.0 | 顯示市場價格 | 已發布 |
 | Gearsetter | 3.1 | 裝備升級建議 | 非 GitHub 上游，稽核中 |
 
 Bossmod 與 Boss Mod 是同一個 `awgil/ffxiv_bossmod` 來源，在正式 manifest 中只會保留一筆，避免 Dalamud 顯示重複插件。
@@ -68,4 +68,3 @@ Bossmod 與 Boss Mod 是同一個 `awgil/ffxiv_bossmod` 來源，在正式 manif
 - [aliceric27/DalamudPlugins-TW](https://github.com/aliceric27/DalamudPlugins-TW)
 - [台服 Dalamud](https://github.com/yanmucorp/Dalamud)
 - [台服 FFXIVClientStructs TC-BASE](https://github.com/yanmucorp/FFXIVClientStructs/tree/TC-BASE)
-
