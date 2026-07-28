@@ -14,7 +14,7 @@
 https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/repo.json
 ```
 
-`repo.json` 只列出已完成 API13 編譯驗證的插件；清單中重複的 Bossmod／Boss Mod 合併為同一筆。
+`repo.json` 只列出已完成 API13 編譯驗證的插件。
 
 ## 支持維護
 
