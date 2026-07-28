@@ -27,6 +27,6 @@
 | LazyLoot | `PunishXIV/LazyLoot` | `d685ef0c` | 2025-11-19 | API13 編譯成功；發布 5.3.2.4 |
 | YesAlready | `PunishXIV/YesAlready` | `ca2288dd` | 2025-11-10 | API13 編譯成功；上游 manifest 版本為 0.0.0.0 |
 | Price Insight | `Kouzukii/ffxiv-priceinsight` | `3c1c16d7` | 2025-08-07 | API13 編譯成功；發布 2.11.3.0 |
-| MidiBard 2 | `midibard.org` | — | — | 閉源／需取得官方 API13 發布包 |
-| Questionable | `git.carvel.li/liza/Questionable` | — | — | 待稽核非 GitHub 上游 |
-| Gearsetter | `git.carvel.li/liza/Gearsetter` | — | — | 待稽核非 GitHub 上游 |
+| MidiBard 2 | `reckhou/MidiBard2` | `1665029` | 2025-11-30 | API13 編譯成功；`cycleapple/MidiBard2@6f062cb` 修正 SDK 與台服組件路徑，發布 3.2.1.2。下一提交開始誤用 API14 `IPlayerState` |
+| Questionable | `PunishXIV/Questionable` | `34735346f` / tag `v13.68.129.2` | 2025-12-15 | API13 編譯成功；`cycleapple/Questionable@f71531737` 適配台服 TC-BASE。程式內放棄任務因缺少安全原生介面而停用，其餘核心功能保留 |
+| Gearsetter | `VeraNala/Gearsetter` | `21a2b8c` / tag `v4.0` | 2025-08-10 | API13 編譯成功；`cycleapple/Gearsetter@api13-tw` 發布 4.0，使用原始鎖定的 `qstxiv/LLib@f1716ee` |

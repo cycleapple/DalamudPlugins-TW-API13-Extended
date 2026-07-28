@@ -488,5 +488,53 @@
     "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/vnavmesh-1.1.2.1.zip",
     "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/vnavmesh-1.1.2.1.zip",
     "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/vnavmesh-1.1.2.1.zip"
+  },
+  {
+    "Author": "akira0245, Ori, Kalle, Zune",
+    "Name": "MidiBard 2",
+    "InternalName": "MidiBard2",
+    "AssemblyVersion": "3.2.1.2",
+    "TestingAssemblyVersion": "3.2.1.2",
+    "Description": "Bard performance using MIDI files or keyboards. Taiwan 7.3 / Dalamud API13 compatibility build.",
+    "Punchline": "吟遊詩人 MIDI 演奏工具。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/MidiBard2",
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MidiBard2-3.2.1.2.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MidiBard2-3.2.1.2.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MidiBard2-3.2.1.2.zip"
+  },
+  {
+    "Author": "liza, qstxiv, & various contributors",
+    "Name": "Questionable",
+    "InternalName": "Questionable",
+    "AssemblyVersion": "13.68.129.2",
+    "TestingAssemblyVersion": "13.68.129.2",
+    "Description": "Automated quest helper using vnavmesh, TextAdvance and Lifestream. Taiwan 7.3 / Dalamud API13 compatibility build.",
+    "Punchline": "任務路徑與流程助手。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/Questionable",
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Questionable-13.68.129.2.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Questionable-13.68.129.2.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Questionable-13.68.129.2.zip"
+  },
+  {
+    "Author": "Liza Carvelli",
+    "Name": "Gearsetter",
+    "InternalName": "Gearsetter",
+    "AssemblyVersion": "4.0",
+    "TestingAssemblyVersion": "4.0",
+    "Description": "Browse available gear and find upgrades for each class or job. Taiwan 7.3 / Dalamud API13 build.",
+    "Punchline": "查找裝備升級。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/Gearsetter",
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Gearsetter-4.0.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Gearsetter-4.0.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Gearsetter-4.0.zip"
   }
 ]

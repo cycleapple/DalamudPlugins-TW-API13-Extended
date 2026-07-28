@@ -3,7 +3,7 @@
 台服 FFXIV 使用的 Dalamud API13 擴充插件倉庫。本倉庫與外觀插件用的
 [DalamudPlugins-TW](https://github.com/cycleapple/DalamudPlugins-TW) 分開維護。
 
-目前正在逐項稽核與重新編譯，尚未驗證的插件不會加入 `repo.json`。參考倉庫提供的是 API12 二進位檔，因此不會直接複製或只修改 manifest 冒充 API13。
+清單中的 26 個不重複插件均已完成來源節點稽核、台服 API13 重新編譯與套件下載驗證。參考倉庫提供的是 API12 二進位檔，因此本倉庫不會直接複製或只修改 manifest 冒充 API13。
 
 ## 安裝網址
 
@@ -13,7 +13,7 @@
 https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/repo.json
 ```
 
-`repo.json` 只會列出已完成 API13 編譯驗證的插件，其餘項目會分批加入。
+`repo.json` 只列出已完成 API13 編譯驗證的插件；清單中重複的 Bossmod／Boss Mod 合併為同一筆。
 
 ## 收錄範圍
 
@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Saucy | 1.4.2.8 | 金碟相關功能 | 已發布；含 API13 編譯修正 |
 | NoClippy | 0.5.0.19 | 改善技能延遲 | 已發布 |
 | NecroLens | 1.0.8.11 | 深層迷宮輔助 | 已發布；包含台服 API13 型別相容修補 |
-| MidiBard 2 | 3.1.0.0 | 樂器演奏 | 閉源／需確認 API13 發布包 |
+| MidiBard 2 | 3.2.1.2 | 樂器演奏 | 已發布；API14 型別誤用前的安全節點 |
 | GatherBuddy Reborn | 7.2.5.1 | 採集輔助 | 已發布；含台服 API13 型別修補與 MessagePack 安全更新 |
 | Artisan | 4.0.4.8 | 生產輔助 | 已發布；含台服 API13 型別相容修補 |
 | Burning Down the House | 1.7.1.0 | 房屋裝修 | 已發布；安全範圍內 API13 上游版本 |
@@ -41,12 +41,14 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | AutoDuty | 0.0.0.0 | 副本自動化框架 | 已發布 API13 |
 | Pixel Perfect | 3.3.2.0 | 顯示角色碰撞圈 | 已發布 |
 | LazyLoot | 5.3.2.4 | 戰利品擲骰輔助 | 已發布 |
-| Questionable | 5.23 | 任務輔助 | 非 GitHub 上游，稽核中 |
+| Questionable | 13.68.129.2 | 任務輔助 | 已發布；台服 ClientStructs 相容修補 |
 | YesAlready | 0.0.0.0 | 自動確認對話 | 已發布 API13 |
 | Price Insight | 2.11.3.0 | 顯示市場價格 | 已發布 |
-| Gearsetter | 3.1 | 裝備升級建議 | 非 GitHub 上游，稽核中 |
+| Gearsetter | 4.0 | 裝備升級建議 | 已發布；正式 API13 tag |
 
 Bossmod 與 Boss Mod 是同一個 `awgil/ffxiv_bossmod` 來源，在正式 manifest 中只會保留一筆，避免 Dalamud 顯示重複插件。
+
+Questionable 的台服建置停用了程式內「放棄任務」原生命令；需要放棄任務時請使用遊戲任務日誌。此限制不影響任務路徑、對話、傳送或 vnavmesh 導航。
 
 ## 版本原則
 
