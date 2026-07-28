@@ -16,16 +16,16 @@
 | NecroLens | `Jukkales/NecroLens` | `d6646478` | 2025-11-26 | API13 編譯成功；`cycleapple/NecroLens@98cd7c2` 修正 `BaseId` 相容性並發布 1.0.8.11 |
 | GatherBuddy Reborn | `AtmoOmen/GatherBuddyReborn` | `f77e7a44` | 2025-12-16 | 已確認 API13 |
 | Artisan | `MeowZWR/Artisan` | `e4a0ddaf` | 2025-12-13 | 已確認 API13；上游已封存 |
-| Burning Down the House | `LeonBlade/BDTHPlugin` | `ba39d13c` | 2025-09-30 | 已確認 API13，來源版本為 1.7.1 |
-| Raphael.Dalamud | `Dalamud-DailyRoutines/Raphael.Dalamud` | `de11e646` | 2025-09-16 | 待確認產生後 manifest |
-| Something Need Doing | `Jaksuhn/SomethingNeedDoing` | `11422e55` | 2025-11-28 | 待確認產生後 manifest |
+| Burning Down the House | `LeonBlade/BDTHPlugin` | `ba39d13c` | 2025-09-30 | API13 編譯成功；發布 1.7.1.0 |
+| Raphael.Dalamud | `Dalamud-DailyRoutines/Raphael.Dalamud` | `de11e646` | 2025-09-16 | API13 編譯成功；發布 0.0.5.0 |
+| Something Need Doing | `Jaksuhn/SomethingNeedDoing` | `11422e55` | 2025-11-28 | API13 編譯成功；發布 0.0.0.0 |
 | TextAdvance | `NightmareXIV/TextAdvance` | `5716d5a4` | 2025-11-22 | API13 編譯成功；發布 3.2.4.7 |
 | Lifestream | `NightmareXIV/Lifestream` | `305dfbf9` / tag `2.5.2.3` | 2025-08-07 | API13 編譯成功；2.5.1.15 為 API12，故發布首批 API13 版本 2.5.2.3 |
 | vnavmesh | `awgil/ffxiv_navmesh` | `5f512e57` | 2025-12-15 | API 由建置產生，含原生元件 |
 | AutoDuty | `ffxivcode/AutoDuty` | `a7d1eca8` | 2025-12-08 | manifest 使用建置變數，待編譯確認 |
 | Pixel Perfect | `Haplo064/PixelPerfect` | `b371fe07` | 2025-08-07 | API13 編譯成功；發布 3.3.2.0 |
-| LazyLoot | `PunishXIV/LazyLoot` | `d685ef0c` | 2025-11-19 | manifest 使用建置變數，待編譯確認 |
-| YesAlready | `PunishXIV/YesAlready` | `ca2288dd` | 2025-11-10 | 待確認產生後 manifest |
+| LazyLoot | `PunishXIV/LazyLoot` | `d685ef0c` | 2025-11-19 | API13 編譯成功；發布 5.3.2.4 |
+| YesAlready | `PunishXIV/YesAlready` | `ca2288dd` | 2025-11-10 | API13 編譯成功；上游 manifest 版本為 0.0.0.0 |
 | Price Insight | `Kouzukii/ffxiv-priceinsight` | `3c1c16d7` | 2025-08-07 | API13 編譯成功；發布 2.11.3.0 |
 | MidiBard 2 | `midibard.org` | — | — | 閉源／需取得官方 API13 發布包 |
 | Questionable | `git.carvel.li/liza/Questionable` | — | — | 待稽核非 GitHub 上游 |

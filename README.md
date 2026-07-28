@@ -32,17 +32,17 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | MidiBard 2 | 3.1.0.0 | 樂器演奏 | 閉源／需確認 API13 發布包 |
 | GatherBuddy Reborn | 7.2.5.1 | 採集輔助 | 已找到 API13 節點，待編譯 |
 | Artisan | 4.0.3.46 | 生產輔助 | 已找到 API13 節點，待編譯 |
-| Burning Down the House | 1.6.9 | 房屋裝修 | 已找到 API13 節點，待比對版本 |
-| Raphael.Dalamud | 0.0.3.0 | 生產求解器／依賴庫 | 稽核中 |
-| Something Need Doing | 0.0.0.0 | 巨集擴展 | 稽核中 |
+| Burning Down the House | 1.7.1.0 | 房屋裝修 | 已發布；安全範圍內 API13 上游版本 |
+| Raphael.Dalamud | 0.0.5.0 | 生產求解器／依賴庫 | 已發布 |
+| Something Need Doing | 0.0.0.0 | 巨集擴展 | 已發布 |
 | TextAdvance | 3.2.4.7 | 對話自動處理 | 已發布 |
 | Lifestream | 2.5.2.3 | 傳送輔助 | 已發布（2.5.1.15 為 API12） |
 | vnavmesh | 0.4.0.2 | 尋路與移動工具 | 稽核中 |
 | AutoDuty | 0.0.0.0 | 副本自動化框架 | 稽核中 |
 | Pixel Perfect | 3.3.2.0 | 顯示角色碰撞圈 | 已發布 |
-| LazyLoot | 5.3.2.1 | 戰利品擲骰輔助 | 稽核中 |
+| LazyLoot | 5.3.2.4 | 戰利品擲骰輔助 | 已發布 |
 | Questionable | 5.23 | 任務輔助 | 非 GitHub 上游，稽核中 |
-| YesAlready | API13 待定 | 自動確認對話 | 稽核中 |
+| YesAlready | 0.0.0.0 | 自動確認對話 | 已發布 API13 |
 | Price Insight | 2.11.3.0 | 顯示市場價格 | 已發布 |
 | Gearsetter | 3.1 | 裝備升級建議 | 非 GitHub 上游，稽核中 |
 
