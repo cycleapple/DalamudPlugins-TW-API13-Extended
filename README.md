@@ -22,21 +22,21 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Bossmod／Boss Mod | 0.1.4.0 | Boss 機制輔助 | 稽核中 |
 | Bossmod Reborn | 7.2.5.109 | 技能範圍與戰鬥輔助 | 稽核中 |
 | Rotation Solver Reborn | 7.2.5.122 | 技能循環 | 已找到 API13 節點，待編譯 |
-| Splatoon | 3.8.1.5 | 場景繪製點、線、面 | 已找到 API13 節點，待編譯 |
+| Splatoon | 3.8.2.1 | 場景繪製點、線、面 | 已發布（來源 tag 3.8.1.5 的實際組件版本） |
 | Wrath Combo | 1.0.1.18 | 整合連段 | 已發布；使用真正相容台服 API13 的 2025-08-05 節點 |
 | AntiAfkKick | 2.1.0.9 | 防止閒置斷線 | 已發布 |
-| AutoRetainer | 4.5.0.4 | 雇員相關功能 | 已找到 API13 節點，待編譯 |
+| AutoRetainer | 4.5.1.21 | 雇員相關功能 | 已發布（首批可驗證 API13 tag） |
 | Saucy | 1.4.2.8 | 金碟相關功能 | 已發布；含 API13 編譯修正 |
 | NoClippy | 0.5.0.19 | 改善技能延遲 | 已發布 |
-| NecroLens | 1.0.8.11 | 深層迷宮輔助 | 已找到 API13 節點，待編譯 |
+| NecroLens | 1.0.8.11 | 深層迷宮輔助 | 已發布；包含台服 API13 型別相容修補 |
 | MidiBard 2 | 3.1.0.0 | 樂器演奏 | 閉源／需確認 API13 發布包 |
 | GatherBuddy Reborn | 7.2.5.1 | 採集輔助 | 已找到 API13 節點，待編譯 |
 | Artisan | 4.0.3.46 | 生產輔助 | 已找到 API13 節點，待編譯 |
 | Burning Down the House | 1.6.9 | 房屋裝修 | 已找到 API13 節點，待比對版本 |
 | Raphael.Dalamud | 0.0.3.0 | 生產求解器／依賴庫 | 稽核中 |
 | Something Need Doing | 0.0.0.0 | 巨集擴展 | 稽核中 |
-| TextAdvance | 3.2.4.5 | 對話自動處理 | 已找到 API13 節點，待編譯 |
-| Lifestream | 2.5.1.15 | 傳送輔助 | 已找到 API13 節點，待編譯 |
+| TextAdvance | 3.2.4.7 | 對話自動處理 | 已發布 |
+| Lifestream | 2.5.2.3 | 傳送輔助 | 已發布（2.5.1.15 為 API12） |
 | vnavmesh | 0.4.0.2 | 尋路與移動工具 | 稽核中 |
 | AutoDuty | 0.0.0.0 | 副本自動化框架 | 稽核中 |
 | Pixel Perfect | 3.3.2.0 | 顯示角色碰撞圈 | 已發布 |
