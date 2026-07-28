@@ -509,17 +509,17 @@
     "Author": "liza, qstxiv, & various contributors",
     "Name": "Questionable",
     "InternalName": "Questionable",
-    "AssemblyVersion": "13.68.129.2",
-    "TestingAssemblyVersion": "13.68.129.2",
+    "AssemblyVersion": "13.68.129.3",
+    "TestingAssemblyVersion": "13.68.129.3",
     "Description": "Automated quest helper using vnavmesh, TextAdvance and Lifestream. Taiwan 7.3 / Dalamud API13 compatibility build.",
     "Punchline": "任務路徑與流程助手。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/Questionable",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Questionable-13.68.129.2.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Questionable-13.68.129.2.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Questionable-13.68.129.2.zip"
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Questionable-13.68.129.3.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Questionable-13.68.129.3.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Questionable-13.68.129.3.zip"
   },
   {
     "Author": "Liza Carvelli",

@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | AutoDuty | 0.0.0.0 | 副本自動化框架 | 已發布 API13 |
 | Pixel Perfect | 3.3.2.0 | 顯示角色碰撞圈 | 已發布 |
 | LazyLoot | 5.3.2.4 | 戰利品擲骰輔助 | 已發布 |
-| Questionable | 13.68.129.2 | 任務輔助 | 已發布；台服 ClientStructs 相容修補 |
+| Questionable | 13.68.129.3 | 任務輔助 | 已發布；略過台服資料中的無效副本地區參照 |
 | YesAlready | 0.0.0.0 | 自動確認對話 | 已發布 API13 |
 | Price Insight | 2.11.3.0 | 顯示市場價格 | 已發布 |
 | Gearsetter | 4.0 | 裝備升級建議 | 已發布；正式 API13 tag |
