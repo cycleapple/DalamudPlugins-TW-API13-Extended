@@ -76,8 +76,8 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | MultiHit | 0.0.4.1 | 將傷害浮動文字依動畫拆分為多段 | 已發布；完成 zh-TW 介面翻譯 |
 | Namingway | 1.1.17.1 | 自訂技能與狀態效果顯示名稱 | 已發布；完成 zh-TW 介面翻譯 |
 | Mappy | 3.1.6.11 | 強化版遊戲地圖 | 已發布；台服 7.3／API13 安全節點 |
-| ChatCoordinates | 2.1.2.9 | 將聊天座標設為地圖旗標 | 已發布；台服 7.3／API13 安全節點 |
-| FPS Plugin | 1.7.0.4 | 顯示遊戲 FPS | 已發布；台服 7.3／API13 安全節點 |
+| ChatCoordinates | 2.1.2.10 | 將聊天座標設為地圖旗標 | 已發布；完成 zh-TW 設定、說明與錯誤訊息翻譯 |
+| FPS Plugin | 1.7.0.5 | 顯示遊戲 FPS | 已發布；完成 zh-TW 設定介面與狀態提示翻譯 |
 | Craftimizer | 2.8.0.1 | 製作模擬、巨集產生與技能建議 | 已發布；台服 7.3／API13 安全節點 |
 | SortaKinda | 2.1.1.6 | 自訂物品欄排序 | 已發布；含 KamiToolKit API13 型別修補 |
 
