@@ -21,7 +21,7 @@
 | Something Need Doing | `Jaksuhn/SomethingNeedDoing` | `11422e55` | 2025-11-28 | `cycleapple/SomethingNeedDoing@0d05161` 完成主要 zh-TW 介面；台服 API13 建置僅 2 個 AutoRetainerAPI 既有參考警告、0 錯誤並發布 0.0.0.1 |
 | TextAdvance | `cycleapple/TextAdvance` (`api13-tw`) | `f8a7cf5` | 2025-11-22 基底 | API13 編譯成功；繁中介面發布 3.2.4.8 |
 | Lifestream | `NightmareXIV/Lifestream` | `305dfbf9` / tag `2.5.2.3` | 2025-08-07 | API13 編譯成功；`cycleapple/Lifestream@e6f5ec0` 修正繁中「移動到公會工坊」選單辨識，發布 2.5.2.4 |
-| vnavmesh | `awgil/ffxiv_navmesh` | `5f512e5` / tag `v1.1.2.1` | 2025-12-15 | API13 編譯成功；`cycleapple/ffxiv_navmesh@f7d7d8c` 完成主要設定與主分頁 zh-TW，發布 1.1.2.2。上游於 12 月 17 日才切換 API14 |
+| vnavmesh | `awgil/ffxiv_navmesh` | `5f512e5` / tag `v1.1.2.1` | 2025-12-15 | API13 編譯成功；`cycleapple/ffxiv_navmesh@fe561b7` 完成主要介面 zh-TW，並以台服 `0x009E / phase 9` 月面快取驗證客製連線：只對相符場景套用座標、使用該場景專屬垂直容差，且在寫入前驗證兩端 polygon，發布 1.1.2.3。上游於 12 月 17 日才切換 API14 |
 | AutoDuty | `ffxivcode/AutoDuty` | `a7d1eca8` | 2025-12-08 | `cycleapple/AutoDuty@bf454b37` 保留既有路徑分頁容錯並完成主要 zh-TW 介面；台服 API13 建置 66 個既有警告、0 錯誤，發布 0.0.0.2 |
 | Pixel Perfect | `Haplo064/PixelPerfect` | `b371fe07` | 2025-08-07 | `cycleapple/PixelPerfect@80adfa2` 僅翻譯歡迎頁、設定、圖形參數、匯入／匯出通知、編輯器與說明；API13 編譯成功（4 個上游 nullable 警告、0 錯誤），發布 3.3.2.1 |
 | LazyLoot | `PunishXIV/LazyLoot` | `d685ef0c` | 2025-11-19 | `cycleapple/LazyLoot@994d7ad` 完成設定介面、指令說明、狀態列、擲骰結果與診斷訊息繁中化；保留指令參數、設定格式與擲骰邏輯；台服 API13 編譯成功（2 個既有警告、0 錯誤），發布 5.3.2.5 |

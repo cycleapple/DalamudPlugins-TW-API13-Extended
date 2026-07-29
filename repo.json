@@ -477,17 +477,17 @@
     "Author": "veyn",
     "Name": "vnavmesh",
     "InternalName": "vnavmesh",
-    "AssemblyVersion": "1.1.2.2",
-    "TestingAssemblyVersion": "1.1.2.2",
-    "Description": "自動尋路與移動工具；主要設定、狀態列、路徑點、卡住判定與導航網格分頁已完成 zh-TW 翻譯。進階除錯資料保留英文。",
+    "AssemblyVersion": "1.1.2.3",
+    "TestingAssemblyVersion": "1.1.2.3",
+    "Description": "自動尋路與移動工具；主要介面已完成 zh-TW 翻譯，並依場景階段套用月面客製路徑，修正台服 7.3 月面導航網格建置失敗。",
     "Punchline": "自動尋路與移動工具。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/ffxiv_navmesh",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/vnavmesh-1.1.2.2.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/vnavmesh-1.1.2.2.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/vnavmesh-1.1.2.2.zip"
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/vnavmesh-1.1.2.3.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/vnavmesh-1.1.2.3.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/vnavmesh-1.1.2.3.zip"
   },
   {
     "Author": "akira0245, Ori, Kalle, Zune",

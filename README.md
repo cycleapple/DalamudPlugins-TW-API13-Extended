@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Something Need Doing | 0.0.0.1 | 巨集擴展 | 已發布；完成設定、說明、彈窗與 manifest zh-TW 翻譯 |
 | TextAdvance | 3.2.4.8 | 對話自動處理 | 已發布、繁中介面 |
 | Lifestream | 2.5.3.2 | 傳送輔助 | 已發布；修正台服資料中心 151 的世界清單判定，大水晶浮層可列出 8 個台服伺服器 |
-| vnavmesh | 1.1.2.2 | 尋路與移動工具 | 已發布；完成主要設定、路徑與導航網格分頁 zh-TW 翻譯；進階除錯資料保留英文 |
+| vnavmesh | 1.1.2.3 | 尋路與移動工具 | 已發布；完成主要介面 zh-TW；依 festival/layout 階段套用月面客製路徑，修正台服 7.3 月面 polygon 對應失敗 |
 | AutoDuty | 0.0.0.2 | 副本自動化框架 | 已發布 API13；完成主視窗、設定、浮動介面、副本／練等、插件需求、路徑及指令說明 zh-TW 翻譯 |
 | Pixel Perfect | 3.3.2.1 | 顯示角色碰撞圈 | 已發布；完成 zh-TW 介面翻譯 |
 | LazyLoot | 5.3.2.5 | 戰利品擲骰輔助 | 已發布；完成 zh-TW 介面、指令說明與診斷訊息翻譯 |

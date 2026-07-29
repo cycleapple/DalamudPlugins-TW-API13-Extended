@@ -47,7 +47,7 @@
 | Rotation Solver Reborn | 第一輪完成 | 7.3.5.1；集中顯示層 211 個 `Description` 完成 zh-TW，placeholder 完全一致；技能／狀態鍵、指令 token、循環判斷、IPC 與序列化未變更 |
 | Boss Mod | 待處理 | 大型 UI 與戰鬥術語 |
 | Bossmod Reborn | 待處理 | 大型 UI 與戰鬥術語 |
-| vnavmesh | 第一輪完成 | 1.1.2.2；完成主要設定、DTR、路徑點、卡住判定、建置核心與主分頁；進階碰撞、場景及導航網格除錯資料保留英文 |
+| vnavmesh | 第一輪完成 | 1.1.2.3；完成主要設定、DTR、路徑點、卡住判定、建置核心與主分頁；另修正台服 7.3 月面 phase 9 客製路徑；進階碰撞、場景及導航網格除錯資料保留英文 |
 | MidiBard 2 | 已完成 | 3.2.1.3；zh-Hant 介面鍵 213/213，補齊 14 個缺漏字串 |
 | Questionable | 已完成 | 13.68.129.4；完成 manifest、主視窗、設定、相依、副本、單人戰鬥、通知、停止條件、日誌、優先任務與任務狀態；任務路徑、導航、IPC、指令、Excel ID、Addon、hook/signature 未變更 |
 | Gearsetter | 已完成 | 4.0.0.1；完成主要設定、裝備比較、屬性、提示與 manifest；裝備計算、Excel ID、Addon 名稱與 IPC 未變更 |
