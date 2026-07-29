@@ -95,4 +95,4 @@
 | DailyDuty | `MidoriKami/DailyDuty` | `bff73018` | 2025-08-22 | 採用 API13 安全節點並固定台服相容 KamiToolKit；`cycleapple/DailyDuty@0c4ba7a0` 完成 216 鍵 zh-TW 資源並發布 5.3.2.14 |
 | ezMiniCactpot | `MidoriKami/MiniCactpotSolver` | `761b4e22` | 2025-08-26 | 採用修正 LoadConfigFile 後的 API13 節點及相容 KamiToolKit；`cycleapple/EzMiniCactpot@eef2252` 完成 zh-TW 介面並發布 3.0.0.4 |
 | PingPlugin | `karashiiro/PingPlugin` | `5c0df982` | 2025-08-07 | 採用上游最後 API13 安全節點；`cycleapple/PingPlugin@f6a8386` 保留台服 TCP handshake 量測並完整校訂 zh-TW 介面，發布 2.9.0.2 |
-| Sonar | `FFXIV-Sonar/SonarDistrib` | `4e798c2c37` | 2025-12-12 | 位於安全日期範圍內，原始專案使用 `Dalamud.NET.Sdk/13.1.0`，基準版本 0.7.4.2；`cycleapple/SonarDistrib@5825a90` 僅翻譯可見介面並升版至 0.7.4.3。此歷史節點的 MessagePack 3.1.4 與 SignalR MessagePack 9.0.10 會產生已知弱點警告，為避免破壞 Sonar 服務協定未擅自升級 |
+| Sonar | `FFXIV-Sonar/SonarDistrib` | `4e798c2c37` | 2025-12-12 | 位於安全日期範圍內，原始專案使用 `Dalamud.NET.Sdk/13.1.0`，基準版本 0.7.4.2；`cycleapple/SonarDistrib@9c4c1d9` 完成可見介面與音效名稱 zh-TW 翻譯並升版至 0.7.4.4。此歷史節點的 MessagePack 3.1.4 與 SignalR MessagePack 9.0.10 會產生已知弱點警告，為避免破壞 Sonar 服務協定未擅自升級 |

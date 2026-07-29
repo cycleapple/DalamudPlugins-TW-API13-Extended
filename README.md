@@ -114,7 +114,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | DailyDuty | 5.3.2.14 | 追蹤每日與每週任務完成狀態 | 已發布；216/216 個資源鍵完成 zh-TW 翻譯 |
 | ezMiniCactpot | 3.0.0.4 | 標示仙人微彩的最佳翻牌位置與選線 | 已發布；完成設定、提示與插件說明的 zh-TW 翻譯 |
 | PingPlugin | 2.9.0.2 | 顯示目前遊戲伺服器的網路延遲 | 已發布；完整台灣繁中介面；保留台服專用 TCP handshake 量測 |
-| Sonar | 0.7.4.3 | 自動傳送與接收狩獵及 FATE 通報 | 已發布；完成主要介面 zh-TW 翻譯；會連線社群服務，且歷史 API13 相依套件含已知安全性警告，風險較高 |
+| Sonar | 0.7.4.4 | 自動傳送與接收狩獵及 FATE 通報 | 已發布；完成主要介面與音效名稱 zh-TW 翻譯；會連線社群服務，且歷史 API13 相依套件含已知安全性警告，風險較高 |
 
 Questionable 的台服建置停用了程式內「放棄任務」原生命令；需要放棄任務時請使用遊戲任務日誌。此限制不影響任務路徑、對話、傳送或 vnavmesh 導航。
 

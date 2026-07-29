@@ -2428,8 +2428,8 @@
     "Author": "Sonar Team",
     "Name": "Sonar",
     "InternalName": "SonarPlugin",
-    "AssemblyVersion": "0.7.4.3",
-    "TestingAssemblyVersion": "0.7.4.3",
+    "AssemblyVersion": "0.7.4.4",
+    "TestingAssemblyVersion": "0.7.4.4",
     "Description": "自動傳送與接收狩獵及 FATE 通報。主要設定、通報、Lodestone 驗證與支援介面已翻譯為台灣繁中。本插件會連線至 Sonar 社群服務並交換通報資料。",
     "Punchline": "自動傳送與接收狩獵及 FATE 通報。",
     "ApplicableVersion": "any",
@@ -2459,9 +2459,9 @@
       "https://assets.ffxivsonar.com/dalamud/image4.png",
       "https://assets.ffxivsonar.com/dalamud/image5.png"
     ],
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/SonarPlugin-0.7.4.3.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/SonarPlugin-0.7.4.3.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/SonarPlugin-0.7.4.3.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/SonarPlugin-0.7.4.4.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/SonarPlugin-0.7.4.4.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/SonarPlugin-0.7.4.4.zip",
     "AcceptsFeedback": false
   }
 ]
