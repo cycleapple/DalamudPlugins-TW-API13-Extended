@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 | Bossmod／Boss Mod | `awgil/ffxiv_bossmod` | `381151125` | 2025-11-29 | API13 編譯成功；`cycleapple/ffxiv_bossmod@1460e54d9` 修正台服型別與 C# 建置相容性，發布 0.1.4.0。後續開始使用 API14 `IPlayerState` |
 | Bossmod Reborn | `FFXIV-CombatReborn/BossmodReborn` | `9222b6062` / tag `7.3.8.1` | 2025-11-24 | API13 編譯成功；`cycleapple/BossmodReborn@6338acdaa` 改用台服 ClientStructs 組件並修正 Dalamud 型別，發布 7.3.8.1。7.3.8.2 起已使用 API14 型別 |
-| Rotation Solver Reborn | `FFXIV-CombatReborn/RotationSolverReborn` | `4907d030` / tag `7.3.5.0` | 2025-10-07 | API13 編譯成功；`cycleapple/RotationSolverReborn@8b9fb1d7` 鎖定 net9 相容 Lumina.Excel，發布 7.3.5.0。較晚的 7.3.8.x 雖標 API13，已使用 API14 型別 |
+| Rotation Solver Reborn | `FFXIV-CombatReborn/RotationSolverReborn` | `4907d030` / tag `7.3.5.0` | 2025-10-07 | `cycleapple/RotationSolverReborn@cd74afdb` 保留 net9 相容 Lumina.Excel 並完成集中顯示層 211 個 zh-TW 字串；主插件以既有 API13 `RotationSolver.Basic.dll` 建置 0 警告、0 錯誤，發布 7.3.5.1。較晚的 7.3.8.x 雖標 API13，已使用 API14 型別 |
 | Splatoon | `PunishXIV/Splatoon` | `ae37f2b` / tag `3.8.1.5` | 2025-08-28 | `cycleapple/Splatoon@f0c759f` 保留 301 個查詢鍵並將顯示值轉為台灣繁中；API13 編譯成功，發布 3.8.2.2 |
 | Wrath Combo | `MeowZWR/WrathCombo` | `3b968ca32` | 2025-08-05 | API13 編譯成功；`cycleapple/WrathCombo@59b67130e` 發布 1.0.1.18。12 月節點雖仍標 API13，但已使用新版 Dalamud 型別，不相容台服 API13 |
 | AntiAfkKick | `NightmareXIV/AntiAfkKick` | `7a0ebaa8` | 2025-08-07 | `cycleapple/AntiAfkKick@8689ea7` 僅翻譯插件安裝頁說明；插件本身無設定介面；API13 編譯 0 警告、0 錯誤，發布 2.1.0.10 |
@@ -21,8 +21,8 @@
 | Something Need Doing | `Jaksuhn/SomethingNeedDoing` | `11422e55` | 2025-11-28 | `cycleapple/SomethingNeedDoing@0d05161` 完成主要 zh-TW 介面；台服 API13 建置僅 2 個 AutoRetainerAPI 既有參考警告、0 錯誤並發布 0.0.0.1 |
 | TextAdvance | `cycleapple/TextAdvance` (`api13-tw`) | `f8a7cf5` | 2025-11-22 基底 | API13 編譯成功；繁中介面發布 3.2.4.8 |
 | Lifestream | `NightmareXIV/Lifestream` | `305dfbf9` / tag `2.5.2.3` | 2025-08-07 | API13 編譯成功；`cycleapple/Lifestream@e6f5ec0` 修正繁中「移動到公會工坊」選單辨識，發布 2.5.2.4 |
-| vnavmesh | `awgil/ffxiv_navmesh` | `5f512e5` / tag `v1.1.2.1` | 2025-12-15 | API13 編譯成功；`cycleapple/ffxiv_navmesh@8d90451` 發布 1.1.2.1。上游於 12 月 17 日才切換 API14 |
-| AutoDuty | `ffxivcode/AutoDuty` | `a7d1eca8` | 2025-12-08 | API13 編譯成功；實際組件版本 0.0.0.0 |
+| vnavmesh | `awgil/ffxiv_navmesh` | `5f512e5` / tag `v1.1.2.1` | 2025-12-15 | API13 編譯成功；`cycleapple/ffxiv_navmesh@f7d7d8c` 完成主要設定與主分頁 zh-TW，發布 1.1.2.2。上游於 12 月 17 日才切換 API14 |
+| AutoDuty | `ffxivcode/AutoDuty` | `a7d1eca8` | 2025-12-08 | `cycleapple/AutoDuty@bf454b37` 保留既有路徑分頁容錯並完成主要 zh-TW 介面；台服 API13 建置 66 個既有警告、0 錯誤，發布 0.0.0.2 |
 | Pixel Perfect | `Haplo064/PixelPerfect` | `b371fe07` | 2025-08-07 | `cycleapple/PixelPerfect@80adfa2` 僅翻譯歡迎頁、設定、圖形參數、匯入／匯出通知、編輯器與說明；API13 編譯成功（4 個上游 nullable 警告、0 錯誤），發布 3.3.2.1 |
 | LazyLoot | `PunishXIV/LazyLoot` | `d685ef0c` | 2025-11-19 | `cycleapple/LazyLoot@994d7ad` 完成設定介面、指令說明、狀態列、擲骰結果與診斷訊息繁中化；保留指令參數、設定格式與擲骰邏輯；台服 API13 編譯成功（2 個既有警告、0 錯誤），發布 5.3.2.5 |
 | YesAlready | `PunishXIV/YesAlready` | `ca2288dd` | 2025-11-10 | `cycleapple/YesAlready@619d0a3` 建立 API13 fork 並完成主要 zh-TW 介面；建置僅 4 個既有 nullable／unused 警告、0 錯誤並發布 0.0.0.1 |

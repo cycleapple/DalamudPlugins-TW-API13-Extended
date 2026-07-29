@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 |---|---:|---|---|
 | Boss Mod | 0.1.4.1 | Boss 機制輔助 | 已發布；台服 7.3 安全物品同步，移除不穩定 Hook |
 | Bossmod Reborn | 7.3.8.2 | 技能範圍與戰鬥輔助 | 已發布；台服 7.3 安全物品同步，移除不穩定 Hook |
-| Rotation Solver Reborn | 7.3.5.0 | 技能循環 | 已發布；台服 7.3／API13 安全節點 |
+| Rotation Solver Reborn | 7.3.5.1 | 技能循環 | 已發布；集中顯示層 211 個設定與說明字串完成 zh-TW 翻譯；技能／狀態鍵與循環判斷未變更 |
 | Splatoon | 3.8.2.3 | 場景繪製點、線、面 | 已發布；完成 zh-TW 介面；修正台服 7.3 延伸 MapEffect hooks |
 | Wrath Combo | 1.0.1.18 | 整合連段 | 已發布；使用真正相容台服 API13 的 2025-08-05 節點 |
 | AntiAfkKick | 2.1.0.10 | 防止閒置斷線 | 已發布；繁中插件說明，插件本身無設定介面 |
@@ -40,8 +40,8 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Something Need Doing | 0.0.0.1 | 巨集擴展 | 已發布；完成設定、說明、彈窗與 manifest zh-TW 翻譯 |
 | TextAdvance | 3.2.4.8 | 對話自動處理 | 已發布、繁中介面 |
 | Lifestream | 2.5.3.2 | 傳送輔助 | 已發布；修正台服資料中心 151 的世界清單判定，大水晶浮層可列出 8 個台服伺服器 |
-| vnavmesh | 1.1.2.1 | 尋路與移動工具 | 已發布；API14 切換前最後一個正式 tag |
-| AutoDuty | 0.0.0.1 | 副本自動化框架 | 已發布 API13；修正舊版／無效路徑檔造成的路徑分頁崩潰 |
+| vnavmesh | 1.1.2.2 | 尋路與移動工具 | 已發布；完成主要設定、路徑與導航網格分頁 zh-TW 翻譯；進階除錯資料保留英文 |
+| AutoDuty | 0.0.0.2 | 副本自動化框架 | 已發布 API13；完成主視窗、設定、浮動介面、副本／練等、插件需求、路徑及指令說明 zh-TW 翻譯 |
 | Pixel Perfect | 3.3.2.1 | 顯示角色碰撞圈 | 已發布；完成 zh-TW 介面翻譯 |
 | LazyLoot | 5.3.2.5 | 戰利品擲骰輔助 | 已發布；完成 zh-TW 介面、指令說明與診斷訊息翻譯 |
 | Questionable | 13.68.129.4 | 任務輔助 | 已發布；完成主視窗、設定、任務狀態、停止條件、日誌與通知 zh-TW 翻譯 |

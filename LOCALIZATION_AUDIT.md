@@ -43,11 +43,11 @@
 | Something Need Doing | 已完成 | 0.0.0.1；完成 21 個介面、設定、說明、彈窗與 manifest 檔案；命令 token、Lua／巨集執行、IPC 與技術識別字未變更 |
 | GatherBuddy Reborn | 待複核 | 需區分 UI 與採集資料 |
 | Artisan | 待複核 | 已有局部台服文字修正 |
-| AutoDuty | 待處理 | 大型硬編碼 UI |
-| Rotation Solver Reborn | 待處理 | 大型 UI 與職業術語 |
+| AutoDuty | 第一輪完成 | 0.0.0.2；完成主視窗、設定、浮動介面、副本／練等選擇、插件需求、路徑、問題回報與指令說明；指令 token、IPC、Addon、列舉／序列化值、路徑格式及導航判斷未變更 |
+| Rotation Solver Reborn | 第一輪完成 | 7.3.5.1；集中顯示層 211 個 `Description` 完成 zh-TW，placeholder 完全一致；技能／狀態鍵、指令 token、循環判斷、IPC 與序列化未變更 |
 | Boss Mod | 待處理 | 大型 UI 與戰鬥術語 |
 | Bossmod Reborn | 待處理 | 大型 UI 與戰鬥術語 |
-| vnavmesh | 待處理 | 硬編碼 UI |
+| vnavmesh | 第一輪完成 | 1.1.2.2；完成主要設定、DTR、路徑點、卡住判定、建置核心與主分頁；進階碰撞、場景及導航網格除錯資料保留英文 |
 | MidiBard 2 | 已完成 | 3.2.1.3；zh-Hant 介面鍵 213/213，補齊 14 個缺漏字串 |
 | Questionable | 已完成 | 13.68.129.4；完成 manifest、主視窗、設定、相依、副本、單人戰鬥、通知、停止條件、日誌、優先任務與任務狀態；任務路徑、導航、IPC、指令、Excel ID、Addon、hook/signature 未變更 |
 | Gearsetter | 已完成 | 4.0.0.1；完成主要設定、裝備比較、屬性、提示與 manifest；裝備計算、Excel ID、Addon 名稱與 IPC 未變更 |
