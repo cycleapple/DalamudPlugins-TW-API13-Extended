@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | AutoRetainer | 4.5.1.22 | 雇員相關功能 | 已發布；含繁中公會工坊／組件用語修正 |
 | Saucy | 1.4.2.9 | 金碟相關功能 | 已發布；完成 zh-TW 主介面與九宮幻卡資源翻譯 |
 | NoClippy | 0.5.0.20 | 改善技能延遲 | 已發布；完成 zh-TW 介面翻譯 |
-| NecroLens | 1.0.8.11 | 深層迷宮輔助 | 已發布；包含台服 API13 型別相容修補 |
+| NecroLens | 1.0.8.12 | 深層迷宮輔助 | 已發布；完整介面資源已轉為台灣繁中；保留 API13 型別相容修補 |
 | MidiBard 2 | 3.2.1.3 | 樂器演奏 | 已發布；API14 型別誤用前的安全節點；補齊 zh-TW 介面資源 |
 | GatherBuddy Reborn | 7.3.5.1 | 採集輔助 | 已發布；AtmoOmen 7.3.5 節點、繁中語言資料與 AutoHook IPC 載入順序容錯 |
 | Artisan | 4.0.4.9 | 生產輔助 | 已發布；修正缺少熱鍵列時的空參考錯誤 |
@@ -61,7 +61,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Marketbuddy | 0.2.4.1 | 市場上架與調價輔助 | 已發布；完成主要介面 zh-TW 翻譯 |
 | JobBars | 1.3.2.3 | 職業量譜、團隊增益與減傷追蹤 | 已發布；完成 zh-TW 主要與進階介面；台服 API13 安全節點 |
 | NotificationMaster | 2.1.1.13 | 遊戲事件與背景通知 | 已發布；完成 zh-TW 主要與進階介面；台服 API13 安全節點 |
-| CBT | 69.103.0.0 | Automaton 多功能自動化與便利調整 | 已發布；v69.103 台服 API13 相容修正版 |
+| CBT | 69.103.0.1 | Automaton 多功能自動化與便利調整 | 已發布；完成主設定、模組、追蹤器與通知 zh-TW 翻譯 |
 | GatheringPathRenderer | 0.10.0.1 | 顯示採集節點路徑與位置 | 已發布；完成主要介面 zh-TW 翻譯；Questionable 開發工具 |
 | Deliveroo | 7.4.0.1 | 軍隊籌備品自動繳納輔助 | 已發布；完成設定、繳納視窗、提示與聊天說明 zh-TW 翻譯 |
 | Chilled Leves | 1.0.1.20 | 理符任務選擇、自動執行與繳交輔助 | 已發布；完成 zh-TW 主要與工作清單介面；需要 vnavmesh |

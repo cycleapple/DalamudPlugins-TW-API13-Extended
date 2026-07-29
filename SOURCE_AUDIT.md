@@ -13,7 +13,7 @@
 | AutoRetainer | `PunishXIV/AutoRetainer` | `1e4e6b6` / tag `4.5.1.12` | 2025-08-15 | API13 編譯成功；`cycleapple/AutoRetainer@9ec26a1` 修正繁中公會工坊／組件用語，發布 4.5.1.22 |
 | Saucy | `PunishXIV/Saucy` | `8e8d5949` | 2025-08-15 | 台服修正 `cycleapple/Saucy@a79b1c5`；`cycleapple/Saucy@5c751d1` 翻譯主介面與九宮幻卡 zh 資源，並修正語言檔未嵌入 DLL 的問題；API13 編譯成功（8 個上游警告、0 錯誤），發布 1.4.2.9 |
 | NoClippy | `UnknownX7/NoClippy` | `d32ae7af` | 2025-08-09 | `cycleapple/NoClippy@934ab0f` 僅翻譯設定、技能後搖、戰鬥統計、記錄選項、狀態預測警告與指令回覆；API13 編譯 0 警告、0 錯誤，發布 0.5.0.20 |
-| NecroLens | `Jukkales/NecroLens` | `d6646478` | 2025-11-26 | API13 編譯成功；`cycleapple/NecroLens@98cd7c2` 修正 `BaseId` 相容性並發布 1.0.8.11 |
+| NecroLens | `Jukkales/NecroLens` | `d6646478` | 2025-11-26 | `cycleapple/NecroLens@50fcf9e` 保留 `BaseId` API13 修正並完成完整 zh-TW 資源，台服 API13 建置 0 警告、0 錯誤並發布 1.0.8.12 |
 | GatherBuddy Reborn | `AtmoOmen/GatherBuddyReborn` | `a34733dc` / tag `7.3.5.0` | 2025-12-02 | 位於安全日期範圍且 manifest 為 API13；`cycleapple/GatherBuddyReborn@9841d23` 加入台服繁中資料 fallback、`DataId` 相容修補及 AutoHook IPC 載入順序容錯，發布 7.3.5.1 |
 | Artisan | `MeowZWR/Artisan` | `e4a0ddaf` | 2025-12-13 | API13 編譯成功；`cycleapple/Artisan@4c90707` 修正 `BaseId` 相容性，發布實際組件版本 4.0.4.8；上游已封存 |
 | Burning Down the House | `LeonBlade/BDTHPlugin` | `ba39d13c` | 2025-09-30 | API13 編譯成功；發布 1.7.1.0 |
@@ -43,7 +43,7 @@
 | Marketbuddy | `PunishXIV/Marketbuddy` | `cf9d24d` | 2025-08-07 | DalamudPackager 13.0.0；`cycleapple/Marketbuddy@29f1e6a` 完成主要 zh-TW 介面，台服 API13 建置 0 警告、0 錯誤並發布 0.2.4.1 |
 | JobBars | `0ceal0t/JobBars` | `48cbbce` | 2025-08-16 | SDK 與 manifest 均為 API13；`cycleapple/JobBars@api13-tw` 使用原始鎖定的 KamiToolKit 節點，以台服 API13 編譯成功並發布 1.3.2.1 |
 | NotificationMaster | `NightmareXIV/NotificationMaster` | `8674bc5` | 2025-11-05 | manifest 與 DalamudPackager 為 API13、ECommons 鎖定 `3.0.0.18-api13`；`cycleapple/NotificationMaster@api13-tw` 使用原始 NotificationMasterAPI 子模組，以台服 API13 編譯成功並發布 2.1.1.11 |
-| CBT（Automaton） | `Jaksuhn/ffxiv-bundleoftweaks` | `80d0545` / tag `v69.103` | 2025-11-16 | 11 月 16 日稍後開始引用台服 API13 不存在的 `TerritoryIntendedUse`，11 月底又改用較新 `AgentReturn`；`cycleapple/ffxiv-bundleoftweaks@c6baead` 將 `BaseId`／`IPartyMember.EntityId` 對應回 API13 介面，以台服 DLL 編譯成功並發布 69.103.0.0 |
+| CBT（Automaton） | `Jaksuhn/ffxiv-bundleoftweaks` | `80d0545` / tag `v69.103` | 2025-11-16 | `cycleapple/ffxiv-bundleoftweaks@bec5da9` 保留 `BaseId`／`IPartyMember.EntityId` API13 修正並完成主要 zh-TW 介面；建置僅 3 個既有相依警告、0 錯誤並發布 69.103.0.1 |
 | GatheringPathRenderer | `PunishXIV/Questionable` | `34735346f` / tag `v13.68.129.2` | 2025-12-15 | 與 Questionable 使用同一 API13 安全基線；`cycleapple/Questionable@5c74be2cf` 保留台服 `DataId` 修正並完成獨立工具 zh-TW 介面，API13 建置成功並發布 0.10.0.1 |
 | Deliveroo | `VeraNala/Deliveroo` | `76abfc8` / tag `v7.4` | 2025-08-07 | 上游明確標記「7.4 API13」；`cycleapple/Deliveroo@46dd632` 完成 zh-TW 介面並以台服 API13 DLL 建置成功，發布 7.4.0.1 |
 | Chilled Leves | `LeontopodiumNivale14/ChilledLeves` | `28d3025` | 2025-10-22 | SDK 13，鎖定上游 ECommons 子模組；`cycleapple/ChilledLeves@a7c46bc` 以台服 API13 DLL 編譯成功（8 個上游警告、0 錯誤）並發布 1.0.1.18 |

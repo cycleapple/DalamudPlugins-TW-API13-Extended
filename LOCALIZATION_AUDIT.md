@@ -33,7 +33,7 @@
 | Wrath Combo | 待處理 | 大型硬編碼 UI |
 | Splatoon | 已完成 | 3.8.2.3；保留 301 個查詢鍵，只轉換 `==` 右側顯示值；延伸 MapEffect multisig 已針對台服 7.3 修正 |
 | AutoRetainer | 待複核 | 已有局部台服文字修正 |
-| NecroLens | 待處理 | 需建立 zh-TW 資源 |
+| NecroLens | 已完成 | 1.0.8.12；既有簡中資源以台灣慣用詞完整轉換並補齊英文，manifest 已翻譯；功能資料未變更 |
 | TextAdvance | 已完成 | 3.2.4.8；介面、通知與聊天狀態繁中化；`Lang.cs` 功能比對字串保持不動 |
 | Lifestream | 待複核 | 已有局部台服文字修正 |
 | YesAlready | 待處理 | 大型硬編碼 UI |
@@ -64,7 +64,7 @@
 | Marketbuddy | 已完成 | 0.2.4.1；完成主要市場操作、設定與回饋介面；市場資料與上架邏輯未變更 |
 | JobBars | 已完成 | 1.3.2.3；完成主要設定、各職業量譜細項與自訂冷卻對話框；保留與設定值相連的 enum 名稱 |
 | NotificationMaster | 已完成 | 2.1.1.13；完成主要設定、聊天規則、狩獵目標與實際通知介面；保留 HTTP／XivChatType 等功能識別值 |
-| CBT / Automaton | 待處理 | 大型模組化 UI |
+| CBT / Automaton | 已完成 | 69.103.0.1；完成主設定、模組清單、命運追蹤、任務開始結束、GM 提醒、狩獵轉發、設定控制項與 manifest；自動化判定未變更 |
 | GatheringPathRenderer | 已完成 | 0.10.0.1；只翻譯獨立工具的可見介面；採集路徑、資料 ID 與 Questionable 其餘目錄未變更 |
 | Deliveroo | 已完成 | 7.4.0.1；完成設定、繳納視窗、tooltip、聊天說明與 manifest；繳納判定未變更 |
 | Chilled Leves | 已完成 | 1.0.1.20；完成主要與工作清單進階介面；保留純 Debug 與品牌／格式名稱 |
