@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Bossmod Reborn | 7.3.8.4 | 技能範圍與戰鬥輔助 | 已發布；補齊首領模組、雷達、技能調整、自動循環、AI、區域自動化、重播與配色 zh-TW |
 | Rotation Solver Reborn | 7.3.5.2 | 技能循環 | 已發布；補齊命令說明、目標模式、AutoDuty 診斷、優先順序、清單搜尋、備份與控制視窗 zh-TW |
 | Splatoon | 3.8.2.4 | 場景繪製點、線、面 | 已發布；補齊配置管理、版面／元素編輯、腳本狀態與相容性警告 zh-TW；保留台服 7.3 MapEffect hooks |
-| Wrath Combo | 1.0.1.19 | 整合連段 | 已發布；主導航、PvE／PvP、自動循環與主要設定介面完成 zh-TW |
+| Wrath Combo | 1.0.1.20 | 整合連段 | 已發布；使用者介面 zh-TW 完成 |
 | AntiAfkKick | 2.1.0.10 | 防止閒置斷線 | 已發布；繁中插件說明，插件本身無設定介面 |
 | AutoRetainer | 4.5.1.27 | 雇員相關功能 | 已發布；一般使用者可見的雇員、探索載具、多重模式、角色與進階設定介面均已完成 zh-TW |
 | Saucy | 1.4.2.9 | 金碟相關功能 | 已發布；完成 zh-TW 主介面與九宮幻卡資源翻譯 |
@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | AutoDuty | 0.0.0.6 | 副本自動化框架 | 已發布 API13；完成一般使用者主窗、路徑、狀態、設定、提示與錯誤介面 zh-TW |
 | Pixel Perfect | 3.3.2.1 | 顯示角色碰撞圈 | 已發布；完成 zh-TW 介面翻譯 |
 | LazyLoot | 5.3.2.5 | 戰利品擲骰輔助 | 已發布；完成 zh-TW 介面、指令說明與診斷訊息翻譯 |
-| Questionable | 13.68.129.5 | 任務輔助 | 已發布；補齊任務優先順序、任務日誌、友好部族額度、單人戰鬥與進階設定 zh-TW |
+| Questionable | 13.68.129.6 | 任務輔助 | 已發布；使用者介面 zh-TW 完成 |
 | YesAlready | 0.0.0.1 | 自動確認對話 | 已發布；完成主設定、各分頁、Bothers 說明與提示 zh-TW 翻譯 |
 | Price Insight | 2.11.3.1 | 顯示市場價格 | 已發布、繁中介面 |
 | Gearsetter | 4.0.0.1 | 裝備升級建議 | 已發布；完成設定、裝備比較、屬性與提示 zh-TW 翻譯 |

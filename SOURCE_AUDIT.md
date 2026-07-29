@@ -8,7 +8,7 @@
 | Bossmod Reborn | `FFXIV-CombatReborn/BossmodReborn` | `9222b6062` / tag `7.3.8.1` | 2025-11-24 | API13 編譯成功；`cycleapple/BossmodReborn@0a9bdcdd8` 保留台服 ClientStructs 與 Dalamud 型別修正，第二輪完成 184 組首領模組／雷達、技能調整、自動循環、AI、區域自動化、重播與配色 UI 字串；另將 9 處 C#14 條件式指派改為語意等價 null 判斷以供 .NET9 建置，0 警告、0 錯誤，發布 7.3.8.4。後續節點已使用 API14 型別 |
 | Rotation Solver Reborn | `FFXIV-CombatReborn/RotationSolverReborn` | `4907d030` / tag `7.3.5.0` | 2025-10-07 | `cycleapple/RotationSolverReborn@ed63be693` 保留 net9 相容 Lumina.Excel，第二輪補齊命令說明、目標／交戰模式、AutoDuty 診斷、優先順序、清單搜尋、設定備份與控制視窗 zh-TW；API13 建置 0 錯誤、1 個既有 XML 註解警告，發布 7.3.5.2。較晚的 7.3.8.x 雖標 API13，已使用 API14 型別 |
 | Splatoon | `PunishXIV/Splatoon` | `ae37f2b` / tag `3.8.1.5` | 2025-08-28 | `cycleapple/Splatoon@aef0d9763` 保留 301 個查詢鍵、台服 7.3 MapEffect 修正與功能邏輯，第二輪新增 229 行 zh-TW，涵蓋配置管理、版面／元素編輯、腳本狀態、相容性與直播風險提示；API13 建置 0 錯誤、3 個既有參考警告，發布 3.8.2.4 |
-| Wrath Combo | `MeowZWR/WrathCombo` | `3b968ca32` | 2025-08-05 | API13 編譯成功；`cycleapple/WrathCombo@a920193ee` 完成主導航、PvE／PvP、自動循環、主要設定與疑難排解介面 zh-TW；2 個既有 PunishLib 參考警告、0 錯誤，發布 1.0.1.19。12 月節點雖仍標 API13，但已使用新版 Dalamud 型別，不相容台服 API13 |
+| Wrath Combo | `MeowZWR/WrathCombo` | `3b968ca32` | 2025-08-05 | API13 編譯成功；`cycleapple/WrathCombo@7d8e4594f` 完成使用者介面 zh-TW；保留技能／狀態資料、遊戲文字比對、IPC token、ID 與戰鬥邏輯。10 個既有相依警告、0 錯誤，發布 1.0.1.20。12 月節點雖仍標 API13，但已使用新版 Dalamud 型別，不相容台服 API13 |
 | AntiAfkKick | `NightmareXIV/AntiAfkKick` | `7a0ebaa8` | 2025-08-07 | `cycleapple/AntiAfkKick@8689ea7` 僅翻譯插件安裝頁說明；插件本身無設定介面；API13 編譯 0 警告、0 錯誤，發布 2.1.0.10 |
 | AutoRetainer | `PunishXIV/AutoRetainer` | `1e4e6b6` / tag `4.5.1.12` | 2025-08-15 | API13 編譯成功；`cycleapple/AutoRetainer@4ccc944` 保留繁中公會工坊／組件功能比對並完成一般使用者可見介面，enum 僅透過 UI dictionary 顯示繁中；7 個既有 PInvoke 警告、0 錯誤，發布 4.5.1.27 |
 | Saucy | `PunishXIV/Saucy` | `8e8d5949` | 2025-08-15 | 台服修正 `cycleapple/Saucy@a79b1c5`；`cycleapple/Saucy@5c751d1` 翻譯主介面與九宮幻卡 zh 資源，並修正語言檔未嵌入 DLL 的問題；API13 編譯成功（8 個上游警告、0 錯誤），發布 1.4.2.9 |
@@ -28,7 +28,7 @@
 | YesAlready | `PunishXIV/YesAlready` | `ca2288dd` | 2025-11-10 | `cycleapple/YesAlready@619d0a3` 建立 API13 fork 並完成主要 zh-TW 介面；建置僅 4 個既有 nullable／unused 警告、0 錯誤並發布 0.0.0.1 |
 | Price Insight | `cycleapple/ffxiv-priceinsight` (`api13-tw`) | `b90564e` | 2025-08-07 基底 | API13 編譯成功；繁中介面發布 2.11.3.1 |
 | MidiBard 2 | `reckhou/MidiBard2` | `1665029` | 2025-11-30 | API13 編譯成功；`cycleapple/MidiBard2@d141b5d` 修正 SDK 與台服組件路徑並補齊 zh-TW 介面資源，發布 3.2.1.3。下一提交開始誤用 API14 `IPlayerState` |
-| Questionable | `PunishXIV/Questionable` | `34735346f` / tag `v13.68.129.2` | 2025-12-15 | `cycleapple/Questionable@fdba230ef` 保留 TC-BASE 相容修正，第二輪補齊任務優先順序、任務日誌、友好部族額度、單人戰鬥相容性及進階設定 zh-TW；任務資料與 GatheringPathRenderer 未碰，0 警告、0 錯誤並發布 13.68.129.5 |
+| Questionable | `PunishXIV/Questionable` | `34735346f` / tag `v13.68.129.2` | 2025-12-15 | `cycleapple/Questionable@e9aa887729ecbea9d41316b8ded116442bb4c653` 保留 TC-BASE 相容修正並完成使用者介面 zh-TW；任務資料與 GatheringPathRenderer 未碰，0 警告、0 錯誤並發布 13.68.129.6 |
 | Gearsetter | `VeraNala/Gearsetter` | `21a2b8c` / tag `v4.0` | 2025-08-10 | 使用原始鎖定的 `qstxiv/LLib@f1716ee`；`cycleapple/Gearsetter@357ce36` 完成主要 zh-TW 介面，台服 API13 建置 0 警告、0 錯誤並發布 4.0.0.1 |
 | Ice's Cosmic Exploration | `LeontopodiumNivale14/Ices-Cosmic-Exploration` | `f3b7a696c9` | 2025-12-15 | `cycleapple/Ices-Cosmic-Exploration@05017b1` 保留 ECommons、`DataId` 與 `Player.JobId` 台服 API13 修正，完成主介面、模式、設定、必要插件與紀錄介面 zh-TW；14 個既有警告、0 錯誤，發布 0.0.73.41 |
 | BOCCHI | `OhKannaDuh/BOCCHI` | `01d22a8565` / release `1.0.1` | 2025-12-07 | 原始碼與 manifest 均為 API13；`cycleapple/BOCCHI@4ccbbd1` 更新 legacy NuGet 鎖定資料、修正實際組件版本，並將 22 份中文語系資源轉為台灣繁中，發布 1.0.1.1 |
