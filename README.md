@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Ice's Cosmic Exploration | 0.0.73.40 | 宇宙探索採集、生產與任務輔助 | 已發布；含台服 API13 物件識別與 ECommons 相容修補 |
 | Better Occult Crescent & Chest Helper Interface | 1.0.1.0 | 蜃景新月島寶箱、兔子與遭遇輔助 | 已發布；由官方 1.0.1 API13 節點重新編譯 |
 | Umbra XIV | 3.1.7.0 | 自訂工具列與世界標記 | 已發布；使用 API14 介面變更前的 API13 節點 |
-| MissFisher | 1.6.5.10 | 釣魚輔助 | 已發布；移除上游建置保護器誤加入的 14 天到期限制 |
+| MissFisher | 1.6.5.11 | 釣魚輔助 | 已發布；完整移除上游建置保護器的啟動與每日到期檢查 |
 | Skippy | 1.2.2.8 | 主線隨機任務過場跳過輔助 | 已發布；SkipCutscene 的後繼插件 |
 | AutoHook | 5.0.0.12 | 釣魚與刺魚輔助 | 已發布；含台服 API13 `DataId` 相容修補 |
 | Avarice | 2.1.1.7 | 身位與距離提示 | 已發布；含台服 API13 編譯修補 |
