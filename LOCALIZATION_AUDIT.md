@@ -41,7 +41,7 @@
 | Burning Down the House | 已完成 | 1.7.1.1；完成主控制窗、操作軸、吸附、拖曳、家具清單、錯誤提示與 manifest；房屋座標及放置邏輯未變更 |
 | Raphael.Dalamud | 已完成 | 0.0.5.1；插件沒有設定 UI，已完成 manifest；求解器與 IPC 錯誤內容未改 |
 | Something Need Doing | 已完成 | 0.0.0.1；完成 21 個介面、設定、說明、彈窗與 manifest 檔案；命令 token、Lua／巨集執行、IPC 與技術識別字未變更 |
-| GatherBuddy Reborn | 待複核 | 需區分 UI 與採集資料 |
+| GatherBuddy Reborn | 第一輪完成 | 7.3.5.2；完成主介面、設定、鬧鐘、自動採集列表、預設、魚類與採集表格、採集視窗、地點、記錄、天氣、刺魚提示及聊天通知；遊戲文字比對、採集資料、序列化、AutoHook IPC、導航與 DataId 未變更 |
 | Artisan | 待複核 | 已有局部台服文字修正 |
 | AutoDuty | 第一輪完成 | 0.0.0.2；完成主視窗、設定、浮動介面、副本／練等選擇、插件需求、路徑、問題回報與指令說明；指令 token、IPC、Addon、列舉／序列化值、路徑格式及導航判斷未變更 |
 | Rotation Solver Reborn | 第一輪完成 | 7.3.5.1；集中顯示層 211 個 `Description` 完成 zh-TW，placeholder 完全一致；技能／狀態鍵、指令 token、循環判斷、IPC 與序列化未變更 |
