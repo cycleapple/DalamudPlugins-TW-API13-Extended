@@ -54,7 +54,7 @@
 | Ice's Cosmic Exploration | 待複核 | 需盤點既有翻譯資料 |
 | BOCCHI | 待複核 | 已有 i18n 架構 |
 | Umbra XIV | 已完成 | 3.1.7.1；`zh.json` 介面鍵 1568/1568，轉為台灣繁中 |
-| MissFisher | 待複核 | 已有 `lang.json` |
+| MissFisher | 已完成 | 1.6.5.12；保留 556 個查詢鍵，只轉換內嵌 `lang.json` 的中文顯示值 |
 | Skippy | 待處理 | 硬編碼 UI |
 | AutoHook | 已完成 | 5.0.0.14；中文介面鍵 475/475，轉為台灣繁中並補齊 23 個缺漏字串 |
 | Avarice | 待處理 | 硬編碼 UI |
