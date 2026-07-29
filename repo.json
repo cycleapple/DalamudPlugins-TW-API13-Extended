@@ -2423,5 +2423,45 @@
     "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PingPlugin-2.9.0.2.zip",
     "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PingPlugin-2.9.0.2.zip",
     "AcceptsFeedback": false
+  },
+  {
+    "Author": "Sonar Team",
+    "Name": "Sonar",
+    "InternalName": "SonarPlugin",
+    "AssemblyVersion": "0.7.4.3",
+    "TestingAssemblyVersion": "0.7.4.3",
+    "Description": "自動傳送與接收狩獵及 FATE 通報。主要設定、通報、Lodestone 驗證與支援介面已翻譯為台灣繁中。本插件會連線至 Sonar 社群服務並交換通報資料。",
+    "Punchline": "自動傳送與接收狩獵及 FATE 通報。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/SonarDistrib/tree/api13-tw",
+    "Tags": [
+      "hunt",
+      "fate",
+      "relay",
+      "network"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "IconUrl": "https://assets.ffxivsonar.com/dalamud/logo.png",
+    "ImageUrls": [
+      "https://assets.ffxivsonar.com/dalamud/image1.png",
+      "https://assets.ffxivsonar.com/dalamud/image2.png",
+      "https://assets.ffxivsonar.com/dalamud/image3.png",
+      "https://assets.ffxivsonar.com/dalamud/image4.png",
+      "https://assets.ffxivsonar.com/dalamud/image5.png"
+    ],
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/SonarPlugin-0.7.4.3.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/SonarPlugin-0.7.4.3.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/SonarPlugin-0.7.4.3.zip",
+    "AcceptsFeedback": false
   }
 ]
