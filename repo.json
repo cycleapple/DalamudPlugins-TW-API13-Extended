@@ -82,12 +82,12 @@
     "Author": "Haplo064",
     "Name": "Pixel Perfect",
     "InternalName": "PixelPerfect",
-    "AssemblyVersion": "3.3.2.0",
-    "TestingAssemblyVersion": "3.3.2.0",
-    "Description": "Shows the precise player hitbox and positioning indicator. Taiwan Dalamud API13 build.",
-    "Punchline": "顯示角色碰撞箱與站位指示。",
+    "AssemblyVersion": "3.3.2.1",
+    "TestingAssemblyVersion": "3.3.2.1",
+    "Description": "精準顯示玩家碰撞範圍，並支援自訂站位圖形。",
+    "Punchline": "顯示玩家碰撞範圍與可自訂的站位圖形。",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Haplo064/PixelPerfect",
+    "RepoUrl": "https://github.com/cycleapple/PixelPerfect/tree/api13-tw",
     "Tags": [
       "Hitbox",
       "Overlay",
@@ -107,9 +107,9 @@
       "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/image1.png"
     ],
     "IconUrl": "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PixelPerfect-3.3.2.0.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PixelPerfect-3.3.2.0.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PixelPerfect-3.3.2.0.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PixelPerfect-3.3.2.1.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PixelPerfect-3.3.2.1.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PixelPerfect-3.3.2.1.zip",
     "AcceptsFeedback": true
   },
   {

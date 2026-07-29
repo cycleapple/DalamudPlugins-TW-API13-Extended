@@ -28,7 +28,7 @@
 | AntiAfkKick | 完成 | 插件本身無設定介面；安裝頁說明與摘要已翻譯 |
 | Saucy | 待處理 | 需盤點主 UI 與 Triple Triad 語言資料 |
 | NoClippy | 待處理 | 硬編碼 UI |
-| Pixel Perfect | 待處理 | 硬編碼 UI |
+| Pixel Perfect | 完成 | 歡迎頁、設定條件、圖形參數、匯入／匯出、通知、編輯器與說明已翻譯；未更動設定格式與繪圖邏輯 |
 | Price Insight | 已完成 | 2.11.3.1；設定介面與市場佈告板物品說明繁中化 |
 | Wrath Combo | 待處理 | 大型硬編碼 UI |
 | Splatoon | 已完成 | 3.8.2.2；保留 301 個查詢鍵，只轉換 `==` 右側顯示值 |

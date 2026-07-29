@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Lifestream | 2.5.2.4 | 傳送輔助 | 已發布；修正繁中「移動到公會工坊」辨識 |
 | vnavmesh | 1.1.2.1 | 尋路與移動工具 | 已發布；API14 切換前最後一個正式 tag |
 | AutoDuty | 0.0.0.0 | 副本自動化框架 | 已發布 API13 |
-| Pixel Perfect | 3.3.2.0 | 顯示角色碰撞圈 | 已發布 |
+| Pixel Perfect | 3.3.2.1 | 顯示角色碰撞圈 | 已發布；完成 zh-TW 介面翻譯 |
 | LazyLoot | 5.3.2.4 | 戰利品擲骰輔助 | 已發布 |
 | Questionable | 13.68.129.3 | 任務輔助 | 已發布；略過台服資料中的無效副本地區參照 |
 | YesAlready | 0.0.0.0 | 自動確認對話 | 已發布 API13 |
