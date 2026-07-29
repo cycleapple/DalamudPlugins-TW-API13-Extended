@@ -46,7 +46,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | LazyLoot | 5.3.2.4 | 戰利品擲骰輔助 | 已發布 |
 | Questionable | 13.68.129.3 | 任務輔助 | 已發布；略過台服資料中的無效副本地區參照 |
 | YesAlready | 0.0.0.0 | 自動確認對話 | 已發布 API13 |
-| Price Insight | 2.11.3.0 | 顯示市場價格 | 已發布 |
+| Price Insight | 2.11.3.1 | 顯示市場價格 | 已發布、繁中介面 |
 | Gearsetter | 4.0 | 裝備升級建議 | 已發布；正式 API13 tag |
 | Ice's Cosmic Exploration | 0.0.73.40 | 宇宙探索採集、生產與任務輔助 | 已發布；含台服 API13 物件識別與 ECommons 相容修補 |
 | Better Occult Crescent & Chest Helper Interface | 1.0.1.1 | 蜃景新月島寶箱、兔子與遭遇輔助 | 已發布；由官方 1.0.1 API13 節點重新編譯；完整 zh-TW 介面 |

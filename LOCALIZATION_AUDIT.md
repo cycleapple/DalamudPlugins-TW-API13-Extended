@@ -29,7 +29,7 @@
 | Saucy | 待處理 | 需盤點主 UI 與 Triple Triad 語言資料 |
 | NoClippy | 待處理 | 硬編碼 UI |
 | Pixel Perfect | 待處理 | 硬編碼 UI |
-| Price Insight | 待處理 | 硬編碼 UI |
+| Price Insight | 已完成 | 2.11.3.1；設定介面與市場佈告板物品說明繁中化 |
 | Wrath Combo | 待處理 | 大型硬編碼 UI |
 | Splatoon | 已完成 | 3.8.2.2；保留 301 個查詢鍵，只轉換 `==` 右側顯示值 |
 | AutoRetainer | 待複核 | 已有局部台服文字修正 |
