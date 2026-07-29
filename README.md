@@ -50,10 +50,21 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Gearsetter | 4.0 | 裝備升級建議 | 已發布；正式 API13 tag |
 | Ice's Cosmic Exploration | 0.0.73.40 | 宇宙探索採集、生產與任務輔助 | 已發布；含台服 API13 物件識別與 ECommons 相容修補 |
 | BOCCHI | 1.0.1.0 | 蜃景新月島寶箱、兔子與遭遇輔助 | 已發布；由官方 1.0.1 API13 節點重新編譯 |
+| Umbra XIV | 3.1.7.0 | 自訂工具列與世界標記 | 已發布；使用 API14 介面變更前的 API13 節點 |
+| MissFisher | 1.6.5.9 | 釣魚輔助 | 已發布；上游僅提供 API13 時期二進位套件，未聲稱重新編譯 |
+| Skippy | 1.2.2.8 | 主線隨機任務過場跳過輔助 | 已發布；SkipCutscene 的後繼插件 |
+| AutoHook | 5.0.0.12 | 釣魚與刺魚輔助 | 已發布；含台服 API13 `DataId` 相容修補 |
+| Avarice | 2.1.1.7 | 身位與距離提示 | 已發布；含台服 API13 編譯修補 |
+| Orbwalker | 1.0.1.6 | 施法移動控制 | 已發布 API13 |
+| Palace Pal | 4.14.0.0 | 深層迷宮陷阱與寶藏提示 | 已發布 API13；需要 Splatoon |
+| Pandora's Box | 1.6.3.18 | 多項便利功能合集 | 已發布；使用 API14 屬性切換前的 API13 節點 |
+| Marketbuddy | 0.2.4.0 | 市場上架與調價輔助 | 已發布 API13 |
 
 Bossmod 與 Boss Mod 是同一個 `awgil/ffxiv_bossmod` 來源，在正式 manifest 中只會保留一筆，避免 Dalamud 顯示重複插件。
 
 Questionable 的台服建置停用了程式內「放棄任務」原生命令；需要放棄任務時請使用遊戲任務日誌。此限制不影響任務路徑、對話、傳送或 vnavmesh 導航。
+
+Puni.sh 官方核心倉庫目前列出的 14 個插件，在本倉庫中均已有對應 API13 版本。這項覆蓋只指 Puni.sh 官方核心清單，不包含目錄中其他作者自行維護的第三方倉庫。
 
 ## 版本原則
 
