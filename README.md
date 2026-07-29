@@ -37,17 +37,17 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Artisan | 4.0.4.9 | 生產輔助 | 已發布；修正缺少熱鍵列時的空參考錯誤 |
 | Burning Down the House | 1.7.1.1 | 房屋裝修 | 已發布；完成主控制、操作軸、吸附、家具清單與錯誤提示 zh-TW 翻譯 |
 | Raphael.Dalamud | 0.0.5.1 | 生產求解器／依賴庫 | 已發布；無設定視窗，已完成 manifest zh-TW 翻譯 |
-| Something Need Doing | 0.0.0.0 | 巨集擴展 | 已發布 |
+| Something Need Doing | 0.0.0.1 | 巨集擴展 | 已發布；完成設定、說明、彈窗與 manifest zh-TW 翻譯 |
 | TextAdvance | 3.2.4.8 | 對話自動處理 | 已發布、繁中介面 |
 | Lifestream | 2.5.3.2 | 傳送輔助 | 已發布；修正台服資料中心 151 的世界清單判定，大水晶浮層可列出 8 個台服伺服器 |
 | vnavmesh | 1.1.2.1 | 尋路與移動工具 | 已發布；API14 切換前最後一個正式 tag |
 | AutoDuty | 0.0.0.1 | 副本自動化框架 | 已發布 API13；修正舊版／無效路徑檔造成的路徑分頁崩潰 |
 | Pixel Perfect | 3.3.2.1 | 顯示角色碰撞圈 | 已發布；完成 zh-TW 介面翻譯 |
 | LazyLoot | 5.3.2.5 | 戰利品擲骰輔助 | 已發布；完成 zh-TW 介面、指令說明與診斷訊息翻譯 |
-| Questionable | 13.68.129.3 | 任務輔助 | 已發布；略過台服資料中的無效副本地區參照 |
+| Questionable | 13.68.129.4 | 任務輔助 | 已發布；完成主視窗、設定、任務狀態、停止條件、日誌與通知 zh-TW 翻譯 |
 | YesAlready | 0.0.0.1 | 自動確認對話 | 已發布；完成主設定、各分頁、Bothers 說明與提示 zh-TW 翻譯 |
 | Price Insight | 2.11.3.1 | 顯示市場價格 | 已發布、繁中介面 |
-| Gearsetter | 4.0 | 裝備升級建議 | 已發布；正式 API13 tag |
+| Gearsetter | 4.0.0.1 | 裝備升級建議 | 已發布；完成設定、裝備比較、屬性與提示 zh-TW 翻譯 |
 | Ice's Cosmic Exploration | 0.0.73.40 | 宇宙探索採集、生產與任務輔助 | 已發布；含台服 API13 物件識別與 ECommons 相容修補 |
 | Better Occult Crescent & Chest Helper Interface | 1.0.1.1 | 蜃景新月島寶箱、兔子與遭遇輔助 | 已發布；由官方 1.0.1 API13 節點重新編譯；完整 zh-TW 介面 |
 | Umbra XIV | 3.1.7.1 | 自訂工具列與世界標記 | 已發布；使用 API14 介面變更前的 API13 節點；完整 zh-TW 介面 |
@@ -70,7 +70,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Hyperborea | 1.0.0.33 | 區域探索與團體姿勢輔助 | 已發布；完成 zh-TW 主要與區域編輯介面；原生 API13 安全節點 |
 | AutoMinion | 1.0.0.2 | 進入房屋時收起寵物，離開時重新召喚 | 已發布；完成 zh-TW 介面翻譯；由較早來源移植，風險較高 |
 | XIV 藏寶圖工具小幫手 | 0.1.9.1 | 繁中藏寶圖組隊協作與網頁同步 | 已發布；自有專案由 API12 實際移植至 API13 |
-| Visland | 0.0.0.137 | 無人島採集、工坊排程與活動自動化 | 已發布；原生 API13 安全節點並完成 `BaseId` 相容修正 |
+| Visland | 0.0.0.138 | 無人島採集、工坊排程與活動自動化 | 已發布；完成採集路線、工房、穀倉、耕地、放牧地與出口交易 zh-TW 翻譯 |
 | Chat 2 | 1.32.0.1 | 高度自訂的遊戲聊天視窗替代方案 | 已發布；完成 zh-TW 介面第一輪校訂，並更新已知有漏洞的 MessagePack／SQLite 依賴 |
 | Doorbell | 1.0.4.1 | 有人進出房屋時播放門鈴提示音 | 已發布；完成 zh-TW 介面翻譯 |
 | MultiHit | 0.0.4.1 | 將傷害浮動文字依動畫拆分為多段 | 已發布；完成 zh-TW 介面翻譯 |

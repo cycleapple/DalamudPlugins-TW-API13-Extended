@@ -40,7 +40,7 @@
 | LazyLoot | 已完成 | 5.3.2.5；設定、限制規則、指令說明、狀態列、擲骰結果與診斷訊息已翻譯；未更動 `need`／`greed`／`pass` 等指令參數、設定格式與擲骰邏輯 |
 | Burning Down the House | 已完成 | 1.7.1.1；完成主控制窗、操作軸、吸附、拖曳、家具清單、錯誤提示與 manifest；房屋座標及放置邏輯未變更 |
 | Raphael.Dalamud | 已完成 | 0.0.5.1；插件沒有設定 UI，已完成 manifest；求解器與 IPC 錯誤內容未改 |
-| Something Need Doing | 待處理 | 大型硬編碼 UI |
+| Something Need Doing | 已完成 | 0.0.0.1；完成 21 個介面、設定、說明、彈窗與 manifest 檔案；命令 token、Lua／巨集執行、IPC 與技術識別字未變更 |
 | GatherBuddy Reborn | 待複核 | 需區分 UI 與採集資料 |
 | Artisan | 待複核 | 已有局部台服文字修正 |
 | AutoDuty | 待處理 | 大型硬編碼 UI |
@@ -49,8 +49,8 @@
 | Bossmod Reborn | 待處理 | 大型 UI 與戰鬥術語 |
 | vnavmesh | 待處理 | 硬編碼 UI |
 | MidiBard 2 | 已完成 | 3.2.1.3；zh-Hant 介面鍵 213/213，補齊 14 個缺漏字串 |
-| Questionable | 待處理 | 大型 UI 與任務術語 |
-| Gearsetter | 待處理 | 裝備與屬性術語 |
+| Questionable | 已完成 | 13.68.129.4；完成 manifest、主視窗、設定、相依、副本、單人戰鬥、通知、停止條件、日誌、優先任務與任務狀態；任務路徑、導航、IPC、指令、Excel ID、Addon、hook/signature 未變更 |
+| Gearsetter | 已完成 | 4.0.0.1；完成主要設定、裝備比較、屬性、提示與 manifest；裝備計算、Excel ID、Addon 名稱與 IPC 未變更 |
 | Ice's Cosmic Exploration | 待複核 | 需盤點既有翻譯資料 |
 | BOCCHI | 已完成 | 1.0.1.1；22 份 zh 語系資源完整，補齊 2 個缺漏值並轉為台灣繁中 |
 | Umbra XIV | 已完成 | 3.1.7.1；`zh.json` 介面鍵 1568/1568，轉為台灣繁中 |
@@ -73,7 +73,7 @@
 | Hyperborea | 已完成 | 1.0.0.33；完成主要設定與區域編輯器；保留 opcode／MapEffect／CFC 等底層術語 |
 | AutoMinion | 完成 | 設定視窗、固定模式、搜尋、按鈕、指令說明與插件說明已翻譯；未更動寵物名稱、指令內容與地區 ID |
 | XIV 藏寶圖工具小幫手 | 待複核 | 既有繁中介面，需術語稽核 |
-| Visland | 待處理 | 大型硬編碼 UI |
+| Visland | 已完成 | 0.0.0.138；完成採集路線、工房／OC 匯入、穀倉、耕地、放牧地、出口交易、命令說明與 manifest；路線格式、IPC、命令 token 與自動化流程未變更 |
 | Chat 2 | 第一輪完成 | 426 個 zh-Hant 鍵齊全；清除非技術性殘留英文並校訂明顯非台灣用語 |
 | Doorbell | 完成 | 設定 UI、工具提示、指令說明、狀態訊息及預設通知已翻譯 |
 | MultiHit | 完成 | 設定視窗、技能群組編輯、按鈕、工具提示、對話框及指令說明已翻譯；未更動匯入格式與內部識別碼 |
