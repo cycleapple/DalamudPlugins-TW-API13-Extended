@@ -653,9 +653,9 @@
     "Author": "BoxuChan",
     "Name": "Skippy",
     "InternalName": "Skippy",
-    "AssemblyVersion": "1.2.2.8",
-    "TestingAssemblyVersion": "1.2.2.8",
-    "Description": "SkipCutscene successor for Duty Roulette: Main Scenario. Taiwan 7.3 / Dalamud API13 build.",
+    "AssemblyVersion": "1.2.2.9",
+    "TestingAssemblyVersion": "1.2.2.9",
+    "Description": "主線隨機任務過場跳過輔助；指令說明與聊天回饋已完成 zh-TW 翻譯。",
     "Punchline": "主線隨機任務過場跳過輔助。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/Skippy",
@@ -667,9 +667,9 @@
     "LoadPriority": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Skippy-1.2.2.8.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Skippy-1.2.2.8.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Skippy-1.2.2.8.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Skippy-1.2.2.9.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Skippy-1.2.2.9.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Skippy-1.2.2.9.zip",
     "AcceptsFeedback": true
   },
   {
@@ -700,9 +700,9 @@
     "Author": "кайт машина (Puni.sh)",
     "Name": "Avarice",
     "InternalName": "Avarice",
-    "AssemblyVersion": "2.1.1.7",
-    "TestingAssemblyVersion": "2.1.1.7",
-    "Description": "Positional, range and hit feedback overlays. Taiwan 7.3 / Dalamud API13 compatibility build.",
+    "AssemblyVersion": "2.1.1.8",
+    "TestingAssemblyVersion": "2.1.1.8",
+    "Description": "身位與距離提示；主要設定、設定檔、統計與視覺回饋介面已完成 zh-TW 翻譯。",
     "Punchline": "身位、距離與命中範圍提示。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/Avarice",
@@ -715,18 +715,18 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "IconUrl": "https://love.puni.sh/resources/avarice.png",
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Avarice-2.1.1.7.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Avarice-2.1.1.7.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Avarice-2.1.1.7.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Avarice-2.1.1.8.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Avarice-2.1.1.8.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Avarice-2.1.1.8.zip",
     "AcceptsFeedback": true
   },
   {
     "Author": "кайт машина (Puni.sh)",
     "Name": "Orbwalker",
     "InternalName": "Orbwalker",
-    "AssemblyVersion": "1.0.1.6",
-    "TestingAssemblyVersion": "1.0.1.6",
-    "Description": "Locks movement while casting to maximize caster uptime. Taiwan 7.3 / Dalamud API13 build.",
+    "AssemblyVersion": "1.0.1.7",
+    "TestingAssemblyVersion": "1.0.1.7",
+    "Description": "施法移動控制；主要設定、移動、顯示層、職業與按鍵介面已完成 zh-TW 翻譯。",
     "Punchline": "施法移動控制輔助。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/Orbwalker",
@@ -739,18 +739,18 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "IconUrl": "https://love.puni.sh/resources/orbwalker.png",
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Orbwalker-1.0.1.6.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Orbwalker-1.0.1.6.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Orbwalker-1.0.1.6.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Orbwalker-1.0.1.7.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Orbwalker-1.0.1.7.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Orbwalker-1.0.1.7.zip",
     "AcceptsFeedback": true
   },
   {
     "Author": "Liza Carvelli (Puni.sh)",
     "Name": "Palace Pal",
     "InternalName": "PalacePal",
-    "AssemblyVersion": "4.14.0.0",
-    "TestingAssemblyVersion": "4.14.0.0",
-    "Description": "Deep dungeon trap and Accursed Hoard location helper. Requires Splatoon.",
+    "AssemblyVersion": "4.14.0.1",
+    "TestingAssemblyVersion": "4.14.0.1",
+    "Description": "深層迷宮陷阱與寶藏提示；116/116 個介面資源鍵已完成 zh-TW 翻譯。",
     "Punchline": "深層迷宮陷阱與埋藏寶藏位置輔助。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/PalacePal",
@@ -763,9 +763,9 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PalacePal-4.14.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PalacePal-4.14.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PalacePal-4.14.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PalacePal-4.14.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PalacePal-4.14.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PalacePal-4.14.0.1.zip",
     "AcceptsFeedback": true
   },
   {
@@ -796,9 +796,9 @@
     "Author": "Chalkos",
     "Name": "Marketbuddy",
     "InternalName": "Marketbuddy",
-    "AssemblyVersion": "0.2.4.0",
-    "TestingAssemblyVersion": "0.2.4.0",
-    "Description": "Market board listing and price adjustment helper. Taiwan 7.3 / Dalamud API13 build.",
+    "AssemblyVersion": "0.2.4.1",
+    "TestingAssemblyVersion": "0.2.4.1",
+    "Description": "市場布告板上架與調價輔助；主要介面已完成 zh-TW 翻譯。",
     "Punchline": "市場布告板上架與調價輔助。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/Marketbuddy",
@@ -810,9 +810,9 @@
     "LoadPriority": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Marketbuddy-0.2.4.0.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Marketbuddy-0.2.4.0.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Marketbuddy-0.2.4.0.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Marketbuddy-0.2.4.1.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Marketbuddy-0.2.4.1.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Marketbuddy-0.2.4.1.zip",
     "AcceptsFeedback": true
   },
   {
@@ -899,9 +899,9 @@
     "Author": "alydev",
     "Name": "GatheringPathRenderer",
     "InternalName": "GatheringPathRenderer",
-    "AssemblyVersion": "0.10",
-    "TestingAssemblyVersion": "0.10",
-    "Description": "Questionable developer plugin for rendering gathering locations. Taiwan 7.3 / Dalamud API13 build.",
+    "AssemblyVersion": "0.10.0.1",
+    "TestingAssemblyVersion": "0.10.0.1",
+    "Description": "顯示採集節點路徑與位置；主要介面已完成 zh-TW 翻譯。",
     "Punchline": "顯示採集節點路徑與位置",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/Questionable/tree/api13-tw/GatheringPathRenderer",
@@ -917,18 +917,18 @@
     "LoadPriority": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/GatheringPathRenderer-0.10.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/GatheringPathRenderer-0.10.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/GatheringPathRenderer-0.10.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/GatheringPathRenderer-0.10.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/GatheringPathRenderer-0.10.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/GatheringPathRenderer-0.10.0.1.zip",
     "AcceptsFeedback": true
   },
   {
     "Author": "Liza Carvelli",
     "Name": "Deliveroo",
     "InternalName": "Deliveroo",
-    "AssemblyVersion": "7.4",
-    "TestingAssemblyVersion": "7.4",
-    "Description": "Better Grand Company Deliveries. Taiwan 7.3 / Dalamud API13 build.",
+    "AssemblyVersion": "7.4.0.1",
+    "TestingAssemblyVersion": "7.4.0.1",
+    "Description": "軍隊籌備品自動繳納輔助；設定、繳納視窗、提示與聊天說明已完成 zh-TW 翻譯。",
     "Punchline": "軍隊籌備品自動繳納輔助",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/Deliveroo",
@@ -945,9 +945,9 @@
     "LoadPriority": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Deliveroo-7.4.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Deliveroo-7.4.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Deliveroo-7.4.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Deliveroo-7.4.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Deliveroo-7.4.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Deliveroo-7.4.0.1.zip",
     "AcceptsFeedback": true
   },
   {
@@ -982,9 +982,9 @@
     "Author": "Ice",
     "Name": "Explorer's Icebox",
     "InternalName": "ExplorersIcebox",
-    "AssemblyVersion": "1.0.4.5",
-    "TestingAssemblyVersion": "1.0.4.5",
-    "Description": "Island Sanctuary gathering and leveling helper. Requires vnavmesh and visland. Taiwan 7.3 / Dalamud API13 build.",
+    "AssemblyVersion": "1.0.4.6",
+    "TestingAssemblyVersion": "1.0.4.6",
+    "Description": "無人島採集與升級輔助；主操作、除錯選單與 manifest 已完成 zh-TW 翻譯。",
     "Punchline": "無人島採集與升級輔助",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/Explorers-Icebox",
@@ -1001,9 +1001,9 @@
     "LoadPriority": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ExplorersIcebox-1.0.4.5.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ExplorersIcebox-1.0.4.5.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ExplorersIcebox-1.0.4.5.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ExplorersIcebox-1.0.4.6.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ExplorersIcebox-1.0.4.6.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ExplorersIcebox-1.0.4.6.zip",
     "AcceptsFeedback": true
   },
   {
@@ -1016,7 +1016,11 @@
     "Punchline": "幻巧拼圖已知圖樣求解器",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/vfaux/tree/api13-tw",
-    "Tags": ["faux hollows", "minigame", "solver"],
+    "Tags": [
+      "faux hollows",
+      "minigame",
+      "solver"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1040,7 +1044,10 @@
     "Punchline": "區域探索與團體姿勢輔助",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/Hyperborea/tree/api13-tw",
-    "Tags": ["gpose", "exploration"],
+    "Tags": [
+      "gpose",
+      "exploration"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1064,7 +1071,10 @@
     "Punchline": "進入房屋時自動收回寵物，離開後再次召喚。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/AutoMinion/tree/api13-tw",
-    "Tags": ["minion", "housing"],
+    "Tags": [
+      "minion",
+      "housing"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1088,7 +1098,12 @@
     "Punchline": "繁中藏寶圖組隊協作，與網頁版即時共享同一個房間",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/xiv-party-treasure-helper",
-    "Tags": ["treasure", "map", "party", "zhTW"],
+    "Tags": [
+      "treasure",
+      "map",
+      "party",
+      "zhTW"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1114,7 +1129,11 @@
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/ffxiv_visland/tree/api13-tw",
     "IconUrl": "https://raw.githubusercontent.com/cycleapple/ffxiv_visland/api13-tw/icon.png",
-    "Tags": ["island sanctuary", "gathering", "automation"],
+    "Tags": [
+      "island sanctuary",
+      "gathering",
+      "automation"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1138,7 +1157,12 @@
     "Punchline": "功能完整且高度自訂的遊戲聊天視窗替代方案",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/ChatTwo/tree/api13-tw",
-    "Tags": ["social", "ui", "chat", "replacement"],
+    "Tags": [
+      "social",
+      "ui",
+      "chat",
+      "replacement"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1163,7 +1187,11 @@
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/Doorbell/tree/api13-tw",
     "IconUrl": "https://i.imgur.com/wtOolxu.png",
-    "Tags": ["doorbell", "house", "housing"],
+    "Tags": [
+      "doorbell",
+      "house",
+      "housing"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1181,14 +1209,22 @@
     "Author": "Aireil",
     "Name": "FlyTextFilter",
     "InternalName": "FlyTextFilter",
-    "AssemblyVersion": "4.4.0.2",
-    "TestingAssemblyVersion": "4.4.0.2",
-    "Description": "依來源、目標與文字內容過濾戰鬥浮動文字及跳出文字，並可調整位置與縮放。已完成主要設定介面的 zh-TW 翻譯。",
+    "AssemblyVersion": "4.4.0.3",
+    "TestingAssemblyVersion": "4.4.0.3",
+    "Description": "過濾並調整戰鬥浮動文字；設定、類型表、匯入匯出、黑名單與說明介面已完成 zh-TW 翻譯。",
     "Punchline": "依條件過濾戰鬥浮動文字並調整顯示位置。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/FlyTextFilter/tree/api13-tw",
-    "Tags": ["flytext", "combat", "filter", "UI"],
-    "CategoryTags": ["UI", "utility"],
+    "Tags": [
+      "flytext",
+      "combat",
+      "filter",
+      "UI"
+    ],
+    "CategoryTags": [
+      "UI",
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1197,9 +1233,9 @@
     "LoadPriority": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/FlyTextFilter-4.4.0.2.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/FlyTextFilter-4.4.0.2.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/FlyTextFilter-4.4.0.2.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/FlyTextFilter-4.4.0.3.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/FlyTextFilter-4.4.0.3.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/FlyTextFilter-4.4.0.3.zip",
     "AcceptsFeedback": false
   },
   {
@@ -1212,7 +1248,11 @@
     "Punchline": "依技能動畫將合併的傷害浮動文字拆分為多段",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/MultiHit/tree/api13-tw",
-    "Tags": ["flytext", "combat", "ui"],
+    "Tags": [
+      "flytext",
+      "combat",
+      "ui"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1236,7 +1276,12 @@
     "Punchline": "自訂技能與狀態效果的顯示名稱",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/NamingWay/tree/api13-tw",
-    "Tags": ["actions", "status effects", "names", "ui"],
+    "Tags": [
+      "actions",
+      "status effects",
+      "names",
+      "ui"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1260,7 +1305,12 @@
     "Punchline": "功能更完整的遊戲地圖。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/Mappy/tree/api13-tw",
-    "Tags": ["map", "mapping", "overlay", "utility"],
+    "Tags": [
+      "map",
+      "mapping",
+      "overlay",
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1284,7 +1334,11 @@
     "Punchline": "將聊天訊息中的座標設為地圖旗標。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/dalamud-chatcoordinates/tree/api13-tw",
-    "Tags": ["utility", "map", "coordinates"],
+    "Tags": [
+      "utility",
+      "map",
+      "coordinates"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1331,7 +1385,15 @@
     "Punchline": "模擬製作、產生輔助巨集並提供製作中的技能建議。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/Craftimizer/tree/api13-tw",
-    "Tags": ["crafting", "doh", "craft", "macro", "solver", "generator", "simulate"],
+    "Tags": [
+      "crafting",
+      "doh",
+      "craft",
+      "macro",
+      "solver",
+      "generator",
+      "simulate"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1355,7 +1417,9 @@
     "Punchline": "全面自訂物品欄排序方式。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/SortaKinda/tree/api13-tw",
-    "Tags": ["utility"],
+    "Tags": [
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1379,7 +1443,10 @@
     "Punchline": "可自訂的 ImGui 快捷列。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/QoLBar/tree/api13-tw",
-    "CategoryTags": ["UI", "utility"],
+    "CategoryTags": [
+      "UI",
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1398,13 +1465,17 @@
     "Author": "Usagi",
     "Name": "IINACT",
     "InternalName": "IINACT",
-    "AssemblyVersion": "1.13.9.3",
-    "TestingAssemblyVersion": "1.13.9.3",
-    "Description": "在遊戲內執行 FFXIV_ACT_Plugin，提供 ACT 相容的環境與現代 .NET 版 Overlay Plugin 核心。",
+    "AssemblyVersion": "1.13.9.4",
+    "TestingAssemblyVersion": "1.13.9.4",
+    "Description": "在遊戲內執行 FFXIV_ACT_Plugin，提供 ACT 相容的環境與現代 .NET 版 Overlay Plugin 核心；主設定介面已完成 zh-TW 翻譯。",
     "Punchline": "ACT 相容的戰鬥資料解析插件。",
     "ApplicableVersion": "2026.07.22.0000.0000",
     "RepoUrl": "https://github.com/cycleapple/IINACT/tree/api13-tw",
-    "Tags": ["parsing", "plugin", "ACT"],
+    "Tags": [
+      "parsing",
+      "plugin",
+      "ACT"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1413,9 +1484,9 @@
     "LoadPriority": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/IINACT-1.13.9.3.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/IINACT-1.13.9.3.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/IINACT-1.13.9.3.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/IINACT-1.13.9.4.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/IINACT-1.13.9.4.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/IINACT-1.13.9.4.zip",
     "IconUrl": "https://raw.githubusercontent.com/PlusoneChiang/IINACT/master/images/icon.png",
     "AcceptsFeedback": false
   },
@@ -1429,7 +1500,11 @@
     "Punchline": "在遊戲內顯示 ACT 戰鬥統計。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/LMeter_TC/tree/api13-tw",
-    "Tags": ["UI", "ACT", "meter"],
+    "Tags": [
+      "UI",
+      "ACT",
+      "meter"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1454,8 +1529,16 @@
     "Punchline": "顯示目標距離。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/Distance/tree/api13-tw",
-    "Tags": ["distance", "range", "target", "overlay"],
-    "CategoryTags": ["UI", "utility"],
+    "Tags": [
+      "distance",
+      "range",
+      "target",
+      "overlay"
+    ],
+    "CategoryTags": [
+      "UI",
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1479,8 +1562,14 @@
     "Punchline": "在敵對列表顯示 HP。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/EnmityHp/tree/api13-tw",
-    "Tags": ["enemy list", "HP", "UI"],
-    "CategoryTags": ["UI"],
+    "Tags": [
+      "enemy list",
+      "HP",
+      "UI"
+    ],
+    "CategoryTags": [
+      "UI"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1504,8 +1593,16 @@
     "Punchline": "戰鬥操作便利調整。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/ReAction/tree/api13-tw",
-    "Tags": ["combat", "action", "queue", "utility"],
-    "CategoryTags": ["jobs", "utility"],
+    "Tags": [
+      "combat",
+      "action",
+      "queue",
+      "utility"
+    ],
+    "CategoryTags": [
+      "jobs",
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1529,8 +1626,16 @@
     "Punchline": "顯示周圍敵人與互動物件的雷達。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/RadarPlugin/tree/api13-tw",
-    "Tags": ["radar", "overlay", "objects", "ESP"],
-    "CategoryTags": ["UI", "utility"],
+    "Tags": [
+      "radar",
+      "overlay",
+      "objects",
+      "ESP"
+    ],
+    "CategoryTags": [
+      "UI",
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1554,8 +1659,14 @@
     "Punchline": "房屋布置配置工具。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/ReMakePlacePlugin/tree/api13-tw",
-    "Tags": ["housing", "furniture", "layout"],
-    "CategoryTags": ["utility"],
+    "Tags": [
+      "housing",
+      "furniture",
+      "layout"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1579,8 +1690,14 @@
     "Punchline": "在更多地點坐下或睡覺。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/DozeAnywhere/tree/api13-tw",
-    "Tags": ["emote", "sit", "doze"],
-    "CategoryTags": ["utility"],
+    "Tags": [
+      "emote",
+      "sit",
+      "doze"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1604,8 +1721,14 @@
     "Punchline": "進階鏡頭與鏡位調整。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/Cammy/tree/api13-tw",
-    "Tags": ["camera", "FOV", "zoom"],
-    "CategoryTags": ["utility"],
+    "Tags": [
+      "camera",
+      "FOV",
+      "zoom"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1629,8 +1752,16 @@
     "Punchline": "自訂增益與職業量譜提示。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/GaugeOMatic/tree/api13-tw",
-    "Tags": ["gauge", "buff", "debuff", "jobs"],
-    "CategoryTags": ["UI", "jobs"],
+    "Tags": [
+      "gauge",
+      "buff",
+      "debuff",
+      "jobs"
+    ],
+    "CategoryTags": [
+      "UI",
+      "jobs"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1654,8 +1785,15 @@
     "Punchline": "顯示完整戰鬥倒數與戰鬥時間。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/EngageTimer/tree/api13-tw",
-    "Tags": ["countdown", "timer", "combat"],
-    "CategoryTags": ["UI", "utility"],
+    "Tags": [
+      "countdown",
+      "timer",
+      "combat"
+    ],
+    "CategoryTags": [
+      "UI",
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1679,8 +1817,16 @@
     "Punchline": "放大自己施加的狀態圖示。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/BigPlayerDebuffs/tree/api13-tw",
-    "Tags": ["buff", "debuff", "target", "UI"],
-    "CategoryTags": ["UI", "jobs"],
+    "Tags": [
+      "buff",
+      "debuff",
+      "target",
+      "UI"
+    ],
+    "CategoryTags": [
+      "UI",
+      "jobs"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1704,8 +1850,14 @@
     "Punchline": "可自訂規則的隨機坐騎。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/BetterMountRoulette/tree/api13-tw",
-    "Tags": ["mount", "roulette", "random"],
-    "CategoryTags": ["utility"],
+    "Tags": [
+      "mount",
+      "roulette",
+      "random"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1729,8 +1881,15 @@
     "Punchline": "追蹤部隊潛水艇航程與返航時間。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/SubmarineTracker/tree/api13-tw",
-    "Tags": ["submarine", "tracker", "loot", "notifications"],
-    "CategoryTags": ["utility"],
+    "Tags": [
+      "submarine",
+      "tracker",
+      "loot",
+      "notifications"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1754,8 +1913,16 @@
     "Punchline": "以職業圖示或團隊位置調整玩家名牌。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/xivPartyIcons/tree/api13-tw",
-    "Tags": ["nameplate", "job", "party", "UI"],
-    "CategoryTags": ["UI", "utility"],
+    "Tags": [
+      "nameplate",
+      "job",
+      "party",
+      "UI"
+    ],
+    "CategoryTags": [
+      "UI",
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1779,8 +1946,17 @@
     "Punchline": "標示復活進度與可解除的負面狀態。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/RezPls/tree/api13-tw",
-    "Tags": ["resurrection", "raise", "debuff", "cleanse", "UI"],
-    "CategoryTags": ["UI", "utility"],
+    "Tags": [
+      "resurrection",
+      "raise",
+      "debuff",
+      "cleanse",
+      "UI"
+    ],
+    "CategoryTags": [
+      "UI",
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1804,8 +1980,16 @@
     "Punchline": "記錄並整理聊天中的地圖連結。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/MapLinker/tree/api13-tw",
-    "Tags": ["map", "chat", "maplink", "utility"],
-    "CategoryTags": ["UI", "utility"],
+    "Tags": [
+      "map",
+      "chat",
+      "maplink",
+      "utility"
+    ],
+    "CategoryTags": [
+      "UI",
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1830,8 +2014,14 @@
     "Punchline": "整理僱員銷售、歷史紀錄與市場壓價資訊。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/AllaganMarket/tree/api13-tw",
-    "Tags": ["market", "sales", "retainers"],
-    "CategoryTags": ["utility"],
+    "Tags": [
+      "market",
+      "sales",
+      "retainers"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1855,8 +2045,14 @@
     "Punchline": "跨角色追蹤、搜尋、篩選並整理庫存。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/InventoryTools/tree/api13-tw",
-    "Tags": ["inventory", "sorting", "filtering"],
-    "CategoryTags": ["utility"],
+    "Tags": [
+      "inventory",
+      "sorting",
+      "filtering"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1888,8 +2084,14 @@
     "Punchline": "依條件搜尋與篩選遊戲物品。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/AllaganItemSearch/tree/api13-tw",
-    "Tags": ["search", "items", "filters"],
-    "CategoryTags": ["utility"],
+    "Tags": [
+      "search",
+      "items",
+      "filters"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -1907,12 +2109,12 @@
     "Author": "attick, perchbird & Speedas",
     "Name": "Title Edit",
     "InternalName": "TitleEdit",
-    "AssemblyVersion": "3.0.6.21",
-    "TestingAssemblyVersion": "3.0.6.21",
+    "AssemblyVersion": "3.0.6.22",
+    "TestingAssemblyVersion": "3.0.6.22",
     "RepoUrl": "https://github.com/cycleapple/TitleEdit/tree/api13-tw",
     "ApplicableVersion": "any",
     "Punchline": "建立、分享並隨機切換自訂標題與角色選擇畫面。",
-    "Description": "使用遊戲內地點建立自訂標題或角色選擇畫面，並可匯入其他玩家分享的預設。已完成核心 zh-TW 介面，並以 API13 的 IsMountUnlocked 修正台服坐騎解鎖追蹤。",
+    "Description": "建立、分享並切換自訂標題與角色選擇畫面；全部可見介面已完成 zh-TW 翻譯，並保留台服 API13 坐騎解鎖相容修正。",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "IsHide": false,
@@ -1922,9 +2124,9 @@
     "LoadPriority": 0,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/TitleEdit-3.0.6.21.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/TitleEdit-3.0.6.21.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/TitleEdit-3.0.6.21.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/TitleEdit-3.0.6.22.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/TitleEdit-3.0.6.22.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/TitleEdit-3.0.6.22.zip",
     "IconUrl": "https://raw.githubusercontent.com/cycleapple/TitleEdit/api13-tw/images/icon.png"
   },
   {
@@ -2048,12 +2250,12 @@
     "Author": "Saheki",
     "Name": "MeterWay",
     "InternalName": "MeterWay",
-    "AssemblyVersion": "1.0.17.1",
-    "TestingAssemblyVersion": "1.0.17.1",
+    "AssemblyVersion": "1.0.17.2",
+    "TestingAssemblyVersion": "1.0.17.2",
     "RepoUrl": "https://github.com/cycleapple/MeterWay",
     "ApplicableVersion": "any",
     "Punchline": "搭配 IINACT 或 ACT 使用的即時戰鬥統計覆蓋層。",
-    "Description": "連接 IINACT 或 ACT，解析並顯示即時戰鬥統計資料。已完成主要設定、連線狀態與顯示層管理介面的 zh-TW 翻譯。",
+    "Description": "Lazer、Mogu、Vision、動態 Lua 與主要設定介面已完成 zh-TW 翻譯。",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "IsHide": false,
@@ -2063,9 +2265,9 @@
     "LoadPriority": 0,
     "LoadRequiredState": 0,
     "LoadSync": false,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MeterWay-1.0.17.1.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MeterWay-1.0.17.1.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MeterWay-1.0.17.1.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MeterWay-1.0.17.2.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MeterWay-1.0.17.2.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MeterWay-1.0.17.2.zip",
     "IconUrl": "https://raw.githubusercontent.com/CondeSaheki/MeterWay/main/images/icon.png"
   },
   {
@@ -2101,8 +2303,14 @@
     "Punchline": "使用聊天指令傳送至以太之光或指定區域。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/TeleporterPlugin/tree/api13-tw",
-    "Tags": ["teleport", "command", "utility"],
-    "CategoryTags": ["utility"],
+    "Tags": [
+      "teleport",
+      "command",
+      "utility"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -2127,8 +2335,14 @@
     "Punchline": "輕鬆追蹤每日與每週任務。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/DailyDuty/tree/api13-tw",
-    "Tags": ["daily", "weekly", "tracker"],
-    "CategoryTags": ["utility"],
+    "Tags": [
+      "daily",
+      "weekly",
+      "tracker"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -2152,8 +2366,14 @@
     "Punchline": "顯示仙人微彩的下一步最佳選擇。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/EzMiniCactpot/tree/api13-tw",
-    "Tags": ["gold saucer", "mini cactpot", "solver"],
-    "CategoryTags": ["utility"],
+    "Tags": [
+      "gold saucer",
+      "mini cactpot",
+      "solver"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -2178,8 +2398,15 @@
     "Punchline": "以 TCP 顯示台服遊戲伺服器延遲。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/PingPlugin/tree/api13-tw",
-    "Tags": ["ping", "tcp", "monitor", "utility"],
-    "CategoryTags": ["utility"],
+    "Tags": [
+      "ping",
+      "tcp",
+      "monitor",
+      "utility"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
@@ -2189,7 +2416,9 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "IconUrl": "https://raw.githubusercontent.com/karashiiro/PingPlugin/main/Assets/icon.png",
-    "ImageUrls": ["https://raw.githubusercontent.com/karashiiro/PingPlugin/main/Assets/image1.png"],
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/karashiiro/PingPlugin/main/Assets/image1.png"
+    ],
     "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PingPlugin-2.9.0.2.zip",
     "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PingPlugin-2.9.0.2.zip",
     "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PingPlugin-2.9.0.2.zip",

@@ -52,20 +52,20 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Better Occult Crescent & Chest Helper Interface | 1.0.1.1 | 蜃景新月島寶箱、兔子與遭遇輔助 | 已發布；由官方 1.0.1 API13 節點重新編譯；完整 zh-TW 介面 |
 | Umbra XIV | 3.1.7.1 | 自訂工具列與世界標記 | 已發布；使用 API14 介面變更前的 API13 節點；完整 zh-TW 介面 |
 | MissFisher | 1.6.5.12 | 釣魚輔助 | 已發布；完整移除上游建置保護器的啟動與每日到期檢查；內嵌台灣繁中介面 |
-| Skippy | 1.2.2.8 | 主線隨機任務過場跳過輔助 | 已發布；SkipCutscene 的後繼插件 |
+| Skippy | 1.2.2.9 | 主線隨機任務過場跳過輔助 | 已發布；完成指令說明與聊天回饋 zh-TW 翻譯 |
 | AutoHook | 5.0.0.14 | 釣魚與刺魚輔助 | 已發布；補齊 GatherBuddy 7.3.5 所需 IPC，含台服 API13 `DataId` 相容修補與完整繁中介面 |
-| Avarice | 2.1.1.7 | 身位與距離提示 | 已發布；含台服 API13 編譯修補 |
-| Orbwalker | 1.0.1.6 | 施法移動控制 | 已發布 API13 |
-| Palace Pal | 4.14.0.0 | 深層迷宮陷阱與寶藏提示 | 已發布 API13；需要 Splatoon |
+| Avarice | 2.1.1.8 | 身位與距離提示 | 已發布；完成主要設定、設定檔、統計與視覺回饋 zh-TW 翻譯 |
+| Orbwalker | 1.0.1.7 | 施法移動控制 | 已發布；完成主要設定、移動、顯示層、職業與按鍵 zh-TW 翻譯 |
+| Palace Pal | 4.14.0.1 | 深層迷宮陷阱與寶藏提示 | 已發布；116/116 個介面資源鍵完整 zh-TW；需要 Splatoon |
 | Pandora's Box | 1.6.3.18 | 多項便利功能合集 | 已發布；使用 API14 屬性切換前的 API13 節點 |
-| Marketbuddy | 0.2.4.0 | 市場上架與調價輔助 | 已發布 API13 |
+| Marketbuddy | 0.2.4.1 | 市場上架與調價輔助 | 已發布；完成主要介面 zh-TW 翻譯 |
 | JobBars | 1.3.2.3 | 職業量譜、團隊增益與減傷追蹤 | 已發布；完成 zh-TW 主要與進階介面；台服 API13 安全節點 |
 | NotificationMaster | 2.1.1.13 | 遊戲事件與背景通知 | 已發布；完成 zh-TW 主要與進階介面；台服 API13 安全節點 |
 | CBT | 69.103.0.0 | Automaton 多功能自動化與便利調整 | 已發布；v69.103 台服 API13 相容修正版 |
-| GatheringPathRenderer | 0.10 | 顯示採集節點路徑與位置 | 已發布；Questionable 開發工具，台服 API13 相容修正版 |
-| Deliveroo | 7.4 | 軍隊籌備品自動繳納輔助 | 已發布；官方 API13 節點 |
+| GatheringPathRenderer | 0.10.0.1 | 顯示採集節點路徑與位置 | 已發布；完成主要介面 zh-TW 翻譯；Questionable 開發工具 |
+| Deliveroo | 7.4.0.1 | 軍隊籌備品自動繳納輔助 | 已發布；完成設定、繳納視窗、提示與聊天說明 zh-TW 翻譯 |
 | Chilled Leves | 1.0.1.20 | 理符任務選擇、自動執行與繳交輔助 | 已發布；完成 zh-TW 主要與工作清單介面；需要 vnavmesh |
-| Explorer's Icebox | 1.0.4.5 | 無人島採集與升級輔助 | 已發布；需要 vnavmesh 與 visland |
+| Explorer's Icebox | 1.0.4.6 | 無人島採集與升級輔助 | 已發布；完成主操作與除錯選單 zh-TW 翻譯；需要 vnavmesh 與 visland |
 | Easier Faux Hollows | 0.0.0.11 | 幻巧拼圖已知圖樣求解器 | 已發布；完成 zh-TW 拼圖、設定與偵錯介面；原生 API13 安全節點 |
 | Hyperborea | 1.0.0.33 | 區域探索與團體姿勢輔助 | 已發布；完成 zh-TW 主要與區域編輯介面；原生 API13 安全節點 |
 | AutoMinion | 1.0.0.2 | 進入房屋時收起寵物，離開時重新召喚 | 已發布；完成 zh-TW 介面翻譯；由較早來源移植，風險較高 |
@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Craftimizer | 2.8.0.1 | 製作模擬、巨集產生與技能建議 | 已發布；台服 7.3／API13 安全節點 |
 | SortaKinda | 2.1.1.7 | 自訂物品欄排序 | 已發布；完成 zh-TW 介面翻譯 |
 | QoL Bar | 2.3.3.7 | 自訂指令與插件快捷列 | 已發布；台服 7.3／API13 相容修正；完成 zh-TW 介面翻譯 |
-| IINACT | 1.13.9.3 | ACT 相容戰鬥資料解析 | 已發布；以你提供的台服 API13 分支重新編譯 |
+| IINACT | 1.13.9.4 | ACT 相容戰鬥資料解析 | 已發布；完成主設定、解析器、文字轉語音與 WebSocket 介面 zh-TW 翻譯 |
 | LMeter | 1.13.0.3 | 遊戲內 ACT 戰鬥統計介面 | 已發布；完成 zh-TW 介面翻譯；搭配 IINACT 使用 |
 | Distance | 1.1.3.6 | 顯示目前目標距離 | 已發布；完成 zh-TW 主要與進階介面；官方 API13 節點 |
 | EnemyListHP | 2.0.1.8 | 在敵對列表顯示 HP | 已發布；完成 zh-TW 介面；官方 7.3／API13 節點 |
@@ -97,18 +97,18 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Submarine Tracker | 2.0.2.2 | 追蹤部隊潛水艇航程、返航時間與收益 | 已發布；完成 463/463 個 zh-TW 資源鍵、指令與未資源化介面；已更新有漏洞的 MessagePack 依賴 |
 | Party Icons | 1.2.3.3 | 依職業或團隊位置調整玩家名牌 | 已發布；完成 zh-TW 設定、名牌、團隊站位與升級指南介面 |
 | RezPls | 1.5.2.3 | 標示正在復活、已有復活效果及可解除的負面狀態 | 已發布；完整 zh-TW 介面與指令說明；API13 安全日期範圍內最後節點 |
-| FlyTextFilter | 4.4.0.2 | 過濾並調整戰鬥浮動文字 | 已發布；完成主要設定、類型、位置、黑名單與紀錄介面的 zh-TW 翻譯 |
+| FlyTextFilter | 4.4.0.3 | 過濾並調整戰鬥浮動文字 | 已發布；完成設定、類型表、匯入匯出、位置、黑名單與說明介面的 zh-TW 翻譯 |
 | MapLinker | 1.1.11.2 | 記錄與搜尋聊天中的地圖連結 | 已發布；完整繁中介面；採用 2025-08-17 的正式 API13 節點 |
 | Allagan Market | 1.2.0.8 | 整理僱員上架、銷售紀錄與市場壓價資訊 | 已發布；269 組 zh-TW 資源；CSV 欄位識別保持英文；台服 Universalis 資料可能不完整 |
 | Allagan Tools | 1.13.1.12 | 跨角色追蹤、搜尋、篩選並整理庫存 | 已發布；648 個實際介面鍵零缺漏、1,465 筆有效 zh-TW 資源；保留固定版 CriticalCommonLib 與 OtterGui |
 | Allagan Item Search | 1.0.0.4 | 依條件搜尋與篩選遊戲物品 | 已發布；236 個 zh-TW 資源鍵及 119/119 renderer 名稱 |
-| Title Edit | 3.0.6.21 | 建立、分享並切換自訂標題與角色選擇畫面 | 已發布；完成核心 zh-TW 介面；修正 API13 坐騎解鎖追蹤 |
+| Title Edit | 3.0.6.22 | 建立、分享並切換自訂標題與角色選擇畫面 | 已發布；完成進階預設編輯、群組、場景通知與偵錯視窗 zh-TW 翻譯；保留 API13 坐騎解鎖修正 |
 | MonsterDex | 2.13.6.2 | 顯示深層迷宮魔物資料與攻略提示 | 已發布；完成設定、樓層、提示與深層迷宮術語的 zh-TW 翻譯 |
 | High FPS Physics Fix | 8.3.0.1 | 改善高 FPS 下的動作物理表現 | 已發布；採用 2025-08-06 的 API13 安全節點，含繁中介面 |
 | Orchestrion Plugin | 2.2.0.13 | 瀏覽、辨識及變更遊戲內背景音樂 | 已發布；115/115 個介面語系鍵完成 zh-TW 翻譯 |
 | CrossUp | 1.7.1.14 | 自訂十字快捷欄外觀、位置與擴展操作 | 已發布；121/121 個介面語系鍵完成 zh-TW 翻譯 |
 | TriadBuddy | 1.13.0.2 | 九宮幻卡對戰求解、牌組分析與收藏輔助 | 已發布；修復原中文亂碼並完成 64/64 個 zh-TW 語系鍵 |
-| MeterWay | 1.0.17.1 | 搭配 IINACT 或 ACT 顯示即時戰鬥統計 | 已發布；完成主要設定、連線與顯示層管理介面 zh-TW 翻譯 |
+| MeterWay | 1.0.17.2 | 搭配 IINACT 或 ACT 顯示即時戰鬥統計 | 已發布；完成 Lazer／Mogu／Vision、動態 Lua 與主要設定 zh-TW 翻譯 |
 | Death Recap | 1.13.2.3 | 顯示死亡前的傷害、治療、增益、減益與護盾紀錄 | 已發布；完成設定、主視窗、篩選、提示與通知的 zh-TW 翻譯 |
 | Teleporter | 2.0.2.9 | 以聊天指令依以太之光或區域名稱傳送，支援自訂別名 | 已發布；完成設定、提示與聊天訊息的 zh-TW 翻譯 |
 | DailyDuty | 5.3.2.14 | 追蹤每日與每週任務完成狀態 | 已發布；216/216 個資源鍵完成 zh-TW 翻譯 |
