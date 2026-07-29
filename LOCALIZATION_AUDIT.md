@@ -32,18 +32,18 @@
 | Price Insight | 已完成 | 2.11.3.1；設定介面與市場佈告板物品說明繁中化 |
 | Wrath Combo | 第一輪完成 | 1.0.1.19；完成 manifest、主導航、PvE／PvP、自動循環、主要設定、目標優先序、疑難排解與重大變更介面；技能／狀態資料、遊戲文字比對、IPC token、ID 與戰鬥邏輯未變更 |
 | Splatoon | 第二輪完成 | 3.8.2.4；保留 301 個查詢鍵與台服 7.3 延伸 MapEffect multisig，新增 229 行配置管理、版面／元素編輯、腳本狀態與控制、版本相容性及直播風險提示 zh-TW；尚餘翻譯工作區、Trusted Repos 危險頁、Explorer 技術欄位與少量提示，場景／戰鬥腳本文字刻意未處理 |
-| AutoRetainer | 第四輪完成 | 4.5.1.26；新增探索載具主頁、航線／解鎖計畫編輯器、MultiMode 角色／傳送覆寫與雇員完成後工作、交付計畫複製及金幣提存；VesselBehavior／UnlockMode 僅新增顯示映射。遊戲文字比對、Addon、Regex、IPC、指令、序列化、探索資料與自動化流程未變更 |
+| AutoRetainer | 已完成 | 4.5.1.27；完成 VentureBrowser、SharedUI、多重模式、探索載具、物品欄整理、角色設定、帳號白名單、進階設定、疑難排解、雇員浮層與燃料購買等一般使用者介面；enum 僅透過 UI 映射顯示繁中，設定鍵、序列化、IPC、指令、遊戲文字比對與自動化未變更 |
 | NecroLens | 已完成 | 1.0.8.12；既有簡中資源以台灣慣用詞完整轉換並補齊英文，manifest 已翻譯；功能資料未變更 |
 | TextAdvance | 已完成 | 3.2.4.8；介面、通知與聊天狀態繁中化；`Lang.cs` 功能比對字串保持不動 |
-| Lifestream | 第二輪完成 | 2.5.3.4；除第一輪外，補齊 Custom Alias 編輯器、移動位置工具提示與 PaissaDB 房屋抽選介面；`Lang.cs` 功能比對、指令種類／內容、序列化、PaissaDB 協定與傳送流程未變更 |
+| Lifestream | 已完成 | 2.5.3.5；完成核心設定、房屋路徑登錄、跨服限制、多路徑、Wotsit、浮層、通訊錄、Custom Alias、指令建議與 PaissaDB 房屋抽選介面；`Lang.cs` 功能比對、指令 token、序列化、PaissaDB 協定與傳送流程未變更 |
 | YesAlready | 已完成 | 0.0.0.1；完成主設定、各分頁、Bothers 分類與說明、按鈕提示及 manifest；Addon 名稱、自動確認規則、callback、IPC、資料 ID 與比對字串未變更 |
 | LazyLoot | 已完成 | 5.3.2.5；設定、限制規則、指令說明、狀態列、擲骰結果與診斷訊息已翻譯；未更動 `need`／`greed`／`pass` 等指令參數、設定格式與擲骰邏輯 |
 | Burning Down the House | 已完成 | 1.7.1.1；完成主控制窗、操作軸、吸附、拖曳、家具清單、錯誤提示與 manifest；房屋座標及放置邏輯未變更 |
 | Raphael.Dalamud | 已完成 | 0.0.5.1；插件沒有設定 UI，已完成 manifest；求解器與 IPC 錯誤內容未改 |
 | Something Need Doing | 已完成 | 0.0.0.1；完成 21 個介面、設定、說明、彈窗與 manifest 檔案；命令 token、Lua／巨集執行、IPC 與技術識別字未變更 |
 | GatherBuddy Reborn | 亂碼修正完成 | 7.3.5.4；上游 `TimeInterval.cs` 為 GBK/CP936 編碼，API13 鏈以 UTF-8 讀取造成「下次時間」欄位的時間單位與狀態亂碼；已轉為合法 UTF-8 並以 7 個分支測試驗證「天／小時／分鐘／永遠／從不／無效」。遊戲文字比對、採集資料、序列化、AutoHook IPC、導航與 DataId 未變更 |
-| Artisan | 第三輪完成 | 4.0.4.12；完成製作清單編輯器、配方視窗與材料表格 zh-TW；尚待模擬器與部分入門／設定介面。RawInformation、Hotbars、技能／配方資料、遊戲文字比對、IPC、求解與自動化未變更 |
-| AutoDuty | 第四輪完成 | 0.0.0.5；新增 BuildTab 路徑編輯器、PathsTab 路徑管理與 InfoTab 指南／相依插件說明 zh-TW；路徑動作原名、參數、資料格式、動態 ActionsList tooltip 與 enum 原值刻意保留。指令 token、IPC、Addon、列舉／序列化值、路徑格式、導航判斷與自動化未變更 |
+| Artisan | 已完成 | 4.0.4.13；完成主要設定、CraftMenu、QuestHelper、主模擬器、Veyn 模擬器、Raphael 快取、製作清單、配方與材料等可見介面；DebugTab、內部 ID、命令、IPC、序列化、遊戲資料、求解與自動化未變更 |
+| AutoDuty | 已完成 | 0.0.0.6；完成主視窗頁籤、路徑編輯／管理、狀態、快速按鈕、指令說明、練等模式、排隊、修理、分解、精製、寶箱、大國防聯軍、九宮幻卡與住宅移動等一般使用者介面；開發者面板、路徑動作識別名稱、enum 原值、路徑附註與 hidden ID 保留，功能資料與自動化未變更 |
 | Rotation Solver Reborn | 第二輪完成 | 7.3.5.2；集中顯示層 211 個 `Description` 外，補齊命令說明、目標排序／交戰模式、重設設定、歡迎／更新記錄、相容性表格、AutoDuty 診斷、優先順序、狀態／技能清單、備份還原、控制窗與時間軸；剩餘為 Debug 頁、遠端提交原文與少量內部 enum 顯示。技能／狀態鍵、指令 token、循環判斷、IPC 與序列化未變更 |
 | Boss Mod | 第一輪完成 | 0.1.4.2；完成核心設定、循環預設、模組檢視、隊伍職責、AI 與重播管理介面；戰鬥模組資料、ID 與功能流程未變更 |
 | Bossmod Reborn | 第二輪完成 | 7.3.8.4；新增 184 組首領模組／雷達、技能調整與子頁、自動循環、AI、區域自動化、重播、配色及模組品質／類型說明；剩餘為開發／偵錯、重播分析細節、職業策略名稱與大量戰鬥模組提示。戰鬥模組資料、ID、IPC 與功能流程未變更 |

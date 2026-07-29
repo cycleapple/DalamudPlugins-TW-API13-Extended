@@ -28,20 +28,20 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Splatoon | 3.8.2.4 | 場景繪製點、線、面 | 已發布；補齊配置管理、版面／元素編輯、腳本狀態與相容性警告 zh-TW；保留台服 7.3 MapEffect hooks |
 | Wrath Combo | 1.0.1.19 | 整合連段 | 已發布；主導航、PvE／PvP、自動循環與主要設定介面完成 zh-TW |
 | AntiAfkKick | 2.1.0.10 | 防止閒置斷線 | 已發布；繁中插件說明，插件本身無設定介面 |
-| AutoRetainer | 4.5.1.26 | 雇員相關功能 | 已發布；新增探索載具主頁、航線／解鎖規劃器與多角色設定 zh-TW |
+| AutoRetainer | 4.5.1.27 | 雇員相關功能 | 已發布；一般使用者可見的雇員、探索載具、多重模式、角色與進階設定介面均已完成 zh-TW |
 | Saucy | 1.4.2.9 | 金碟相關功能 | 已發布；完成 zh-TW 主介面與九宮幻卡資源翻譯 |
 | NoClippy | 0.5.0.20 | 改善技能延遲 | 已發布；完成 zh-TW 介面翻譯 |
 | NecroLens | 1.0.8.12 | 深層迷宮輔助 | 已發布；完整介面資源已轉為台灣繁中；保留 API13 型別相容修補 |
 | MidiBard 2 | 3.2.1.3 | 樂器演奏 | 已發布；API14 型別誤用前的安全節點；補齊 zh-TW 介面資源 |
 | GatherBuddy Reborn | 7.3.5.4 | 採集輔助 | 已發布；修正下次時間欄位的 GBK／UTF-8 亂碼，時間單位與狀態顯示正常 |
-| Artisan | 4.0.4.12 | 生產輔助 | 已發布；補齊製作清單編輯器、配方視窗與材料表格 zh-TW |
+| Artisan | 4.0.4.13 | 生產輔助 | 已發布；完成設定、製作選單、任務協助、模擬器、配方與材料等一般使用者介面 zh-TW |
 | Burning Down the House | 1.7.1.1 | 房屋裝修 | 已發布；完成主控制、操作軸、吸附、家具清單與錯誤提示 zh-TW 翻譯 |
 | Raphael.Dalamud | 0.0.5.1 | 生產求解器／依賴庫 | 已發布；無設定視窗，已完成 manifest zh-TW 翻譯 |
 | Something Need Doing | 0.0.0.1 | 巨集擴展 | 已發布；完成設定、說明、彈窗與 manifest zh-TW 翻譯 |
 | TextAdvance | 3.2.4.8 | 對話自動處理 | 已發布、繁中介面 |
-| Lifestream | 2.5.3.4 | 傳送輔助 | 已發布；保留台服資料中心 151 世界清單修正，補齊 Custom Alias 與 PaissaDB 介面 zh-TW |
+| Lifestream | 2.5.3.5 | 傳送輔助 | 已發布；完成房屋路徑、跨服限制、Wotsit、浮層、通訊錄、Custom Alias 與 PaissaDB 介面 zh-TW |
 | vnavmesh | 1.1.2.3 | 尋路與移動工具 | 已發布；完成主要介面 zh-TW；依 festival/layout 階段套用月面客製路徑，修正台服 7.3 月面 polygon 對應失敗 |
-| AutoDuty | 0.0.0.5 | 副本自動化框架 | 已發布 API13；補齊路徑編輯器、路徑管理與資訊／相依插件說明 zh-TW |
+| AutoDuty | 0.0.0.6 | 副本自動化框架 | 已發布 API13；完成一般使用者主窗、路徑、狀態、設定、提示與錯誤介面 zh-TW |
 | Pixel Perfect | 3.3.2.1 | 顯示角色碰撞圈 | 已發布；完成 zh-TW 介面翻譯 |
 | LazyLoot | 5.3.2.5 | 戰利品擲骰輔助 | 已發布；完成 zh-TW 介面、指令說明與診斷訊息翻譯 |
 | Questionable | 13.68.129.5 | 任務輔助 | 已發布；補齊任務優先順序、任務日誌、友好部族額度、單人戰鬥與進階設定 zh-TW |
