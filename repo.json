@@ -445,17 +445,17 @@
     "Author": "veyn",
     "Name": "Boss Mod",
     "InternalName": "BossMod",
-    "AssemblyVersion": "0.1.4.2",
-    "TestingAssemblyVersion": "0.1.4.2",
+    "AssemblyVersion": "0.1.4.3",
+    "TestingAssemblyVersion": "0.1.4.3",
     "Description": "提供首領機制提示、戰鬥雷達、自動循環、冷卻規劃與 AI 輔助；核心介面已完成 zh-TW。",
     "Punchline": "首領機制與站位輔助。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/ffxiv_bossmod",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossMod-0.1.4.2.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossMod-0.1.4.2.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossMod-0.1.4.2.zip"
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossMod-0.1.4.3.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossMod-0.1.4.3.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossMod-0.1.4.3.zip"
   },
   {
     "Author": "The Combat Reborn Team",

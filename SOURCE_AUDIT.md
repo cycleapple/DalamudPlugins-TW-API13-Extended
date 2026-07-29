@@ -4,7 +4,7 @@
 
 | 插件 | 上游 | 截止 commit | 日期（UTC） | 初步結果 |
 |---|---|---|---|---|
-| Bossmod／Boss Mod | `awgil/ffxiv_bossmod` | `381151125` | 2025-11-29 | API13 編譯成功；`cycleapple/ffxiv_bossmod@18d802ea0` 保留台服 7.3 相容修正並完成核心設定、循環、模組與重播介面 zh-TW；0 警告、0 錯誤，發布 0.1.4.2。後續開始使用 API14 `IPlayerState` |
+| Bossmod／Boss Mod | `awgil/ffxiv_bossmod` | `381151125` | 2025-11-29 | API13 編譯成功；`cycleapple/ffxiv_bossmod@2d2c09056de23d599e3e2811088186c2692e6204` 保留台服 7.3 相容修正並完成一般使用者介面 zh-TW；0 警告、0 錯誤，發布 0.1.4.3。後續開始使用 API14 `IPlayerState` |
 | Bossmod Reborn | `FFXIV-CombatReborn/BossmodReborn` | `9222b6062` / tag `7.3.8.1` | 2025-11-24 | API13 編譯成功；`cycleapple/BossmodReborn@e4762dd78741419b7f03b71431b911f77fdf7370` 保留台服 ClientStructs 與 Dalamud 型別修正，完成一般使用者介面 zh-TW；另保留 9 處供 .NET9 建置的語意等價 null 判斷，0 警告、0 錯誤，發布 7.3.8.5。後續節點已使用 API14 型別 |
 | Rotation Solver Reborn | `FFXIV-CombatReborn/RotationSolverReborn` | `4907d030` / tag `7.3.5.0` | 2025-10-07 | `cycleapple/RotationSolverReborn@939b5182c6aea1df9076e89edeb030e399b638dc` 保留 net9 相容 Lumina.Excel 並完成一般使用者介面 zh-TW；API13 建置 0 錯誤、1 個既有 XML 註解警告，發布 7.3.5.3。較晚的 7.3.8.x 雖標 API13，已使用 API14 型別 |
 | Splatoon | `PunishXIV/Splatoon` | `ae37f2b` / tag `3.8.1.5` | 2025-08-28 | `cycleapple/Splatoon@d1873a6` 保留 301 個查詢鍵、台服 7.3 MapEffect 修正與功能邏輯，完成一般使用者介面 zh-TW；API13 建置 0 錯誤、3 個既有參考警告，發布 3.8.2.5 |
