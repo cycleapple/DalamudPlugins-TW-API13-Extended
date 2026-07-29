@@ -9,6 +9,7 @@
 | Rotation Solver Reborn | `FFXIV-CombatReborn/RotationSolverReborn` | `4907d030` / tag `7.3.5.0` | 2025-10-07 | `cycleapple/RotationSolverReborn@939b5182c6aea1df9076e89edeb030e399b638dc` 保留 net9 相容 Lumina.Excel 並完成一般使用者介面 zh-TW；API13 建置 0 錯誤、1 個既有 XML 註解警告，發布 7.3.5.3。較晚的 7.3.8.x 雖標 API13，已使用 API14 型別 |
 | Splatoon | `PunishXIV/Splatoon` | `ae37f2b` / tag `3.8.1.5` | 2025-08-28 | `cycleapple/Splatoon@d1873a6` 保留 301 個查詢鍵、台服 7.3 MapEffect 修正與功能邏輯，完成一般使用者介面 zh-TW；API13 建置 0 錯誤、3 個既有參考警告，發布 3.8.2.5 |
 | Wrath Combo | `MeowZWR/WrathCombo` | `3b968ca32` | 2025-08-05 | API13 編譯成功；`cycleapple/WrathCombo@7d8e4594f` 完成使用者介面 zh-TW；保留技能／狀態資料、遊戲文字比對、IPC token、ID 與戰鬥邏輯。10 個既有相依警告、0 錯誤，發布 1.0.1.20。12 月節點雖仍標 API13，但已使用新版 Dalamud 型別，不相容台服 API13 |
+| MapLinker | `Bluefissure/MapLinker` | `466c7c7753bf45590e504c6b32e0667b1750dabf` | 2025-08-17 | `cycleapple/MapLinker@8ef3ab1eec6c5fedacfca0b3a0293d90db4433fb` 完成一般使用者介面 zh-TW；保留聊天類型、指令 token、地圖連結解析、設定鍵與功能流程，發布 1.1.11.2 |
 | AntiAfkKick | `NightmareXIV/AntiAfkKick` | `7a0ebaa8` | 2025-08-07 | `cycleapple/AntiAfkKick@8689ea7` 僅翻譯插件安裝頁說明；插件本身無設定介面；API13 編譯 0 警告、0 錯誤，發布 2.1.0.10 |
 | AutoRetainer | `PunishXIV/AutoRetainer` | `1e4e6b6` / tag `4.5.1.12` | 2025-08-15 | API13 編譯成功；`cycleapple/AutoRetainer@4ccc944` 保留繁中公會工坊／組件功能比對並完成一般使用者可見介面，enum 僅透過 UI dictionary 顯示繁中；7 個既有 PInvoke 警告、0 錯誤，發布 4.5.1.27 |
 | Saucy | `PunishXIV/Saucy` | `8e8d5949` | 2025-08-15 | 台服修正 `cycleapple/Saucy@a79b1c5`；`cycleapple/Saucy@5c751d1` 翻譯主介面與九宮幻卡 zh 資源，並修正語言檔未嵌入 DLL 的問題；API13 編譯成功（8 個上游警告、0 錯誤），發布 1.4.2.9 |
