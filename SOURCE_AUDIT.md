@@ -43,3 +43,4 @@
 | Marketbuddy | `PunishXIV/Marketbuddy` | `cf9d24d` | 2025-08-07 | DalamudPackager 13.0.0 並直接連結台服 API13 DLL 編譯成功，發布 0.2.4.0 |
 | JobBars | `0ceal0t/JobBars` | `48cbbce` | 2025-08-16 | SDK 與 manifest 均為 API13；`cycleapple/JobBars@api13-tw` 使用原始鎖定的 KamiToolKit 節點，以台服 API13 編譯成功並發布 1.3.2.1 |
 | NotificationMaster | `NightmareXIV/NotificationMaster` | `8674bc5` | 2025-11-05 | manifest 與 DalamudPackager 為 API13、ECommons 鎖定 `3.0.0.18-api13`；`cycleapple/NotificationMaster@api13-tw` 使用原始 NotificationMasterAPI 子模組，以台服 API13 編譯成功並發布 2.1.1.11 |
+| CBT（Automaton） | `Jaksuhn/ffxiv-bundleoftweaks` | `80d0545` / tag `v69.103` | 2025-11-16 | 11 月 16 日稍後開始引用台服 API13 不存在的 `TerritoryIntendedUse`，11 月底又改用較新 `AgentReturn`；`cycleapple/ffxiv-bundleoftweaks@c6baead` 將 `BaseId`／`IPartyMember.EntityId` 對應回 API13 介面，以台服 DLL 編譯成功並發布 69.103.0.0 |

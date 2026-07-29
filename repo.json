@@ -867,5 +867,32 @@
     "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/NotificationMaster-2.1.1.11.zip",
     "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/NotificationMaster-2.1.1.11.zip",
     "AcceptsFeedback": true
+  },
+  {
+    "Author": "croizat",
+    "Name": "CBT",
+    "InternalName": "Automaton",
+    "AssemblyVersion": "69.103.0.0",
+    "TestingAssemblyVersion": "69.103.0.0",
+    "Description": "Tweaks that are sometimes simple, sometimes not. Taiwan 7.3 / Dalamud API13 build.",
+    "Punchline": "多功能自動化與便利調整合集",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/ffxiv-bundleoftweaks",
+    "Tags": [
+      "automation",
+      "plugin"
+    ],
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Automaton-69.103.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Automaton-69.103.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Automaton-69.103.0.0.zip",
+    "AcceptsFeedback": true
   }
 ]
