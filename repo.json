@@ -397,7 +397,7 @@
     "Author": "Taurenkey (Puni.sh)",
     "Name": "Artisan",
     "InternalName": "Artisan",
-    "AssemblyVersion": "4.0.4.10",
+    "AssemblyVersion": "4.0.4.11",
     "TestingAssemblyVersion": "4.0.4.10",
     "Description": "生產與製作自動化輔助；製作浮窗、耐久製作、巨集與製作清單核心介面已完成 zh-TW。",
     "Punchline": "生產與製作自動化輔助。",
@@ -405,9 +405,9 @@
     "RepoUrl": "https://github.com/cycleapple/Artisan",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.10.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.10.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.10.zip"
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.11.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.11.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.11.zip"
   },
   {
     "Author": "Herculezz, erdelf",
@@ -509,7 +509,7 @@
     "Author": "liza, qstxiv, & various contributors",
     "Name": "Questionable",
     "InternalName": "Questionable",
-    "AssemblyVersion": "13.68.129.4",
+    "AssemblyVersion": "13.68.129.5",
     "TestingAssemblyVersion": "13.68.129.4",
     "Description": "使用 vnavmesh、TextAdvance 與 Lifestream 的任務助手；主視窗、設定、相依、任務狀態、停止條件、日誌與通知已完成 zh-TW 翻譯。",
     "Punchline": "任務路徑與流程助手。",
@@ -517,9 +517,9 @@
     "RepoUrl": "https://github.com/cycleapple/Questionable",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Questionable-13.68.129.4.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Questionable-13.68.129.4.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Questionable-13.68.129.4.zip"
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Questionable-13.68.129.5.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Questionable-13.68.129.5.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Questionable-13.68.129.5.zip"
   },
   {
     "Author": "Liza Carvelli",
@@ -1151,8 +1151,8 @@
     "Author": "Infi, Anna",
     "Name": "Chat 2",
     "InternalName": "ChatTwo",
-    "AssemblyVersion": "1.32.0.1",
-    "TestingAssemblyVersion": "1.32.0.1",
+    "AssemblyVersion": "1.32.0.2",
+    "TestingAssemblyVersion": "1.32.0.2",
     "Description": "A complete replacement for the in-game chat window with unlimited tabs, flexible filtering, fonts, colours, emotes, unread counts, and a local web interface. Taiwan 7.3 / Dalamud API13 build.",
     "Punchline": "功能完整且高度自訂的遊戲聊天視窗替代方案",
     "ApplicableVersion": "any",
@@ -1171,9 +1171,9 @@
     "LoadPriority": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ChatTwo-1.32.0.1.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ChatTwo-1.32.0.1.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ChatTwo-1.32.0.1.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ChatTwo-1.32.0.2.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ChatTwo-1.32.0.2.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ChatTwo-1.32.0.2.zip",
     "AcceptsFeedback": true
   },
   {

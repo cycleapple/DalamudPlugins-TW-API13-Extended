@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | NecroLens | 1.0.8.12 | 深層迷宮輔助 | 已發布；完整介面資源已轉為台灣繁中；保留 API13 型別相容修補 |
 | MidiBard 2 | 3.2.1.3 | 樂器演奏 | 已發布；API14 型別誤用前的安全節點；補齊 zh-TW 介面資源 |
 | GatherBuddy Reborn | 7.3.5.3 | 採集輔助 | 已發布；補齊釣魚統計、釣場資訊、鬧鐘、採集組與多重提鉤介面 zh-TW |
-| Artisan | 4.0.4.10 | 生產輔助 | 已發布；製作浮窗、耐久製作、巨集與製作清單介面完成 zh-TW |
+| Artisan | 4.0.4.11 | 生產輔助 | 已發布；補齊巨集編輯器、批次配方、製作清單執行與右鍵選單 zh-TW |
 | Burning Down the House | 1.7.1.1 | 房屋裝修 | 已發布；完成主控制、操作軸、吸附、家具清單與錯誤提示 zh-TW 翻譯 |
 | Raphael.Dalamud | 0.0.5.1 | 生產求解器／依賴庫 | 已發布；無設定視窗，已完成 manifest zh-TW 翻譯 |
 | Something Need Doing | 0.0.0.1 | 巨集擴展 | 已發布；完成設定、說明、彈窗與 manifest zh-TW 翻譯 |
@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | AutoDuty | 0.0.0.3 | 副本自動化框架 | 已發布 API13；補齊次級設定、循環間動作、裝備／修理／消耗品與整合介面 zh-TW |
 | Pixel Perfect | 3.3.2.1 | 顯示角色碰撞圈 | 已發布；完成 zh-TW 介面翻譯 |
 | LazyLoot | 5.3.2.5 | 戰利品擲骰輔助 | 已發布；完成 zh-TW 介面、指令說明與診斷訊息翻譯 |
-| Questionable | 13.68.129.4 | 任務輔助 | 已發布；完成主視窗、設定、任務狀態、停止條件、日誌與通知 zh-TW 翻譯 |
+| Questionable | 13.68.129.5 | 任務輔助 | 已發布；補齊任務優先順序、任務日誌、友好部族額度、單人戰鬥與進階設定 zh-TW |
 | YesAlready | 0.0.0.1 | 自動確認對話 | 已發布；完成主設定、各分頁、Bothers 說明與提示 zh-TW 翻譯 |
 | Price Insight | 2.11.3.1 | 顯示市場價格 | 已發布、繁中介面 |
 | Gearsetter | 4.0.0.1 | 裝備升級建議 | 已發布；完成設定、裝備比較、屬性與提示 zh-TW 翻譯 |
@@ -71,7 +71,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | AutoMinion | 1.0.0.2 | 進入房屋時收起寵物，離開時重新召喚 | 已發布；完成 zh-TW 介面翻譯；由較早來源移植，風險較高 |
 | XIV 藏寶圖工具小幫手 | 0.1.9.2 | 繁中藏寶圖組隊協作與網頁同步 | 已發布；介面術語完成 zh-TW 複核 |
 | Visland | 0.0.0.138 | 無人島採集、工坊排程與活動自動化 | 已發布；完成採集路線、工房、穀倉、耕地、放牧地與出口交易 zh-TW 翻譯 |
-| Chat 2 | 1.32.0.1 | 高度自訂的遊戲聊天視窗替代方案 | 已發布；完成 zh-TW 介面第一輪校訂，並更新已知有漏洞的 MessagePack／SQLite 依賴 |
+| Chat 2 | 1.32.0.2 | 高度自訂的遊戲聊天視窗替代方案 | 已發布；補齊資料庫維護、搜尋、字體重設與內建 Web 聊天介面 zh-TW |
 | Doorbell | 1.0.4.1 | 有人進出房屋時播放門鈴提示音 | 已發布；完成 zh-TW 介面翻譯 |
 | MultiHit | 0.0.4.1 | 將傷害浮動文字依動畫拆分為多段 | 已發布；完成 zh-TW 介面翻譯 |
 | Namingway | 1.1.17.1 | 自訂技能與狀態效果顯示名稱 | 已發布；完成 zh-TW 介面翻譯 |
