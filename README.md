@@ -73,7 +73,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Visland | 0.0.0.137 | 無人島採集、工坊排程與活動自動化 | 已發布；原生 API13 安全節點並完成 `BaseId` 相容修正 |
 | Chat 2 | 1.32.0.1 | 高度自訂的遊戲聊天視窗替代方案 | 已發布；完成 zh-TW 介面第一輪校訂，並更新已知有漏洞的 MessagePack／SQLite 依賴 |
 | Doorbell | 1.0.4.1 | 有人進出房屋時播放門鈴提示音 | 已發布；完成 zh-TW 介面翻譯 |
-| MultiHit | 0.0.4.0 | 將傷害浮動文字依動畫拆分為多段 | 已發布；原生 API13 安全節點 |
+| MultiHit | 0.0.4.1 | 將傷害浮動文字依動畫拆分為多段 | 已發布；完成 zh-TW 介面翻譯 |
 | Namingway | 1.1.17.0 | 自訂技能與狀態效果顯示名稱 | 已發布；由 API12 原始碼實際移植至 API13 |
 
 Questionable 的台服建置停用了程式內「放棄任務」原生命令；需要放棄任務時請使用遊戲任務日誌。此限制不影響任務路徑、對話、傳送或 vnavmesh 導航。

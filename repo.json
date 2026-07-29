@@ -1181,8 +1181,8 @@
     "Author": "Bluefissure",
     "Name": "MultiHit",
     "InternalName": "MultiHit",
-    "AssemblyVersion": "0.0.4.0",
-    "TestingAssemblyVersion": "0.0.4.0",
+    "AssemblyVersion": "0.0.4.1",
+    "TestingAssemblyVersion": "0.0.4.1",
     "Description": "Splits combined damage flytext into multiple hits matching an action's animation. Taiwan 7.3 / Dalamud API13 build.",
     "Punchline": "依技能動畫將合併的傷害浮動文字拆分為多段",
     "ApplicableVersion": "any",
@@ -1196,9 +1196,9 @@
     "LoadPriority": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MultiHit-0.0.4.0.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MultiHit-0.0.4.0.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MultiHit-0.0.4.0.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MultiHit-0.0.4.1.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MultiHit-0.0.4.1.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MultiHit-0.0.4.1.zip",
     "AcceptsFeedback": true
   },
   {
