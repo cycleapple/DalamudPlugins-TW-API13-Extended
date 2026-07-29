@@ -63,6 +63,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | NotificationMaster | 2.1.1.11 | 遊戲事件與背景通知 | 已發布；台服 7.3／API13 安全節點 |
 | CBT | 69.103.0.0 | Automaton 多功能自動化與便利調整 | 已發布；v69.103 台服 API13 相容修正版 |
 | GatheringPathRenderer | 0.10 | 顯示採集節點路徑與位置 | 已發布；Questionable 開發工具，台服 API13 相容修正版 |
+| Deliveroo | 7.4 | 軍隊籌備品自動繳納輔助 | 已發布；官方 API13 節點 |
 
 Questionable 的台服建置停用了程式內「放棄任務」原生命令；需要放棄任務時請使用遊戲任務日誌。此限制不影響任務路徑、對話、傳送或 vnavmesh 導航。
 

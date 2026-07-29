@@ -921,5 +921,33 @@
     "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/GatheringPathRenderer-0.10.zip",
     "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/GatheringPathRenderer-0.10.zip",
     "AcceptsFeedback": true
+  },
+  {
+    "Author": "Liza Carvelli",
+    "Name": "Deliveroo",
+    "InternalName": "Deliveroo",
+    "AssemblyVersion": "7.4",
+    "TestingAssemblyVersion": "7.4",
+    "Description": "Better Grand Company Deliveries. Taiwan 7.3 / Dalamud API13 build.",
+    "Punchline": "軍隊籌備品自動繳納輔助",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/Deliveroo",
+    "IconUrl": "https://raw.githubusercontent.com/cycleapple/Deliveroo/api13-tw/Deliveroo/Deliveroo.png",
+    "Tags": [
+      "grand company",
+      "delivery"
+    ],
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Deliveroo-7.4.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Deliveroo-7.4.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Deliveroo-7.4.zip",
+    "AcceptsFeedback": true
   }
 ]

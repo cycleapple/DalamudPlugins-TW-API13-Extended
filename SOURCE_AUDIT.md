@@ -45,3 +45,4 @@
 | NotificationMaster | `NightmareXIV/NotificationMaster` | `8674bc5` | 2025-11-05 | manifest 與 DalamudPackager 為 API13、ECommons 鎖定 `3.0.0.18-api13`；`cycleapple/NotificationMaster@api13-tw` 使用原始 NotificationMasterAPI 子模組，以台服 API13 編譯成功並發布 2.1.1.11 |
 | CBT（Automaton） | `Jaksuhn/ffxiv-bundleoftweaks` | `80d0545` / tag `v69.103` | 2025-11-16 | 11 月 16 日稍後開始引用台服 API13 不存在的 `TerritoryIntendedUse`，11 月底又改用較新 `AgentReturn`；`cycleapple/ffxiv-bundleoftweaks@c6baead` 將 `BaseId`／`IPartyMember.EntityId` 對應回 API13 介面，以台服 DLL 編譯成功並發布 69.103.0.0 |
 | GatheringPathRenderer | `PunishXIV/Questionable` | `34735346f` / tag `v13.68.129.2` | 2025-12-15 | 與 Questionable 使用同一 API13 安全基線；`cycleapple/Questionable@b4303ebb8` 將獨立採集路徑工具的 `IGameObject.BaseId` 對應回台服 API13 `DataId`，編譯 0 警告、0 錯誤並發布 0.10 |
+| Deliveroo | `VeraNala/Deliveroo` | `76abfc8` / tag `v7.4` | 2025-08-07 | 上游明確標記「7.4 API13」；鎖定 `qstxiv/LLib@f1716ee`，`cycleapple/Deliveroo@926d453` 以台服 API13 DLL 編譯成功（僅 1 個上游複雜度警告）並發布 7.4 |
