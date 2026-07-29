@@ -79,19 +79,19 @@
 | Submarine Tracker | `Infiziert90/SubmarineTracker` | `7167f242` | 2025-11-17 | API14 切換前最後的 SDK13 節點；`cycleapple/SubmarineTracker@44f1f54` 將 MessagePack 3.1.4 更新為無已知 NuGet 漏洞的 3.1.8，台服 Dalamud 13.0.0.8 編譯成功（4 個既有 nullable／未使用欄位警告、0 錯誤），發布 2.0.2.1 |
 | Party Icons | `nebel/xivPartyIcons`（`shdwp/xivPartyIcons` fork 家族） | `22e5bb8a` | 2025-08-07 | 原始 `shdwp` 倉庫停在 2023 年 net7，採用同一 fork 家族中明確標示 API13 的維護節點；`cycleapple/xivPartyIcons@34de4cc` 以台服 Dalamud 13.0.0.8 編譯成功（4 個既有 nullable／未使用變數警告、0 錯誤），發布 1.2.3.2 |
 | RezPls | `Ottermandias/RezPls` | `53cffe4b` | 2025-09-06 | 截止日期內最後的 SDK13 節點；上游於 2025-12-18 才發布後續版本並切換新版 SDK；`cycleapple/RezPls@fef85ac` 以台服 Dalamud 13.0.0.8 編譯成功，0 警告、0 錯誤，NuGet 漏洞掃描零筆，發布 1.5.2.1 |
-| FlyTextFilter | `Aireil/FlyTextFilter` | `8b9ff55` | 2025-08-06 | 上游在 2025-08-05 依序完成台服 7.3 signature、SDK13、FlyTextKind 與 ImGui bindings 修正，隔日發布 4.4.0.0；2025-12-18 才切換 API14。`cycleapple/FlyTextFilter@8a36d7e` 更新 fork 資訊與繁中 manifest，以台服 Dalamud 13.0.0.8 編譯 0 警告、0 錯誤，發布 4.4.0.1 |
+| FlyTextFilter | `Aireil/FlyTextFilter` | `8b9ff55` | 2025-08-06 | 上游在 2025-08-05 依序完成台服 7.3 signature、SDK13、FlyTextKind 與 ImGui bindings 修正，隔日發布 4.4.0.0；2025-12-18 才切換 API14。`cycleapple/FlyTextFilter@4f01a0c` 完成主要 zh-TW 介面，以台服 API13 編譯並發布 4.4.0.2 |
 | Allagan Market | `Critical-Impact/AllaganMarket` | `334b5036b` | 2025-10-17 | 指定日期窗內最後版本，已包含 API13 遷移與 MarketPriceUpdater hook 簽章修正；`cycleapple/AllaganMarket@88ec1706` 新增 269 組 zh-TW 資源並保持 14 個 CSV 欄位識別為英文，以台服 Dalamud 13.0.0.8 編譯成功（155 個既有警告、0 錯誤），封裝四個 AllaganLib DLL 並發布 1.2.0.8 |
 | Allagan Tools | `Critical-Impact/InventoryTools` | `c542405ba` / tag `13.1.9` | 2025-11-25 | 指定日期窗內最後正式 API13 tag，包含非英文語言與 history 載入修正；保留 CriticalCommonLib、OtterGui、OtterGuiInternal 固定節點；`cycleapple/InventoryTools@7355e7ab` 完成 648 個實際介面鍵、1,465 筆有效 zh-TW 資源，API13 完整重建 0 錯誤，發布 1.13.1.12 |
 | Allagan Item Search | `Critical-Impact/AllaganItemSearch` | `b98604801` | 2025-08-09 | 指定日期窗內唯一提交且明確標記 API13；無原生 hook 或 git submodule；`cycleapple/AllaganItemSearch@ec56178e` 新增 236 個 zh-TW 資源鍵並覆蓋 119/119 renderer 名稱，以台服 Dalamud 13.0.0.8 編譯成功（862 個既有 nullable／StyleCop 警告、0 錯誤），發布 1.0.0.4 |
-| Title Edit | `RokasKil/TitleEdit` | `22610f1e` | 2025-12-07 | 採用上游 v3.0.6.2 的 API13 節點；`cycleapple/TitleEdit@c3e3ce67` 加入台服 Dalamud 服務相容修正，發布 3.0.6.20 |
-| MonsterDex | `wolfcomp/MonsterDex` | `3241c74e` | 2025-10-29 | 採用上游 v2.13.6 API13 發布節點；`cycleapple/MonsterDex@feb9f4d5` 內含繁中資料與字型，發布 2.13.6.1 |
+| Title Edit | `RokasKil/TitleEdit` | `22610f1e` | 2025-12-07 | 採用上游 v3.0.6.2 的 API13 節點；`cycleapple/TitleEdit@399c186` 完成核心 zh-TW 介面，並改用 `IsMountUnlocked` 以相容台服 API13 ClientStructs，發布 3.0.6.21 |
+| MonsterDex | `wolfcomp/MonsterDex` | `3241c74e` | 2025-10-29 | 採用上游 v2.13.6 API13 發布節點；`cycleapple/MonsterDex@cbe5f57` 搭配 `api13-tw-l10n@262a33e` 完成 zh-TW 介面與資料分支，發布 2.13.6.2 |
 | High FPS Physics Fix | `LunaYup/xivlauncher_physics_plugin` | `7cadd26f` | 2025-08-06 | 採用切換至 Dalamud.NET.Sdk 後的 API13 節點；`cycleapple/xivlauncher_physics_plugin@82249e88` 加入繁中介面，發布 8.3.0.1 |
-| Orchestrion Plugin | `perchbirdd/OrchestrionPlugin` | `3496bbec` | 2025-08-07 | 採用完成 7.3 更新後的 API13 版本節點；`cycleapple/OrchestrionPlugin@7a917390` 發布 2.2.0.12 |
-| CrossUp | `ItsBexy/CrossUp` | `96daa53b` | 2025-09-03 | 採用上游 1.7.1.1 的 7.31／API13 節點；`cycleapple/CrossUp@a5174620` 完成台服建置與鎖檔，發布 1.7.1.13 |
-| TriadBuddy | `MgAl2O4/FFTriadBuddyDalamud` | `acb68f2d` | 2025-08-11 | 採用 API13／7.3 安全節點；`cycleapple/FFTriadBuddyDalamud@4888a795` 發布 1.13.0.1 |
-| MeterWay | `CondeSaheki/MeterWay` | `67036051` | 2025-04-12 | 安全日期窗內沒有上游提交，採用最後正式版 v1.0.16 並由 `cycleapple/MeterWay@ced447ca` 進行最小 API13 移植，發布 1.0.17.0 |
-| Death Recap | `Kouzukii/ffxiv-deathrecap` | `fdc149f4` | 2025-08-10 | 採用上游 API13 更新後的安全節點；`cycleapple/ffxiv-deathrecap@2102bdd8` 發布 1.13.2.2 |
-| Teleporter | `pohky/TeleporterPlugin` | `98a943a9` | 2025-08-07 | 上游於 `21434980` 明確更新 API13，採用其合併節點；下一次 API14 更新為 2025-12-17。`cycleapple/TeleporterPlugin@c80f7bb1` 以台服 API13 編譯 0 警告、0 錯誤，發布 2.0.2.8 |
-| DailyDuty | `MidoriKami/DailyDuty` | `bff73018` | 2025-08-22 | 採用 API13 更新後安全日期範圍內的最後節點；`cycleapple/DailyDuty@e402aa38` 固定 `cycleapple/KamiToolKit@b2327a0b`，以 `ushort` 相容台服 ClientStructs timeline label，編譯 0 警告、0 錯誤，發布 5.3.2.13 |
-| ezMiniCactpot | `MidoriKami/MiniCactpotSolver` | `761b4e22` | 2025-08-26 | 採用修正 LoadConfigFile 後的 API13 節點，並固定 2025-09-02 的 KamiToolKit ClientStructs 相容節點；`cycleapple/EzMiniCactpot@5b7f5591` 編譯 0 錯誤，發布 3.0.0.3 |
-| PingPlugin | `karashiiro/PingPlugin` | `5c0df982` | 2025-08-07 | 採用上游明確標記 API13 的最後安全節點；`cycleapple/PingPlugin@93b1eb1` 從遊戲程序 TCP 連線表取得世界伺服器 IP 與連接埠，改以 TCP handshake 計時，完全不呼叫 ICMP；台服 API13 編譯與本機 TCP listener 回歸測試通過，發布 2.9.0.1 |
+| Orchestrion Plugin | `perchbirdd/OrchestrionPlugin` | `3496bbec` | 2025-08-07 | 採用完成 7.3 更新後的 API13 節點；`cycleapple/OrchestrionPlugin@9272d64` 完成 115 鍵 zh-TW 介面並發布 2.2.0.13 |
+| CrossUp | `ItsBexy/CrossUp` | `96daa53b` | 2025-09-03 | 採用上游 1.7.1.1 的 7.31／API13 節點；`cycleapple/CrossUp@c66ec1f` 完成 121 鍵 zh-TW 介面並發布 1.7.1.14 |
+| TriadBuddy | `MgAl2O4/FFTriadBuddyDalamud` | `acb68f2d` | 2025-08-11 | 採用 API13／7.3 安全節點；`cycleapple/FFTriadBuddyDalamud@9dbf132` 修復中文亂碼並完成 64 鍵 zh-TW，發布 1.13.0.2 |
+| MeterWay | `CondeSaheki/MeterWay` | `67036051` | 2025-04-12 | 安全日期窗內沒有上游提交，採用最後正式版 v1.0.16；`cycleapple/MeterWay@d0019dc` 在最小 API13 移植上完成主要 zh-TW 介面，發布 1.0.17.1 |
+| Death Recap | `Kouzukii/ffxiv-deathrecap` | `fdc149f4` | 2025-08-10 | 採用上游 API13 更新後的安全節點；`cycleapple/ffxiv-deathrecap@c95d352` 完成主要 zh-TW 介面並發布 1.13.2.3 |
+| Teleporter | `pohky/TeleporterPlugin` | `98a943a9` | 2025-08-07 | 上游於 `21434980` 明確更新 API13，下一次 API14 更新為 2025-12-17；`cycleapple/TeleporterPlugin@977aa28` 完成 zh-TW 介面並發布 2.0.2.9 |
+| DailyDuty | `MidoriKami/DailyDuty` | `bff73018` | 2025-08-22 | 採用 API13 安全節點並固定台服相容 KamiToolKit；`cycleapple/DailyDuty@0c4ba7a0` 完成 216 鍵 zh-TW 資源並發布 5.3.2.14 |
+| ezMiniCactpot | `MidoriKami/MiniCactpotSolver` | `761b4e22` | 2025-08-26 | 採用修正 LoadConfigFile 後的 API13 節點及相容 KamiToolKit；`cycleapple/EzMiniCactpot@eef2252` 完成 zh-TW 介面並發布 3.0.0.4 |
+| PingPlugin | `karashiiro/PingPlugin` | `5c0df982` | 2025-08-07 | 採用上游最後 API13 安全節點；`cycleapple/PingPlugin@f6a8386` 保留台服 TCP handshake 量測並完整校訂 zh-TW 介面，發布 2.9.0.2 |

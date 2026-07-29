@@ -100,22 +100,22 @@
 | Submarine Tracker | 已完成 | 2.0.2.2；zh-TW 資源 463/463 鍵且 placeholder 完全一致，另完成指令、視窗標題、表格與 manifest；IPC、設定鍵、資料 ID、Excel 查詢、航程收益計算與功能比對字串未變更 |
 | Party Icons | 已完成 | 1.2.3.3；完成設定、名牌、外觀、狀態圖示、聊天名稱、團隊站位、升級指南、指令與提示介面；名牌判定、位置邏輯、hook、ID 與設定格式未變更 |
 | RezPls | 已完成 | 1.5.2.3；完成設定、tooltip、場景狀態、指令說明與顯示術語；復活／可驅散判斷、狀態 ID、hook、IPC 與序列化未變更 |
-| FlyTextFilter | 待處理 | 4.4.0.1；本批完成 API13 安全節點、繁中 manifest 與正式發布，插件內大型硬編碼設定介面尚待 zh-TW 翻譯 |
+| FlyTextFilter | 部分完成 | 4.4.0.2；完成主設定分頁、類型名稱、位置縮放、黑名單、紀錄、類型說明與 manifest；TypesTable 匯入匯出及 Misc 少量深層長篇提示留待下一輪 |
 | Allagan Market | 已完成 | 1.2.0.8；269 組 zh-TW 資源，涵蓋主窗、設定、表格、浮動窗、通知、指令與偵錯介面；14 個 CSV 欄位識別保持英文，設定鍵、搜尋欄位、Addon 名稱、市場計算、Signature 與 Hook 未變更 |
 | Allagan Tools | 已完成 | 1.13.1.12；648 個實際介面鍵零缺漏、1,465 筆有效 zh-TW 資源，涵蓋庫存、篩選、整理、生產規劃、市場、來源查詢、設定與提示；已清除機翻、簡中與抽取污染，設定鍵、序列化值、篩選語法、IPC、Signature 與 Hook 未變更 |
 | Allagan Item Search | 已完成 | 1.0.0.4；236 個 zh-TW 資源鍵與 119/119 renderer 名稱；filter key、設定序列化鍵、IPC、資料 ID、搜尋邏輯及 ImGui hidden ID 未變更，並已通過另一 agent 唯讀複核 |
-| Title Edit | 待處理 | 3.0.6.20；已完成 API13 與台服相容處理，介面繁中化尚待稽核 |
-| MonsterDex | 部分完成 | 2.13.6.1；套件內含繁中魔物資料與字型，其他可見介面仍待完整稽核 |
+| Title Edit | 部分完成 | 3.0.6.21；完成設定、顯示、群組、預設主要操作、關於頁、錯誤與通知；以 `IsMountUnlocked` 修正 API13 坐騎追蹤；進階預設編輯器與偵錯視窗仍有少量英文 |
+| MonsterDex | 已完成 | 2.13.6.2；完成主要設定、樓層介面、提示與深層迷宮術語；魔物說明與樓層攻略內容資料維持來源資料 |
 | High FPS Physics Fix | 已完成 | 8.3.0.1；已加入繁中設定介面 |
-| Orchestrion Plugin | 待處理 | 2.2.0.12；已完成 API13 發布，介面繁中化尚待稽核 |
-| CrossUp | 待處理 | 1.7.1.13；已完成 API13 發布，介面繁中化尚待稽核 |
-| TriadBuddy | 待處理 | 1.13.0.1；已完成 API13 發布，介面繁中化尚待稽核 |
-| MeterWay | 待處理 | 1.0.17.0；已完成最小 API13 移植，介面繁中化尚待稽核 |
-| Death Recap | 待處理 | 1.13.2.2；已完成 API13 發布，介面繁中化尚待稽核 |
-| Teleporter | 待處理 | 2.0.2.8；本批完成 API13 安全節點收錄，介面繁中化尚待稽核 |
-| DailyDuty | 待處理 | 5.3.2.13；本批完成 API13 與台服 ClientStructs 相容處理，介面繁中化尚待稽核 |
-| ezMiniCactpot | 待處理 | 3.0.0.3；本批完成 API13 與 KamiToolKit 相容處理，介面繁中化尚待稽核 |
-| PingPlugin | 部分完成 | 2.9.0.1；已將台服固定量測模式顯示為 TCP／台服，其他既有設定與監控介面仍待完整 zh-TW 稽核 |
+| Orchestrion Plugin | 已完成 | 2.2.0.13；115/115 個介面語系鍵完整 zh-TW，保留 `{0}` placeholder；曲目資料 CSV 不屬於介面翻譯範圍 |
+| CrossUp | 已完成 | 1.7.1.14；121/121 個介面語系鍵完整 zh-TW；`on`／`off`／`true`／`false` 與 OPTIONS token 保持不變 |
+| TriadBuddy | 已完成 | 1.13.0.2；以完整 zh-TW 取代損壞亂碼資源，64/64 鍵且 `{0}`／`{1}`／`{0:P0}` 完整一致 |
+| MeterWay | 部分完成 | 1.0.17.1；完成主要設定、連線狀態、WebSocket、更新頻率與顯示層管理；Lazer／Mogu／Vision 深層設定及動態 Lua 頁留待下一輪 |
+| Death Recap | 已完成 | 1.13.2.3；完成設定、死亡回顧主視窗、篩選、表格、提示、通知與 manifest；指令、JSON、ImGui ID 與遊戲資料名稱未變更 |
+| Teleporter | 已完成 | 2.0.2.9；完成設定、提示、聊天訊息與 manifest；聊天指令 token 與傳送判定未變更 |
+| DailyDuty | 已完成 | 5.3.2.14；新增 `Strings.zh-TW.resx`，216/216 個資源鍵完整翻譯，套件內確認含 `zh-TW/DailyDuty.resources.dll` |
+| ezMiniCactpot | 已完成 | 3.0.0.4；完成設定介面、提示與 manifest；仙人微彩解題邏輯及 KamiToolKit 相依未變更 |
+| PingPlugin | 已完成 | 2.9.0.2；完整校訂 `lang_zh.json` 為台灣繁中；TCP 端點、封包與量測邏輯完全未變更 |
 
 ## 驗證要求
 
