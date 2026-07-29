@@ -1743,5 +1743,30 @@
     "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PartyIcons-1.2.3.2.zip",
     "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PartyIcons-1.2.3.2.zip",
     "AcceptsFeedback": false
+  },
+  {
+    "Author": "Ottermandias",
+    "Name": "RezPls",
+    "InternalName": "RezPls",
+    "AssemblyVersion": "1.5.2.1",
+    "TestingAssemblyVersion": "1.5.2.1",
+    "Description": "在隊伍、團隊列表與角色位置標示正在復活的目標、已有復活效果的角色，以及可解除的負面狀態。",
+    "Punchline": "標示復活進度與可解除的負面狀態。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/RezPls/tree/api13-tw",
+    "Tags": ["resurrection", "raise", "debuff", "cleanse", "UI"],
+    "CategoryTags": ["UI", "utility"],
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/RezPls-1.5.2.1.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/RezPls-1.5.2.1.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/RezPls-1.5.2.1.zip",
+    "AcceptsFeedback": false
   }
 ]

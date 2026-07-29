@@ -78,3 +78,4 @@
 | Better Mount Roulette | `CMDRNuffin/BetterMountRoulette` | `98d2574` | 2025-08-10 | 沒有採用 2025-11 後依賴 `IPlayerState` 的 API13.1 節點，改採可直接對台服 Dalamud 13.0.0.8 重建的最後安全節點；`cycleapple/BetterMountRoulette@api13-tw` 0 警告、0 錯誤，發布 1.0.0.0 |
 | Submarine Tracker | `Infiziert90/SubmarineTracker` | `7167f242` | 2025-11-17 | API14 切換前最後的 SDK13 節點；`cycleapple/SubmarineTracker@44f1f54` 將 MessagePack 3.1.4 更新為無已知 NuGet 漏洞的 3.1.8，台服 Dalamud 13.0.0.8 編譯成功（4 個既有 nullable／未使用欄位警告、0 錯誤），發布 2.0.2.1 |
 | Party Icons | `nebel/xivPartyIcons`（`shdwp/xivPartyIcons` fork 家族） | `22e5bb8a` | 2025-08-07 | 原始 `shdwp` 倉庫停在 2023 年 net7，採用同一 fork 家族中明確標示 API13 的維護節點；`cycleapple/xivPartyIcons@34de4cc` 以台服 Dalamud 13.0.0.8 編譯成功（4 個既有 nullable／未使用變數警告、0 錯誤），發布 1.2.3.2 |
+| RezPls | `Ottermandias/RezPls` | `53cffe4b` | 2025-09-06 | 截止日期內最後的 SDK13 節點；上游於 2025-12-18 才發布後續版本並切換新版 SDK；`cycleapple/RezPls@fef85ac` 以台服 Dalamud 13.0.0.8 編譯成功，0 警告、0 錯誤，NuGet 漏洞掃描零筆，發布 1.5.2.1 |
