@@ -894,5 +894,32 @@
     "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Automaton-69.103.0.0.zip",
     "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Automaton-69.103.0.0.zip",
     "AcceptsFeedback": true
+  },
+  {
+    "Author": "alydev",
+    "Name": "GatheringPathRenderer",
+    "InternalName": "GatheringPathRenderer",
+    "AssemblyVersion": "0.10",
+    "TestingAssemblyVersion": "0.10",
+    "Description": "Questionable developer plugin for rendering gathering locations. Taiwan 7.3 / Dalamud API13 build.",
+    "Punchline": "顯示採集節點路徑與位置",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/Questionable/tree/api13-tw/GatheringPathRenderer",
+    "Tags": [
+      "gathering",
+      "developer tool"
+    ],
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/GatheringPathRenderer-0.10.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/GatheringPathRenderer-0.10.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/GatheringPathRenderer-0.10.zip",
+    "AcceptsFeedback": true
   }
 ]
