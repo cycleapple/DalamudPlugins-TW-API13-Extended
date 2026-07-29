@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | vnavmesh | 1.1.2.1 | 尋路與移動工具 | 已發布；API14 切換前最後一個正式 tag |
 | AutoDuty | 0.0.0.0 | 副本自動化框架 | 已發布 API13 |
 | Pixel Perfect | 3.3.2.1 | 顯示角色碰撞圈 | 已發布；完成 zh-TW 介面翻譯 |
-| LazyLoot | 5.3.2.4 | 戰利品擲骰輔助 | 已發布 |
+| LazyLoot | 5.3.2.5 | 戰利品擲骰輔助 | 已發布；完成 zh-TW 介面、指令說明與診斷訊息翻譯 |
 | Questionable | 13.68.129.3 | 任務輔助 | 已發布；略過台服資料中的無效副本地區參照 |
 | YesAlready | 0.0.0.0 | 自動確認對話 | 已發布 API13 |
 | Price Insight | 2.11.3.1 | 顯示市場價格 | 已發布、繁中介面 |

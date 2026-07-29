@@ -37,7 +37,7 @@
 | TextAdvance | 已完成 | 3.2.4.8；介面、通知與聊天狀態繁中化；`Lang.cs` 功能比對字串保持不動 |
 | Lifestream | 待複核 | 已有局部台服文字修正 |
 | YesAlready | 待處理 | 大型硬編碼 UI |
-| LazyLoot | 待處理 | 硬編碼 UI |
+| LazyLoot | 已完成 | 5.3.2.5；設定、限制規則、指令說明、狀態列、擲骰結果與診斷訊息已翻譯；未更動 `need`／`greed`／`pass` 等指令參數、設定格式與擲骰邏輯 |
 | Burning Down the House | 待處理 | 硬編碼 UI |
 | Raphael.Dalamud | 待處理 | 硬編碼 UI |
 | Something Need Doing | 待處理 | 大型硬編碼 UI |
