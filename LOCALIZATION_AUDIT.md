@@ -53,7 +53,7 @@
 | Gearsetter | 待處理 | 裝備與屬性術語 |
 | Ice's Cosmic Exploration | 待複核 | 需盤點既有翻譯資料 |
 | BOCCHI | 待複核 | 已有 i18n 架構 |
-| Umbra XIV | 待複核 | 已有 `zh.json` |
+| Umbra XIV | 已完成 | 3.1.7.1；`zh.json` 介面鍵 1568/1568，轉為台灣繁中 |
 | MissFisher | 待複核 | 已有 `lang.json` |
 | Skippy | 待處理 | 硬編碼 UI |
 | AutoHook | 已完成 | 5.0.0.14；中文介面鍵 475/475，轉為台灣繁中並補齊 23 個缺漏字串 |

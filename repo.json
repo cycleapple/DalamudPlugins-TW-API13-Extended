@@ -601,8 +601,8 @@
     "Author": "Una",
     "Name": "Umbra XIV",
     "InternalName": "Umbra",
-    "AssemblyVersion": "3.1.7.0",
-    "TestingAssemblyVersion": "3.1.7.0",
+    "AssemblyVersion": "3.1.7.1",
+    "TestingAssemblyVersion": "3.1.7.1",
     "Description": "Customizable toolbars, common UI controls and world markers. Taiwan 7.3 / Dalamud API13 build.",
     "Punchline": "可自訂工具列、常用介面與世界標記。",
     "ApplicableVersion": "any",
@@ -615,9 +615,9 @@
     "LoadPriority": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Umbra-3.1.7.0.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Umbra-3.1.7.0.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Umbra-3.1.7.0.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Umbra-3.1.7.1.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Umbra-3.1.7.1.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Umbra-3.1.7.1.zip",
     "AcceptsFeedback": true
   },
   {
