@@ -35,8 +35,8 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | MidiBard 2 | 3.2.1.3 | 樂器演奏 | 已發布；API14 型別誤用前的安全節點；補齊 zh-TW 介面資源 |
 | GatherBuddy Reborn | 7.3.5.1 | 採集輔助 | 已發布；AtmoOmen 7.3.5 節點、繁中語言資料與 AutoHook IPC 載入順序容錯 |
 | Artisan | 4.0.4.9 | 生產輔助 | 已發布；修正缺少熱鍵列時的空參考錯誤 |
-| Burning Down the House | 1.7.1.0 | 房屋裝修 | 已發布；安全範圍內 API13 上游版本 |
-| Raphael.Dalamud | 0.0.5.0 | 生產求解器／依賴庫 | 已發布 |
+| Burning Down the House | 1.7.1.1 | 房屋裝修 | 已發布；完成主控制、操作軸、吸附、家具清單與錯誤提示 zh-TW 翻譯 |
+| Raphael.Dalamud | 0.0.5.1 | 生產求解器／依賴庫 | 已發布；無設定視窗，已完成 manifest zh-TW 翻譯 |
 | Something Need Doing | 0.0.0.0 | 巨集擴展 | 已發布 |
 | TextAdvance | 3.2.4.8 | 對話自動處理 | 已發布、繁中介面 |
 | Lifestream | 2.5.3.2 | 傳送輔助 | 已發布；修正台服資料中心 151 的世界清單判定，大水晶浮層可列出 8 個台服伺服器 |
@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Pixel Perfect | 3.3.2.1 | 顯示角色碰撞圈 | 已發布；完成 zh-TW 介面翻譯 |
 | LazyLoot | 5.3.2.5 | 戰利品擲骰輔助 | 已發布；完成 zh-TW 介面、指令說明與診斷訊息翻譯 |
 | Questionable | 13.68.129.3 | 任務輔助 | 已發布；略過台服資料中的無效副本地區參照 |
-| YesAlready | 0.0.0.0 | 自動確認對話 | 已發布 API13 |
+| YesAlready | 0.0.0.1 | 自動確認對話 | 已發布；完成主設定、各分頁、Bothers 說明與提示 zh-TW 翻譯 |
 | Price Insight | 2.11.3.1 | 顯示市場價格 | 已發布、繁中介面 |
 | Gearsetter | 4.0 | 裝備升級建議 | 已發布；正式 API13 tag |
 | Ice's Cosmic Exploration | 0.0.73.40 | 宇宙探索採集、生產與任務輔助 | 已發布；含台服 API13 物件識別與 ECommons 相容修補 |
@@ -57,14 +57,14 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Avarice | 2.1.1.8 | 身位與距離提示 | 已發布；完成主要設定、設定檔、統計與視覺回饋 zh-TW 翻譯 |
 | Orbwalker | 1.0.1.7 | 施法移動控制 | 已發布；完成主要設定、移動、顯示層、職業與按鍵 zh-TW 翻譯 |
 | Palace Pal | 4.14.0.1 | 深層迷宮陷阱與寶藏提示 | 已發布；116/116 個介面資源鍵完整 zh-TW；需要 Splatoon |
-| Pandora's Box | 1.6.3.18 | 多項便利功能合集 | 已發布；使用 API14 屬性切換前的 API13 節點 |
+| Pandora's Box | 1.6.3.19 | 多項便利功能合集 | 已發布；約 55 個功能名稱與說明、分類、搜尋及停用原因完成 zh-TW 翻譯 |
 | Marketbuddy | 0.2.4.1 | 市場上架與調價輔助 | 已發布；完成主要介面 zh-TW 翻譯 |
 | JobBars | 1.3.2.3 | 職業量譜、團隊增益與減傷追蹤 | 已發布；完成 zh-TW 主要與進階介面；台服 API13 安全節點 |
 | NotificationMaster | 2.1.1.13 | 遊戲事件與背景通知 | 已發布；完成 zh-TW 主要與進階介面；台服 API13 安全節點 |
 | CBT | 69.103.0.1 | Automaton 多功能自動化與便利調整 | 已發布；完成主設定、模組、追蹤器與通知 zh-TW 翻譯 |
 | GatheringPathRenderer | 0.10.0.1 | 顯示採集節點路徑與位置 | 已發布；完成主要介面 zh-TW 翻譯；Questionable 開發工具 |
 | Deliveroo | 7.4.0.1 | 軍隊籌備品自動繳納輔助 | 已發布；完成設定、繳納視窗、提示與聊天說明 zh-TW 翻譯 |
-| Chilled Leves | 1.0.1.20 | 理符任務選擇、自動執行與繳交輔助 | 已發布；完成 zh-TW 主要與工作清單介面；需要 vnavmesh |
+| Chilled Leves | 1.0.1.21 | 理符任務選擇、自動執行與繳交輔助 | 已發布；完成設定、提醒、採集理符與工作清單 zh-TW 翻譯；需要 vnavmesh |
 | Explorer's Icebox | 1.0.4.6 | 無人島採集與升級輔助 | 已發布；完成主操作與除錯選單 zh-TW 翻譯；需要 vnavmesh 與 visland |
 | Easier Faux Hollows | 0.0.0.11 | 幻巧拼圖已知圖樣求解器 | 已發布；完成 zh-TW 拼圖、設定與偵錯介面；原生 API13 安全節點 |
 | Hyperborea | 1.0.0.33 | 區域探索與團體姿勢輔助 | 已發布；完成 zh-TW 主要與區域編輯介面；原生 API13 安全節點 |
@@ -78,7 +78,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Mappy | 3.1.6.12 | 強化版遊戲地圖 | 已發布；完成 zh-TW 介面翻譯 |
 | ChatCoordinates | 2.1.2.10 | 將聊天座標設為地圖旗標 | 已發布；完成 zh-TW 設定、說明與錯誤訊息翻譯 |
 | FPS Plugin | 1.7.0.5 | 顯示遊戲 FPS | 已發布；完成 zh-TW 設定介面與狀態提示翻譯 |
-| Craftimizer | 2.8.0.1 | 製作模擬、巨集產生與技能建議 | 已發布；台服 7.3／API13 安全節點 |
+| Craftimizer | 2.8.0.2 | 製作模擬、巨集產生與技能建議 | 已發布；完成設定、巨集、製作筆記與製作輔助 zh-TW 翻譯 |
 | SortaKinda | 2.1.1.7 | 自訂物品欄排序 | 已發布；完成 zh-TW 介面翻譯 |
 | QoL Bar | 2.3.3.7 | 自訂指令與插件快捷列 | 已發布；台服 7.3／API13 相容修正；完成 zh-TW 介面翻譯 |
 | IINACT | 1.13.9.4 | ACT 相容戰鬥資料解析 | 已發布；完成主設定、解析器、文字轉語音與 WebSocket 介面 zh-TW 翻譯 |
