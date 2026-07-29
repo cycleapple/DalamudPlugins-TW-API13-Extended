@@ -68,7 +68,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Explorer's Icebox | 1.0.4.5 | 無人島採集與升級輔助 | 已發布；需要 vnavmesh 與 visland |
 | Easier Faux Hollows | 0.0.0.10 | 幻巧拼圖已知圖樣求解器 | 已發布；原生 API13 安全節點 |
 | Hyperborea | 1.0.0.31 | 區域探索與團體姿勢輔助 | 已發布；原生 API13 安全節點 |
-| AutoMinion | 1.0.0.1 | 進入房屋時收起寵物，離開時重新召喚 | 已發布；由較早的 7.2 / API12 小型來源移植，風險較高 |
+| AutoMinion | 1.0.0.2 | 進入房屋時收起寵物，離開時重新召喚 | 已發布；完成 zh-TW 介面翻譯；由較早來源移植，風險較高 |
 | XIV 藏寶圖工具小幫手 | 0.1.9.1 | 繁中藏寶圖組隊協作與網頁同步 | 已發布；自有專案由 API12 實際移植至 API13 |
 | Visland | 0.0.0.137 | 無人島採集、工坊排程與活動自動化 | 已發布；原生 API13 安全節點並完成 `BaseId` 相容修正 |
 | Chat 2 | 1.32.0.1 | 高度自訂的遊戲聊天視窗替代方案 | 已發布；完成 zh-TW 介面第一輪校訂，並更新已知有漏洞的 MessagePack／SQLite 依賴 |

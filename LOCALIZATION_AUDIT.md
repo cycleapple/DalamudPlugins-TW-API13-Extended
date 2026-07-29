@@ -71,7 +71,7 @@
 | Explorer's Icebox | 待處理 | 硬編碼 UI |
 | Easier Faux Hollows | 待處理 | 硬編碼 UI |
 | Hyperborea | 待處理 | 硬編碼 UI |
-| AutoMinion | 待處理 | 小型硬編碼 UI |
+| AutoMinion | 完成 | 設定視窗、固定模式、搜尋、按鈕、指令說明與插件說明已翻譯；未更動寵物名稱、指令內容與地區 ID |
 | XIV 藏寶圖工具小幫手 | 待複核 | 既有繁中介面，需術語稽核 |
 | Visland | 待處理 | 大型硬編碼 UI |
 | Chat 2 | 第一輪完成 | 426 個 zh-Hant 鍵齊全；清除非技術性殘留英文並校訂明顯非台灣用語 |
