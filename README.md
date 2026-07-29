@@ -66,7 +66,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Deliveroo | 7.4 | 軍隊籌備品自動繳納輔助 | 已發布；官方 API13 節點 |
 | Chilled Leves | 1.0.1.20 | 理符任務選擇、自動執行與繳交輔助 | 已發布；完成 zh-TW 主要與工作清單介面；需要 vnavmesh |
 | Explorer's Icebox | 1.0.4.5 | 無人島採集與升級輔助 | 已發布；需要 vnavmesh 與 visland |
-| Easier Faux Hollows | 0.0.0.10 | 幻巧拼圖已知圖樣求解器 | 已發布；原生 API13 安全節點 |
+| Easier Faux Hollows | 0.0.0.11 | 幻巧拼圖已知圖樣求解器 | 已發布；完成 zh-TW 拼圖、設定與偵錯介面；原生 API13 安全節點 |
 | Hyperborea | 1.0.0.33 | 區域探索與團體姿勢輔助 | 已發布；完成 zh-TW 主要與區域編輯介面；原生 API13 安全節點 |
 | AutoMinion | 1.0.0.2 | 進入房屋時收起寵物，離開時重新召喚 | 已發布；完成 zh-TW 介面翻譯；由較早來源移植，風險較高 |
 | XIV 藏寶圖工具小幫手 | 0.1.9.1 | 繁中藏寶圖組隊協作與網頁同步 | 已發布；自有專案由 API12 實際移植至 API13 |
@@ -94,9 +94,9 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | EngageTimer | 2.4.4.1 | 顯示完整戰鬥倒數與戰鬥時間 | 已發布；完成 zh-TW 介面；官方 API13 節點 |
 | BigPlayerDebuffs | 1.1.0.14 | 放大自己施加的狀態圖示 | 已發布；完成 zh-TW 介面；官方 API13 節點 |
 | Better Mount Roulette | 1.0.0.2 | 可自訂規則的隨機坐騎 | 已發布；完成 zh-TW 介面；採用相容台服 API13 的安全節點 |
-| Submarine Tracker | 2.0.2.1 | 追蹤部隊潛水艇航程、返航時間與收益 | 已發布；API14 切換前最後的 API13 節點；已更新有漏洞的 MessagePack 依賴 |
-| Party Icons | 1.2.3.2 | 依職業或團隊位置調整玩家名牌 | 已發布；採用原專案 fork 家族的 API13 維護節點 |
-| RezPls | 1.5.2.2 | 標示正在復活、已有復活效果及可解除的負面狀態 | 已發布；完整繁中介面；API13 安全日期範圍內最後節點 |
+| Submarine Tracker | 2.0.2.2 | 追蹤部隊潛水艇航程、返航時間與收益 | 已發布；完成 463/463 個 zh-TW 資源鍵、指令與未資源化介面；已更新有漏洞的 MessagePack 依賴 |
+| Party Icons | 1.2.3.3 | 依職業或團隊位置調整玩家名牌 | 已發布；完成 zh-TW 設定、名牌、團隊站位與升級指南介面 |
+| RezPls | 1.5.2.3 | 標示正在復活、已有復活效果及可解除的負面狀態 | 已發布；完整 zh-TW 介面與指令說明；API13 安全日期範圍內最後節點 |
 | MapLinker | 1.1.11.2 | 記錄與搜尋聊天中的地圖連結 | 已發布；完整繁中介面；採用 2025-08-17 的正式 API13 節點 |
 
 Questionable 的台服建置停用了程式內「放棄任務」原生命令；需要放棄任務時請使用遊戲任務日誌。此限制不影響任務路徑、對話、傳送或 vnavmesh 導航。

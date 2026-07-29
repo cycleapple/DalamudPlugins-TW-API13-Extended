@@ -69,7 +69,7 @@
 | Deliveroo | 待處理 | 硬編碼 UI |
 | Chilled Leves | 已完成 | 1.0.1.20；完成主要與工作清單進階介面；保留純 Debug 與品牌／格式名稱 |
 | Explorer's Icebox | 待處理 | 硬編碼 UI |
-| Easier Faux Hollows | 待處理 | 硬編碼 UI |
+| Easier Faux Hollows | 已完成 | 0.0.0.11；完成幻巧拼圖、求解策略、偵錯格子、提示與指令介面；求解器、圖樣資料、座標與功能比對字串未變更 |
 | Hyperborea | 已完成 | 1.0.0.33；完成主要設定與區域編輯器；保留 opcode／MapEffect／CFC 等底層術語 |
 | AutoMinion | 完成 | 設定視窗、固定模式、搜尋、按鈕、指令說明與插件說明已翻譯；未更動寵物名稱、指令內容與地區 ID |
 | XIV 藏寶圖工具小幫手 | 待複核 | 既有繁中介面，需術語稽核 |
@@ -97,9 +97,9 @@
 | EngageTimer | 已完成 | 2.4.4.1；完成 zh-TW／zh-Hant 語系支援並補齊設定介面 |
 | BigPlayerDebuffs | 已完成 | 1.1.0.14；完成設定、命令說明與 manifest |
 | Better Mount Roulette | 已完成 | 1.0.0.2；完成主要設定、坐騎群組、角色管理、命令說明與錯誤回饋；命令 token 保持原樣 |
-| Submarine Tracker | 待處理 | 本批先完成 API13 安全節點、依賴漏洞修正與繁中 repo 說明；插件內部介面尚未進行 zh-TW 翻譯 |
-| Party Icons | 待處理 | 本批先完成 API13 編譯與繁中 repo 說明；插件設定介面尚未進行 zh-TW 翻譯 |
-| RezPls | 待處理 | 本批先完成 API13 編譯與繁中 repo 說明；插件設定介面尚未進行 zh-TW 翻譯，未更動復活、狀態效果判斷或介面覆蓋邏輯 |
+| Submarine Tracker | 已完成 | 2.0.2.2；zh-TW 資源 463/463 鍵且 placeholder 完全一致，另完成指令、視窗標題、表格與 manifest；IPC、設定鍵、資料 ID、Excel 查詢、航程收益計算與功能比對字串未變更 |
+| Party Icons | 已完成 | 1.2.3.3；完成設定、名牌、外觀、狀態圖示、聊天名稱、團隊站位、升級指南、指令與提示介面；名牌判定、位置邏輯、hook、ID 與設定格式未變更 |
+| RezPls | 已完成 | 1.5.2.3；完成設定、tooltip、場景狀態、指令說明與顯示術語；復活／可驅散判斷、狀態 ID、hook、IPC 與序列化未變更 |
 
 ## 驗證要求
 
