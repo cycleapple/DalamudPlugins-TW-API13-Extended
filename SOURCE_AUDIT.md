@@ -60,3 +60,5 @@
 | Mappy | `harbingerftw/Mappy` | `9e9e4a3` | 2025-09-12 | 原生 `Dalamud.NET.Sdk/13.0.0` 安全節點；`cycleapple/Mappy@c69f7ad` 更新台服 fork 資訊與 manifest，以台服 API13 編譯成功（3 個 API13 棄用警告、0 錯誤），發布 3.1.6.11 |
 | ChatCoordinates | `kissorjeyabalan/dalamud-chatcoordinates` | `1303b7e` | 2025-08-09 | 上游提交明確標記 Dalamud SDK 13；`cycleapple/dalamud-chatcoordinates@6c6596a` 移除重複 Packager 參照並更新台服 manifest，以台服 API13 編譯 0 警告、0 錯誤，發布 2.1.2.9 |
 | FPS Plugin | `Caraxi/FPSPlugin` | `9eaf5e4` | 2025-08-08 | 上游 API13 安全節點；`cycleapple/FPSPlugin@d619aae` 更新台服 fork 資訊與 manifest，以台服 API13 編譯 0 警告、0 錯誤，發布 1.7.0.4 |
+| Craftimizer | `WorkingRobot/Craftimizer` | `88a1be2` | 2025-10-20 | 指定日期範圍內最後的原生 SDK 13 節點；`cycleapple/Craftimizer@2cdd57a` 更新台服 fork 資訊與 manifest，以台服 API13 編譯成功（7 個既有分析警告、0 錯誤），發布 2.8.0.1 |
+| SortaKinda | `MidoriKami/SortaKinda` | `e5b566d` | 2025-08-13 | 原生 SDK 13 節點；鎖定的 KamiToolKit 使用已禁止的 `byte LabelId` 多載，`cycleapple/KamiToolKit@76dacbc` 僅將三處參數修正為 API13 要求的 `ushort`；`cycleapple/SortaKinda@c158131` 鎖定該依賴，以台服 API13 編譯 0 警告、0 錯誤，發布 2.1.1.6 |

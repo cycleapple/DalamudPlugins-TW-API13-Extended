@@ -81,6 +81,8 @@
 | Mappy | 待處理 | 已翻譯 manifest；設定與地圖介面待後續處理 |
 | ChatCoordinates | 待處理 | 已翻譯 manifest；指令說明與設定介面待後續處理 |
 | FPS Plugin | 待處理 | 已翻譯 manifest；設定介面待後續處理 |
+| Craftimizer | 待處理 | 已翻譯 manifest；大型製作模擬與巨集介面待後續處理 |
+| SortaKinda | 待處理 | 已翻譯 manifest；排序規則與設定介面待後續處理 |
 
 ## 驗證要求
 
