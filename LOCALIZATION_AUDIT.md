@@ -101,6 +101,9 @@
 | Party Icons | 已完成 | 1.2.3.3；完成設定、名牌、外觀、狀態圖示、聊天名稱、團隊站位、升級指南、指令與提示介面；名牌判定、位置邏輯、hook、ID 與設定格式未變更 |
 | RezPls | 已完成 | 1.5.2.3；完成設定、tooltip、場景狀態、指令說明與顯示術語；復活／可驅散判斷、狀態 ID、hook、IPC 與序列化未變更 |
 | FlyTextFilter | 待處理 | 4.4.0.1；本批完成 API13 安全節點、繁中 manifest 與正式發布，插件內大型硬編碼設定介面尚待 zh-TW 翻譯 |
+| Allagan Market | 已完成 | 1.2.0.8；269 組 zh-TW 資源，涵蓋主窗、設定、表格、浮動窗、通知、指令與偵錯介面；14 個 CSV 欄位識別保持英文，設定鍵、搜尋欄位、Addon 名稱、市場計算、Signature 與 Hook 未變更 |
+| Allagan Tools | 已完成 | 1.13.1.12；648 個實際介面鍵零缺漏、1,465 筆有效 zh-TW 資源，涵蓋庫存、篩選、整理、生產規劃、市場、來源查詢、設定與提示；已清除機翻、簡中與抽取污染，設定鍵、序列化值、篩選語法、IPC、Signature 與 Hook 未變更 |
+| Allagan Item Search | 已完成 | 1.0.0.4；236 個 zh-TW 資源鍵與 119/119 renderer 名稱；filter key、設定序列化鍵、IPC、資料 ID、搜尋邏輯及 ImGui hidden ID 未變更，並已通過另一 agent 唯讀複核 |
 
 ## 驗證要求
 
