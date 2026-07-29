@@ -254,8 +254,8 @@
     "Author": "NightmareXIV",
     "Name": "TextAdvance",
     "InternalName": "TextAdvance",
-    "AssemblyVersion": "3.2.4.7",
-    "TestingAssemblyVersion": "3.2.4.7",
+    "AssemblyVersion": "3.2.4.8",
+    "TestingAssemblyVersion": "3.2.4.8",
     "Description": "Quest speedrunning assistance and automatic dialogue handling. Taiwan Dalamud API13 build.",
     "Punchline": "自動處理對話與跳過提示。",
     "ApplicableVersion": "any",
@@ -268,9 +268,9 @@
     "LoadPriority": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/TextAdvance-3.2.4.7.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/TextAdvance-3.2.4.7.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/TextAdvance-3.2.4.7.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/TextAdvance-3.2.4.8.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/TextAdvance-3.2.4.8.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/TextAdvance-3.2.4.8.zip",
     "AcceptsFeedback": false
   },
   {

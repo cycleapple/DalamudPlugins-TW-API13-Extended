@@ -19,7 +19,7 @@
 | Burning Down the House | `LeonBlade/BDTHPlugin` | `ba39d13c` | 2025-09-30 | API13 編譯成功；發布 1.7.1.0 |
 | Raphael.Dalamud | `Dalamud-DailyRoutines/Raphael.Dalamud` | `de11e646` | 2025-09-16 | API13 編譯成功；發布 0.0.5.0 |
 | Something Need Doing | `Jaksuhn/SomethingNeedDoing` | `11422e55` | 2025-11-28 | API13 編譯成功；發布 0.0.0.0 |
-| TextAdvance | `NightmareXIV/TextAdvance` | `5716d5a4` | 2025-11-22 | API13 編譯成功；發布 3.2.4.7 |
+| TextAdvance | `cycleapple/TextAdvance` (`api13-tw`) | `f8a7cf5` | 2025-11-22 基底 | API13 編譯成功；繁中介面發布 3.2.4.8 |
 | Lifestream | `NightmareXIV/Lifestream` | `305dfbf9` / tag `2.5.2.3` | 2025-08-07 | API13 編譯成功；`cycleapple/Lifestream@e6f5ec0` 修正繁中「移動到公會工坊」選單辨識，發布 2.5.2.4 |
 | vnavmesh | `awgil/ffxiv_navmesh` | `5f512e5` / tag `v1.1.2.1` | 2025-12-15 | API13 編譯成功；`cycleapple/ffxiv_navmesh@8d90451` 發布 1.1.2.1。上游於 12 月 17 日才切換 API14 |
 | AutoDuty | `ffxivcode/AutoDuty` | `a7d1eca8` | 2025-12-08 | API13 編譯成功；實際組件版本 0.0.0.0 |

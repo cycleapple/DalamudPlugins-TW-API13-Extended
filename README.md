@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Burning Down the House | 1.7.1.0 | 房屋裝修 | 已發布；安全範圍內 API13 上游版本 |
 | Raphael.Dalamud | 0.0.5.0 | 生產求解器／依賴庫 | 已發布 |
 | Something Need Doing | 0.0.0.0 | 巨集擴展 | 已發布 |
-| TextAdvance | 3.2.4.7 | 對話自動處理 | 已發布 |
+| TextAdvance | 3.2.4.8 | 對話自動處理 | 已發布、繁中介面 |
 | Lifestream | 2.5.2.4 | 傳送輔助 | 已發布；修正繁中「移動到公會工坊」辨識 |
 | vnavmesh | 1.1.2.1 | 尋路與移動工具 | 已發布；API14 切換前最後一個正式 tag |
 | AutoDuty | 0.0.0.0 | 副本自動化框架 | 已發布 API13 |
