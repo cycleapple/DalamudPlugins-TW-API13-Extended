@@ -1398,8 +1398,8 @@
     "Author": "Original by Lichie, modified by Juicefish",
     "Name": "LMeter",
     "InternalName": "LMeter",
-    "AssemblyVersion": "1.13.0.2",
-    "TestingAssemblyVersion": "1.13.0.2",
+    "AssemblyVersion": "1.13.0.3",
+    "TestingAssemblyVersion": "1.13.0.3",
     "Description": "直接以插件介面顯示 ACT 戰鬥紀錄資料，不需使用網頁式 Overlay。",
     "Punchline": "在遊戲內顯示 ACT 戰鬥統計。",
     "ApplicableVersion": "any",
@@ -1413,9 +1413,9 @@
     "LoadPriority": 69420,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/LMeter-1.13.0.2.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/LMeter-1.13.0.2.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/LMeter-1.13.0.2.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/LMeter-1.13.0.3.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/LMeter-1.13.0.3.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/LMeter-1.13.0.3.zip",
     "IconUrl": "https://raw.githubusercontent.com/lichie567/LMeter/main/LMeter/Media/Images/icon.png",
     "AcceptsFeedback": false
   }

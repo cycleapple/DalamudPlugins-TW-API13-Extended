@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | SortaKinda | 2.1.1.7 | 自訂物品欄排序 | 已發布；完成 zh-TW 介面翻譯 |
 | QoL Bar | 2.3.3.6 | 自訂指令與插件快捷列 | 已發布；台服 7.3／API13 相容修正 |
 | IINACT | 1.13.9.3 | ACT 相容戰鬥資料解析 | 已發布；以你提供的台服 API13 分支重新編譯 |
-| LMeter | 1.13.0.2 | 遊戲內 ACT 戰鬥統計介面 | 已發布；搭配 IINACT 使用 |
+| LMeter | 1.13.0.3 | 遊戲內 ACT 戰鬥統計介面 | 已發布；完成 zh-TW 介面翻譯；搭配 IINACT 使用 |
 
 Questionable 的台服建置停用了程式內「放棄任務」原生命令；需要放棄任務時請使用遊戲任務日誌。此限制不影響任務路徑、對話、傳送或 vnavmesh 導航。
 
