@@ -91,3 +91,7 @@
 | TriadBuddy | `MgAl2O4/FFTriadBuddyDalamud` | `acb68f2d` | 2025-08-11 | 採用 API13／7.3 安全節點；`cycleapple/FFTriadBuddyDalamud@4888a795` 發布 1.13.0.1 |
 | MeterWay | `CondeSaheki/MeterWay` | `67036051` | 2025-04-12 | 安全日期窗內沒有上游提交，採用最後正式版 v1.0.16 並由 `cycleapple/MeterWay@ced447ca` 進行最小 API13 移植，發布 1.0.17.0 |
 | Death Recap | `Kouzukii/ffxiv-deathrecap` | `fdc149f4` | 2025-08-10 | 採用上游 API13 更新後的安全節點；`cycleapple/ffxiv-deathrecap@2102bdd8` 發布 1.13.2.2 |
+| Teleporter | `pohky/TeleporterPlugin` | `98a943a9` | 2025-08-07 | 上游於 `21434980` 明確更新 API13，採用其合併節點；下一次 API14 更新為 2025-12-17。`cycleapple/TeleporterPlugin@c80f7bb1` 以台服 API13 編譯 0 警告、0 錯誤，發布 2.0.2.8 |
+| DailyDuty | `MidoriKami/DailyDuty` | `bff73018` | 2025-08-22 | 採用 API13 更新後安全日期範圍內的最後節點；`cycleapple/DailyDuty@e402aa38` 固定 `cycleapple/KamiToolKit@b2327a0b`，以 `ushort` 相容台服 ClientStructs timeline label，編譯 0 警告、0 錯誤，發布 5.3.2.13 |
+| ezMiniCactpot | `MidoriKami/MiniCactpotSolver` | `761b4e22` | 2025-08-26 | 採用修正 LoadConfigFile 後的 API13 節點，並固定 2025-09-02 的 KamiToolKit ClientStructs 相容節點；`cycleapple/EzMiniCactpot@5b7f5591` 編譯 0 錯誤，發布 3.0.0.3 |
+| PingPlugin | `karashiiro/PingPlugin` | `5c0df982` | 2025-08-07 | 採用上游明確標記 API13 的最後安全節點；`cycleapple/PingPlugin@93b1eb1` 從遊戲程序 TCP 連線表取得世界伺服器 IP 與連接埠，改以 TCP handshake 計時，完全不呼叫 ICMP；台服 API13 編譯與本機 TCP listener 回歸測試通過，發布 2.9.0.1 |

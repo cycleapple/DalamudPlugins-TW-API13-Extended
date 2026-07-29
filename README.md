@@ -110,6 +110,10 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | TriadBuddy | 1.13.0.1 | 九宮幻卡對戰求解、牌組分析與收藏輔助 | 已發布；採用 2025-08-11 的 7.3／API13 安全節點 |
 | MeterWay | 1.0.17.0 | 搭配 IINACT 或 ACT 顯示即時戰鬥統計 | 已發布；由最後正式版進行最小 API13 移植 |
 | Death Recap | 1.13.2.2 | 顯示死亡前的傷害、治療、增益、減益與護盾紀錄 | 已發布；採用 2025-08-10 的 API13 安全節點 |
+| Teleporter | 2.0.2.8 | 以聊天指令依以太之光或區域名稱傳送，支援自訂別名 | 已發布；採用 2025-08-07 的原生 API13 安全節點 |
+| DailyDuty | 5.3.2.13 | 追蹤每日與每週任務完成狀態 | 已發布；採用 2025-08-22 的 API13 安全節點，含台服 ClientStructs 相容修正 |
+| ezMiniCactpot | 3.0.0.3 | 標示仙人微彩的最佳翻牌位置與選線 | 已發布；採用 2025-08-26 的 API13 安全節點與相容 KamiToolKit |
+| PingPlugin | 2.9.0.1 | 顯示目前遊戲伺服器的網路延遲 | 已發布；台服專用 TCP handshake 量測，不依賴 ICMP |
 
 Questionable 的台服建置停用了程式內「放棄任務」原生命令；需要放棄任務時請使用遊戲任務日誌。此限制不影響任務路徑、對話、傳送或 vnavmesh 導航。
 
