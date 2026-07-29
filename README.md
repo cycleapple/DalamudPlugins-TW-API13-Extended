@@ -69,6 +69,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Easier Faux Hollows | 0.0.0.10 | 幻巧拼圖已知圖樣求解器 | 已發布；原生 API13 安全節點 |
 | Hyperborea | 1.0.0.31 | 區域探索與團體姿勢輔助 | 已發布；原生 API13 安全節點 |
 | AutoMinion | 1.0.0.1 | 進入房屋時收起寵物，離開時重新召喚 | 已發布；由較早的 7.2 / API12 小型來源移植，風險較高 |
+| XIV 藏寶圖工具小幫手 | 0.1.9.1 | 繁中藏寶圖組隊協作與網頁同步 | 已發布；自有專案由 API12 實際移植至 API13 |
 
 Questionable 的台服建置停用了程式內「放棄任務」原生命令；需要放棄任務時請使用遊戲任務日誌。此限制不影響任務路徑、對話、傳送或 vnavmesh 導航。
 

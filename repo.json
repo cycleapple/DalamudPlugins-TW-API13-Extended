@@ -1077,5 +1077,30 @@
     "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/AutoMinion-1.0.0.1.zip",
     "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/AutoMinion-1.0.0.1.zip",
     "AcceptsFeedback": true
+  },
+  {
+    "Author": "cycleapple",
+    "Name": "XIV 藏寶圖工具小幫手",
+    "InternalName": "XivTreasureParty",
+    "AssemblyVersion": "0.1.9.1",
+    "TestingAssemblyVersion": "0.1.9.1",
+    "Description": "FFXIV 繁中藏寶圖協作插件，可與網頁版使用者混合組隊並即時同步清單。台服 7.3 / Dalamud API13 build.",
+    "Punchline": "繁中藏寶圖組隊協作，與網頁版即時共享同一個房間",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/xiv-party-treasure-helper",
+    "Tags": ["treasure", "map", "party", "zhTW"],
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "SupportsProfiles": true,
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/XivTreasureParty-0.1.9.1.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/XivTreasureParty-0.1.9.1.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/XivTreasureParty-0.1.9.1.zip",
+    "AcceptsFeedback": true
   }
 ]
