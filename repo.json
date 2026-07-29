@@ -1324,8 +1324,8 @@
     "Author": "MidoriKami",
     "Name": "SortaKinda",
     "InternalName": "SortaKinda",
-    "AssemblyVersion": "2.1.1.6",
-    "TestingAssemblyVersion": "2.1.1.6",
+    "AssemblyVersion": "2.1.1.7",
+    "TestingAssemblyVersion": "2.1.1.7",
     "Description": "依照你的需求整理物品欄，並維持指定的排序方式。",
     "Punchline": "全面自訂物品欄排序方式。",
     "ApplicableVersion": "any",
@@ -1339,9 +1339,9 @@
     "LoadPriority": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/SortaKinda-2.1.1.6.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/SortaKinda-2.1.1.6.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/SortaKinda-2.1.1.6.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/SortaKinda-2.1.1.7.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/SortaKinda-2.1.1.7.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/SortaKinda-2.1.1.7.zip",
     "AcceptsFeedback": false
   }
 ]

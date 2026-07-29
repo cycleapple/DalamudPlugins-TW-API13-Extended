@@ -79,7 +79,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | ChatCoordinates | 2.1.2.10 | 將聊天座標設為地圖旗標 | 已發布；完成 zh-TW 設定、說明與錯誤訊息翻譯 |
 | FPS Plugin | 1.7.0.5 | 顯示遊戲 FPS | 已發布；完成 zh-TW 設定介面與狀態提示翻譯 |
 | Craftimizer | 2.8.0.1 | 製作模擬、巨集產生與技能建議 | 已發布；台服 7.3／API13 安全節點 |
-| SortaKinda | 2.1.1.6 | 自訂物品欄排序 | 已發布；含 KamiToolKit API13 型別修補 |
+| SortaKinda | 2.1.1.7 | 自訂物品欄排序 | 已發布；完成 zh-TW 介面翻譯 |
 
 Questionable 的台服建置停用了程式內「放棄任務」原生命令；需要放棄任務時請使用遊戲任務日誌。此限制不影響任務路徑、對話、傳送或 vnavmesh 導航。
 
