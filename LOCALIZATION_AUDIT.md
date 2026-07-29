@@ -52,7 +52,7 @@
 | Questionable | 待處理 | 大型 UI 與任務術語 |
 | Gearsetter | 待處理 | 裝備與屬性術語 |
 | Ice's Cosmic Exploration | 待複核 | 需盤點既有翻譯資料 |
-| BOCCHI | 待複核 | 已有 i18n 架構 |
+| BOCCHI | 已完成 | 1.0.1.1；22 份 zh 語系資源完整，補齊 2 個缺漏值並轉為台灣繁中 |
 | Umbra XIV | 已完成 | 3.1.7.1；`zh.json` 介面鍵 1568/1568，轉為台灣繁中 |
 | MissFisher | 已完成 | 1.6.5.12；保留 556 個查詢鍵，只轉換內嵌 `lang.json` 的中文顯示值 |
 | Skippy | 待處理 | 硬編碼 UI |

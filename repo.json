@@ -570,8 +570,8 @@
     "Author": "Faye",
     "Name": "Better Occult Crescent & Chest Helper Interface",
     "InternalName": "BOCCHI",
-    "AssemblyVersion": "1.0.1.0",
-    "TestingAssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.1.1",
+    "TestingAssemblyVersion": "1.0.1.1",
     "Description": "Occult Crescent treasure, carrot, Fate and Critical Encounter helper. Taiwan 7.3 / Dalamud API13 build.",
     "Punchline": "蜃景新月島寶箱、兔子、FATE 與關鍵遭遇輔助。",
     "ApplicableVersion": "any",
@@ -592,9 +592,9 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/OccultCrescentHelper/refs/heads/master/assets/icon.png",
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BOCCHI-1.0.1.0.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BOCCHI-1.0.1.0.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BOCCHI-1.0.1.0.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BOCCHI-1.0.1.1.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BOCCHI-1.0.1.1.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BOCCHI-1.0.1.1.zip",
     "AcceptsFeedback": true
   },
   {

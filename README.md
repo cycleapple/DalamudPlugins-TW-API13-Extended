@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Price Insight | 2.11.3.0 | 顯示市場價格 | 已發布 |
 | Gearsetter | 4.0 | 裝備升級建議 | 已發布；正式 API13 tag |
 | Ice's Cosmic Exploration | 0.0.73.40 | 宇宙探索採集、生產與任務輔助 | 已發布；含台服 API13 物件識別與 ECommons 相容修補 |
-| Better Occult Crescent & Chest Helper Interface | 1.0.1.0 | 蜃景新月島寶箱、兔子與遭遇輔助 | 已發布；由官方 1.0.1 API13 節點重新編譯 |
+| Better Occult Crescent & Chest Helper Interface | 1.0.1.1 | 蜃景新月島寶箱、兔子與遭遇輔助 | 已發布；由官方 1.0.1 API13 節點重新編譯；完整 zh-TW 介面 |
 | Umbra XIV | 3.1.7.1 | 自訂工具列與世界標記 | 已發布；使用 API14 介面變更前的 API13 節點；完整 zh-TW 介面 |
 | MissFisher | 1.6.5.12 | 釣魚輔助 | 已發布；完整移除上游建置保護器的啟動與每日到期檢查；內嵌台灣繁中介面 |
 | Skippy | 1.2.2.8 | 主線隨機任務過場跳過輔助 | 已發布；SkipCutscene 的後繼插件 |
