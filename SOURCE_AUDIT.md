@@ -8,14 +8,14 @@
 | Bossmod Reborn | `FFXIV-CombatReborn/BossmodReborn` | `9222b6062` / tag `7.3.8.1` | 2025-11-24 | API13 編譯成功；`cycleapple/BossmodReborn@012b41d21` 保留台服 ClientStructs 與 Dalamud 型別修正，完成核心設定、循環與模組介面 zh-TW；0 警告、0 錯誤，發布 7.3.8.3。後續節點已使用 API14 型別 |
 | Rotation Solver Reborn | `FFXIV-CombatReborn/RotationSolverReborn` | `4907d030` / tag `7.3.5.0` | 2025-10-07 | `cycleapple/RotationSolverReborn@cd74afdb` 保留 net9 相容 Lumina.Excel 並完成集中顯示層 211 個 zh-TW 字串；主插件以既有 API13 `RotationSolver.Basic.dll` 建置 0 警告、0 錯誤，發布 7.3.5.1。較晚的 7.3.8.x 雖標 API13，已使用 API14 型別 |
 | Splatoon | `PunishXIV/Splatoon` | `ae37f2b` / tag `3.8.1.5` | 2025-08-28 | `cycleapple/Splatoon@f0c759f` 保留 301 個查詢鍵並將顯示值轉為台灣繁中；API13 編譯成功，發布 3.8.2.2 |
-| Wrath Combo | `MeowZWR/WrathCombo` | `3b968ca32` | 2025-08-05 | API13 編譯成功；`cycleapple/WrathCombo@59b67130e` 發布 1.0.1.18。12 月節點雖仍標 API13，但已使用新版 Dalamud 型別，不相容台服 API13 |
+| Wrath Combo | `MeowZWR/WrathCombo` | `3b968ca32` | 2025-08-05 | API13 編譯成功；`cycleapple/WrathCombo@a920193ee` 完成主導航、PvE／PvP、自動循環、主要設定與疑難排解介面 zh-TW；2 個既有 PunishLib 參考警告、0 錯誤，發布 1.0.1.19。12 月節點雖仍標 API13，但已使用新版 Dalamud 型別，不相容台服 API13 |
 | AntiAfkKick | `NightmareXIV/AntiAfkKick` | `7a0ebaa8` | 2025-08-07 | `cycleapple/AntiAfkKick@8689ea7` 僅翻譯插件安裝頁說明；插件本身無設定介面；API13 編譯 0 警告、0 錯誤，發布 2.1.0.10 |
 | AutoRetainer | `PunishXIV/AutoRetainer` | `1e4e6b6` / tag `4.5.1.12` | 2025-08-15 | API13 編譯成功；`cycleapple/AutoRetainer@b97ce119` 保留繁中公會工坊／組件功能比對，完成主要設定、雇員批次與探索載具介面 zh-TW，40 個既有警告、0 錯誤，發布 4.5.1.23 |
 | Saucy | `PunishXIV/Saucy` | `8e8d5949` | 2025-08-15 | 台服修正 `cycleapple/Saucy@a79b1c5`；`cycleapple/Saucy@5c751d1` 翻譯主介面與九宮幻卡 zh 資源，並修正語言檔未嵌入 DLL 的問題；API13 編譯成功（8 個上游警告、0 錯誤），發布 1.4.2.9 |
 | NoClippy | `UnknownX7/NoClippy` | `d32ae7af` | 2025-08-09 | `cycleapple/NoClippy@934ab0f` 僅翻譯設定、技能後搖、戰鬥統計、記錄選項、狀態預測警告與指令回覆；API13 編譯 0 警告、0 錯誤，發布 0.5.0.20 |
 | NecroLens | `Jukkales/NecroLens` | `d6646478` | 2025-11-26 | `cycleapple/NecroLens@50fcf9e` 保留 `BaseId` API13 修正並完成完整 zh-TW 資源，台服 API13 建置 0 警告、0 錯誤並發布 1.0.8.12 |
 | GatherBuddy Reborn | `AtmoOmen/GatherBuddyReborn` | `a34733dc` / tag `7.3.5.0` | 2025-12-02 | 位於安全日期範圍且 manifest 為 API13；`cycleapple/GatherBuddyReborn@930792a` 保留台服繁中資料 fallback、`DataId` 與 AutoHook IPC 容錯並完成主要 zh-TW 介面；API13 建置 79 個既有警告、0 錯誤，發布 7.3.5.2 |
-| Artisan | `MeowZWR/Artisan` | `e4a0ddaf` | 2025-12-13 | API13 編譯成功；`cycleapple/Artisan@4c90707` 修正 `BaseId` 相容性，發布實際組件版本 4.0.4.8；上游已封存 |
+| Artisan | `MeowZWR/Artisan` | `e4a0ddaf` | 2025-12-13 | API13 編譯成功；`cycleapple/Artisan@9711149` 保留 `BaseId`、熱鍵列空參考與台服相容修正，完成製作浮窗、耐久製作、巨集及製作清單核心介面 zh-TW；68 個既有警告、0 錯誤，發布 4.0.4.10；上游已封存 |
 | Burning Down the House | `LeonBlade/BDTHPlugin` | `ba39d13c` | 2025-09-30 | `cycleapple/BDTHPlugin@a5dc4f4` 完成 zh-TW 介面，台服 API13 建置 0 警告、0 錯誤並發布 1.7.1.1 |
 | Raphael.Dalamud | `Dalamud-DailyRoutines/Raphael.Dalamud` | `de11e646` | 2025-09-16 | `cycleapple/Raphael.Dalamud@583151a` 完成 manifest zh-TW；台服 API13 建置 0 警告、0 錯誤並發布 0.0.5.1 |
 | Something Need Doing | `Jaksuhn/SomethingNeedDoing` | `11422e55` | 2025-11-28 | `cycleapple/SomethingNeedDoing@0d05161` 完成主要 zh-TW 介面；台服 API13 建置僅 2 個 AutoRetainerAPI 既有參考警告、0 錯誤並發布 0.0.0.1 |
@@ -30,7 +30,7 @@
 | MidiBard 2 | `reckhou/MidiBard2` | `1665029` | 2025-11-30 | API13 編譯成功；`cycleapple/MidiBard2@d141b5d` 修正 SDK 與台服組件路徑並補齊 zh-TW 介面資源，發布 3.2.1.3。下一提交開始誤用 API14 `IPlayerState` |
 | Questionable | `PunishXIV/Questionable` | `34735346f` / tag `v13.68.129.2` | 2025-12-15 | `cycleapple/Questionable@8bef934d` 保留 TC-BASE 相容修正並完成主要 zh-TW 介面；GatheringPathRenderer 未碰，建置僅 8 個既有警告、0 錯誤並發布 13.68.129.4 |
 | Gearsetter | `VeraNala/Gearsetter` | `21a2b8c` / tag `v4.0` | 2025-08-10 | 使用原始鎖定的 `qstxiv/LLib@f1716ee`；`cycleapple/Gearsetter@357ce36` 完成主要 zh-TW 介面，台服 API13 建置 0 警告、0 錯誤並發布 4.0.0.1 |
-| Ice's Cosmic Exploration | `LeontopodiumNivale14/Ices-Cosmic-Exploration` | `f3b7a696c9` | 2025-12-15 | `cycleapple/Ices-Cosmic-Exploration@9ced6b4` 將 ECommons 鎖回台服 API13 相容節點、以 `DataId` 取代後期 `BaseId` 並改用 `Player.JobId`，發布 0.0.73.40 |
+| Ice's Cosmic Exploration | `LeontopodiumNivale14/Ices-Cosmic-Exploration` | `f3b7a696c9` | 2025-12-15 | `cycleapple/Ices-Cosmic-Exploration@05017b1` 保留 ECommons、`DataId` 與 `Player.JobId` 台服 API13 修正，完成主介面、模式、設定、必要插件與紀錄介面 zh-TW；14 個既有警告、0 錯誤，發布 0.0.73.41 |
 | BOCCHI | `OhKannaDuh/BOCCHI` | `01d22a8565` / release `1.0.1` | 2025-12-07 | 原始碼與 manifest 均為 API13；`cycleapple/BOCCHI@4ccbbd1` 更新 legacy NuGet 鎖定資料、修正實際組件版本，並將 22 份中文語系資源轉為台灣繁中，發布 1.0.1.1 |
 | Umbra XIV | `una-xiv/umbra` | `2d165ce` | 2025-10-08 | `Dalamud.NET.Sdk/13.0.0`；`cycleapple/umbra@ba18260` 將 1568 個既有中文介面鍵轉為台灣繁中並以台服 API13 編譯，發布 3.1.7.1。後期提交開始使用台服 API13 不存在的 `BaseId` 與 `IObjectTable.LocalPlayer` |
 | MissFisher | `BlackCleaverLoli/MissFisher` | `93487c5` | 2025-12-13 | 上游只發布 1.6.5.9 二進位套件、未公開原始碼；該 DLL 被未註冊版 .NET Reactor 注入 14 天到期例外及完整授權重驗流程。`cycleapple/MissFisher@4545b74` 提供可重現的 Mono.Cecil 最小修補器，1.6.5.12 同時停用單一日期檢查與共用授權評估入口，並將內嵌 `lang.json` 的 556 個中文顯示值轉為台灣繁中；其他插件 IL 保留 |
@@ -51,7 +51,7 @@
 | Easier Faux Hollows | `awgil/vfaux` | `77b8b67d` / tag `v0.0.0.10` | 2025-10-31 | 原生 SDK / API13 安全節點；`cycleapple/vfaux@0f85fd5` 補正套件版本並以台服 API13 依賴編譯，0 警告、0 錯誤；發布 0.0.0.10 |
 | Hyperborea | `kawaii/Hyperborea` | `21f6fa50` | 2025-11-12 | 原生 manifest API13 安全節點；`cycleapple/Hyperborea@api13-tw` 以台服 API13 依賴編譯，13 個上游警告、0 錯誤；發布 1.0.0.31 |
 | AutoMinion | `Asuna/AutoMinion` | `07fb9427` | 2025-03-27 | 上游在指定日期範圍內沒有節點；`cycleapple/AutoMinion@c22463b` 將 SDK、Packager、ImGui binding 與 ECommons 實際移植至 API13；`cycleapple/AutoMinion@e1e208b` 僅翻譯設定、搜尋、按鈕、指令說明與 manifest；16 個上游警告、0 錯誤；較高風險，發布 1.0.0.2 |
-| XIV 藏寶圖工具小幫手 | `cycleapple/xiv-party-treasure-helper` | `aaa94f7` | 2026-04-27 | 自有 API12 專案；`cycleapple/xiv-party-treasure-helper@a99571a` 將 SDK、Packager、ImGui binding 與台服依賴實際移植至 API13，0 警告、0 錯誤；發布 0.1.9.1 |
+| XIV 藏寶圖工具小幫手 | `cycleapple/xiv-party-treasure-helper` | `aaa94f7` | 2026-04-27 | 自有 API12 專案；`cycleapple/xiv-party-treasure-helper@6cfd52b` 保留 API13 移植並完成介面術語 zh-TW 複核，0 警告、0 錯誤；發布 0.1.9.2 |
 | Visland | `awgil/ffxiv_visland` | `f7f40e1` / tag `v0.0.0.137` | 2025-08-09 | 上游 API13 安全節點；`cycleapple/ffxiv_visland@006b620` 完成主要 zh-TW 介面，並將上一版誤植的 API14 `BaseId` 恢復為 API13 等價 `DataId`（16 處），台服 API13 建置 0 警告、0 錯誤並發布 0.0.0.138 |
 | Chat 2 | `Infiziert90/ChatTwo` | `956e57a` | 2025-11-17 | 上游 API13 安全節點；`cycleapple/ChatTwo@b1861f3` 更新有漏洞的依賴，`cycleapple/ChatTwo@a341033` 僅修改 zh-Hant 資源與語言顯示名稱；主插件以台服 API13 編譯成功（15 個上游警告、0 錯誤），發布 1.32.0.1 |
 | Doorbell | `Aida-Enna/Doorbell` | `0a01851` | 2025-08-09 | 上游明確更新 7.3 並使用 SDK 13；`cycleapple/Doorbell@9b59581` 僅翻譯設定視窗、指令說明、狀態訊息與預設通知文字；台服 API13 編譯 0 警告、0 錯誤，發布 1.0.4.1 |

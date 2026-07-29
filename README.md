@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Bossmod Reborn | 7.3.8.3 | 技能範圍與戰鬥輔助 | 已發布；核心設定、循環與模組介面完成 zh-TW |
 | Rotation Solver Reborn | 7.3.5.1 | 技能循環 | 已發布；集中顯示層 211 個設定與說明字串完成 zh-TW 翻譯；技能／狀態鍵與循環判斷未變更 |
 | Splatoon | 3.8.2.3 | 場景繪製點、線、面 | 已發布；完成 zh-TW 介面；修正台服 7.3 延伸 MapEffect hooks |
-| Wrath Combo | 1.0.1.18 | 整合連段 | 已發布；使用真正相容台服 API13 的 2025-08-05 節點 |
+| Wrath Combo | 1.0.1.19 | 整合連段 | 已發布；主導航、PvE／PvP、自動循環與主要設定介面完成 zh-TW |
 | AntiAfkKick | 2.1.0.10 | 防止閒置斷線 | 已發布；繁中插件說明，插件本身無設定介面 |
 | AutoRetainer | 4.5.1.23 | 雇員相關功能 | 已發布；主要設定、雇員批次與探索載具介面完成 zh-TW |
 | Saucy | 1.4.2.9 | 金碟相關功能 | 已發布；完成 zh-TW 主介面與九宮幻卡資源翻譯 |
@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | NecroLens | 1.0.8.12 | 深層迷宮輔助 | 已發布；完整介面資源已轉為台灣繁中；保留 API13 型別相容修補 |
 | MidiBard 2 | 3.2.1.3 | 樂器演奏 | 已發布；API14 型別誤用前的安全節點；補齊 zh-TW 介面資源 |
 | GatherBuddy Reborn | 7.3.5.2 | 採集輔助 | 已發布；完成主介面、設定、鬧鐘、自動採集、魚類／採集表格、地點、記錄、天氣與刺魚提示 zh-TW 翻譯 |
-| Artisan | 4.0.4.9 | 生產輔助 | 已發布；修正缺少熱鍵列時的空參考錯誤 |
+| Artisan | 4.0.4.10 | 生產輔助 | 已發布；製作浮窗、耐久製作、巨集與製作清單介面完成 zh-TW |
 | Burning Down the House | 1.7.1.1 | 房屋裝修 | 已發布；完成主控制、操作軸、吸附、家具清單與錯誤提示 zh-TW 翻譯 |
 | Raphael.Dalamud | 0.0.5.1 | 生產求解器／依賴庫 | 已發布；無設定視窗，已完成 manifest zh-TW 翻譯 |
 | Something Need Doing | 0.0.0.1 | 巨集擴展 | 已發布；完成設定、說明、彈窗與 manifest zh-TW 翻譯 |
@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | YesAlready | 0.0.0.1 | 自動確認對話 | 已發布；完成主設定、各分頁、Bothers 說明與提示 zh-TW 翻譯 |
 | Price Insight | 2.11.3.1 | 顯示市場價格 | 已發布、繁中介面 |
 | Gearsetter | 4.0.0.1 | 裝備升級建議 | 已發布；完成設定、裝備比較、屬性與提示 zh-TW 翻譯 |
-| Ice's Cosmic Exploration | 0.0.73.40 | 宇宙探索採集、生產與任務輔助 | 已發布；含台服 API13 物件識別與 ECommons 相容修補 |
+| Ice's Cosmic Exploration | 0.0.73.41 | 宇宙探索採集、生產與任務輔助 | 已發布；主介面、模式、設定、必要插件與紀錄介面完成 zh-TW |
 | Better Occult Crescent & Chest Helper Interface | 1.0.1.1 | 蜃景新月島寶箱、兔子與遭遇輔助 | 已發布；由官方 1.0.1 API13 節點重新編譯；完整 zh-TW 介面 |
 | Umbra XIV | 3.1.7.1 | 自訂工具列與世界標記 | 已發布；使用 API14 介面變更前的 API13 節點；完整 zh-TW 介面 |
 | MissFisher | 1.6.5.12 | 釣魚輔助 | 已發布；完整移除上游建置保護器的啟動與每日到期檢查；內嵌台灣繁中介面 |
@@ -69,7 +69,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Easier Faux Hollows | 0.0.0.11 | 幻巧拼圖已知圖樣求解器 | 已發布；完成 zh-TW 拼圖、設定與偵錯介面；原生 API13 安全節點 |
 | Hyperborea | 1.0.0.33 | 區域探索與團體姿勢輔助 | 已發布；完成 zh-TW 主要與區域編輯介面；原生 API13 安全節點 |
 | AutoMinion | 1.0.0.2 | 進入房屋時收起寵物，離開時重新召喚 | 已發布；完成 zh-TW 介面翻譯；由較早來源移植，風險較高 |
-| XIV 藏寶圖工具小幫手 | 0.1.9.1 | 繁中藏寶圖組隊協作與網頁同步 | 已發布；自有專案由 API12 實際移植至 API13 |
+| XIV 藏寶圖工具小幫手 | 0.1.9.2 | 繁中藏寶圖組隊協作與網頁同步 | 已發布；介面術語完成 zh-TW 複核 |
 | Visland | 0.0.0.138 | 無人島採集、工坊排程與活動自動化 | 已發布；完成採集路線、工房、穀倉、耕地、放牧地與出口交易 zh-TW 翻譯 |
 | Chat 2 | 1.32.0.1 | 高度自訂的遊戲聊天視窗替代方案 | 已發布；完成 zh-TW 介面第一輪校訂，並更新已知有漏洞的 MessagePack／SQLite 依賴 |
 | Doorbell | 1.0.4.1 | 有人進出房屋時播放門鈴提示音 | 已發布；完成 zh-TW 介面翻譯 |
