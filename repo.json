@@ -461,17 +461,17 @@
     "Author": "The Combat Reborn Team",
     "Name": "Bossmod Reborn",
     "InternalName": "BossModReborn",
-    "AssemblyVersion": "7.3.8.4",
-    "TestingAssemblyVersion": "7.3.8.4",
+    "AssemblyVersion": "7.3.8.5",
+    "TestingAssemblyVersion": "7.3.8.5",
     "Description": "協助處理首領戰機制的多功能工具，提供雷達、自動循環、冷卻規劃與 AI 功能；首領模組、雷達、技能調整、自動循環、AI、區域自動化、重播與配色介面已完成 zh-TW。",
     "Punchline": "首領機制、戰鬥雷達與自動循環輔助。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/BossmodReborn",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossModReborn-7.3.8.4.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossModReborn-7.3.8.4.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossModReborn-7.3.8.4.zip"
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossModReborn-7.3.8.5.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossModReborn-7.3.8.5.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BossModReborn-7.3.8.5.zip"
   },
   {
     "Author": "veyn",
