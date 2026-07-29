@@ -76,3 +76,5 @@
 | EngageTimer | `xorus/EngageTimer` | `d436096f67` | 2025-08-08 | 上游 SDK13 更新節點；對台服 Dalamud 13.0.0.8 重建 0 警告、0 錯誤，發布 2.4.4.0 |
 | BigPlayerDebuffs | `rgd87/BigPlayerDebuffs` | `a948648cd4` | 2025-08-08 | API13 更新後的版本節點；對台服 API13 重建成功，警告為上游平台分析提示，發布 1.1.0.13 |
 | Better Mount Roulette | `CMDRNuffin/BetterMountRoulette` | `98d2574` | 2025-08-10 | 沒有採用 2025-11 後依賴 `IPlayerState` 的 API13.1 節點，改採可直接對台服 Dalamud 13.0.0.8 重建的最後安全節點；`cycleapple/BetterMountRoulette@api13-tw` 0 警告、0 錯誤，發布 1.0.0.0 |
+| Submarine Tracker | `Infiziert90/SubmarineTracker` | `7167f242` | 2025-11-17 | API14 切換前最後的 SDK13 節點；`cycleapple/SubmarineTracker@44f1f54` 將 MessagePack 3.1.4 更新為無已知 NuGet 漏洞的 3.1.8，台服 Dalamud 13.0.0.8 編譯成功（4 個既有 nullable／未使用欄位警告、0 錯誤），發布 2.0.2.1 |
+| Party Icons | `nebel/xivPartyIcons`（`shdwp/xivPartyIcons` fork 家族） | `22e5bb8a` | 2025-08-07 | 原始 `shdwp` 倉庫停在 2023 年 net7，採用同一 fork 家族中明確標示 API13 的維護節點；`cycleapple/xivPartyIcons@34de4cc` 以台服 Dalamud 13.0.0.8 編譯成功（4 個既有 nullable／未使用變數警告、0 錯誤），發布 1.2.3.2 |

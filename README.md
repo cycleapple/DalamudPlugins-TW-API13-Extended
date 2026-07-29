@@ -94,6 +94,8 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | EngageTimer | 2.4.4.0 | 顯示完整戰鬥倒數與戰鬥時間 | 已發布；官方 API13 節點 |
 | BigPlayerDebuffs | 1.1.0.13 | 放大自己施加的狀態圖示 | 已發布；官方 API13 節點 |
 | Better Mount Roulette | 1.0.0.0 | 可自訂規則的隨機坐騎 | 已發布；採用相容台服 Dalamud 13.0.0.8 的 2025-08-10 節點 |
+| Submarine Tracker | 2.0.2.1 | 追蹤部隊潛水艇航程、返航時間與收益 | 已發布；API14 切換前最後的 API13 節點；已更新有漏洞的 MessagePack 依賴 |
+| Party Icons | 1.2.3.2 | 依職業或團隊位置調整玩家名牌 | 已發布；採用原專案 fork 家族的 API13 維護節點 |
 
 Questionable 的台服建置停用了程式內「放棄任務」原生命令；需要放棄任務時請使用遊戲任務日誌。此限制不影響任務路徑、對話、傳送或 vnavmesh 導航。
 

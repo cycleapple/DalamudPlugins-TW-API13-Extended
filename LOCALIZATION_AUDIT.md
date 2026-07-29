@@ -97,6 +97,8 @@
 | EngageTimer | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
 | BigPlayerDebuffs | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
 | Better Mount Roulette | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
+| Submarine Tracker | 待處理 | 本批先完成 API13 安全節點、依賴漏洞修正與繁中 repo 說明；插件內部介面尚未進行 zh-TW 翻譯 |
+| Party Icons | 待處理 | 本批先完成 API13 編譯與繁中 repo 說明；插件設定介面尚未進行 zh-TW 翻譯 |
 
 ## 驗證要求
 
