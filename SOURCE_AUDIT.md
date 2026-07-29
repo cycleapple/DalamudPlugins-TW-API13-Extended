@@ -91,7 +91,7 @@
 | TriadBuddy | `MgAl2O4/FFTriadBuddyDalamud` | `acb68f2d` | 2025-08-11 | 採用 API13／7.3 安全節點；`cycleapple/FFTriadBuddyDalamud@9dbf132` 修復中文亂碼並完成 64 鍵 zh-TW，發布 1.13.0.2 |
 | MeterWay | `CondeSaheki/MeterWay` | `67036051` | 2025-04-12 | 安全日期窗內沒有上游提交，採用最後正式版 v1.0.16；`cycleapple/MeterWay@3413abf` 在最小 API13 移植上完成深層 zh-TW 介面，建置 0 警告、0 錯誤並發布 1.0.17.2 |
 | Death Recap | `Kouzukii/ffxiv-deathrecap` | `fdc149f4` | 2025-08-10 | 採用上游 API13 更新後的安全節點；`cycleapple/ffxiv-deathrecap@c95d352` 完成主要 zh-TW 介面並發布 1.13.2.3 |
-| Teleporter | `pohky/TeleporterPlugin` | `98a943a9` | 2025-08-07 | 上游於 `21434980` 明確更新 API13，下一次 API14 更新為 2025-12-17；`cycleapple/TeleporterPlugin@977aa28` 完成 zh-TW 介面並發布 2.0.2.9 |
+| Teleporter | `pohky/TeleporterPlugin` | `98a943a9` | 2025-08-07 | 上游於 `21434980` 明確更新 API13，下一次 API14 更新為 2025-12-17；`cycleapple/TeleporterPlugin@4aa978e` 完成 zh-TW 介面，並將台服擴充語言安全映射至 API13 Sanitizer 的非破壞性中文路徑，0 警告、0 錯誤，發布 2.0.2.10 |
 | DailyDuty | `MidoriKami/DailyDuty` | `bff73018` | 2025-08-22 | 採用 API13 安全節點並固定台服相容 KamiToolKit；`cycleapple/DailyDuty@0c4ba7a0` 完成 216 鍵 zh-TW 資源並發布 5.3.2.14 |
 | ezMiniCactpot | `MidoriKami/MiniCactpotSolver` | `761b4e22` | 2025-08-26 | 採用修正 LoadConfigFile 後的 API13 節點及相容 KamiToolKit；`cycleapple/EzMiniCactpot@eef2252` 完成 zh-TW 介面並發布 3.0.0.4 |
 | PingPlugin | `karashiiro/PingPlugin` | `5c0df982` | 2025-08-07 | 採用上游最後 API13 安全節點；`cycleapple/PingPlugin@f6a8386` 保留台服 TCP handshake 量測並完整校訂 zh-TW 介面，發布 2.9.0.2 |

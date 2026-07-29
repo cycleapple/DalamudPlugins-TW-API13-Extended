@@ -111,7 +111,7 @@
 | CrossUp | 已完成 | 1.7.1.14；121/121 個介面語系鍵完整 zh-TW；`on`／`off`／`true`／`false` 與 OPTIONS token 保持不變 |
 | TriadBuddy | 已完成 | 1.13.0.2；以完整 zh-TW 取代損壞亂碼資源，64/64 鍵且 `{0}`／`{1}`／`{0:P0}` 完整一致 |
 | Death Recap | 已完成 | 1.13.2.3；完成設定、死亡回顧主視窗、篩選、表格、提示、通知與 manifest；指令、JSON、ImGui ID 與遊戲資料名稱未變更 |
-| Teleporter | 已完成 | 2.0.2.9；完成設定、提示、聊天訊息與 manifest；聊天指令 token 與傳送判定未變更 |
+| Teleporter | 已完成 | 2.0.2.10；完成設定、提示、聊天訊息與 manifest；修正繁中／其他擴充語言觸發 API13 Sanitizer 例外；聊天指令 token、傳送資料語言與傳送判定未變更 |
 | DailyDuty | 已完成 | 5.3.2.14；新增 `Strings.zh-TW.resx`，216/216 個資源鍵完整翻譯，套件內確認含 `zh-TW/DailyDuty.resources.dll` |
 | ezMiniCactpot | 已完成 | 3.0.0.4；完成設定介面、提示與 manifest；仙人微彩解題邏輯及 KamiToolKit 相依未變更 |
 | PingPlugin | 已完成 | 2.9.0.2；完整校訂 `lang_zh.json` 為台灣繁中；TCP 端點、封包與量測邏輯完全未變更 |

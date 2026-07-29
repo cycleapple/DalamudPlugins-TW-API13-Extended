@@ -110,7 +110,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | TriadBuddy | 1.13.0.2 | 九宮幻卡對戰求解、牌組分析與收藏輔助 | 已發布；修復原中文亂碼並完成 64/64 個 zh-TW 語系鍵 |
 | MeterWay | 1.0.17.2 | 搭配 IINACT 或 ACT 顯示即時戰鬥統計 | 已發布；完成 Lazer／Mogu／Vision、動態 Lua 與主要設定 zh-TW 翻譯 |
 | Death Recap | 1.13.2.3 | 顯示死亡前的傷害、治療、增益、減益與護盾紀錄 | 已發布；完成設定、主視窗、篩選、提示與通知的 zh-TW 翻譯 |
-| Teleporter | 2.0.2.9 | 以聊天指令依以太之光或區域名稱傳送，支援自訂別名 | 已發布；完成設定、提示與聊天訊息的 zh-TW 翻譯 |
+| Teleporter | 2.0.2.10 | 以聊天指令依以太之光或區域名稱傳送，支援自訂別名 | 已發布；修正台服繁中語言的 Sanitizer 啟動錯誤 |
 | DailyDuty | 5.3.2.14 | 追蹤每日與每週任務完成狀態 | 已發布；216/216 個資源鍵完成 zh-TW 翻譯 |
 | ezMiniCactpot | 3.0.0.4 | 標示仙人微彩的最佳翻牌位置與選線 | 已發布；完成設定、提示與插件說明的 zh-TW 翻譯 |
 | PingPlugin | 2.9.0.2 | 顯示目前遊戲伺服器的網路延遲 | 已發布；完整台灣繁中介面；保留台服專用 TCP handshake 量測 |
