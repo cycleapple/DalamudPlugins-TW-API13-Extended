@@ -75,6 +75,9 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Doorbell | 1.0.4.1 | 有人進出房屋時播放門鈴提示音 | 已發布；完成 zh-TW 介面翻譯 |
 | MultiHit | 0.0.4.1 | 將傷害浮動文字依動畫拆分為多段 | 已發布；完成 zh-TW 介面翻譯 |
 | Namingway | 1.1.17.1 | 自訂技能與狀態效果顯示名稱 | 已發布；完成 zh-TW 介面翻譯 |
+| Mappy | 3.1.6.11 | 強化版遊戲地圖 | 已發布；台服 7.3／API13 安全節點 |
+| ChatCoordinates | 2.1.2.9 | 將聊天座標設為地圖旗標 | 已發布；台服 7.3／API13 安全節點 |
+| FPS Plugin | 1.7.0.4 | 顯示遊戲 FPS | 已發布；台服 7.3／API13 安全節點 |
 
 Questionable 的台服建置停用了程式內「放棄任務」原生命令；需要放棄任務時請使用遊戲任務日誌。此限制不影響任務路徑、對話、傳送或 vnavmesh 導航。
 
