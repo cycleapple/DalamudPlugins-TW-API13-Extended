@@ -83,3 +83,11 @@
 | Allagan Market | `Critical-Impact/AllaganMarket` | `334b5036b` | 2025-10-17 | 指定日期窗內最後版本，已包含 API13 遷移與 MarketPriceUpdater hook 簽章修正；`cycleapple/AllaganMarket@88ec1706` 新增 269 組 zh-TW 資源並保持 14 個 CSV 欄位識別為英文，以台服 Dalamud 13.0.0.8 編譯成功（155 個既有警告、0 錯誤），封裝四個 AllaganLib DLL 並發布 1.2.0.8 |
 | Allagan Tools | `Critical-Impact/InventoryTools` | `c542405ba` / tag `13.1.9` | 2025-11-25 | 指定日期窗內最後正式 API13 tag，包含非英文語言與 history 載入修正；保留 CriticalCommonLib、OtterGui、OtterGuiInternal 固定節點；`cycleapple/InventoryTools@7355e7ab` 完成 648 個實際介面鍵、1,465 筆有效 zh-TW 資源，API13 完整重建 0 錯誤，發布 1.13.1.12 |
 | Allagan Item Search | `Critical-Impact/AllaganItemSearch` | `b98604801` | 2025-08-09 | 指定日期窗內唯一提交且明確標記 API13；無原生 hook 或 git submodule；`cycleapple/AllaganItemSearch@ec56178e` 新增 236 個 zh-TW 資源鍵並覆蓋 119/119 renderer 名稱，以台服 Dalamud 13.0.0.8 編譯成功（862 個既有 nullable／StyleCop 警告、0 錯誤），發布 1.0.0.4 |
+| Title Edit | `RokasKil/TitleEdit` | `22610f1e` | 2025-12-07 | 採用上游 v3.0.6.2 的 API13 節點；`cycleapple/TitleEdit@c3e3ce67` 加入台服 Dalamud 服務相容修正，發布 3.0.6.20 |
+| MonsterDex | `wolfcomp/MonsterDex` | `3241c74e` | 2025-10-29 | 採用上游 v2.13.6 API13 發布節點；`cycleapple/MonsterDex@feb9f4d5` 內含繁中資料與字型，發布 2.13.6.1 |
+| High FPS Physics Fix | `LunaYup/xivlauncher_physics_plugin` | `7cadd26f` | 2025-08-06 | 採用切換至 Dalamud.NET.Sdk 後的 API13 節點；`cycleapple/xivlauncher_physics_plugin@82249e88` 加入繁中介面，發布 8.3.0.1 |
+| Orchestrion Plugin | `perchbirdd/OrchestrionPlugin` | `3496bbec` | 2025-08-07 | 採用完成 7.3 更新後的 API13 版本節點；`cycleapple/OrchestrionPlugin@7a917390` 發布 2.2.0.12 |
+| CrossUp | `ItsBexy/CrossUp` | `96daa53b` | 2025-09-03 | 採用上游 1.7.1.1 的 7.31／API13 節點；`cycleapple/CrossUp@a5174620` 完成台服建置與鎖檔，發布 1.7.1.13 |
+| TriadBuddy | `MgAl2O4/FFTriadBuddyDalamud` | `acb68f2d` | 2025-08-11 | 採用 API13／7.3 安全節點；`cycleapple/FFTriadBuddyDalamud@4888a795` 發布 1.13.0.1 |
+| MeterWay | `CondeSaheki/MeterWay` | `67036051` | 2025-04-12 | 安全日期窗內沒有上游提交，採用最後正式版 v1.0.16 並由 `cycleapple/MeterWay@ced447ca` 進行最小 API13 移植，發布 1.0.17.0 |
+| Death Recap | `Kouzukii/ffxiv-deathrecap` | `fdc149f4` | 2025-08-10 | 採用上游 API13 更新後的安全節點；`cycleapple/ffxiv-deathrecap@2102bdd8` 發布 1.13.2.2 |

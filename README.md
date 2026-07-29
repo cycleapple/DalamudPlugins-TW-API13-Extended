@@ -102,6 +102,14 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Allagan Market | 1.2.0.8 | 整理僱員上架、銷售紀錄與市場壓價資訊 | 已發布；269 組 zh-TW 資源；CSV 欄位識別保持英文；台服 Universalis 資料可能不完整 |
 | Allagan Tools | 1.13.1.12 | 跨角色追蹤、搜尋、篩選並整理庫存 | 已發布；648 個實際介面鍵零缺漏、1,465 筆有效 zh-TW 資源；保留固定版 CriticalCommonLib 與 OtterGui |
 | Allagan Item Search | 1.0.0.4 | 依條件搜尋與篩選遊戲物品 | 已發布；236 個 zh-TW 資源鍵及 119/119 renderer 名稱 |
+| Title Edit | 3.0.6.20 | 建立、分享並切換自訂標題與角色選擇畫面 | 已發布；採用 2025-12-07 的 API13 安全節點 |
+| MonsterDex | 2.13.6.1 | 顯示深層迷宮魔物資料與攻略提示 | 已發布；採用 2025-10-29 的 API13 安全節點，內含繁中資料與字型 |
+| High FPS Physics Fix | 8.3.0.1 | 改善高 FPS 下的動作物理表現 | 已發布；採用 2025-08-06 的 API13 安全節點，含繁中介面 |
+| Orchestrion Plugin | 2.2.0.12 | 瀏覽、辨識及變更遊戲內背景音樂 | 已發布；採用 2025-08-07 的 7.3／API13 安全節點 |
+| CrossUp | 1.7.1.13 | 自訂十字快捷欄外觀、位置與擴展操作 | 已發布；採用 2025-09-03 的 7.31／API13 安全節點 |
+| TriadBuddy | 1.13.0.1 | 九宮幻卡對戰求解、牌組分析與收藏輔助 | 已發布；採用 2025-08-11 的 7.3／API13 安全節點 |
+| MeterWay | 1.0.17.0 | 搭配 IINACT 或 ACT 顯示即時戰鬥統計 | 已發布；由最後正式版進行最小 API13 移植 |
+| Death Recap | 1.13.2.2 | 顯示死亡前的傷害、治療、增益、減益與護盾紀錄 | 已發布；採用 2025-08-10 的 API13 安全節點 |
 
 Questionable 的台服建置停用了程式內「放棄任務」原生命令；需要放棄任務時請使用遊戲任務日誌。此限制不影響任務路徑、對話、傳送或 vnavmesh 導航。
 
