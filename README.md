@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | YesAlready | 0.0.0.1 | 自動確認對話 | 已發布；完成主設定、各分頁、Bothers 說明與提示 zh-TW 翻譯 |
 | Price Insight | 2.11.3.1 | 顯示市場價格 | 已發布、繁中介面 |
 | Gearsetter | 4.0.0.1 | 裝備升級建議 | 已發布；完成設定、裝備比較、屬性與提示 zh-TW 翻譯 |
-| Ice's Cosmic Exploration | 0.0.73.41 | 宇宙探索採集、生產與任務輔助 | 已發布；主介面、模式、設定、必要插件與紀錄介面完成 zh-TW |
+| Ice's Cosmic Exploration | 0.0.73.42 | 宇宙探索採集、生產與任務輔助 | 已發布；一般使用者介面 zh-TW 完成 |
 | Better Occult Crescent & Chest Helper Interface | 1.0.1.1 | 蜃景新月島寶箱、兔子與遭遇輔助 | 已發布；由官方 1.0.1 API13 節點重新編譯；完整 zh-TW 介面 |
 | Umbra XIV | 3.1.7.1 | 自訂工具列與世界標記 | 已發布；使用 API14 介面變更前的 API13 節點；完整 zh-TW 介面 |
 | MissFisher | 1.6.5.12 | 釣魚輔助 | 已發布；完整移除上游建置保護器的啟動與每日到期檢查；內嵌台灣繁中介面 |
