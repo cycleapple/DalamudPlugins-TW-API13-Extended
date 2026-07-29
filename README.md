@@ -100,7 +100,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | FlyTextFilter | 4.4.0.3 | 過濾並調整戰鬥浮動文字 | 已發布；完成設定、類型表、匯入匯出、位置、黑名單與說明介面的 zh-TW 翻譯 |
 | MapLinker | 1.1.11.2 | 記錄與搜尋聊天中的地圖連結 | 已發布；完整繁中介面；採用 2025-08-17 的正式 API13 節點 |
 | Allagan Market | 1.2.0.8 | 整理僱員上架、銷售紀錄與市場壓價資訊 | 已發布；269 組 zh-TW 資源；CSV 欄位識別保持英文；台服 Universalis 資料可能不完整 |
-| Allagan Tools | 1.13.1.12 | 跨角色追蹤、搜尋、篩選並整理庫存 | 已發布；648 個實際介面鍵零缺漏、1,465 筆有效 zh-TW 資源；保留固定版 CriticalCommonLib 與 OtterGui |
+| Allagan Tools | 1.13.1.13 | 跨角色追蹤、搜尋、篩選並整理庫存 | 已發布；648 個實際介面鍵零缺漏、1,465 筆有效 zh-TW 資源；修正目前角色的僱員掛賣未寫入庫存追蹤與物品提示 |
 | Allagan Item Search | 1.0.0.4 | 依條件搜尋與篩選遊戲物品 | 已發布；236 個 zh-TW 資源鍵及 119/119 renderer 名稱 |
 | Title Edit | 3.0.6.22 | 建立、分享並切換自訂標題與角色選擇畫面 | 已發布；完成進階預設編輯、群組、場景通知與偵錯視窗 zh-TW 翻譯；保留 API13 坐騎解鎖修正 |
 | MonsterDex | 2.13.6.2 | 顯示深層迷宮魔物資料與攻略提示 | 已發布；完成設定、樓層、提示與深層迷宮術語的 zh-TW 翻譯 |

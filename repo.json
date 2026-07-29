@@ -2039,8 +2039,8 @@
     "Author": "Critical_Impact",
     "Name": "Allagan Tools",
     "InternalName": "InventoryTools",
-    "AssemblyVersion": "1.13.1.12",
-    "TestingAssemblyVersion": "1.13.1.12",
+    "AssemblyVersion": "1.13.1.13",
+    "TestingAssemblyVersion": "1.13.1.13",
     "Description": "跨角色、僱員與公會部隊倉庫追蹤物品，並提供篩選、整理、生產規劃、市場資訊、來源查詢及提示整合。已完成 zh-TW 介面。",
     "Punchline": "跨角色追蹤、搜尋、篩選並整理庫存。",
     "ApplicableVersion": "any",
@@ -2069,9 +2069,9 @@
       "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot3.png",
       "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot4.png"
     ],
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/InventoryTools-1.13.1.12.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/InventoryTools-1.13.1.12.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/InventoryTools-1.13.1.12.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/InventoryTools-1.13.1.13.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/InventoryTools-1.13.1.13.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/InventoryTools-1.13.1.13.zip",
     "AcceptsFeedback": false
   },
   {
