@@ -97,6 +97,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Submarine Tracker | 2.0.2.2 | 追蹤部隊潛水艇航程、返航時間與收益 | 已發布；完成 463/463 個 zh-TW 資源鍵、指令與未資源化介面；已更新有漏洞的 MessagePack 依賴 |
 | Party Icons | 1.2.3.3 | 依職業或團隊位置調整玩家名牌 | 已發布；完成 zh-TW 設定、名牌、團隊站位與升級指南介面 |
 | RezPls | 1.5.2.3 | 標示正在復活、已有復活效果及可解除的負面狀態 | 已發布；完整 zh-TW 介面與指令說明；API13 安全日期範圍內最後節點 |
+| FlyTextFilter | 4.4.0.1 | 過濾並調整戰鬥浮動文字 | 已發布；採用 2025-08-06 的原生台服 7.3／API13 安全節點 |
 | MapLinker | 1.1.11.2 | 記錄與搜尋聊天中的地圖連結 | 已發布；完整繁中介面；採用 2025-08-17 的正式 API13 節點 |
 
 Questionable 的台服建置停用了程式內「放棄任務」原生命令；需要放棄任務時請使用遊戲任務日誌。此限制不影響任務路徑、對話、傳送或 vnavmesh 導航。
