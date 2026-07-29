@@ -46,3 +46,4 @@
 | CBT（Automaton） | `Jaksuhn/ffxiv-bundleoftweaks` | `80d0545` / tag `v69.103` | 2025-11-16 | 11 月 16 日稍後開始引用台服 API13 不存在的 `TerritoryIntendedUse`，11 月底又改用較新 `AgentReturn`；`cycleapple/ffxiv-bundleoftweaks@c6baead` 將 `BaseId`／`IPartyMember.EntityId` 對應回 API13 介面，以台服 DLL 編譯成功並發布 69.103.0.0 |
 | GatheringPathRenderer | `PunishXIV/Questionable` | `34735346f` / tag `v13.68.129.2` | 2025-12-15 | 與 Questionable 使用同一 API13 安全基線；`cycleapple/Questionable@b4303ebb8` 將獨立採集路徑工具的 `IGameObject.BaseId` 對應回台服 API13 `DataId`，編譯 0 警告、0 錯誤並發布 0.10 |
 | Deliveroo | `VeraNala/Deliveroo` | `76abfc8` / tag `v7.4` | 2025-08-07 | 上游明確標記「7.4 API13」；鎖定 `qstxiv/LLib@f1716ee`，`cycleapple/Deliveroo@926d453` 以台服 API13 DLL 編譯成功（僅 1 個上游複雜度警告）並發布 7.4 |
+| Chilled Leves | `LeontopodiumNivale14/ChilledLeves` | `28d3025` | 2025-10-22 | SDK 13，鎖定上游 ECommons 子模組；`cycleapple/ChilledLeves@a7c46bc` 以台服 API13 DLL 編譯成功（8 個上游警告、0 錯誤）並發布 1.0.1.18 |

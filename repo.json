@@ -949,5 +949,33 @@
     "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Deliveroo-7.4.zip",
     "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Deliveroo-7.4.zip",
     "AcceptsFeedback": true
+  },
+  {
+    "Author": "Ice",
+    "Name": "Chilled Leves",
+    "InternalName": "ChilledLeves",
+    "AssemblyVersion": "1.0.1.18",
+    "TestingAssemblyVersion": "1.0.1.18",
+    "Description": "Select, automate, and turn in levequests. Requires vnavmesh. Taiwan 7.3 / Dalamud API13 build.",
+    "Punchline": "理符任務選擇、自動執行與繳交輔助",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/ChilledLeves",
+    "Tags": [
+      "Leves",
+      "Crafters",
+      "Gatherers"
+    ],
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ChilledLeves-1.0.1.18.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ChilledLeves-1.0.1.18.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ChilledLeves-1.0.1.18.zip",
+    "AcceptsFeedback": true
   }
 ]
