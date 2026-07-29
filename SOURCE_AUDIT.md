@@ -55,3 +55,5 @@
 | Visland | `awgil/ffxiv_visland` | `f7f40e1` / tag `v0.0.0.137` | 2025-08-09 | 上游 API13 安全節點；`cycleapple/ffxiv_visland@46ed315` 補正版本與 manifest、將 `DataId` 更新為 API13 `BaseId`，並鎖定 `cycleapple/AutoRetainerAPI@c3689ae`；台服 API13 編譯 0 警告、0 錯誤，發布 0.0.0.137 |
 | Chat 2 | `Infiziert90/ChatTwo` | `956e57a` | 2025-11-17 | 上游 API13 安全節點；`cycleapple/ChatTwo@b1861f3` 更新有漏洞的依賴，`cycleapple/ChatTwo@a341033` 僅修改 zh-Hant 資源與語言顯示名稱；主插件以台服 API13 編譯成功（15 個上游警告、0 錯誤），發布 1.32.0.1 |
 | Doorbell | `Aida-Enna/Doorbell` | `0a01851` | 2025-08-09 | 上游明確更新 7.3 並使用 SDK 13；`cycleapple/Doorbell@9b59581` 僅翻譯設定視窗、指令說明、狀態訊息與預設通知文字；台服 API13 編譯 0 警告、0 錯誤，發布 1.0.4.1 |
+| MultiHit | `Bluefissure/MultiHit` | `72d95e8f65` | 2025-08-18 | 上游原生 `Dalamud.NET.Sdk/13.0.0` 節點；`cycleapple/MultiHit@api13-tw` 以台服 API13 編譯成功，0 錯誤，發布 0.0.4.0 |
+| Namingway | `reiichi001/NamingWay` | `f7987e3257` | 2025-03-29 | 指定日期範圍內沒有 API13 節點；`cycleapple/NamingWay@079d4c7` 將 SDK、ImGui binding、list clipper 與 texture handle 實際移植至 API13；1 個上游 nullable 警告、0 錯誤，發布 1.1.17.0 |
