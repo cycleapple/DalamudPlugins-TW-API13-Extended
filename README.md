@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 
 | 插件 | 目標版本 | 用途 | 狀態 |
 |---|---:|---|---|
-| Bossmod／Boss Mod | 0.1.4.1 | Boss 機制輔助 | 已發布；台服 7.3 安全物品同步，移除不穩定 Hook |
+| Boss Mod | 0.1.4.1 | Boss 機制輔助 | 已發布；台服 7.3 安全物品同步，移除不穩定 Hook |
 | Bossmod Reborn | 7.3.8.2 | 技能範圍與戰鬥輔助 | 已發布；台服 7.3 安全物品同步，移除不穩定 Hook |
 | Rotation Solver Reborn | 7.3.5.0 | 技能循環 | 已發布；台服 7.3／API13 安全節點 |
 | Splatoon | 3.8.2.1 | 場景繪製點、線、面 | 已發布（來源 tag 3.8.1.5 的實際組件版本） |
@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Price Insight | 2.11.3.0 | 顯示市場價格 | 已發布 |
 | Gearsetter | 4.0 | 裝備升級建議 | 已發布；正式 API13 tag |
 | Ice's Cosmic Exploration | 0.0.73.40 | 宇宙探索採集、生產與任務輔助 | 已發布；含台服 API13 物件識別與 ECommons 相容修補 |
-| BOCCHI | 1.0.1.0 | 蜃景新月島寶箱、兔子與遭遇輔助 | 已發布；由官方 1.0.1 API13 節點重新編譯 |
+| Better Occult Crescent & Chest Helper Interface | 1.0.1.0 | 蜃景新月島寶箱、兔子與遭遇輔助 | 已發布；由官方 1.0.1 API13 節點重新編譯 |
 | Umbra XIV | 3.1.7.0 | 自訂工具列與世界標記 | 已發布；使用 API14 介面變更前的 API13 節點 |
 | MissFisher | 1.6.5.9 | 釣魚輔助 | 已發布；上游僅提供 API13 時期二進位套件，未聲稱重新編譯 |
 | Skippy | 1.2.2.8 | 主線隨機任務過場跳過輔助 | 已發布；SkipCutscene 的後繼插件 |
@@ -60,11 +60,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Pandora's Box | 1.6.3.18 | 多項便利功能合集 | 已發布；使用 API14 屬性切換前的 API13 節點 |
 | Marketbuddy | 0.2.4.0 | 市場上架與調價輔助 | 已發布 API13 |
 
-Bossmod 與 Boss Mod 是同一個 `awgil/ffxiv_bossmod` 來源，在正式 manifest 中只會保留一筆，避免 Dalamud 顯示重複插件。
-
 Questionable 的台服建置停用了程式內「放棄任務」原生命令；需要放棄任務時請使用遊戲任務日誌。此限制不影響任務路徑、對話、傳送或 vnavmesh 導航。
-
-Puni.sh 官方核心倉庫目前列出的 14 個插件，在本倉庫中均已有對應 API13 版本。這項覆蓋只指 Puni.sh 官方核心清單，不包含目錄中其他作者自行維護的第三方倉庫。
 
 ## 版本原則
 
