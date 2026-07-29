@@ -10,19 +10,19 @@
 | Splatoon | `PunishXIV/Splatoon` | `ae37f2b` / tag `3.8.1.5` | 2025-08-28 | `cycleapple/Splatoon@f0c759f` 保留 301 個查詢鍵並將顯示值轉為台灣繁中；API13 編譯成功，發布 3.8.2.2 |
 | Wrath Combo | `MeowZWR/WrathCombo` | `3b968ca32` | 2025-08-05 | API13 編譯成功；`cycleapple/WrathCombo@a920193ee` 完成主導航、PvE／PvP、自動循環、主要設定與疑難排解介面 zh-TW；2 個既有 PunishLib 參考警告、0 錯誤，發布 1.0.1.19。12 月節點雖仍標 API13，但已使用新版 Dalamud 型別，不相容台服 API13 |
 | AntiAfkKick | `NightmareXIV/AntiAfkKick` | `7a0ebaa8` | 2025-08-07 | `cycleapple/AntiAfkKick@8689ea7` 僅翻譯插件安裝頁說明；插件本身無設定介面；API13 編譯 0 警告、0 錯誤，發布 2.1.0.10 |
-| AutoRetainer | `PunishXIV/AutoRetainer` | `1e4e6b6` / tag `4.5.1.12` | 2025-08-15 | API13 編譯成功；`cycleapple/AutoRetainer@b97ce119` 保留繁中公會工坊／組件功能比對，完成主要設定、雇員批次與探索載具介面 zh-TW，40 個既有警告、0 錯誤，發布 4.5.1.23 |
+| AutoRetainer | `PunishXIV/AutoRetainer` | `1e4e6b6` / tag `4.5.1.12` | 2025-08-15 | API13 編譯成功；`cycleapple/AutoRetainer@47ba054` 保留繁中公會工坊／組件功能比對，第二輪補齊主視窗、統計、公會與金幣資料、通知、夜間模式、委託保管與多角色浮層 zh-TW；50 個既有警告、0 錯誤，發布 4.5.1.24 |
 | Saucy | `PunishXIV/Saucy` | `8e8d5949` | 2025-08-15 | 台服修正 `cycleapple/Saucy@a79b1c5`；`cycleapple/Saucy@5c751d1` 翻譯主介面與九宮幻卡 zh 資源，並修正語言檔未嵌入 DLL 的問題；API13 編譯成功（8 個上游警告、0 錯誤），發布 1.4.2.9 |
 | NoClippy | `UnknownX7/NoClippy` | `d32ae7af` | 2025-08-09 | `cycleapple/NoClippy@934ab0f` 僅翻譯設定、技能後搖、戰鬥統計、記錄選項、狀態預測警告與指令回覆；API13 編譯 0 警告、0 錯誤，發布 0.5.0.20 |
 | NecroLens | `Jukkales/NecroLens` | `d6646478` | 2025-11-26 | `cycleapple/NecroLens@50fcf9e` 保留 `BaseId` API13 修正並完成完整 zh-TW 資源，台服 API13 建置 0 警告、0 錯誤並發布 1.0.8.12 |
-| GatherBuddy Reborn | `AtmoOmen/GatherBuddyReborn` | `a34733dc` / tag `7.3.5.0` | 2025-12-02 | 位於安全日期範圍且 manifest 為 API13；`cycleapple/GatherBuddyReborn@930792a` 保留台服繁中資料 fallback、`DataId` 與 AutoHook IPC 容錯並完成主要 zh-TW 介面；API13 建置 79 個既有警告、0 錯誤，發布 7.3.5.2 |
+| GatherBuddy Reborn | `AtmoOmen/GatherBuddyReborn` | `a34733dc` / tag `7.3.5.0` | 2025-12-02 | 位於安全日期範圍且 manifest 為 API13；`cycleapple/GatherBuddyReborn@afe688a` 保留台服繁中資料 fallback、`DataId` 與 AutoHook IPC 容錯，第二輪補齊釣魚統計、釣場資訊、鬧鐘、採集組與多重提鉤介面 zh-TW；僅 1 個既有 CSCore 警告、0 錯誤，發布 7.3.5.3 |
 | Artisan | `MeowZWR/Artisan` | `e4a0ddaf` | 2025-12-13 | API13 編譯成功；`cycleapple/Artisan@9711149` 保留 `BaseId`、熱鍵列空參考與台服相容修正，完成製作浮窗、耐久製作、巨集及製作清單核心介面 zh-TW；68 個既有警告、0 錯誤，發布 4.0.4.10；上游已封存 |
 | Burning Down the House | `LeonBlade/BDTHPlugin` | `ba39d13c` | 2025-09-30 | `cycleapple/BDTHPlugin@a5dc4f4` 完成 zh-TW 介面，台服 API13 建置 0 警告、0 錯誤並發布 1.7.1.1 |
 | Raphael.Dalamud | `Dalamud-DailyRoutines/Raphael.Dalamud` | `de11e646` | 2025-09-16 | `cycleapple/Raphael.Dalamud@583151a` 完成 manifest zh-TW；台服 API13 建置 0 警告、0 錯誤並發布 0.0.5.1 |
 | Something Need Doing | `Jaksuhn/SomethingNeedDoing` | `11422e55` | 2025-11-28 | `cycleapple/SomethingNeedDoing@0d05161` 完成主要 zh-TW 介面；台服 API13 建置僅 2 個 AutoRetainerAPI 既有參考警告、0 錯誤並發布 0.0.0.1 |
 | TextAdvance | `cycleapple/TextAdvance` (`api13-tw`) | `f8a7cf5` | 2025-11-22 基底 | API13 編譯成功；繁中介面發布 3.2.4.8 |
-| Lifestream | `NightmareXIV/Lifestream` | API13 相容節點 | 2025 | `cycleapple/Lifestream@a5e47e2` 保留 Custom Alias、繁中「移動到公會工坊」與台服資料中心 151 世界清單修正，完成核心設定、服務帳號、指令建議與角色選擇介面 zh-TW；API13 建置 25 個既有警告、0 錯誤，發布 2.5.3.3 |
+| Lifestream | `NightmareXIV/Lifestream` | API13 相容節點 | 2025 | `cycleapple/Lifestream@ce5e95d` 保留 Custom Alias、繁中「移動到公會工坊」與台服資料中心 151 世界清單修正，完成核心設定、服務帳號、指令建議、角色選擇、Custom Alias 與 PaissaDB 介面 zh-TW；API13 建置 25 個既有警告、0 錯誤，發布 2.5.3.4 |
 | vnavmesh | `awgil/ffxiv_navmesh` | `5f512e5` / tag `v1.1.2.1` | 2025-12-15 | API13 編譯成功；`cycleapple/ffxiv_navmesh@fe561b7` 完成主要介面 zh-TW，並以台服 `0x009E / phase 9` 月面快取驗證客製連線：只對相符場景套用座標、使用該場景專屬垂直容差，且在寫入前驗證兩端 polygon，發布 1.1.2.3。上游於 12 月 17 日才切換 API14 |
-| AutoDuty | `ffxivcode/AutoDuty` | `a7d1eca8` | 2025-12-08 | `cycleapple/AutoDuty@bf454b37` 保留既有路徑分頁容錯並完成主要 zh-TW 介面；台服 API13 建置 66 個既有警告、0 錯誤，發布 0.0.0.2 |
+| AutoDuty | `ffxivcode/AutoDuty` | `a7d1eca8` | 2025-12-08 | `cycleapple/AutoDuty@5e91e47` 保留既有路徑分頁容錯，第二輪補齊次級設定、循環間動作、裝備、修理、消耗品、寶箱、分解與插件整合介面 zh-TW；台服 API13 建置 0 警告、0 錯誤，發布 0.0.0.3 |
 | Pixel Perfect | `Haplo064/PixelPerfect` | `b371fe07` | 2025-08-07 | `cycleapple/PixelPerfect@80adfa2` 僅翻譯歡迎頁、設定、圖形參數、匯入／匯出通知、編輯器與說明；API13 編譯成功（4 個上游 nullable 警告、0 錯誤），發布 3.3.2.1 |
 | LazyLoot | `PunishXIV/LazyLoot` | `d685ef0c` | 2025-11-19 | `cycleapple/LazyLoot@994d7ad` 完成設定介面、指令說明、狀態列、擲骰結果與診斷訊息繁中化；保留指令參數、設定格式與擲骰邏輯；台服 API13 編譯成功（2 個既有警告、0 錯誤），發布 5.3.2.5 |
 | YesAlready | `PunishXIV/YesAlready` | `ca2288dd` | 2025-11-10 | `cycleapple/YesAlready@619d0a3` 建立 API13 fork 並完成主要 zh-TW 介面；建置僅 4 個既有 nullable／unused 警告、0 錯誤並發布 0.0.0.1 |
