@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | TextAdvance | 3.2.4.8 | 對話自動處理 | 已發布、繁中介面 |
 | Lifestream | 2.5.3.2 | 傳送輔助 | 已發布；修正台服資料中心 151 的世界清單判定，大水晶浮層可列出 8 個台服伺服器 |
 | vnavmesh | 1.1.2.1 | 尋路與移動工具 | 已發布；API14 切換前最後一個正式 tag |
-| AutoDuty | 0.0.0.0 | 副本自動化框架 | 已發布 API13 |
+| AutoDuty | 0.0.0.1 | 副本自動化框架 | 已發布 API13；修正舊版／無效路徑檔造成的路徑分頁崩潰 |
 | Pixel Perfect | 3.3.2.1 | 顯示角色碰撞圈 | 已發布；完成 zh-TW 介面翻譯 |
 | LazyLoot | 5.3.2.5 | 戰利品擲骰輔助 | 已發布；完成 zh-TW 介面、指令說明與診斷訊息翻譯 |
 | Questionable | 13.68.129.3 | 任務輔助 | 已發布；略過台服資料中的無效副本地區參照 |
