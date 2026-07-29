@@ -27,7 +27,7 @@
 | LazyLoot | `PunishXIV/LazyLoot` | `d685ef0c` | 2025-11-19 | API13 編譯成功；發布 5.3.2.4 |
 | YesAlready | `PunishXIV/YesAlready` | `ca2288dd` | 2025-11-10 | API13 編譯成功；上游 manifest 版本為 0.0.0.0 |
 | Price Insight | `Kouzukii/ffxiv-priceinsight` | `3c1c16d7` | 2025-08-07 | API13 編譯成功；發布 2.11.3.0 |
-| MidiBard 2 | `reckhou/MidiBard2` | `1665029` | 2025-11-30 | API13 編譯成功；`cycleapple/MidiBard2@6f062cb` 修正 SDK 與台服組件路徑，發布 3.2.1.2。下一提交開始誤用 API14 `IPlayerState` |
+| MidiBard 2 | `reckhou/MidiBard2` | `1665029` | 2025-11-30 | API13 編譯成功；`cycleapple/MidiBard2@d141b5d` 修正 SDK 與台服組件路徑並補齊 zh-TW 介面資源，發布 3.2.1.3。下一提交開始誤用 API14 `IPlayerState` |
 | Questionable | `PunishXIV/Questionable` | `34735346f` / tag `v13.68.129.2` | 2025-12-15 | API13 編譯成功；`cycleapple/Questionable@f71531737` 適配台服 TC-BASE。程式內放棄任務因缺少安全原生介面而停用，其餘核心功能保留 |
 | Gearsetter | `VeraNala/Gearsetter` | `21a2b8c` / tag `v4.0` | 2025-08-10 | API13 編譯成功；`cycleapple/Gearsetter@api13-tw` 發布 4.0，使用原始鎖定的 `qstxiv/LLib@f1716ee` |
 | Ice's Cosmic Exploration | `LeontopodiumNivale14/Ices-Cosmic-Exploration` | `f3b7a696c9` | 2025-12-15 | `cycleapple/Ices-Cosmic-Exploration@9ced6b4` 將 ECommons 鎖回台服 API13 相容節點、以 `DataId` 取代後期 `BaseId` 並改用 `Player.JobId`，發布 0.0.73.40 |
@@ -35,7 +35,7 @@
 | Umbra XIV | `una-xiv/umbra` | `2d165ce` | 2025-10-08 | `Dalamud.NET.Sdk/13.0.0`；以台服 API13 乾淨編譯 0 警告、0 錯誤，發布 3.1.7.0。後期提交開始使用台服 API13 不存在的 `BaseId` 與 `IObjectTable.LocalPlayer` |
 | MissFisher | `BlackCleaverLoli/MissFisher` | `93487c5` | 2025-12-13 | 上游只發布 1.6.5.9 二進位套件、未公開原始碼；該 DLL 被未註冊版 .NET Reactor 注入 14 天到期例外及完整授權重驗流程。`cycleapple/MissFisher@5923d1e` 提供可重現的 Mono.Cecil 最小修補器，1.6.5.11 同時停用單一日期檢查與共用授權評估入口，涵蓋啟動、每日重驗及 `LicenseManager.Validate` 路徑，其他插件 IL 保留 |
 | Skippy | `BoxuChan/Skippy` | `61c7c4f` | 2025-08-12 | 上游 manifest 與 Packager 均為 API13；`cycleapple/Skippy@e0a99f3` 修正組件版本與 repo 版本不一致，台服 API13 編譯成功，發布 1.2.2.8 |
-| AutoHook | `PunishXIV/AutoHook` | `081cab55` / tag `v5.0.0.23` | 2025-12-03 | 位於安全日期範圍且 manifest 為 API13；包含 GatherBuddy 7.3.5 所需的 `GetPluginState`、`GetAutoStartFishing` 與 `SetAutoStartFishing` IPC；`cycleapple/AutoHook@11fbb84` 套用台服 `DataId` 相容修補，發布 5.0.0.13 |
+| AutoHook | `PunishXIV/AutoHook` | `081cab55` / tag `v5.0.0.23` | 2025-12-03 | 位於安全日期範圍且 manifest 為 API13；包含 GatherBuddy 7.3.5 所需的 `GetPluginState`、`GetAutoStartFishing` 與 `SetAutoStartFishing` IPC；`cycleapple/AutoHook@16103ca` 套用台服 `DataId` 相容修補及完整 zh-TW 介面，發布 5.0.0.14 |
 | Avarice | `PunishXIV/Avarice` | `0c831ce` | 2025-09-02 | `cycleapple/Avarice@c7fd996` 使用 API13 相依節點並移除未使用的 Windows Forms using，台服 API13 0 警告、0 錯誤，發布 2.1.1.7 |
 | Orbwalker | `PunishXIV/Orbwalker` | `caf40f9` | 2025-09-13 | SDK 與 manifest 均為 API13；台服 API13 編譯成功，發布 1.0.1.6 |
 | Palace Pal | `PunishXIV/PalacePal` | `bac8abe` | 2025-10-09 | SDK 13.1、manifest API13；台服 API13 編譯成功，發布 4.14.0.0 |

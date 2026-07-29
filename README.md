@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Saucy | 1.4.2.8 | 金碟相關功能 | 已發布；含 API13 編譯修正 |
 | NoClippy | 0.5.0.19 | 改善技能延遲 | 已發布 |
 | NecroLens | 1.0.8.11 | 深層迷宮輔助 | 已發布；包含台服 API13 型別相容修補 |
-| MidiBard 2 | 3.2.1.2 | 樂器演奏 | 已發布；API14 型別誤用前的安全節點 |
+| MidiBard 2 | 3.2.1.3 | 樂器演奏 | 已發布；API14 型別誤用前的安全節點；補齊 zh-TW 介面資源 |
 | GatherBuddy Reborn | 7.3.5.1 | 採集輔助 | 已發布；AtmoOmen 7.3.5 節點、繁中語言資料與 AutoHook IPC 載入順序容錯 |
 | Artisan | 4.0.4.9 | 生產輔助 | 已發布；修正缺少熱鍵列時的空參考錯誤 |
 | Burning Down the House | 1.7.1.0 | 房屋裝修 | 已發布；安全範圍內 API13 上游版本 |
@@ -53,7 +53,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Umbra XIV | 3.1.7.0 | 自訂工具列與世界標記 | 已發布；使用 API14 介面變更前的 API13 節點 |
 | MissFisher | 1.6.5.11 | 釣魚輔助 | 已發布；完整移除上游建置保護器的啟動與每日到期檢查 |
 | Skippy | 1.2.2.8 | 主線隨機任務過場跳過輔助 | 已發布；SkipCutscene 的後繼插件 |
-| AutoHook | 5.0.0.13 | 釣魚與刺魚輔助 | 已發布；補齊 GatherBuddy 7.3.5 所需 IPC，含台服 API13 `DataId` 相容修補 |
+| AutoHook | 5.0.0.14 | 釣魚與刺魚輔助 | 已發布；補齊 GatherBuddy 7.3.5 所需 IPC，含台服 API13 `DataId` 相容修補與完整繁中介面 |
 | Avarice | 2.1.1.7 | 身位與距離提示 | 已發布；含台服 API13 編譯修補 |
 | Orbwalker | 1.0.1.6 | 施法移動控制 | 已發布 API13 |
 | Palace Pal | 4.14.0.0 | 深層迷宮陷阱與寶藏提示 | 已發布 API13；需要 Splatoon |

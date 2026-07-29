@@ -48,7 +48,7 @@
 | Boss Mod | 待處理 | 大型 UI 與戰鬥術語 |
 | Bossmod Reborn | 待處理 | 大型 UI 與戰鬥術語 |
 | vnavmesh | 待處理 | 硬編碼 UI |
-| MidiBard 2 | 待複核 | 已有 zh-Hant 資源 |
+| MidiBard 2 | 已完成 | 3.2.1.3；zh-Hant 介面鍵 213/213，補齊 14 個缺漏字串 |
 | Questionable | 待處理 | 大型 UI 與任務術語 |
 | Gearsetter | 待處理 | 裝備與屬性術語 |
 | Ice's Cosmic Exploration | 待複核 | 需盤點既有翻譯資料 |
@@ -56,7 +56,7 @@
 | Umbra XIV | 待複核 | 已有 `zh.json` |
 | MissFisher | 待複核 | 已有 `lang.json` |
 | Skippy | 待處理 | 硬編碼 UI |
-| AutoHook | 待複核 | 已有中文 `.resx` |
+| AutoHook | 已完成 | 5.0.0.14；中文介面鍵 475/475，轉為台灣繁中並補齊 23 個缺漏字串 |
 | Avarice | 待處理 | 硬編碼 UI |
 | Orbwalker | 待處理 | 硬編碼 UI |
 | Palace Pal | 待處理 | 已有資源架構但沒有中文資源 |
