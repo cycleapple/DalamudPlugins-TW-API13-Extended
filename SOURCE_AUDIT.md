@@ -46,7 +46,7 @@
 | CBT（Automaton） | `Jaksuhn/ffxiv-bundleoftweaks` | `80d0545` / tag `v69.103` | 2025-11-16 | `cycleapple/ffxiv-bundleoftweaks@bec5da9` 保留 `BaseId`／`IPartyMember.EntityId` API13 修正並完成主要 zh-TW 介面；建置僅 3 個既有相依警告、0 錯誤並發布 69.103.0.1 |
 | GatheringPathRenderer | `PunishXIV/Questionable` | `34735346f` / tag `v13.68.129.2` | 2025-12-15 | 與 Questionable 使用同一 API13 安全基線；`cycleapple/Questionable@5c74be2cf` 保留台服 `DataId` 修正並完成獨立工具 zh-TW 介面，API13 建置成功並發布 0.10.0.1 |
 | Deliveroo | `VeraNala/Deliveroo` | `76abfc8` / tag `v7.4` | 2025-08-07 | 上游明確標記「7.4 API13」；`cycleapple/Deliveroo@46dd632` 完成 zh-TW 介面並以台服 API13 DLL 建置成功，發布 7.4.0.1 |
-| Chilled Leves | `LeontopodiumNivale14/ChilledLeves` | `28d3025` | 2025-10-22 | SDK 13，鎖定上游 ECommons 子模組；`cycleapple/ChilledLeves@4c36c28` 補完 zh-TW 介面，以台服 API13 DLL 建置 0 警告、0 錯誤並發布 1.0.1.21 |
+| Chilled Leves | `LeontopodiumNivale14/ChilledLeves` | `28d3025` | 2025-10-22 | SDK 13，鎖定上游 ECommons 子模組；`cycleapple/ChilledLeves@70db34a` 補完 zh-TW 並修正 vnavmesh IPC 啟動競態，以台服 API13 DLL 建置成功（8 個既有警告、0 錯誤）並發布 1.0.1.22 |
 | Explorer's Icebox | `LeontopodiumNivale14/Explorers-Icebox` | `816a5ba` | 2025-11-19 | SDK 13，鎖定 ECommons 與 Pictomancy 子模組；`cycleapple/Explorers-Icebox@c8c71dd` 完成 zh-TW 介面，主專案以既有相依輸出建置成功並發布 1.0.4.6；solution 仍有上游 ECommons/Pictomancy pack 問題 |
 | Easier Faux Hollows | `awgil/vfaux` | `77b8b67d` / tag `v0.0.0.10` | 2025-10-31 | 原生 SDK / API13 安全節點；`cycleapple/vfaux@0f85fd5` 補正套件版本並以台服 API13 依賴編譯，0 警告、0 錯誤；發布 0.0.0.10 |
 | Hyperborea | `kawaii/Hyperborea` | `21f6fa50` | 2025-11-12 | 原生 manifest API13 安全節點；`cycleapple/Hyperborea@api13-tw` 以台服 API13 依賴編譯，13 個上游警告、0 錯誤；發布 1.0.0.31 |

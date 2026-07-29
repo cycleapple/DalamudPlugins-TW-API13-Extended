@@ -67,7 +67,7 @@
 | CBT / Automaton | 已完成 | 69.103.0.1；完成主設定、模組清單、命運追蹤、任務開始結束、GM 提醒、狩獵轉發、設定控制項與 manifest；自動化判定未變更 |
 | GatheringPathRenderer | 已完成 | 0.10.0.1；只翻譯獨立工具的可見介面；採集路徑、資料 ID 與 Questionable 其餘目錄未變更 |
 | Deliveroo | 已完成 | 7.4.0.1；完成設定、繳納視窗、tooltip、聊天說明與 manifest；繳納判定未變更 |
-| Chilled Leves | 已完成 | 1.0.1.21；補完設定、提醒、採集理符與殘留介面；`RunUntil` 序列化值保持原文，只新增顯示映射 |
+| Chilled Leves | 已完成 | 1.0.1.22；補完設定、提醒、採集理符與殘留介面；`RunUntil` 序列化值保持原文；vnavmesh IPC 改用安全包裝並以 `Nav.IsReady` 控制操作按鈕 |
 | Explorer's Icebox | 已完成 | 1.0.4.6；完成主操作 UI、除錯選單與 manifest；自動化與相依整合邏輯未變更 |
 | Easier Faux Hollows | 已完成 | 0.0.0.11；完成幻巧拼圖、求解策略、偵錯格子、提示與指令介面；求解器、圖樣資料、座標與功能比對字串未變更 |
 | Hyperborea | 已完成 | 1.0.0.33；完成主要設定與區域編輯器；保留 opcode／MapEffect／CFC 等底層術語 |

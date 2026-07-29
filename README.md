@@ -64,7 +64,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | CBT | 69.103.0.1 | Automaton 多功能自動化與便利調整 | 已發布；完成主設定、模組、追蹤器與通知 zh-TW 翻譯 |
 | GatheringPathRenderer | 0.10.0.1 | 顯示採集節點路徑與位置 | 已發布；完成主要介面 zh-TW 翻譯；Questionable 開發工具 |
 | Deliveroo | 7.4.0.1 | 軍隊籌備品自動繳納輔助 | 已發布；完成設定、繳納視窗、提示與聊天說明 zh-TW 翻譯 |
-| Chilled Leves | 1.0.1.21 | 理符任務選擇、自動執行與繳交輔助 | 已發布；完成設定、提醒、採集理符與工作清單 zh-TW 翻譯；需要 vnavmesh |
+| Chilled Leves | 1.0.1.22 | 理符任務選擇、自動執行與繳交輔助 | 已發布；修正 vnavmesh IPC 尚未就緒時的視窗渲染錯誤；需要 vnavmesh |
 | Explorer's Icebox | 1.0.4.6 | 無人島採集與升級輔助 | 已發布；完成主操作與除錯選單 zh-TW 翻譯；需要 vnavmesh 與 visland |
 | Easier Faux Hollows | 0.0.0.11 | 幻巧拼圖已知圖樣求解器 | 已發布；完成 zh-TW 拼圖、設定與偵錯介面；原生 API13 安全節點 |
 | Hyperborea | 1.0.0.33 | 區域探索與團體姿勢輔助 | 已發布；完成 zh-TW 主要與區域編輯介面；原生 API13 安全節點 |
