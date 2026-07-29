@@ -24,8 +24,8 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 |---|---:|---|---|
 | Boss Mod | 0.1.4.2 | Boss 機制輔助 | 已發布；核心設定、循環、模組與重播介面完成 zh-TW |
 | Bossmod Reborn | 7.3.8.4 | 技能範圍與戰鬥輔助 | 已發布；補齊首領模組、雷達、技能調整、自動循環、AI、區域自動化、重播與配色 zh-TW |
-| Rotation Solver Reborn | 7.3.5.2 | 技能循環 | 已發布；補齊命令說明、目標模式、AutoDuty 診斷、優先順序、清單搜尋、備份與控制視窗 zh-TW |
-| Splatoon | 3.8.2.4 | 場景繪製點、線、面 | 已發布；補齊配置管理、版面／元素編輯、腳本狀態與相容性警告 zh-TW；保留台服 7.3 MapEffect hooks |
+| Rotation Solver Reborn | 7.3.5.3 | 技能循環 | 已發布；使用者介面 zh-TW 完成 |
+| Splatoon | 3.8.2.5 | 場景繪製點、線、面 | 已發布；使用者介面 zh-TW 完成；保留台服 7.3 MapEffect hooks |
 | Wrath Combo | 1.0.1.20 | 整合連段 | 已發布；使用者介面 zh-TW 完成 |
 | AntiAfkKick | 2.1.0.10 | 防止閒置斷線 | 已發布；繁中插件說明，插件本身無設定介面 |
 | AutoRetainer | 4.5.1.27 | 雇員相關功能 | 已發布；一般使用者可見的雇員、探索載具、多重模式、角色與進階設定介面均已完成 zh-TW |
