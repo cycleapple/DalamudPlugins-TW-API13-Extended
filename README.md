@@ -96,8 +96,8 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Better Mount Roulette | 1.0.0.0 | 可自訂規則的隨機坐騎 | 已發布；採用相容台服 Dalamud 13.0.0.8 的 2025-08-10 節點 |
 | Submarine Tracker | 2.0.2.1 | 追蹤部隊潛水艇航程、返航時間與收益 | 已發布；API14 切換前最後的 API13 節點；已更新有漏洞的 MessagePack 依賴 |
 | Party Icons | 1.2.3.2 | 依職業或團隊位置調整玩家名牌 | 已發布；採用原專案 fork 家族的 API13 維護節點 |
-| RezPls | 1.5.2.1 | 標示正在復活、已有復活效果及可解除的負面狀態 | 已發布；API13 安全日期範圍內最後節點 |
-| MapLinker | 1.1.11.1 | 記錄與搜尋聊天中的地圖連結 | 已發布；採用 2025-08-17 的正式 API13 節點 |
+| RezPls | 1.5.2.2 | 標示正在復活、已有復活效果及可解除的負面狀態 | 已發布；完整繁中介面；API13 安全日期範圍內最後節點 |
+| MapLinker | 1.1.11.2 | 記錄與搜尋聊天中的地圖連結 | 已發布；完整繁中介面；採用 2025-08-17 的正式 API13 節點 |
 
 Questionable 的台服建置停用了程式內「放棄任務」原生命令；需要放棄任務時請使用遊戲任務日誌。此限制不影響任務路徑、對話、傳送或 vnavmesh 導航。
 
