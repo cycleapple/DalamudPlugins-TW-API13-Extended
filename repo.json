@@ -841,5 +841,31 @@
     "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/JobBars-1.3.2.1.zip",
     "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/JobBars-1.3.2.1.zip",
     "AcceptsFeedback": true
+  },
+  {
+    "Author": "NightmareXIV",
+    "Name": "NotificationMaster",
+    "InternalName": "NotificationMaster",
+    "AssemblyVersion": "2.1.1.11",
+    "TestingAssemblyVersion": "2.1.1.11",
+    "Description": "Notifies you about various events while your game is minimized. Taiwan 7.3 / Dalamud API13 build.",
+    "Punchline": "聊天、排本、過場結束、採集力恢復等事件通知。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/NotificationMaster",
+    "Tags": [
+      "notification"
+    ],
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/NotificationMaster-2.1.1.11.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/NotificationMaster-2.1.1.11.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/NotificationMaster-2.1.1.11.zip",
+    "AcceptsFeedback": true
   }
 ]

@@ -60,6 +60,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Pandora's Box | 1.6.3.18 | 多項便利功能合集 | 已發布；使用 API14 屬性切換前的 API13 節點 |
 | Marketbuddy | 0.2.4.0 | 市場上架與調價輔助 | 已發布 API13 |
 | JobBars | 1.3.2.1 | 職業量譜、團隊增益與減傷追蹤 | 已發布；台服 7.3／API13 安全節點 |
+| NotificationMaster | 2.1.1.11 | 遊戲事件與背景通知 | 已發布；台服 7.3／API13 安全節點 |
 
 Questionable 的台服建置停用了程式內「放棄任務」原生命令；需要放棄任務時請使用遊戲任務日誌。此限制不影響任務路徑、對話、傳送或 vnavmesh 導航。
 
