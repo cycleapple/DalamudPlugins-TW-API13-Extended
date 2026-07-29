@@ -1205,8 +1205,8 @@
     "Author": "Anna, maimed by Franz",
     "Name": "Namingway",
     "InternalName": "Namingway",
-    "AssemblyVersion": "1.1.17.0",
-    "TestingAssemblyVersion": "1.1.17.0",
+    "AssemblyVersion": "1.1.17.1",
+    "TestingAssemblyVersion": "1.1.17.1",
     "Description": "Renames action and status effect display names without changing their underlying game data. Taiwan 7.3 / Dalamud API13 port.",
     "Punchline": "自訂技能與狀態效果的顯示名稱",
     "ApplicableVersion": "any",
@@ -1220,9 +1220,9 @@
     "LoadPriority": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Namingway-1.1.17.0.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Namingway-1.1.17.0.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Namingway-1.1.17.0.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Namingway-1.1.17.1.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Namingway-1.1.17.1.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Namingway-1.1.17.1.zip",
     "AcceptsFeedback": true
   }
 ]
