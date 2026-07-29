@@ -65,6 +65,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | GatheringPathRenderer | 0.10 | 顯示採集節點路徑與位置 | 已發布；Questionable 開發工具，台服 API13 相容修正版 |
 | Deliveroo | 7.4 | 軍隊籌備品自動繳納輔助 | 已發布；官方 API13 節點 |
 | Chilled Leves | 1.0.1.18 | 理符任務選擇、自動執行與繳交輔助 | 已發布；需要 vnavmesh |
+| Explorer's Icebox | 1.0.4.5 | 無人島採集與升級輔助 | 已發布；需要 vnavmesh 與 visland |
 
 Questionable 的台服建置停用了程式內「放棄任務」原生命令；需要放棄任務時請使用遊戲任務日誌。此限制不影響任務路徑、對話、傳送或 vnavmesh 導航。
 

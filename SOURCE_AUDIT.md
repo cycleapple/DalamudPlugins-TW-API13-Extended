@@ -47,3 +47,4 @@
 | GatheringPathRenderer | `PunishXIV/Questionable` | `34735346f` / tag `v13.68.129.2` | 2025-12-15 | 與 Questionable 使用同一 API13 安全基線；`cycleapple/Questionable@b4303ebb8` 將獨立採集路徑工具的 `IGameObject.BaseId` 對應回台服 API13 `DataId`，編譯 0 警告、0 錯誤並發布 0.10 |
 | Deliveroo | `VeraNala/Deliveroo` | `76abfc8` / tag `v7.4` | 2025-08-07 | 上游明確標記「7.4 API13」；鎖定 `qstxiv/LLib@f1716ee`，`cycleapple/Deliveroo@926d453` 以台服 API13 DLL 編譯成功（僅 1 個上游複雜度警告）並發布 7.4 |
 | Chilled Leves | `LeontopodiumNivale14/ChilledLeves` | `28d3025` | 2025-10-22 | SDK 13，鎖定上游 ECommons 子模組；`cycleapple/ChilledLeves@a7c46bc` 以台服 API13 DLL 編譯成功（8 個上游警告、0 錯誤）並發布 1.0.1.18 |
+| Explorer's Icebox | `LeontopodiumNivale14/Explorers-Icebox` | `816a5ba` | 2025-11-19 | SDK 13，鎖定 ECommons 與 Pictomancy 子模組；`cycleapple/Explorers-Icebox@37840d1` 以 .NET 10 編譯器和台服 API13 DLL 編譯成功（7 個主專案上游警告、0 錯誤）並發布 1.0.4.5 |

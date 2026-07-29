@@ -977,5 +977,33 @@
     "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ChilledLeves-1.0.1.18.zip",
     "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ChilledLeves-1.0.1.18.zip",
     "AcceptsFeedback": true
+  },
+  {
+    "Author": "Ice",
+    "Name": "Explorer's Icebox",
+    "InternalName": "ExplorersIcebox",
+    "AssemblyVersion": "1.0.4.5",
+    "TestingAssemblyVersion": "1.0.4.5",
+    "Description": "Island Sanctuary gathering and leveling helper. Requires vnavmesh and visland. Taiwan 7.3 / Dalamud API13 build.",
+    "Punchline": "無人島採集與升級輔助",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/Explorers-Icebox",
+    "Tags": [
+      "Island Sanctuary",
+      "Island",
+      "Sanctuary"
+    ],
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ExplorersIcebox-1.0.4.5.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ExplorersIcebox-1.0.4.5.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ExplorersIcebox-1.0.4.5.zip",
+    "AcceptsFeedback": true
   }
 ]
