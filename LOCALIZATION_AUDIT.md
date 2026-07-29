@@ -25,7 +25,7 @@
 
 | 插件 | 狀態 | 備註 |
 |---|---|---|
-| AntiAfkKick | 待處理 | 硬編碼 UI |
+| AntiAfkKick | 完成 | 插件本身無設定介面；安裝頁說明與摘要已翻譯 |
 | Saucy | 待處理 | 需盤點主 UI 與 Triple Triad 語言資料 |
 | NoClippy | 待處理 | 硬編碼 UI |
 | Pixel Perfect | 待處理 | 硬編碼 UI |

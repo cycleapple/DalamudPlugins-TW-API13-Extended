@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Rotation Solver Reborn | 7.3.5.0 | 技能循環 | 已發布；台服 7.3／API13 安全節點 |
 | Splatoon | 3.8.2.2 | 場景繪製點、線、面 | 已發布；301 個中文介面值轉為台灣繁中 |
 | Wrath Combo | 1.0.1.18 | 整合連段 | 已發布；使用真正相容台服 API13 的 2025-08-05 節點 |
-| AntiAfkKick | 2.1.0.9 | 防止閒置斷線 | 已發布 |
+| AntiAfkKick | 2.1.0.10 | 防止閒置斷線 | 已發布；繁中插件說明，插件本身無設定介面 |
 | AutoRetainer | 4.5.1.22 | 雇員相關功能 | 已發布；含繁中公會工坊／組件用語修正 |
 | Saucy | 1.4.2.8 | 金碟相關功能 | 已發布；含 API13 編譯修正 |
 | NoClippy | 0.5.0.19 | 改善技能延遲 | 已發布 |
