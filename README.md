@@ -99,6 +99,9 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | RezPls | 1.5.2.3 | 標示正在復活、已有復活效果及可解除的負面狀態 | 已發布；完整 zh-TW 介面與指令說明；API13 安全日期範圍內最後節點 |
 | FlyTextFilter | 4.4.0.1 | 過濾並調整戰鬥浮動文字 | 已發布；採用 2025-08-06 的原生台服 7.3／API13 安全節點 |
 | MapLinker | 1.1.11.2 | 記錄與搜尋聊天中的地圖連結 | 已發布；完整繁中介面；採用 2025-08-17 的正式 API13 節點 |
+| Allagan Market | 1.2.0.6 | 整理雇員上架、銷售紀錄與市場壓價資訊 | 已發布；採用 2025-10-17 的 API13 節點；台服 Universalis 資料可能不完整 |
+| Allagan Tools | 1.13.1.10 | 跨角色追蹤、搜尋、篩選並整理庫存 | 已發布；採用 2025-11-25 的 API13 13.1.9 節點；保留固定版 CriticalCommonLib 與 OtterGui |
+| Allagan Item Search | 1.0.0.3 | 依條件搜尋與篩選遊戲物品 | 已發布；採用 2025-08-09 明確標記 API13 的節點 |
 
 Questionable 的台服建置停用了程式內「放棄任務」原生命令；需要放棄任務時請使用遊戲任務日誌。此限制不影響任務路徑、對話、傳送或 vnavmesh 導航。
 
