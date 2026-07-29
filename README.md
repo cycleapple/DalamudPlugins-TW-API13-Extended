@@ -48,6 +48,8 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | YesAlready | 0.0.0.0 | 自動確認對話 | 已發布 API13 |
 | Price Insight | 2.11.3.0 | 顯示市場價格 | 已發布 |
 | Gearsetter | 4.0 | 裝備升級建議 | 已發布；正式 API13 tag |
+| Ice's Cosmic Exploration | 0.0.73.40 | 宇宙探索採集、生產與任務輔助 | 已發布；含台服 API13 物件識別與 ECommons 相容修補 |
+| BOCCHI | 1.0.1.0 | 蜃景新月島寶箱、兔子與遭遇輔助 | 已發布；由官方 1.0.1 API13 節點重新編譯 |
 
 Bossmod 與 Boss Mod 是同一個 `awgil/ffxiv_bossmod` 來源，在正式 manifest 中只會保留一筆，避免 Dalamud 顯示重複插件。
 
