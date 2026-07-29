@@ -57,7 +57,7 @@
 | Doorbell | `Aida-Enna/Doorbell` | `0a01851` | 2025-08-09 | 上游明確更新 7.3 並使用 SDK 13；`cycleapple/Doorbell@9b59581` 僅翻譯設定視窗、指令說明、狀態訊息與預設通知文字；台服 API13 編譯 0 警告、0 錯誤，發布 1.0.4.1 |
 | MultiHit | `Bluefissure/MultiHit` | `72d95e8f65` | 2025-08-18 | 上游原生 `Dalamud.NET.Sdk/13.0.0` 節點；`cycleapple/MultiHit@1357aab` 僅翻譯顯示文字、說明與通知，以台服 API13 編譯成功（340 個上游平台／nullable 警告、0 錯誤），發布 0.0.4.1 |
 | Namingway | `reiichi001/NamingWay` | `f7987e3257` | 2025-03-29 | 指定日期範圍內沒有 API13 節點；`cycleapple/NamingWay@079d4c7` 將 SDK、ImGui binding、list clipper 與 texture handle 實際移植至 API13；`cycleapple/NamingWay@968bfb9` 僅翻譯介面與預設套組顯示名稱；1 個上游 nullable 警告、0 錯誤，發布 1.1.17.1 |
-| Mappy | `harbingerftw/Mappy` | `9e9e4a3` | 2025-09-12 | 原生 `Dalamud.NET.Sdk/13.0.0` 安全節點；`cycleapple/Mappy@c69f7ad` 更新台服 fork 資訊與 manifest，以台服 API13 編譯成功（3 個 API13 棄用警告、0 錯誤），發布 3.1.6.11 |
+| Mappy | `harbingerftw/Mappy` | `9e9e4a3` | 2025-09-12 | 原生 `Dalamud.NET.Sdk/13.0.0` 安全節點；`cycleapple/Mappy@f7691eb` 完成設定、地圖工具列、右鍵選單、座標列、搜尋、任務／危命任務／旗標視窗與標記提示繁中化；保留地圖座標換算、標記資料、遊戲地名與設定鍵；台服 API13 編譯成功（3 個既有 API13 棄用警告、0 錯誤），發布 3.1.6.12 |
 | ChatCoordinates | `kissorjeyabalan/dalamud-chatcoordinates` | `1303b7e` | 2025-08-09 | 上游提交明確標記 Dalamud SDK 13；`cycleapple/dalamud-chatcoordinates@eeb5db3` 完成設定、指令說明、聊天提示與錯誤訊息繁中化，並採用官方台服地名「雷克蘭德」作為範例；未更動座標解析、分隔符號與傳送參數；台服 API13 編譯 0 警告、0 錯誤，發布 2.1.2.10 |
 | FPS Plugin | `Caraxi/FPSPlugin` | `9eaf5e4` | 2025-08-08 | 上游 API13 安全節點；`cycleapple/FPSPlugin@a14f297` 完成設定介面、DTR 工具提示、平均／最低標籤與指令說明繁中化；保留指令參數與 FPS 計算邏輯；台服 API13 編譯 0 警告、0 錯誤，發布 1.7.0.5 |
 | Craftimizer | `WorkingRobot/Craftimizer` | `88a1be2` | 2025-10-20 | 指定日期範圍內最後的原生 SDK 13 節點；`cycleapple/Craftimizer@2cdd57a` 更新台服 fork 資訊與 manifest，以台服 API13 編譯成功（7 個既有分析警告、0 錯誤），發布 2.8.0.1 |

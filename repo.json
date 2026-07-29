@@ -1229,8 +1229,8 @@
     "Author": "MidoriKami",
     "Name": "Mappy",
     "InternalName": "Mappy",
-    "AssemblyVersion": "3.1.6.11",
-    "TestingAssemblyVersion": "3.1.6.11",
+    "AssemblyVersion": "3.1.6.12",
+    "TestingAssemblyVersion": "3.1.6.12",
     "Description": "以 ImGui 地圖取代遊戲內建地圖，並提供多項額外功能。",
     "Punchline": "功能更完整的遊戲地圖。",
     "ApplicableVersion": "any",
@@ -1244,9 +1244,9 @@
     "LoadPriority": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Mappy-3.1.6.11.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Mappy-3.1.6.11.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Mappy-3.1.6.11.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Mappy-3.1.6.12.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Mappy-3.1.6.12.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Mappy-3.1.6.12.zip",
     "AcceptsFeedback": false
   },
   {
