@@ -1102,5 +1102,30 @@
     "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/XivTreasureParty-0.1.9.1.zip",
     "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/XivTreasureParty-0.1.9.1.zip",
     "AcceptsFeedback": true
+  },
+  {
+    "Author": "veyn, croizat",
+    "Name": "Visland",
+    "InternalName": "visland",
+    "AssemblyVersion": "0.0.0.137",
+    "TestingAssemblyVersion": "0.0.0.137",
+    "Description": "Automates Island Sanctuary gathering, workshop assignments, and related activities. Taiwan 7.3 / Dalamud API13 build.",
+    "Punchline": "無人島採集、工坊排程與相關活動自動化",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/ffxiv_visland/tree/api13-tw",
+    "IconUrl": "https://raw.githubusercontent.com/cycleapple/ffxiv_visland/api13-tw/icon.png",
+    "Tags": ["island sanctuary", "gathering", "automation"],
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/visland-0.0.0.137.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/visland-0.0.0.137.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/visland-0.0.0.137.zip",
+    "AcceptsFeedback": true
   }
 ]
