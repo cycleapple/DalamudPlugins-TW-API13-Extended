@@ -86,6 +86,17 @@
 | QoL Bar | 完成 | 2.3.3.7；已翻譯主設定、快捷列／捷徑編輯、條件組、職業與區域條件、備份、圓盤選單、圖示瀏覽器、快捷鍵、提示與錯誤訊息；指令語法、條件 ID、IPC、匯出資料與設定序列化未變更 |
 | IINACT | 部分完成 | 1.13.9.3；採用使用者指定的台服 API13 分支並翻譯 manifest；上游已有部分繁中語言調整，完整介面仍待稽核 |
 | LMeter | 完成 | 1.13.0.3；已翻譯設定、設定檔、長條、文字、字型、顯示條件、ACT 連線狀態、統計視窗與右鍵選單；IPC 端點、ACT 欄位、格式標籤、設定資料與計算邏輯未變更 |
+| Distance | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
+| EnemyListHP | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
+| ReAction | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
+| Radar Plugin | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
+| ReMakePlace Plugin | 待處理 | 本批只做 API13.0.0.8 編譯相容修正與繁中 manifest，未改動房屋操作文字或功能判斷 |
+| DozeAnywhere | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
+| Cammy | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
+| Gauge-O-Matic | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
+| EngageTimer | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
+| BigPlayerDebuffs | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
+| Better Mount Roulette | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
 
 ## 驗證要求
 

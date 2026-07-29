@@ -83,6 +83,17 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | QoL Bar | 2.3.3.7 | 自訂指令與插件快捷列 | 已發布；台服 7.3／API13 相容修正；完成 zh-TW 介面翻譯 |
 | IINACT | 1.13.9.3 | ACT 相容戰鬥資料解析 | 已發布；以你提供的台服 API13 分支重新編譯 |
 | LMeter | 1.13.0.3 | 遊戲內 ACT 戰鬥統計介面 | 已發布；完成 zh-TW 介面翻譯；搭配 IINACT 使用 |
+| Distance | 1.1.3.3 | 顯示目前目標距離 | 已發布；官方 API13 節點 |
+| EnemyListHP | 2.0.1.7 | 在敵對列表顯示 HP | 已發布；官方 7.3／API13 節點 |
+| ReAction | 1.3.4.2 | 戰鬥操作便利調整 | 已發布；台服 7.3／API13 安全節點；涉及戰鬥 Hook，風險較高 |
+| Radar Plugin | 2.1.8.1 | 顯示周圍敵人與互動物件 | 已發布；完整原始碼 API13 節點；具透視性質，風險高 |
+| ReMakePlace Plugin | 7.3.3.0 | 房屋布置配置工具 | 已發布；修正對台服 Dalamud 13.0.0.8 的建置相容性 |
+| DozeAnywhere | 13.1.0.0 | 在更多地點坐下或睡覺 | 已發布；官方 API13 節點；涉及姿勢限制修改，風險較高 |
+| Cammy | 2.1.0.13 | 進階鏡頭與鏡位調整 | 已發布；官方 7.3／API13 節點；涉及記憶體修改，風險較高 |
+| Gauge-O-Matic | 0.8.2.1 | 自訂增益與職業量譜提示 | 已發布；7.31／API13 節點 |
+| EngageTimer | 2.4.4.0 | 顯示完整戰鬥倒數與戰鬥時間 | 已發布；官方 API13 節點 |
+| BigPlayerDebuffs | 1.1.0.13 | 放大自己施加的狀態圖示 | 已發布；官方 API13 節點 |
+| Better Mount Roulette | 1.0.0.0 | 可自訂規則的隨機坐騎 | 已發布；採用相容台服 Dalamud 13.0.0.8 的 2025-08-10 節點 |
 
 Questionable 的台服建置停用了程式內「放棄任務」原生命令；需要放棄任務時請使用遊戲任務日誌。此限制不影響任務路徑、對話、傳送或 vnavmesh 導航。
 

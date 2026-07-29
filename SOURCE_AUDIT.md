@@ -65,3 +65,14 @@
 | QoL Bar | `UnknownX7/QoLBar` | `7ee0a6e` | 2025-08-11 | 指定日期範圍內的原生 SDK13／FFXIV 7.3 節點；`cycleapple/QoLBar@a115d51` 採用官方後續相同的 `AddonConfig.ActiveDataSet` 存取修正，更新台服 fork 與 manifest，並完成主設定、快捷列／捷徑編輯、條件組、備份、圖示瀏覽器、快捷鍵與提示訊息的 zh-TW 介面翻譯；指令語法、條件 ID、IPC、匯出格式與設定序列化未變更；台服 API13 編譯成功（2 個既有未指派欄位警告、0 錯誤），發布 2.3.3.7 |
 | IINACT | `PlusoneChiang/IINACT` | `81c2f3e` | 2026-07-29 | 使用者指定的 `tc/api13_net9` 分支，明確鎖定 SDK 13.1、.NET 9、Machina `173e3bf` 與 act-overlays `3ae30ab`；`cycleapple/IINACT@20fbf5b` 更新 fork 資訊與繁中 manifest；台服 API13 完整編譯成功（2 個 submodule 文件分析警告、0 錯誤），發布 1.13.9.3 |
 | LMeter | `juicefish/LMeter_TC` | `3bee085` | 2026-07-28 | 使用者指定的台服 API13 分支，原始 repo.json 宣告 API13 1.13.0.1；`cycleapple/LMeter_TC@1052d57` 修正可覆寫的 Dalamud 路徑、更新 fork 資訊與繁中 manifest，並完成設定、統計欄位、右鍵選單與提示的 zh-TW 介面翻譯；IPC 名稱、ACT 欄位、格式標籤、設定鍵與計算邏輯維持不變；台服 API13 編譯 0 警告、0 錯誤，發布 1.13.0.3 |
+| Distance | `PunishedPineapple/Distance` | `aa7027c352` | 2025-08-07 | API13 更新後的正式節點；`cycleapple/Distance@api13-tw` 以台服 Dalamud 13.0.0.8／.NET 9 重建成功，1 警告、0 錯誤，發布 1.1.3.3 |
+| EnemyListHP | `NightmareXIV/EnmityHp` | `1f587890e4` | 2025-08-07 | 上游 7.3／API13 節點；`cycleapple/EnmityHp@api13-tw` 以台服 Dalamud 13.0.0.8 重建成功，1 警告、0 錯誤，發布 2.0.1.7 |
+| ReAction | `UnknownX7/ReAction` | `f539d8ea69` | 2025-08-11 | 上游 7.3 修正後的 SDK13 節點；`cycleapple/ReAction@api13-tw` 重建成功，僅保留上游警告，發布 1.3.4.2 |
+| Radar Plugin | `KangasZ/RadarPlugin` | `461df22fe2` | 2025-10-09 | 採用有完整原始碼的 Radar Plugin API13 節點，不使用僅提供 API10 二進位檔的 akira0245 鏡像；`cycleapple/RadarPlugin@api13-tw` 重建成功，發布 2.1.8.1 |
+| ReMakePlace Plugin | `ReMakePlace/plugin` | `f9b5648e18` | 2025-12-02 | API14 更新前最後一批 API13 變更；`cycleapple/ReMakePlacePlugin@179bd50` 明確化 ECommons ref lambda 型別，並將 API13.1 才有的 `IObjectTable.LocalPlayer` 改回 API13.0.0.8 可用的 `IClientState.LocalPlayer`；功能流程不變，重建成功，發布 7.3.3.0 |
+| DozeAnywhere | `Warpholomey/DozeAnywhere` | `00c6ab37db` | 2025-08-09 | 上游明確標示 Dalamud API13 的節點；`cycleapple/DozeAnywhere@api13-tw` 以台服 API13 重建 0 警告、0 錯誤，發布 13.1.0.0 |
+| Cammy | `UnknownX7/Cammy` | `d015ed2725` | 2025-08-11 | 上游 7.3 修正後的 SDK13 節點；連同固定版 Hypostasis 子模組重建成功，發布 2.1.0.13 |
+| Gauge-O-Matic | `ItsBexy/GaugeOMatic` | `4e889d0a1c` | 2025-09-03 | 上游 7.31／SDK13.1 節點；對台服 Dalamud 13.0.0.8 重建成功，2 個過時 API 警告、0 錯誤，發布 0.8.2.1 |
+| EngageTimer | `xorus/EngageTimer` | `d436096f67` | 2025-08-08 | 上游 SDK13 更新節點；對台服 Dalamud 13.0.0.8 重建 0 警告、0 錯誤，發布 2.4.4.0 |
+| BigPlayerDebuffs | `rgd87/BigPlayerDebuffs` | `a948648cd4` | 2025-08-08 | API13 更新後的版本節點；對台服 API13 重建成功，警告為上游平台分析提示，發布 1.1.0.13 |
+| Better Mount Roulette | `CMDRNuffin/BetterMountRoulette` | `98d2574` | 2025-08-10 | 沒有採用 2025-11 後依賴 `IPlayerState` 的 API13.1 節點，改採可直接對台服 Dalamud 13.0.0.8 重建的最後安全節點；`cycleapple/BetterMountRoulette@api13-tw` 0 警告、0 錯誤，發布 1.0.0.0 |
