@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Wrath Combo | 1.0.1.18 | 整合連段 | 已發布；使用真正相容台服 API13 的 2025-08-05 節點 |
 | AntiAfkKick | 2.1.0.10 | 防止閒置斷線 | 已發布；繁中插件說明，插件本身無設定介面 |
 | AutoRetainer | 4.5.1.22 | 雇員相關功能 | 已發布；含繁中公會工坊／組件用語修正 |
-| Saucy | 1.4.2.8 | 金碟相關功能 | 已發布；含 API13 編譯修正 |
+| Saucy | 1.4.2.9 | 金碟相關功能 | 已發布；完成 zh-TW 主介面與九宮幻卡資源翻譯 |
 | NoClippy | 0.5.0.20 | 改善技能延遲 | 已發布；完成 zh-TW 介面翻譯 |
 | NecroLens | 1.0.8.11 | 深層迷宮輔助 | 已發布；包含台服 API13 型別相容修補 |
 | MidiBard 2 | 3.2.1.3 | 樂器演奏 | 已發布；API14 型別誤用前的安全節點；補齊 zh-TW 介面資源 |
