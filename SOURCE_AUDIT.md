@@ -5,9 +5,9 @@
 | 插件 | 上游 | 截止 commit | 日期（UTC） | 初步結果 |
 |---|---|---|---|---|
 | Bossmod／Boss Mod | `awgil/ffxiv_bossmod` | `381151125` | 2025-11-29 | API13 編譯成功；`cycleapple/ffxiv_bossmod@18d802ea0` 保留台服 7.3 相容修正並完成核心設定、循環、模組與重播介面 zh-TW；0 警告、0 錯誤，發布 0.1.4.2。後續開始使用 API14 `IPlayerState` |
-| Bossmod Reborn | `FFXIV-CombatReborn/BossmodReborn` | `9222b6062` / tag `7.3.8.1` | 2025-11-24 | API13 編譯成功；`cycleapple/BossmodReborn@012b41d21` 保留台服 ClientStructs 與 Dalamud 型別修正，完成核心設定、循環與模組介面 zh-TW；0 警告、0 錯誤，發布 7.3.8.3。後續節點已使用 API14 型別 |
-| Rotation Solver Reborn | `FFXIV-CombatReborn/RotationSolverReborn` | `4907d030` / tag `7.3.5.0` | 2025-10-07 | `cycleapple/RotationSolverReborn@cd74afdb` 保留 net9 相容 Lumina.Excel 並完成集中顯示層 211 個 zh-TW 字串；主插件以既有 API13 `RotationSolver.Basic.dll` 建置 0 警告、0 錯誤，發布 7.3.5.1。較晚的 7.3.8.x 雖標 API13，已使用 API14 型別 |
-| Splatoon | `PunishXIV/Splatoon` | `ae37f2b` / tag `3.8.1.5` | 2025-08-28 | `cycleapple/Splatoon@f0c759f` 保留 301 個查詢鍵並將顯示值轉為台灣繁中；API13 編譯成功，發布 3.8.2.2 |
+| Bossmod Reborn | `FFXIV-CombatReborn/BossmodReborn` | `9222b6062` / tag `7.3.8.1` | 2025-11-24 | API13 編譯成功；`cycleapple/BossmodReborn@0a9bdcdd8` 保留台服 ClientStructs 與 Dalamud 型別修正，第二輪完成 184 組首領模組／雷達、技能調整、自動循環、AI、區域自動化、重播與配色 UI 字串；另將 9 處 C#14 條件式指派改為語意等價 null 判斷以供 .NET9 建置，0 警告、0 錯誤，發布 7.3.8.4。後續節點已使用 API14 型別 |
+| Rotation Solver Reborn | `FFXIV-CombatReborn/RotationSolverReborn` | `4907d030` / tag `7.3.5.0` | 2025-10-07 | `cycleapple/RotationSolverReborn@ed63be693` 保留 net9 相容 Lumina.Excel，第二輪補齊命令說明、目標／交戰模式、AutoDuty 診斷、優先順序、清單搜尋、設定備份與控制視窗 zh-TW；API13 建置 0 錯誤、1 個既有 XML 註解警告，發布 7.3.5.2。較晚的 7.3.8.x 雖標 API13，已使用 API14 型別 |
+| Splatoon | `PunishXIV/Splatoon` | `ae37f2b` / tag `3.8.1.5` | 2025-08-28 | `cycleapple/Splatoon@aef0d9763` 保留 301 個查詢鍵、台服 7.3 MapEffect 修正與功能邏輯，第二輪新增 229 行 zh-TW，涵蓋配置管理、版面／元素編輯、腳本狀態、相容性與直播風險提示；API13 建置 0 錯誤、3 個既有參考警告，發布 3.8.2.4 |
 | Wrath Combo | `MeowZWR/WrathCombo` | `3b968ca32` | 2025-08-05 | API13 編譯成功；`cycleapple/WrathCombo@a920193ee` 完成主導航、PvE／PvP、自動循環、主要設定與疑難排解介面 zh-TW；2 個既有 PunishLib 參考警告、0 錯誤，發布 1.0.1.19。12 月節點雖仍標 API13，但已使用新版 Dalamud 型別，不相容台服 API13 |
 | AntiAfkKick | `NightmareXIV/AntiAfkKick` | `7a0ebaa8` | 2025-08-07 | `cycleapple/AntiAfkKick@8689ea7` 僅翻譯插件安裝頁說明；插件本身無設定介面；API13 編譯 0 警告、0 錯誤，發布 2.1.0.10 |
 | AutoRetainer | `PunishXIV/AutoRetainer` | `1e4e6b6` / tag `4.5.1.12` | 2025-08-15 | API13 編譯成功；`cycleapple/AutoRetainer@47ba054` 保留繁中公會工坊／組件功能比對，第二輪補齊主視窗、統計、公會與金幣資料、通知、夜間模式、委託保管與多角色浮層 zh-TW；50 個既有警告、0 錯誤，發布 4.5.1.24 |

@@ -23,9 +23,9 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | 插件 | 目標版本 | 用途 | 狀態 |
 |---|---:|---|---|
 | Boss Mod | 0.1.4.2 | Boss 機制輔助 | 已發布；核心設定、循環、模組與重播介面完成 zh-TW |
-| Bossmod Reborn | 7.3.8.3 | 技能範圍與戰鬥輔助 | 已發布；核心設定、循環與模組介面完成 zh-TW |
-| Rotation Solver Reborn | 7.3.5.1 | 技能循環 | 已發布；集中顯示層 211 個設定與說明字串完成 zh-TW 翻譯；技能／狀態鍵與循環判斷未變更 |
-| Splatoon | 3.8.2.3 | 場景繪製點、線、面 | 已發布；完成 zh-TW 介面；修正台服 7.3 延伸 MapEffect hooks |
+| Bossmod Reborn | 7.3.8.4 | 技能範圍與戰鬥輔助 | 已發布；補齊首領模組、雷達、技能調整、自動循環、AI、區域自動化、重播與配色 zh-TW |
+| Rotation Solver Reborn | 7.3.5.2 | 技能循環 | 已發布；補齊命令說明、目標模式、AutoDuty 診斷、優先順序、清單搜尋、備份與控制視窗 zh-TW |
+| Splatoon | 3.8.2.4 | 場景繪製點、線、面 | 已發布；補齊配置管理、版面／元素編輯、腳本狀態與相容性警告 zh-TW；保留台服 7.3 MapEffect hooks |
 | Wrath Combo | 1.0.1.19 | 整合連段 | 已發布；主導航、PvE／PvP、自動循環與主要設定介面完成 zh-TW |
 | AntiAfkKick | 2.1.0.10 | 防止閒置斷線 | 已發布；繁中插件說明，插件本身無設定介面 |
 | AutoRetainer | 4.5.1.24 | 雇員相關功能 | 已發布；補齊主視窗、統計、公會資料、通知、委託保管與多角色浮層 zh-TW |
