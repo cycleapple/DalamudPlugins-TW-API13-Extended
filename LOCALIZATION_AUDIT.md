@@ -62,15 +62,15 @@
 | Palace Pal | 待處理 | 已有資源架構但沒有中文資源 |
 | Pandora's Box | 待處理 | 大型硬編碼 UI |
 | Marketbuddy | 待處理 | 硬編碼 UI |
-| JobBars | 待處理 | 硬編碼 UI |
-| NotificationMaster | 待處理 | 硬編碼 UI |
+| JobBars | 已完成 | 1.3.2.3；完成主要設定、各職業量譜細項與自訂冷卻對話框；保留與設定值相連的 enum 名稱 |
+| NotificationMaster | 已完成 | 2.1.1.13；完成主要設定、聊天規則、狩獵目標與實際通知介面；保留 HTTP／XivChatType 等功能識別值 |
 | CBT / Automaton | 待處理 | 大型模組化 UI |
 | GatheringPathRenderer | 待處理 | 硬編碼 UI |
 | Deliveroo | 待處理 | 硬編碼 UI |
-| Chilled Leves | 待處理 | 硬編碼 UI |
+| Chilled Leves | 已完成 | 1.0.1.20；完成主要與工作清單進階介面；保留純 Debug 與品牌／格式名稱 |
 | Explorer's Icebox | 待處理 | 硬編碼 UI |
 | Easier Faux Hollows | 待處理 | 硬編碼 UI |
-| Hyperborea | 待處理 | 硬編碼 UI |
+| Hyperborea | 已完成 | 1.0.0.33；完成主要設定與區域編輯器；保留 opcode／MapEffect／CFC 等底層術語 |
 | AutoMinion | 完成 | 設定視窗、固定模式、搜尋、按鈕、指令說明與插件說明已翻譯；未更動寵物名稱、指令內容與地區 ID |
 | XIV 藏寶圖工具小幫手 | 待複核 | 既有繁中介面，需術語稽核 |
 | Visland | 待處理 | 大型硬編碼 UI |
@@ -86,17 +86,17 @@
 | QoL Bar | 完成 | 2.3.3.7；已翻譯主設定、快捷列／捷徑編輯、條件組、職業與區域條件、備份、圓盤選單、圖示瀏覽器、快捷鍵、提示與錯誤訊息；指令語法、條件 ID、IPC、匯出資料與設定序列化未變更 |
 | IINACT | 部分完成 | 1.13.9.3；採用使用者指定的台服 API13 分支並翻譯 manifest；上游已有部分繁中語言調整，完整介面仍待稽核 |
 | LMeter | 完成 | 1.13.0.3；已翻譯設定、設定檔、長條、文字、字型、顯示條件、ACT 連線狀態、統計視窗與右鍵選單；IPC 端點、ACT 欄位、格式標籤、設定資料與計算邏輯未變更 |
-| Distance | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
-| EnemyListHP | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
-| ReAction | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
-| Radar Plugin | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
-| ReMakePlace Plugin | 待處理 | 本批只做 API13.0.0.8 編譯相容修正與繁中 manifest，未改動房屋操作文字或功能判斷 |
-| DozeAnywhere | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
-| Cammy | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
-| Gauge-O-Matic | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
-| EngageTimer | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
-| BigPlayerDebuffs | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
-| Better Mount Roulette | 待處理 | 本批先完成 API13 編譯與繁中 manifest；插件設定介面尚未進行 zh-TW 翻譯 |
+| Distance | 已完成 | 1.1.3.6；完成主要與進階 Widget／Arc／名牌介面；純 Debug 視窗保留英文 |
+| EnemyListHP | 已完成 | 2.0.1.8；完成設定介面與 manifest |
+| ReAction | 已完成 | 1.3.4.4；完成主要、Help、連段、快捷欄與佇列介面；內部 log／debug 保留英文 |
+| Radar Plugin | 已完成 | 2.1.8.3；完成主要與進階雷達介面；MobEdit 診斷欄位與內部 debug 保留英文 |
+| ReMakePlace Plugin | 已完成 | 7.3.4.0；完成房屋配置介面翻譯，保留家具 fixture 與功能判斷值 |
+| DozeAnywhere | 已完成 | 13.1.0.1；完成可見介面與通知翻譯 |
+| Cammy | 已完成 | 2.1.0.14；完成預設、鏡頭、自由鏡頭與進階設定介面 |
+| Gauge-O-Matic | 已完成 | 0.8.2.3；完成 Help、Preset、職業調整、tooltip 與 widget 進階介面；功能分支鍵保持英文 |
+| EngageTimer | 已完成 | 2.4.4.1；完成 zh-TW／zh-Hant 語系支援並補齊設定介面 |
+| BigPlayerDebuffs | 已完成 | 1.1.0.14；完成設定、命令說明與 manifest |
+| Better Mount Roulette | 已完成 | 1.0.0.2；完成主要設定、坐騎群組、角色管理、命令說明與錯誤回饋；命令 token 保持原樣 |
 | Submarine Tracker | 待處理 | 本批先完成 API13 安全節點、依賴漏洞修正與繁中 repo 說明；插件內部介面尚未進行 zh-TW 翻譯 |
 | Party Icons | 待處理 | 本批先完成 API13 編譯與繁中 repo 說明；插件設定介面尚未進行 zh-TW 翻譯 |
 | RezPls | 待處理 | 本批先完成 API13 編譯與繁中 repo 說明；插件設定介面尚未進行 zh-TW 翻譯，未更動復活、狀態效果判斷或介面覆蓋邏輯 |

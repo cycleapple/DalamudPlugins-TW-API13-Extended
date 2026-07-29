@@ -59,15 +59,15 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Palace Pal | 4.14.0.0 | 深層迷宮陷阱與寶藏提示 | 已發布 API13；需要 Splatoon |
 | Pandora's Box | 1.6.3.18 | 多項便利功能合集 | 已發布；使用 API14 屬性切換前的 API13 節點 |
 | Marketbuddy | 0.2.4.0 | 市場上架與調價輔助 | 已發布 API13 |
-| JobBars | 1.3.2.1 | 職業量譜、團隊增益與減傷追蹤 | 已發布；台服 7.3／API13 安全節點 |
-| NotificationMaster | 2.1.1.11 | 遊戲事件與背景通知 | 已發布；台服 7.3／API13 安全節點 |
+| JobBars | 1.3.2.3 | 職業量譜、團隊增益與減傷追蹤 | 已發布；完成 zh-TW 主要與進階介面；台服 API13 安全節點 |
+| NotificationMaster | 2.1.1.13 | 遊戲事件與背景通知 | 已發布；完成 zh-TW 主要與進階介面；台服 API13 安全節點 |
 | CBT | 69.103.0.0 | Automaton 多功能自動化與便利調整 | 已發布；v69.103 台服 API13 相容修正版 |
 | GatheringPathRenderer | 0.10 | 顯示採集節點路徑與位置 | 已發布；Questionable 開發工具，台服 API13 相容修正版 |
 | Deliveroo | 7.4 | 軍隊籌備品自動繳納輔助 | 已發布；官方 API13 節點 |
-| Chilled Leves | 1.0.1.18 | 理符任務選擇、自動執行與繳交輔助 | 已發布；需要 vnavmesh |
+| Chilled Leves | 1.0.1.20 | 理符任務選擇、自動執行與繳交輔助 | 已發布；完成 zh-TW 主要與工作清單介面；需要 vnavmesh |
 | Explorer's Icebox | 1.0.4.5 | 無人島採集與升級輔助 | 已發布；需要 vnavmesh 與 visland |
 | Easier Faux Hollows | 0.0.0.10 | 幻巧拼圖已知圖樣求解器 | 已發布；原生 API13 安全節點 |
-| Hyperborea | 1.0.0.31 | 區域探索與團體姿勢輔助 | 已發布；原生 API13 安全節點 |
+| Hyperborea | 1.0.0.33 | 區域探索與團體姿勢輔助 | 已發布；完成 zh-TW 主要與區域編輯介面；原生 API13 安全節點 |
 | AutoMinion | 1.0.0.2 | 進入房屋時收起寵物，離開時重新召喚 | 已發布；完成 zh-TW 介面翻譯；由較早來源移植，風險較高 |
 | XIV 藏寶圖工具小幫手 | 0.1.9.1 | 繁中藏寶圖組隊協作與網頁同步 | 已發布；自有專案由 API12 實際移植至 API13 |
 | Visland | 0.0.0.137 | 無人島採集、工坊排程與活動自動化 | 已發布；原生 API13 安全節點並完成 `BaseId` 相容修正 |
@@ -83,17 +83,17 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | QoL Bar | 2.3.3.7 | 自訂指令與插件快捷列 | 已發布；台服 7.3／API13 相容修正；完成 zh-TW 介面翻譯 |
 | IINACT | 1.13.9.3 | ACT 相容戰鬥資料解析 | 已發布；以你提供的台服 API13 分支重新編譯 |
 | LMeter | 1.13.0.3 | 遊戲內 ACT 戰鬥統計介面 | 已發布；完成 zh-TW 介面翻譯；搭配 IINACT 使用 |
-| Distance | 1.1.3.3 | 顯示目前目標距離 | 已發布；官方 API13 節點 |
-| EnemyListHP | 2.0.1.7 | 在敵對列表顯示 HP | 已發布；官方 7.3／API13 節點 |
-| ReAction | 1.3.4.2 | 戰鬥操作便利調整 | 已發布；台服 7.3／API13 安全節點；涉及戰鬥 Hook，風險較高 |
-| Radar Plugin | 2.1.8.1 | 顯示周圍敵人與互動物件 | 已發布；完整原始碼 API13 節點；具透視性質，風險高 |
-| ReMakePlace Plugin | 7.3.3.0 | 房屋布置配置工具 | 已發布；修正對台服 Dalamud 13.0.0.8 的建置相容性 |
-| DozeAnywhere | 13.1.0.0 | 在更多地點坐下或睡覺 | 已發布；官方 API13 節點；涉及姿勢限制修改，風險較高 |
-| Cammy | 2.1.0.13 | 進階鏡頭與鏡位調整 | 已發布；官方 7.3／API13 節點；涉及記憶體修改，風險較高 |
-| Gauge-O-Matic | 0.8.2.1 | 自訂增益與職業量譜提示 | 已發布；7.31／API13 節點 |
-| EngageTimer | 2.4.4.0 | 顯示完整戰鬥倒數與戰鬥時間 | 已發布；官方 API13 節點 |
-| BigPlayerDebuffs | 1.1.0.13 | 放大自己施加的狀態圖示 | 已發布；官方 API13 節點 |
-| Better Mount Roulette | 1.0.0.0 | 可自訂規則的隨機坐騎 | 已發布；採用相容台服 Dalamud 13.0.0.8 的 2025-08-10 節點 |
+| Distance | 1.1.3.6 | 顯示目前目標距離 | 已發布；完成 zh-TW 主要與進階介面；官方 API13 節點 |
+| EnemyListHP | 2.0.1.8 | 在敵對列表顯示 HP | 已發布；完成 zh-TW 介面；官方 7.3／API13 節點 |
+| ReAction | 1.3.4.4 | 戰鬥操作便利調整 | 已發布；完成 zh-TW 主要與進階介面；涉及戰鬥 Hook，風險較高 |
+| Radar Plugin | 2.1.8.3 | 顯示周圍敵人與互動物件 | 已發布；完成 zh-TW 主要與進階介面；具透視性質，風險高 |
+| ReMakePlace Plugin | 7.3.4.0 | 房屋布置配置工具 | 已發布；完成 zh-TW 介面；修正台服 API13 建置相容性 |
+| DozeAnywhere | 13.1.0.1 | 在更多地點坐下或睡覺 | 已發布；完成 zh-TW 介面；涉及姿勢限制修改，風險較高 |
+| Cammy | 2.1.0.14 | 進階鏡頭與鏡位調整 | 已發布；完成 zh-TW 介面；涉及記憶體修改，風險較高 |
+| Gauge-O-Matic | 0.8.2.3 | 自訂增益與職業量譜提示 | 已發布；完成 zh-TW 主要與進階介面；7.31／API13 節點 |
+| EngageTimer | 2.4.4.1 | 顯示完整戰鬥倒數與戰鬥時間 | 已發布；完成 zh-TW 介面；官方 API13 節點 |
+| BigPlayerDebuffs | 1.1.0.14 | 放大自己施加的狀態圖示 | 已發布；完成 zh-TW 介面；官方 API13 節點 |
+| Better Mount Roulette | 1.0.0.2 | 可自訂規則的隨機坐騎 | 已發布；完成 zh-TW 介面；採用相容台服 API13 的安全節點 |
 | Submarine Tracker | 2.0.2.1 | 追蹤部隊潛水艇航程、返航時間與收益 | 已發布；API14 切換前最後的 API13 節點；已更新有漏洞的 MessagePack 依賴 |
 | Party Icons | 1.2.3.2 | 依職業或團隊位置調整玩家名牌 | 已發布；採用原專案 fork 家族的 API13 維護節點 |
 | RezPls | 1.5.2.2 | 標示正在復活、已有復活效果及可解除的負面狀態 | 已發布；完整繁中介面；API13 安全日期範圍內最後節點 |
