@@ -182,8 +182,8 @@
     "Author": "NightmareXIV",
     "Name": "Splatoon",
     "InternalName": "Splatoon",
-    "AssemblyVersion": "3.8.2.1",
-    "TestingAssemblyVersion": "3.8.2.1",
+    "AssemblyVersion": "3.8.2.2",
+    "TestingAssemblyVersion": "3.8.2.2",
     "Description": "Draws configurable points, lines and areas in the game world. Taiwan Dalamud API13 build.",
     "Punchline": "場景繪製點、線、面。",
     "ApplicableVersion": "any",
@@ -197,9 +197,9 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "IconUrl": "https://love.puni.sh/resources/splatoon.png",
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Splatoon-3.8.2.1.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Splatoon-3.8.2.1.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Splatoon-3.8.2.1.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Splatoon-3.8.2.2.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Splatoon-3.8.2.2.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Splatoon-3.8.2.2.zip",
     "AcceptsFeedback": true
   },
   {

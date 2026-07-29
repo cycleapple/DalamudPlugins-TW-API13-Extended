@@ -31,7 +31,7 @@
 | Pixel Perfect | 待處理 | 硬編碼 UI |
 | Price Insight | 待處理 | 硬編碼 UI |
 | Wrath Combo | 待處理 | 大型硬編碼 UI |
-| Splatoon | 待複核 | 已有 Chinese 語言檔，需轉為台服用語 |
+| Splatoon | 已完成 | 3.8.2.2；保留 301 個查詢鍵，只轉換 `==` 右側顯示值 |
 | AutoRetainer | 待複核 | 已有局部台服文字修正 |
 | NecroLens | 待處理 | 需建立 zh-TW 資源 |
 | TextAdvance | 待複核 | 已有 `Lang.cs`，需隔離功能比對字串 |
