@@ -33,7 +33,7 @@
 | Ice's Cosmic Exploration | `LeontopodiumNivale14/Ices-Cosmic-Exploration` | `f3b7a696c9` | 2025-12-15 | `cycleapple/Ices-Cosmic-Exploration@9ced6b4` 將 ECommons 鎖回台服 API13 相容節點、以 `DataId` 取代後期 `BaseId` 並改用 `Player.JobId`，發布 0.0.73.40 |
 | BOCCHI | `OhKannaDuh/BOCCHI` | `01d22a8565` / release `1.0.1` | 2025-12-07 | 原始碼與 manifest 均為 API13；`cycleapple/BOCCHI@d138a58` 更新 legacy NuGet 鎖定資料並修正實際組件版本，發布 1.0.1.0 |
 | Umbra XIV | `una-xiv/umbra` | `2d165ce` | 2025-10-08 | `Dalamud.NET.Sdk/13.0.0`；以台服 API13 乾淨編譯 0 警告、0 錯誤，發布 3.1.7.0。後期提交開始使用台服 API13 不存在的 `BaseId` 與 `IObjectTable.LocalPlayer` |
-| MissFisher | `BlackCleaverLoli/MissFisher` | `93487c5` | 2025-12-13 | 上游只發布 1.6.5.9 二進位套件、未公開原始碼；`cycleapple/MissFisher@a60af53` 在倉庫與套件 manifest 補上 API13 宣告，DLL 保持上游原檔，無法聲稱重編譯 |
+| MissFisher | `BlackCleaverLoli/MissFisher` | `93487c5` | 2025-12-13 | 上游只發布 1.6.5.9 二進位套件、未公開原始碼；該 DLL 被未註冊版 .NET Reactor 注入自 2025-12-27 起必定觸發的 14 天到期例外。`cycleapple/MissFisher@e420214` 提供可重現的 Mono.Cecil 最小修補器，只將該檢查方法改為返回，其他插件 IL 保留，發布 1.6.5.10 |
 | Skippy | `BoxuChan/Skippy` | `61c7c4f` | 2025-08-12 | 上游 manifest 與 Packager 均為 API13；`cycleapple/Skippy@e0a99f3` 修正組件版本與 repo 版本不一致，台服 API13 編譯成功，發布 1.2.2.8 |
 | AutoHook | `PunishXIV/AutoHook` | `e5bd183` | 2025-11-09 | `cycleapple/AutoHook@1e845af` 將後期 `BaseId` 改回台服 API13 的 `DataId`，發布 5.0.0.12 |
 | Avarice | `PunishXIV/Avarice` | `0c831ce` | 2025-09-02 | `cycleapple/Avarice@c7fd996` 使用 API13 相依節點並移除未使用的 Windows Forms using，台服 API13 0 警告、0 錯誤，發布 2.1.1.7 |
