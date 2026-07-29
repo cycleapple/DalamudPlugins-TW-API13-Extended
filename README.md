@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | AntiAfkKick | 2.1.0.10 | 防止閒置斷線 | 已發布；繁中插件說明，插件本身無設定介面 |
 | AutoRetainer | 4.5.1.22 | 雇員相關功能 | 已發布；含繁中公會工坊／組件用語修正 |
 | Saucy | 1.4.2.8 | 金碟相關功能 | 已發布；含 API13 編譯修正 |
-| NoClippy | 0.5.0.19 | 改善技能延遲 | 已發布 |
+| NoClippy | 0.5.0.20 | 改善技能延遲 | 已發布；完成 zh-TW 介面翻譯 |
 | NecroLens | 1.0.8.11 | 深層迷宮輔助 | 已發布；包含台服 API13 型別相容修補 |
 | MidiBard 2 | 3.2.1.3 | 樂器演奏 | 已發布；API14 型別誤用前的安全節點；補齊 zh-TW 介面資源 |
 | GatherBuddy Reborn | 7.3.5.1 | 採集輔助 | 已發布；AtmoOmen 7.3.5 節點、繁中語言資料與 AutoHook IPC 載入順序容錯 |

@@ -55,12 +55,12 @@
     "Author": "UnknownX",
     "Name": "NoClippy",
     "InternalName": "NoClippy",
-    "AssemblyVersion": "0.5.0.19",
-    "TestingAssemblyVersion": "0.5.0.19",
-    "Description": "Reduces the effects of latency on weaving and statuses. Taiwan Dalamud API13 build.",
-    "Punchline": "改善技能卡頓並模擬較低延遲。",
+    "AssemblyVersion": "0.5.0.20",
+    "TestingAssemblyVersion": "0.5.0.20",
+    "Description": "降低延遲對技能插入與狀態效果等操作的影響，可作為 XivAlexander 的替代方案或搭配使用。",
+    "Punchline": "降低延遲對技能插入等操作的影響，並可顯示 GCD 卡頓。",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/UnknownX7/NoClippy",
+    "RepoUrl": "https://github.com/cycleapple/NoClippy/tree/api13-tw",
     "CategoryTags": [
       "jobs",
       "utility"
@@ -73,9 +73,9 @@
     "LoadPriority": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/NoClippy-0.5.0.19.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/NoClippy-0.5.0.19.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/NoClippy-0.5.0.19.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/NoClippy-0.5.0.20.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/NoClippy-0.5.0.20.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/NoClippy-0.5.0.20.zip",
     "AcceptsFeedback": true
   },
   {
