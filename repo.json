@@ -643,10 +643,10 @@
     "Author": "Fragile, MistyDai",
     "Name": "MissFisher",
     "InternalName": "MissFisher",
-    "AssemblyVersion": "1.6.5.12",
-    "TestingAssemblyVersion": "1.6.5.12",
-    "Description": "Fishing helper released during the API13 period. Taiwan build removes the expiration checks inserted by the upstream build protector, including startup and daily revalidation paths.",
-    "Punchline": "專注於釣魚的輔助插件。",
+    "AssemblyVersion": "1.6.5.13",
+    "TestingAssemblyVersion": "1.6.5.13",
+    "Description": "專注於釣魚；已修正 GatherBuddy Reborn 的安裝偵測與插件啟用名稱。",
+    "Punchline": "專注於釣魚。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/MissFisher",
     "Tags": [
@@ -663,9 +663,9 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/MissFisher.png",
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MissFisher-1.6.5.12.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MissFisher-1.6.5.12.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MissFisher-1.6.5.12.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MissFisher-1.6.5.13.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MissFisher-1.6.5.13.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MissFisher-1.6.5.13.zip",
     "AcceptsFeedback": false
   },
   {
