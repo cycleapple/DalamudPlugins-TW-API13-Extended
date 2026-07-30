@@ -407,17 +407,17 @@
     "Name": "Artisan",
     "InternalName": "Artisan",
     "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/Artisan.png",
-    "AssemblyVersion": "4.0.4.17",
-    "TestingAssemblyVersion": "4.0.4.17",
+    "AssemblyVersion": "4.0.4.18",
+    "TestingAssemblyVersion": "4.0.4.18",
     "Description": "生產與製作自動化輔助；製作浮窗、耐久製作、巨集與製作清單核心介面已完成 zh-TW。",
     "Punchline": "生產與製作自動化輔助。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/Artisan",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.17.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.17.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.17.zip"
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.18.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.18.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.18.zip"
   },
   {
     "Author": "Herculezz, erdelf",
