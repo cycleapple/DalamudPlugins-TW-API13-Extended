@@ -16,8 +16,8 @@
 | NoClippy | `UnknownX7/NoClippy` | `d32ae7af` | 2025-08-09 | `cycleapple/NoClippy@934ab0f` 僅翻譯設定、技能後搖、戰鬥統計、記錄選項、狀態預測警告與指令回覆；API13 編譯 0 警告、0 錯誤，發布 0.5.0.20 |
 | NecroLens | `Jukkales/NecroLens` | `d6646478` | 2025-11-26 | `cycleapple/NecroLens@50fcf9e` 保留 `BaseId` API13 修正並完成完整 zh-TW 資源，台服 API13 建置 0 警告、0 錯誤並發布 1.0.8.12 |
 | GatherBuddy Reborn | `AtmoOmen/GatherBuddyReborn` | `a34733dc` / tag `7.3.5.0` | 2025-12-02 | 位於安全日期範圍且 manifest 為 API13；`cycleapple/GatherBuddyReborn@8b46fdf` 保留台服繁中資料 fallback、`DataId` 與 AutoHook IPC 容錯，並將上游以 GBK/CP936 儲存的 `TimeInterval.cs` 無損轉為 UTF-8，修正「天／小時／分鐘／永遠／從不／無效」亂碼；7 個時間分支測試通過，API13 建置 0 錯誤，發布 7.3.5.4 |
-| Artisan | `MeowZWR/Artisan` | `e4a0ddaf` | 2025-12-13 | `cycleapple/Artisan@ebb413f` 保留 `BaseId`、熱鍵列空參考與台服相容修正，並參考 MeowZWR 中文化補齊特殊清單、Teamcraft、部隊工房、專家製作、Raphael 與指令碼求解器介面；API13 建置 0 錯誤，發布 4.0.4.14；上游已封存 |
-| Burning Down the House | `LeonBlade/BDTHPlugin` | `ba39d13c` | 2025-09-30 | `cycleapple/BDTHPlugin@a5dc4f4` 完成 zh-TW 介面，台服 API13 建置 0 警告、0 錯誤並發布 1.7.1.1 |
+| Artisan | `MeowZWR/Artisan` | `e4a0ddaf` | 2025-12-13 | `cycleapple/Artisan@2840c78` 保留 `BaseId`、熱鍵列空參考與台服相容修正，補齊耐久製作、模擬結果與巨集提示；保留與巨集解析共用的英文技能識別名稱；API13 建置 68 個既有警告、0 錯誤，發布 4.0.4.15；上游已封存 |
+| Burning Down the House | `LeonBlade/BDTHPlugin` | `ba39d13c` | 2025-09-30 | `cycleapple/BDTHPlugin@e1f7d27` 補齊指令說明、家具清單標題與座標欄位，保留 ImGui ID 與放置邏輯；台服 API13 建置 0 警告、0 錯誤並發布 1.7.1.2 |
 | Raphael.Dalamud | `Dalamud-DailyRoutines/Raphael.Dalamud` | `de11e646` | 2025-09-16 | `cycleapple/Raphael.Dalamud@583151a` 完成 manifest zh-TW；台服 API13 建置 0 警告、0 錯誤並發布 0.0.5.1 |
 | Something Need Doing | `Jaksuhn/SomethingNeedDoing` | `11422e55` | 2025-11-28 | `cycleapple/SomethingNeedDoing@0d05161` 完成主要 zh-TW 介面；台服 API13 建置僅 2 個 AutoRetainerAPI 既有參考警告、0 錯誤並發布 0.0.0.1 |
 | TextAdvance | `cycleapple/TextAdvance` (`api13-tw`) | `f8a7cf5` | 2025-11-22 基底 | API13 編譯成功；繁中介面發布 3.2.4.8 |
@@ -64,7 +64,7 @@
 | Craftimizer | `WorkingRobot/Craftimizer` | `88a1be2` | 2025-10-20 | 指定日期範圍內最後的原生 SDK 13 節點；`cycleapple/Craftimizer@6edb361` 完成主要 zh-TW 介面，建置僅 7 個既有分析警告、0 錯誤並發布 2.8.0.2 |
 | SortaKinda | `MidoriKami/SortaKinda` | `e5b566d` | 2025-08-13 | 原生 SDK 13 節點；鎖定的 KamiToolKit 使用已禁止的 `byte LabelId` 多載，`cycleapple/KamiToolKit@76dacbc` 僅將三處參數修正為 API13 要求的 `ushort`；`cycleapple/SortaKinda@4ccd82a` 完成排序規則、篩選器、設定、通知與教學介面繁中化，保留規則序列化、內部識別碼、正規表示式內容與物品搬動邏輯；台服 API13 編譯 0 警告、0 錯誤，發布 2.1.1.7 |
 | QoL Bar | `UnknownX7/QoLBar` | `7ee0a6e` | 2025-08-11 | 指定日期範圍內的原生 SDK13／FFXIV 7.3 節點；`cycleapple/QoLBar@a115d51` 採用官方後續相同的 `AddonConfig.ActiveDataSet` 存取修正，更新台服 fork 與 manifest，並完成主設定、快捷列／捷徑編輯、條件組、備份、圖示瀏覽器、快捷鍵與提示訊息的 zh-TW 介面翻譯；指令語法、條件 ID、IPC、匯出格式與設定序列化未變更；台服 API13 編譯成功（2 個既有未指派欄位警告、0 錯誤），發布 2.3.3.7 |
-| IINACT | `PlusoneChiang/IINACT` | `81c2f3e` | 2026-07-29 | 使用者指定的 `tc/api13_net9` 分支，明確鎖定 SDK 13.1、.NET 9、Machina `173e3bf` 與 act-overlays `3ae30ab`；`cycleapple/IINACT@bd36530` 完成主視窗 zh-TW 並修復 manifest 編碼，以台服 API13 建置 0 警告、0 錯誤，發布 1.13.9.4 |
+| IINACT | `PlusoneChiang/IINACT` | `81c2f3e` | 2026-07-29 | 使用者指定的 `tc/api13_net9` 分支，明確鎖定 SDK 13.1、.NET 9、Machina `173e3bf` 與 act-overlays `3ae30ab`；`cycleapple/IINACT@117bd43` 補齊解析篩選顯示名稱與初始化進度，保留 enum、協議與解析邏輯；台服 API13 建置 2 個既有警告、0 錯誤，發布 1.13.9.5 |
 | LMeter | `juicefish/LMeter_TC` | `3bee085` | 2026-07-28 | 使用者指定的台服 API13 分支，原始 repo.json 宣告 API13 1.13.0.1；`cycleapple/LMeter_TC@1052d57` 修正可覆寫的 Dalamud 路徑、更新 fork 資訊與繁中 manifest，並完成設定、統計欄位、右鍵選單與提示的 zh-TW 介面翻譯；IPC 名稱、ACT 欄位、格式標籤、設定鍵與計算邏輯維持不變；台服 API13 編譯 0 警告、0 錯誤，發布 1.13.0.3 |
 | Distance | `PunishedPineapple/Distance` | `aa7027c352` | 2025-08-07 | API13 更新後的正式節點；`cycleapple/Distance@api13-tw` 以台服 Dalamud 13.0.0.8／.NET 9 重建成功，1 警告、0 錯誤，發布 1.1.3.3 |
 | EnemyListHP | `NightmareXIV/EnmityHp` | `1f587890e4` | 2025-08-07 | 上游 7.3／API13 節點；`cycleapple/EnmityHp@api13-tw` 以台服 Dalamud 13.0.0.8 重建成功，1 警告、0 錯誤，發布 2.0.1.7 |
