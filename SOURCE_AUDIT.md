@@ -97,3 +97,19 @@
 | ezMiniCactpot | `MidoriKami/MiniCactpotSolver` | `761b4e22` | 2025-08-26 | 採用修正 LoadConfigFile 後的 API13 節點及相容 KamiToolKit；`cycleapple/EzMiniCactpot@eef2252` 完成 zh-TW 介面並發布 3.0.0.4 |
 | PingPlugin | `karashiiro/PingPlugin` | `5c0df982` | 2025-08-07 | 採用上游最後 API13 安全節點；`cycleapple/PingPlugin@f6a8386` 保留台服 TCP handshake 量測並完整校訂 zh-TW 介面，發布 2.9.0.2 |
 | Sonar | `FFXIV-Sonar/SonarDistrib` | `4e798c2c37` | 2025-12-12 | 位於安全日期範圍內，原始專案使用 `Dalamud.NET.Sdk/13.1.0`，基準版本 0.7.4.2；`cycleapple/SonarDistrib@9c4c1d9` 完成可見介面與音效名稱 zh-TW 翻譯並升版至 0.7.4.4。此歷史節點的 MessagePack 3.1.4 與 SignalR MessagePack 9.0.10 會產生已知弱點警告，為避免破壞 Sonar 服務協定未擅自升級 |
+| Waymark Preset Plugin | `Infiziert90/WaymarkPresetPlugin` | `bb2277a7ed` | 2025-08-07 | 上游 API13／1.5.5.0 節點；`cycleapple/WaymarkPresetPlugin@api13-tw` 以台服 Dalamud API13 重建成功 |
+| Honorific | `Caraxi/Honorific` | `9364d4c085` | 2025-12-10 | 上游 SDK13.1 節點；`cycleapple/Honorific@897ea5a` 將 `IPlayerState.ContentId` 與 `IObjectTable.LocalPlayer` 安全映射至台服 API13 的 `IClientState`，重建成功並發布 1.7.1.3 |
+| NOTED | `Tischel/NOTED` | `0be8c4835f` | 2025-08-09 | 上游 API13／1.6.0.0 節點；`cycleapple/NOTED@api13-tw` 以台服 Dalamud API13 重建成功 |
+| Flash on Tell | `reiichi001/Dalamud-FlashOnTellPlugin` | `594d7df644` | 2025-08-06 | 上游 API13／0.0.9.0 節點；`cycleapple/Dalamud-FlashOnTellPlugin@api13-tw` 重建成功 |
+| Custom Resolution | `0x0ade/DP-CustomResolution` | `fd83a52b1b` | 2025-12-15 | 位於安全日期範圍內的 API13／1.0.1.0 節點；鏡像至 `cycleapple/DP-CustomResolution@api13-tw` 後以台服 API13 重建成功 |
+| Market Board | `fmauNeko/MarketBoardPlugin` | `6ee22ef827` | 2025-08-07 | tag 1.11.0 的 API13 節點；`cycleapple/MarketBoardPlugin@api13-tw` 重建並封裝 1.11.0.0 |
+| Peeping Tom | `pyreymo/PeepingTom`（`thakyZ/PeepingTom` 維護分支） | `3898b2f3fb` | 2025-12-05 | 原倉庫停在 2023 年，採用保留完整功能的維護節點；`cycleapple/PeepingTom@9028ee2` 將 SDK15 API 安全回移至 API13 並固定鎖檔，重建成功，發布 1.7.13.1 |
+| Eureka Linker | `Infiziert90/EurekaTrackerAutoPopper` | `ecd774f834` | 2025-11-23 | 上游 API13／1.5.9.5 節點；`cycleapple/EurekaTrackerAutoPopper@api13-tw` 重建成功 |
+| Hunt Buddy | `SheepGoMeh/HuntBuddy` | `768413a68d` | 2025-08-08 | 上游 API13／1.2.2.0 節點；`cycleapple/HuntBuddy@api13-tw` 重建成功 |
+| ZodiacBuddy | `foophoof/ZodiacBuddy` | `2ac308a0b6` | 2025-10-01 | 上游 SDK13.1／1.13.0.2 節點；`cycleapple/ZodiacBuddy@api13-tw` 可直接對台服 API13 重建成功 |
+| EasyEyes | `mouuff/EasyEyes` | `fdab548c03` | 2025-08-31 | 與 PluginDistD17 指定資產相符的 API13／1.3.1.1 原始碼節點；`cycleapple/EasyEyes@api13-tw` 重建成功 |
+| Fungah | `img02/Fungah-Totally-Safe-Spot` | `fe7a4548cd` | 2025-08-10 | 與 PluginDistD17 指定資產相符的 API13／1.0.0.7 原始碼節點；`cycleapple/Fungah-Totally-Safe-Spot@api13-tw` 重建成功 |
+| Visibility | `SheepGoMeh/VisibilityPlugin` | `b4d18ae2bc` | 2025-08-08 | 上游 API13／1.1.9.1 節點；`cycleapple/VisibilityPlugin@9917750` 明確化台服 ClientStructs 的 `BattleNpcSubKind` 型別歧義，重建成功並發布 1.1.9.2 |
+| Enemy List Debuffs | `mouuff/EnemyListDebuffs` | `3de258de9f` | 2025-08-09 | 與 PluginDistD17 指定資產相符的 API13／1.13.0.0 原始碼節點；`cycleapple/EnemyListDebuffs@api13-tw` 重建成功 |
+| Penny Pincher | `tesu/PennyPincher` | `b26e81e0be` | 2025-08-09 | 上游 API13／1.8.0.6 節點；`cycleapple/PennyPincher@api13-tw` 重建成功 |
+| Housemate | `perchbirdd/Housemate` | `1a097d3fc3` | 2025-08-07 | 上游 API13／1.0.3.4 節點；`cycleapple/Housemate@api13-tw` 重建成功 |
