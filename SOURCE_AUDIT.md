@@ -23,7 +23,7 @@
 | TextAdvance | `cycleapple/TextAdvance` (`api13-tw`) | `f8a7cf5` | 2025-11-22 基底 | API13 編譯成功；繁中介面發布 3.2.4.8 |
 | Lifestream | `NightmareXIV/Lifestream` | API13 相容節點 | 2025 | `cycleapple/Lifestream@851230d` 依照台服 `World.csv` 修正世界 ID `4028–4035` 的名稱對照；台服世界選單直接傳遞 `World` row，避免「巴哈姆特」先命中非公開 row 1160 而排除正確 row 4033；API13 Release 建置 25 個既有警告、0 錯誤，發布 2.5.3.8 |
 | vnavmesh | `awgil/ffxiv_navmesh` | `5f512e5` / tag `v1.1.2.1` | 2025-12-15 | API13 編譯成功；`cycleapple/ffxiv_navmesh@fe561b7` 完成主要介面 zh-TW，並以台服 `0x009E / phase 9` 月面快取驗證客製連線：只對相符場景套用座標、使用該場景專屬垂直容差，且在寫入前驗證兩端 polygon，發布 1.1.2.3。上游於 12 月 17 日才切換 API14 |
-| AutoDuty | `ffxivcode/AutoDuty` | `a7d1eca8` | 2025-12-08 | `cycleapple/AutoDuty@497e517` 保留既有路徑分頁容錯並完成一般使用者可見 zh-TW 介面；路徑動作名稱、參數、enum 原值及資料格式未動，API13 建置 0 錯誤，發布 0.0.0.6 |
+| AutoDuty | `ffxivcode/AutoDuty` | `a7d1eca8` | 2025-12-08 | `cycleapple/AutoDuty@de97d56` 保留既有路徑分頁容錯與 zh-TW 介面，並對齊 Rotation Solver Reborn IPC 的 `StateCommandType` 數值，避免 AutoDuty 模式被送成未定義值 4；API13 建置 0 錯誤，發布 0.0.0.7 |
 | Pixel Perfect | `Haplo064/PixelPerfect` | `b371fe07` | 2025-08-07 | `cycleapple/PixelPerfect@80adfa2` 僅翻譯歡迎頁、設定、圖形參數、匯入／匯出通知、編輯器與說明；API13 編譯成功（4 個上游 nullable 警告、0 錯誤），發布 3.3.2.1 |
 | LazyLoot | `PunishXIV/LazyLoot` | `d685ef0c` | 2025-11-19 | `cycleapple/LazyLoot@994d7ad` 完成設定介面、指令說明、狀態列、擲骰結果與診斷訊息繁中化；保留指令參數、設定格式與擲骰邏輯；台服 API13 編譯成功（2 個既有警告、0 錯誤），發布 5.3.2.5 |
 | YesAlready | `PunishXIV/YesAlready` | `ca2288dd` | 2025-11-10 | `cycleapple/YesAlready@619d0a3` 建立 API13 fork 並完成主要 zh-TW 介面；建置僅 4 個既有 nullable／unused 警告、0 錯誤並發布 0.0.0.1 |

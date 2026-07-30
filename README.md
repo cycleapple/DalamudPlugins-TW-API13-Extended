@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | TextAdvance | 3.2.4.8 | 對話自動處理 | 已發布、繁中介面 |
 | Lifestream | 2.5.3.8 | 傳送輔助 | 已發布；台服世界選單直接依 ID 顯示，修正巴哈姆特因同名舊資料遭排除 |
 | vnavmesh | 1.1.2.3 | 尋路與移動工具 | 已發布；完成主要介面 zh-TW；依 festival/layout 階段套用月面客製路徑，修正台服 7.3 月面 polygon 對應失敗 |
-| AutoDuty | 0.0.0.6 | 副本自動化框架 | 已發布 API13；完成一般使用者主窗、路徑、狀態、設定、提示與錯誤介面 zh-TW |
+| AutoDuty | 0.0.0.7 | 副本自動化框架 | 已發布 API13；修正 Rotation Solver Reborn AutoDuty 模式 IPC 值錯位，並完成一般使用者介面 zh-TW |
 | Pixel Perfect | 3.3.2.1 | 顯示角色碰撞圈 | 已發布；完成 zh-TW 介面翻譯 |
 | LazyLoot | 5.3.2.5 | 戰利品擲骰輔助 | 已發布；完成 zh-TW 介面、指令說明與診斷訊息翻譯 |
 | Questionable | 13.68.129.6 | 任務輔助 | 已發布；使用者介面 zh-TW 完成 |

@@ -424,17 +424,18 @@
     "Name": "AutoDuty",
     "InternalName": "AutoDuty",
     "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/AutoDuty.png",
-    "AssemblyVersion": "0.0.0.6",
-    "TestingAssemblyVersion": "0.0.0.6",
+    "AssemblyVersion": "0.0.0.7",
+    "TestingAssemblyVersion": "0.0.0.7",
     "Description": "使用親信戰友、任務支援器、冒險者分隊、特殊迷宮或一般配對自動執行副本；次級設定、循環間動作、裝備、修理、消耗品與整合介面已完成 zh-TW。",
     "Punchline": "自動執行副本任務",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/AutoDuty/tree/api13-tw",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/AutoDuty-0.0.0.6.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/AutoDuty-0.0.0.6.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/AutoDuty-0.0.0.6.zip"
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/AutoDuty-0.0.0.7.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/AutoDuty-0.0.0.7.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/AutoDuty-0.0.0.7.zip",
+    "Changelog": "修正 Rotation Solver Reborn IPC 模式值錯位，避免 AutoDuty 將攻擊模式反覆寫成未定義的「4」。"
   },
   {
     "Author": "The Combat Reborn Team",
