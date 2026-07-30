@@ -35,7 +35,7 @@
 | AutoRetainer | 已完成 | 4.5.1.29；參考 AutoRetainerLocalizer zh-TW 補齊物品欄整理的丟棄／出售／保護清單、工房航線工具、雇員與軍票浮層、登入覆蓋層服務帳戶選擇、操作選單及通知；enum 僅透過 UI 映射顯示繁中，設定鍵、序列化、IPC、指令、遊戲文字比對與自動化未變更 |
 | NecroLens | 已完成 | 1.0.8.13；base／繁中資源均為 92 鍵，補齊本地化協助、資料收集同意與匿名資料說明；既有簡中資源以台灣慣用詞完整轉換，manifest 已翻譯；功能資料未變更 |
 | TextAdvance | 已完成 | 3.2.4.8；介面、通知與聊天狀態繁中化；`Lang.cs` 功能比對字串保持不動 |
-| Lifestream | 已完成 | 2.5.3.5；完成核心設定、房屋路徑登錄、跨服限制、多路徑、Wotsit、浮層、通訊錄、Custom Alias、指令建議與 PaissaDB 房屋抽選介面；`Lang.cs` 功能比對、指令 token、序列化、PaissaDB 協定與傳送流程未變更 |
+| Lifestream | 已完成 | 2.5.3.6；完成核心設定、房屋路徑、Wotsit、浮層、通訊錄、Custom Alias 與 PaissaDB 介面；另修正台服八個世界的中文／英文名稱解析、陸行鳥資料中心分組與 Materia 誤列；指令 token、序列化與 PaissaDB 協定未變更 |
 | YesAlready | 已完成 | 0.0.0.1；完成主設定、各分頁、Bothers 分類與說明、按鈕提示及 manifest；Addon 名稱、自動確認規則、callback、IPC、資料 ID 與比對字串未變更 |
 | LazyLoot | 已完成 | 5.3.2.5；設定、限制規則、指令說明、狀態列、擲骰結果與診斷訊息已翻譯；未更動 `need`／`greed`／`pass` 等指令參數、設定格式與擲骰邏輯 |
 | Burning Down the House | 已完成 | 1.7.1.2；完成主控制窗、操作軸、吸附、拖曳、家具清單、座標欄位、指令說明、錯誤提示與 manifest；ImGui ID、房屋座標及放置邏輯未變更 |
