@@ -16,7 +16,7 @@
 | NoClippy | `UnknownX7/NoClippy` | `d32ae7af` | 2025-08-09 | `cycleapple/NoClippy@934ab0f` 僅翻譯設定、技能後搖、戰鬥統計、記錄選項、狀態預測警告與指令回覆；API13 編譯 0 警告、0 錯誤，發布 0.5.0.20 |
 | NecroLens | `Jukkales/NecroLens` | `d6646478` | 2025-11-26 | `cycleapple/NecroLens@aad2e7b` 保留 `BaseId` API13 修正，完成 92 鍵 zh-TW 資源並補齊本地化協助與匿名資料收集介面；台服 API13 建置 0 警告、0 錯誤並發布 1.0.8.13 |
 | GatherBuddy Reborn | `AtmoOmen/GatherBuddyReborn` | `a34733dc` / tag `7.3.5.0` | 2025-12-02 | 位於安全日期範圍且 manifest 為 API13；`cycleapple/GatherBuddyReborn@8b46fdf` 保留台服繁中資料 fallback、`DataId` 與 AutoHook IPC 容錯，並將上游以 GBK/CP936 儲存的 `TimeInterval.cs` 無損轉為 UTF-8，修正「天／小時／分鐘／永遠／從不／無效」亂碼；7 個時間分支測試通過，API13 建置 0 錯誤，發布 7.3.5.4 |
-| Artisan | `MeowZWR/Artisan` | `e4a0ddaf` | 2025-12-13 | `cycleapple/Artisan@2840c78` 保留 `BaseId`、熱鍵列空參考與台服相容修正，補齊耐久製作、模擬結果與巨集提示；保留與巨集解析共用的英文技能識別名稱；API13 建置 68 個既有警告、0 錯誤，發布 4.0.4.15；上游已封存 |
+| Artisan | `MeowZWR/Artisan` | `e4a0ddaf` | 2025-12-13 | `cycleapple/Artisan@e432692` 保留 `BaseId`、熱鍵列空參考與台服相容修正；以狀態存在性同步「工匠的良機」、跳過已前進步數的過期推薦工作，並回補上游製作結束 null guard；API13 建置 68 個既有警告、0 錯誤，發布 4.0.4.17；上游已封存 |
 | Burning Down the House | `LeonBlade/BDTHPlugin` | `ba39d13c` | 2025-09-30 | `cycleapple/BDTHPlugin@e1f7d27` 補齊指令說明、家具清單標題與座標欄位，保留 ImGui ID 與放置邏輯；台服 API13 建置 0 警告、0 錯誤並發布 1.7.1.2 |
 | Raphael.Dalamud | `Dalamud-DailyRoutines/Raphael.Dalamud` | `de11e646` | 2025-09-16 | `cycleapple/Raphael.Dalamud@583151a` 完成 manifest zh-TW；台服 API13 建置 0 警告、0 錯誤並發布 0.0.5.1 |
 | Something Need Doing | `Jaksuhn/SomethingNeedDoing` | `11422e55` | 2025-11-28 | `cycleapple/SomethingNeedDoing@0d05161` 完成主要 zh-TW 介面；台服 API13 建置僅 2 個 AutoRetainerAPI 既有參考警告、0 錯誤並發布 0.0.0.1 |
