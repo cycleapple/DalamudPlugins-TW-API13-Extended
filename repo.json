@@ -768,8 +768,8 @@
     "Author": "Liza Carvelli (Puni.sh)",
     "Name": "Palace Pal",
     "InternalName": "PalacePal",
-    "AssemblyVersion": "4.14.0.2",
-    "TestingAssemblyVersion": "4.14.0.2",
+    "AssemblyVersion": "4.14.0.3",
+    "TestingAssemblyVersion": "4.14.0.3",
     "Description": "深層迷宮陷阱與寶藏提示；116/116 個介面資源鍵已完成 zh-TW 翻譯。",
     "Punchline": "深層迷宮陷阱與埋藏寶藏位置輔助。",
     "ApplicableVersion": "any",
@@ -783,9 +783,9 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/PalacePal.png",
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PalacePal-4.14.0.2.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PalacePal-4.14.0.2.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PalacePal-4.14.0.2.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PalacePal-4.14.0.3.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PalacePal-4.14.0.3.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PalacePal-4.14.0.3.zip",
     "AcceptsFeedback": true
   },
   {
@@ -2094,8 +2094,8 @@
     "Author": "Critical_Impact",
     "Name": "Allagan Tools",
     "InternalName": "InventoryTools",
-    "AssemblyVersion": "1.13.1.13",
-    "TestingAssemblyVersion": "1.13.1.13",
+    "AssemblyVersion": "1.13.1.14",
+    "TestingAssemblyVersion": "1.13.1.14",
     "Description": "跨角色、僱員與公會部隊倉庫追蹤物品，並提供篩選、整理、生產規劃、市場資訊、來源查詢及提示整合。已完成 zh-TW 介面。",
     "Punchline": "跨角色追蹤、搜尋、篩選並整理庫存。",
     "ApplicableVersion": "any",
@@ -2124,9 +2124,9 @@
       "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot3.png",
       "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot4.png"
     ],
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/InventoryTools-1.13.1.13.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/InventoryTools-1.13.1.13.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/InventoryTools-1.13.1.13.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/InventoryTools-1.13.1.14.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/InventoryTools-1.13.1.14.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/InventoryTools-1.13.1.14.zip",
     "AcceptsFeedback": false
   },
   {
