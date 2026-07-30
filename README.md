@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Splatoon | 3.8.2.5 | 場景繪製點、線、面 | 已發布；使用者介面 zh-TW 完成；保留台服 7.3 MapEffect hooks |
 | Wrath Combo | 1.0.1.20 | 整合連段 | 已發布；使用者介面 zh-TW 完成 |
 | AntiAfkKick | 2.1.0.10 | 防止閒置斷線 | 已發布；繁中插件說明，插件本身無設定介面 |
-| AutoRetainer | 4.5.1.28 | 雇員相關功能 | 已發布；補齊物品欄整理清單、工房航線工具、浮層、通知與操作選單等 zh-TW 介面 |
+| AutoRetainer | 4.5.1.29 | 雇員相關功能 | 已發布；補齊物品欄整理清單、工房航線工具、浮層、通知、操作選單與登入覆蓋層服務帳戶選擇等 zh-TW 介面 |
 | Saucy | 1.4.2.9 | 金碟相關功能 | 已發布；完成 zh-TW 主介面與九宮幻卡資源翻譯 |
 | NoClippy | 0.5.0.20 | 改善技能延遲 | 已發布；完成 zh-TW 介面翻譯 |
 | NecroLens | 1.0.8.12 | 深層迷宮輔助 | 已發布；完整介面資源已轉為台灣繁中；保留 API13 型別相容修補 |
