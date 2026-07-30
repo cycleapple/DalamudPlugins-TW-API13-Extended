@@ -33,7 +33,7 @@
 | Wrath Combo | 已完成 | 1.0.1.20；完成 manifest、主導航、PvE／PvP、自動循環、主要設定、目標優先序、疑難排解、重大變更及職業設定介面；技能／狀態資料、遊戲文字比對、IPC token、ID 與戰鬥邏輯未變更 |
 | Splatoon | 已完成 | 3.8.2.5；完成翻譯工作區、可信任套件庫警告頁、Explorer 一般欄位、配置封存、繪製引擎、可繪製區域及匯入／備份／記錄提示；保留 301 個查詢鍵與台服 7.3 延伸 MapEffect multisig。戰鬥腳本／場景元素作者文字、IPC、配置格式、signature/hook、Debug/Profiling 與開發者技術頁未變更 |
 | AutoRetainer | 已完成 | 4.5.1.29；參考 AutoRetainerLocalizer zh-TW 補齊物品欄整理的丟棄／出售／保護清單、工房航線工具、雇員與軍票浮層、登入覆蓋層服務帳戶選擇、操作選單及通知；enum 僅透過 UI 映射顯示繁中，設定鍵、序列化、IPC、指令、遊戲文字比對與自動化未變更 |
-| NecroLens | 已完成 | 1.0.8.12；既有簡中資源以台灣慣用詞完整轉換並補齊英文，manifest 已翻譯；功能資料未變更 |
+| NecroLens | 已完成 | 1.0.8.13；base／繁中資源均為 92 鍵，補齊本地化協助、資料收集同意與匿名資料說明；既有簡中資源以台灣慣用詞完整轉換，manifest 已翻譯；功能資料未變更 |
 | TextAdvance | 已完成 | 3.2.4.8；介面、通知與聊天狀態繁中化；`Lang.cs` 功能比對字串保持不動 |
 | Lifestream | 已完成 | 2.5.3.5；完成核心設定、房屋路徑登錄、跨服限制、多路徑、Wotsit、浮層、通訊錄、Custom Alias、指令建議與 PaissaDB 房屋抽選介面；`Lang.cs` 功能比對、指令 token、序列化、PaissaDB 協定與傳送流程未變更 |
 | YesAlready | 已完成 | 0.0.0.1；完成主設定、各分頁、Bothers 分類與說明、按鈕提示及 manifest；Addon 名稱、自動確認規則、callback、IPC、資料 ID 與比對字串未變更 |
