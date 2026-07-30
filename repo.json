@@ -118,8 +118,8 @@
     "Author": "Kouzukii",
     "Name": "Price Insight",
     "InternalName": "PriceInsight",
-    "AssemblyVersion": "2.11.3.1",
-    "TestingAssemblyVersion": "2.11.3.1",
+    "AssemblyVersion": "2.11.3.2",
+    "TestingAssemblyVersion": "2.11.3.2",
     "Description": "Shows Universalis marketboard prices when hovering over an item. Taiwan Dalamud API13 build.",
     "Punchline": "滑鼠移到物品上時顯示市場價格。",
     "ApplicableVersion": "any",
@@ -145,9 +145,9 @@
       "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/PriceInsight/images/image1.png"
     ],
     "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/PriceInsight.png",
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PriceInsight-2.11.3.1.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PriceInsight-2.11.3.1.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PriceInsight-2.11.3.1.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PriceInsight-2.11.3.2.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PriceInsight-2.11.3.2.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PriceInsight-2.11.3.2.zip",
     "AcceptsFeedback": true
   },
   {
@@ -407,17 +407,17 @@
     "Name": "Artisan",
     "InternalName": "Artisan",
     "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/Artisan.png",
-    "AssemblyVersion": "4.0.4.15",
-    "TestingAssemblyVersion": "4.0.4.15",
+    "AssemblyVersion": "4.0.4.16",
+    "TestingAssemblyVersion": "4.0.4.16",
     "Description": "生產與製作自動化輔助；製作浮窗、耐久製作、巨集與製作清單核心介面已完成 zh-TW。",
     "Punchline": "生產與製作自動化輔助。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/Artisan",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.15.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.15.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.15.zip"
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.16.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.16.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Artisan-4.0.4.16.zip"
   },
   {
     "Author": "Herculezz, erdelf",
