@@ -32,7 +32,7 @@
 | Price Insight | 已完成 | 2.11.3.1；設定介面與市場佈告板物品說明繁中化 |
 | Wrath Combo | 已完成 | 1.0.1.20；完成 manifest、主導航、PvE／PvP、自動循環、主要設定、目標優先序、疑難排解、重大變更及職業設定介面；技能／狀態資料、遊戲文字比對、IPC token、ID 與戰鬥邏輯未變更 |
 | Splatoon | 已完成 | 3.8.2.5；完成翻譯工作區、可信任套件庫警告頁、Explorer 一般欄位、配置封存、繪製引擎、可繪製區域及匯入／備份／記錄提示；保留 301 個查詢鍵與台服 7.3 延伸 MapEffect multisig。戰鬥腳本／場景元素作者文字、IPC、配置格式、signature/hook、Debug/Profiling 與開發者技術頁未變更 |
-| AutoRetainer | 已完成 | 4.5.1.27；完成 VentureBrowser、SharedUI、多重模式、探索載具、物品欄整理、角色設定、帳號白名單、進階設定、疑難排解、雇員浮層與燃料購買等一般使用者介面；enum 僅透過 UI 映射顯示繁中，設定鍵、序列化、IPC、指令、遊戲文字比對與自動化未變更 |
+| AutoRetainer | 已完成 | 4.5.1.28；參考 AutoRetainerLocalizer zh-TW 補齊物品欄整理的丟棄／出售／保護清單、工房航線工具、雇員與軍票浮層、操作選單及通知；enum 僅透過 UI 映射顯示繁中，設定鍵、序列化、IPC、指令、遊戲文字比對與自動化未變更 |
 | NecroLens | 已完成 | 1.0.8.12；既有簡中資源以台灣慣用詞完整轉換並補齊英文，manifest 已翻譯；功能資料未變更 |
 | TextAdvance | 已完成 | 3.2.4.8；介面、通知與聊天狀態繁中化；`Lang.cs` 功能比對字串保持不動 |
 | Lifestream | 已完成 | 2.5.3.5；完成核心設定、房屋路徑登錄、跨服限制、多路徑、Wotsit、浮層、通訊錄、Custom Alias、指令建議與 PaissaDB 房屋抽選介面；`Lang.cs` 功能比對、指令 token、序列化、PaissaDB 協定與傳送流程未變更 |
@@ -42,7 +42,7 @@
 | Raphael.Dalamud | 已完成 | 0.0.5.1；插件沒有設定 UI，已完成 manifest；求解器與 IPC 錯誤內容未改 |
 | Something Need Doing | 已完成 | 0.0.0.1；完成 21 個介面、設定、說明、彈窗與 manifest 檔案；命令 token、Lua／巨集執行、IPC 與技術識別字未變更 |
 | GatherBuddy Reborn | 已完成 | 7.3.5.4；使用者介面與台灣用語 zh-TW 完成。上游 `TimeInterval.cs` 的 GBK/CP936 編碼已轉為合法 UTF-8，並以 7 個分支測試驗證「天／小時／分鐘／永遠／從不／無效」；遊戲文字比對、採集資料、序列化、AutoHook IPC、導航與 DataId 未變更 |
-| Artisan | 已完成 | 4.0.4.13；完成主要設定、CraftMenu、QuestHelper、主模擬器、Veyn 模擬器、Raphael 快取、製作清單、配方與材料等可見介面；DebugTab、內部 ID、命令、IPC、序列化、遊戲資料、求解與自動化未變更 |
+| Artisan | 已完成 | 4.0.4.14；參考 MeowZWR 中文化補齊特殊條件清單、Teamcraft 匯入／匯出、部隊工房、配方消耗品、高難度求解器、Raphael 與指令碼求解器等可見介面；DebugTab、內部 ID、命令、IPC、序列化、遊戲資料、求解與自動化未變更 |
 | AutoDuty | 已完成 | 0.0.0.6；完成主視窗頁籤、路徑編輯／管理、狀態、快速按鈕、指令說明、練等模式、排隊、修理、分解、精製、寶箱、大國防聯軍、九宮幻卡與住宅移動等一般使用者介面；開發者面板、路徑動作識別名稱、enum 原值、路徑附註與 hidden ID 保留，功能資料與自動化未變更 |
 | Rotation Solver Reborn | 已完成 | 7.3.5.3；完成設定、命令說明、一般 enum 顯示、條件編輯器、分頁名稱與說明、目標模式、AutoDuty 提示及備份／還原通知；純 Debug 頁、開發者診斷、遠端提交原文與戰鬥資料鍵保留原文。技能／狀態鍵、指令 token、循環判斷、IPC 與序列化未變更 |
 | Boss Mod | 已完成 | 0.1.4.3；完成核心／技能調整／雷達設定、模組檢視、循環預設與策略編輯、小隊職責、AI、重播管理與一般播放控制；戰鬥模組機制提示、旋轉模組技能／策略資料、技能／狀態／區域名稱與 ID、回放原始欄位、分析／Debug、IPC、指令、hidden ID 與設定序列化鍵未變更 |

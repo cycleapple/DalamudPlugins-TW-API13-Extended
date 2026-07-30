@@ -11,12 +11,12 @@
 | Wrath Combo | `MeowZWR/WrathCombo` | `3b968ca32` | 2025-08-05 | API13 編譯成功；`cycleapple/WrathCombo@7d8e4594f` 完成使用者介面 zh-TW；保留技能／狀態資料、遊戲文字比對、IPC token、ID 與戰鬥邏輯。10 個既有相依警告、0 錯誤，發布 1.0.1.20。12 月節點雖仍標 API13，但已使用新版 Dalamud 型別，不相容台服 API13 |
 | MapLinker | `Bluefissure/MapLinker` | `466c7c7753bf45590e504c6b32e0667b1750dabf` | 2025-08-17 | `cycleapple/MapLinker@8ef3ab1eec6c5fedacfca0b3a0293d90db4433fb` 完成一般使用者介面 zh-TW；保留聊天類型、指令 token、地圖連結解析、設定鍵與功能流程，發布 1.1.11.2 |
 | AntiAfkKick | `NightmareXIV/AntiAfkKick` | `7a0ebaa8` | 2025-08-07 | `cycleapple/AntiAfkKick@8689ea7` 僅翻譯插件安裝頁說明；插件本身無設定介面；API13 編譯 0 警告、0 錯誤，發布 2.1.0.10 |
-| AutoRetainer | `PunishXIV/AutoRetainer` | `1e4e6b6` / tag `4.5.1.12` | 2025-08-15 | API13 編譯成功；`cycleapple/AutoRetainer@4ccc944` 保留繁中公會工坊／組件功能比對並完成一般使用者可見介面，enum 僅透過 UI dictionary 顯示繁中；7 個既有 PInvoke 警告、0 錯誤，發布 4.5.1.27 |
+| AutoRetainer | `PunishXIV/AutoRetainer` | `1e4e6b6` / tag `4.5.1.12` | 2025-08-15 | `cycleapple/AutoRetainer@1246d2b` 保留繁中公會工坊／組件功能比對，並參考 AutoRetainerLocalizer zh-TW 補齊物品欄整理、工房航線工具、浮層、通知與操作選單；以 .NET SDK 10.0.302 建置（50 個既有警告、0 錯誤），發布 4.5.1.28 |
 | Saucy | `PunishXIV/Saucy` | `8e8d5949` | 2025-08-15 | 台服修正 `cycleapple/Saucy@a79b1c5`；`cycleapple/Saucy@5c751d1` 翻譯主介面與九宮幻卡 zh 資源，並修正語言檔未嵌入 DLL 的問題；API13 編譯成功（8 個上游警告、0 錯誤），發布 1.4.2.9 |
 | NoClippy | `UnknownX7/NoClippy` | `d32ae7af` | 2025-08-09 | `cycleapple/NoClippy@934ab0f` 僅翻譯設定、技能後搖、戰鬥統計、記錄選項、狀態預測警告與指令回覆；API13 編譯 0 警告、0 錯誤，發布 0.5.0.20 |
 | NecroLens | `Jukkales/NecroLens` | `d6646478` | 2025-11-26 | `cycleapple/NecroLens@50fcf9e` 保留 `BaseId` API13 修正並完成完整 zh-TW 資源，台服 API13 建置 0 警告、0 錯誤並發布 1.0.8.12 |
 | GatherBuddy Reborn | `AtmoOmen/GatherBuddyReborn` | `a34733dc` / tag `7.3.5.0` | 2025-12-02 | 位於安全日期範圍且 manifest 為 API13；`cycleapple/GatherBuddyReborn@8b46fdf` 保留台服繁中資料 fallback、`DataId` 與 AutoHook IPC 容錯，並將上游以 GBK/CP936 儲存的 `TimeInterval.cs` 無損轉為 UTF-8，修正「天／小時／分鐘／永遠／從不／無效」亂碼；7 個時間分支測試通過，API13 建置 0 錯誤，發布 7.3.5.4 |
-| Artisan | `MeowZWR/Artisan` | `e4a0ddaf` | 2025-12-13 | API13 編譯成功；`cycleapple/Artisan@ca3445e` 保留 `BaseId`、熱鍵列空參考與台服相容修正，完成一般使用者可見 zh-TW 介面；0 警告、0 錯誤，發布 4.0.4.13；上游已封存 |
+| Artisan | `MeowZWR/Artisan` | `e4a0ddaf` | 2025-12-13 | `cycleapple/Artisan@ebb413f` 保留 `BaseId`、熱鍵列空參考與台服相容修正，並參考 MeowZWR 中文化補齊特殊清單、Teamcraft、部隊工房、專家製作、Raphael 與指令碼求解器介面；API13 建置 0 錯誤，發布 4.0.4.14；上游已封存 |
 | Burning Down the House | `LeonBlade/BDTHPlugin` | `ba39d13c` | 2025-09-30 | `cycleapple/BDTHPlugin@a5dc4f4` 完成 zh-TW 介面，台服 API13 建置 0 警告、0 錯誤並發布 1.7.1.1 |
 | Raphael.Dalamud | `Dalamud-DailyRoutines/Raphael.Dalamud` | `de11e646` | 2025-09-16 | `cycleapple/Raphael.Dalamud@583151a` 完成 manifest zh-TW；台服 API13 建置 0 警告、0 錯誤並發布 0.0.5.1 |
 | Something Need Doing | `Jaksuhn/SomethingNeedDoing` | `11422e55` | 2025-11-28 | `cycleapple/SomethingNeedDoing@0d05161` 完成主要 zh-TW 介面；台服 API13 建置僅 2 個 AutoRetainerAPI 既有參考警告、0 錯誤並發布 0.0.0.1 |
