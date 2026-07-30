@@ -280,8 +280,8 @@
     "Author": "NightmareXIV",
     "Name": "Lifestream",
     "InternalName": "Lifestream",
-    "AssemblyVersion": "2.5.3.7",
-    "TestingAssemblyVersion": "2.5.3.7",
+    "AssemblyVersion": "2.5.3.8",
+    "TestingAssemblyVersion": "2.5.3.8",
     "Description": "一鍵傳送與跨伺服器移動輔助；正確解析台服中文世界名，並將八個台服世界統一歸入陸行鳥資料中心。",
     "Punchline": "一鍵傳送與跨世界移動輔助。",
     "ApplicableVersion": "any",
@@ -295,9 +295,9 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/Lifestream.png",
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Lifestream-2.5.3.7.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Lifestream-2.5.3.7.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Lifestream-2.5.3.7.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Lifestream-2.5.3.8.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Lifestream-2.5.3.8.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Lifestream-2.5.3.8.zip",
     "AcceptsFeedback": false
   },
   {
