@@ -391,17 +391,17 @@
     "Name": "GatherBuddy Reborn",
     "InternalName": "GatherBuddyReborn",
     "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/GatherBuddyReborn.png",
-    "AssemblyVersion": "7.3.5.4",
-    "TestingAssemblyVersion": "7.3.5.4",
-    "Description": "協助查找採集點、魚類及其位置，追蹤特殊出現時段與天氣條件；釣魚統計、釣場資訊、鬧鐘與採集組次級介面已完成 zh-TW。",
+    "AssemblyVersion": "7.3.5.5",
+    "TestingAssemblyVersion": "7.3.5.5",
+    "Description": "協助查找採集點、魚類及其位置，追蹤特殊出現時段與天氣條件；釣魚統計、釣場資訊、鬧鐘與採集組次級介面已完成 zh-TW，並依台服實際資料表跳過尚未實裝的國際版 7.3 後段魚類。",
     "Punchline": "讓採集與釣魚更簡單。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/GatherBuddyReborn/tree/api13-tw-7.3.5",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/GatherBuddyReborn-7.3.5.4.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/GatherBuddyReborn-7.3.5.4.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/GatherBuddyReborn-7.3.5.4.zip"
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/GatherBuddyReborn-7.3.5.5.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/GatherBuddyReborn-7.3.5.5.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/GatherBuddyReborn-7.3.5.5.zip"
   },
   {
     "Author": "Taurenkey (Puni.sh)",
