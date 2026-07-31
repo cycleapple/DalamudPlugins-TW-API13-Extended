@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Craftimizer | 2.8.0.2 | 製作模擬、巨集產生與技能建議 | 已發布；完成設定、巨集、製作筆記與製作輔助 zh-TW 翻譯 |
 | SortaKinda | 2.1.1.7 | 自訂物品欄排序 | 已發布；完成 zh-TW 介面翻譯 |
 | QoL Bar | 2.3.3.7 | 自訂指令與插件快捷列 | 已發布；台服 7.3／API13 相容修正；完成 zh-TW 介面翻譯 |
-| IINACT | 1.13.9.5 | ACT 相容戰鬥資料解析 | 已發布；補齊解析篩選名稱與主視窗初始化進度 |
+| IINACT | 1.13.9.6 | ACT 相容戰鬥資料解析 | 直接使用 PlusoneChiang 正式套件，不由本倉庫自行編譯 |
 | LMeter | 1.13.0.3 | 遊戲內 ACT 戰鬥統計介面 | 已發布；完成 zh-TW 介面翻譯；搭配 IINACT 使用 |
 | Distance | 1.1.3.6 | 顯示目前目標距離 | 已發布；完成 zh-TW 主要與進階介面；官方 API13 節點 |
 | EnemyListHP | 2.0.1.8 | 在敵對列表顯示 HP | 已發布；完成 zh-TW 介面；官方 7.3／API13 節點 |
@@ -146,6 +146,8 @@ Questionable 的台服建置停用了程式內「放棄任務」原生命令；�
 詳細來源節點請見 [SOURCE_AUDIT.md](SOURCE_AUDIT.md)。
 
 繁中介面翻譯範圍、禁止修改項目與逐插件進度請見 [LOCALIZATION_AUDIT.md](LOCALIZATION_AUDIT.md)。
+
+直接採用其他來源正式套件的項目請見 [UPSTREAM_PACKAGES.md](UPSTREAM_PACKAGES.md)。
 
 ## 風險說明
 
