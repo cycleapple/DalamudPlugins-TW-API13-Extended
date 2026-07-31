@@ -80,7 +80,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | FPS Plugin | 1.7.0.5 | 顯示遊戲 FPS | 已發布；完成 zh-TW 設定介面與狀態提示翻譯 |
 | Craftimizer | 2.8.0.2 | 製作模擬、巨集產生與技能建議 | 已發布；完成設定、巨集、製作筆記與製作輔助 zh-TW 翻譯 |
 | SortaKinda | 2.1.1.7 | 自訂物品欄排序 | 已發布；完成 zh-TW 介面翻譯 |
-| QoL Bar | 2.3.3.7 | 自訂指令與插件快捷列 | 已發布；台服 7.3／API13 相容修正；完成 zh-TW 介面翻譯 |
+| QoL Bar | 2.3.3.8 | 自訂指令與插件快捷列 | 已發布；修正台服 API13 字型資產不相容；完成 zh-TW 介面翻譯 |
 | IINACT | 1.13.9.6 | ACT 相容戰鬥資料解析 | 直接使用 PlusoneChiang 正式套件，不由本倉庫自行編譯 |
 | LMeter | 1.13.0.3 | 遊戲內 ACT 戰鬥統計介面 | 已發布；完成 zh-TW 介面翻譯；搭配 IINACT 使用 |
 | Distance | 1.1.3.6 | 顯示目前目標距離 | 已發布；完成 zh-TW 主要與進階介面；官方 API13 節點 |
@@ -110,7 +110,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | TriadBuddy | 1.13.0.2 | 九宮幻卡對戰求解、牌組分析與收藏輔助 | 已發布；修復原中文亂碼並完成 64/64 個 zh-TW 語系鍵 |
 | MeterWay | 1.0.17.2 | 搭配 IINACT 或 ACT 顯示即時戰鬥統計 | 已發布；完成 Lazer／Mogu／Vision、動態 Lua 與主要設定 zh-TW 翻譯 |
 | Death Recap | 1.13.2.3 | 顯示死亡前的傷害、治療、增益、減益與護盾紀錄 | 已發布；完成設定、主視窗、篩選、提示與通知的 zh-TW 翻譯 |
-| Teleporter | 2.0.2.10 | 以聊天指令依以太之光或區域名稱傳送，支援自訂別名 | 已發布；修正台服繁中語言的 Sanitizer 啟動錯誤 |
+| Teleporter | 2.0.2.11 | 以聊天指令依以太之光或區域名稱傳送，支援自訂別名 | 已發布；修正台服繁中與簡中語言的 Sanitizer 啟動錯誤 |
 | DailyDuty | 5.3.2.14 | 追蹤每日與每週任務完成狀態 | 已發布；216/216 個資源鍵完成 zh-TW 翻譯 |
 | ezMiniCactpot | 3.0.0.4 | 標示仙人微彩的最佳翻牌位置與選線 | 已發布；完成設定、提示與插件說明的 zh-TW 翻譯 |
 | PingPlugin | 2.9.0.2 | 顯示目前遊戲伺服器的網路延遲 | 已發布；完整台灣繁中介面；保留台服專用 TCP handshake 量測 |

@@ -63,7 +63,7 @@
 | FPS Plugin | `Caraxi/FPSPlugin` | `9eaf5e4` | 2025-08-08 | 上游 API13 安全節點；`cycleapple/FPSPlugin@a14f297` 完成設定介面、DTR 工具提示、平均／最低標籤與指令說明繁中化；保留指令參數與 FPS 計算邏輯；台服 API13 編譯 0 警告、0 錯誤，發布 1.7.0.5 |
 | Craftimizer | `WorkingRobot/Craftimizer` | `88a1be2` | 2025-10-20 | 指定日期範圍內最後的原生 SDK 13 節點；`cycleapple/Craftimizer@6edb361` 完成主要 zh-TW 介面，建置僅 7 個既有分析警告、0 錯誤並發布 2.8.0.2 |
 | SortaKinda | `MidoriKami/SortaKinda` | `e5b566d` | 2025-08-13 | 原生 SDK 13 節點；鎖定的 KamiToolKit 使用已禁止的 `byte LabelId` 多載，`cycleapple/KamiToolKit@76dacbc` 僅將三處參數修正為 API13 要求的 `ushort`；`cycleapple/SortaKinda@4ccd82a` 完成排序規則、篩選器、設定、通知與教學介面繁中化，保留規則序列化、內部識別碼、正規表示式內容與物品搬動邏輯；台服 API13 編譯 0 警告、0 錯誤，發布 2.1.1.7 |
-| QoL Bar | `UnknownX7/QoLBar` | `7ee0a6e` | 2025-08-11 | 指定日期範圍內的原生 SDK13／FFXIV 7.3 節點；`cycleapple/QoLBar@a115d51` 採用官方後續相同的 `AddonConfig.ActiveDataSet` 存取修正，更新台服 fork 與 manifest，並完成主設定、快捷列／捷徑編輯、條件組、備份、圖示瀏覽器、快捷鍵與提示訊息的 zh-TW 介面翻譯；指令語法、條件 ID、IPC、匯出格式與設定序列化未變更；台服 API13 編譯成功（2 個既有未指派欄位警告、0 錯誤），發布 2.3.3.7 |
+| QoL Bar | `UnknownX7/QoLBar` | `7ee0a6e` | 2025-08-11 | 指定日期範圍內的原生 SDK13／FFXIV 7.3 節點；`cycleapple/QoLBar@77ed099` 保留 `AddonConfig.ActiveDataSet` 相容修正與完整 zh-TW 介面，另以 `AddDalamudDefaultFont` 取代台服執行環境中用途不符的硬編碼 Noto 字型資產；指令語法、條件 ID、IPC、匯出格式與設定序列化未變更；台服 API13 編譯成功（2 個既有未指派欄位警告、0 錯誤），發布 2.3.3.8 |
 | IINACT | `PlusoneChiang/IINACT` | 上游正式版 1.13.9.6 | 2026-07-31 | 清單直接引用 `https://plusonechiang.github.io/IINACT/repo.json` 所列 GitHub Release、來源與圖示；本倉庫不再 fork、修改、重編、中文化或發布自建替代套件 |
 | LMeter | `juicefish/LMeter_TC` | `3bee085` | 2026-07-28 | 使用者指定的台服 API13 分支，原始 repo.json 宣告 API13 1.13.0.1；`cycleapple/LMeter_TC@1052d57` 修正可覆寫的 Dalamud 路徑、更新 fork 資訊與繁中 manifest，並完成設定、統計欄位、右鍵選單與提示的 zh-TW 介面翻譯；IPC 名稱、ACT 欄位、格式標籤、設定鍵與計算邏輯維持不變；台服 API13 編譯 0 警告、0 錯誤，發布 1.13.0.3 |
 | Distance | `PunishedPineapple/Distance` | `aa7027c352` | 2025-08-07 | API13 更新後的正式節點；`cycleapple/Distance@api13-tw` 以台服 Dalamud 13.0.0.8／.NET 9 重建成功，1 警告、0 錯誤，發布 1.1.3.3 |
@@ -92,7 +92,7 @@
 | TriadBuddy | `MgAl2O4/FFTriadBuddyDalamud` | `acb68f2d` | 2025-08-11 | 採用 API13／7.3 安全節點；`cycleapple/FFTriadBuddyDalamud@9dbf132` 修復中文亂碼並完成 64 鍵 zh-TW，發布 1.13.0.2 |
 | MeterWay | `CondeSaheki/MeterWay` | `67036051` | 2025-04-12 | 安全日期窗內沒有上游提交，採用最後正式版 v1.0.16；`cycleapple/MeterWay@3413abf` 在最小 API13 移植上完成深層 zh-TW 介面，建置 0 警告、0 錯誤並發布 1.0.17.2 |
 | Death Recap | `Kouzukii/ffxiv-deathrecap` | `fdc149f4` | 2025-08-10 | 採用上游 API13 更新後的安全節點；`cycleapple/ffxiv-deathrecap@c95d352` 完成主要 zh-TW 介面並發布 1.13.2.3 |
-| Teleporter | `pohky/TeleporterPlugin` | `98a943a9` | 2025-08-07 | 上游於 `21434980` 明確更新 API13，下一次 API14 更新為 2025-12-17；`cycleapple/TeleporterPlugin@4aa978e` 完成 zh-TW 介面，並將台服擴充語言安全映射至 API13 Sanitizer 的非破壞性中文路徑，0 警告、0 錯誤，發布 2.0.2.10 |
+| Teleporter | `pohky/TeleporterPlugin` | `98a943a9` | 2025-08-07 | 上游於 `21434980` 明確更新 API13，下一次 API14 更新為 2025-12-17；`cycleapple/TeleporterPlugin@199a31a` 完成 zh-TW 介面，並將 API13 Sanitizer 不支援的繁中、簡中及其他擴充語言安全映射至非破壞性英文路徑；0 警告、0 錯誤，發布 2.0.2.11 |
 | DailyDuty | `MidoriKami/DailyDuty` | `bff73018` | 2025-08-22 | 採用 API13 安全節點並固定台服相容 KamiToolKit；`cycleapple/DailyDuty@0c4ba7a0` 完成 216 鍵 zh-TW 資源並發布 5.3.2.14 |
 | ezMiniCactpot | `MidoriKami/MiniCactpotSolver` | `761b4e22` | 2025-08-26 | 採用修正 LoadConfigFile 後的 API13 節點及相容 KamiToolKit；`cycleapple/EzMiniCactpot@eef2252` 完成 zh-TW 介面並發布 3.0.0.4 |
 | PingPlugin | `karashiiro/PingPlugin` | `5c0df982` | 2025-08-07 | 採用上游最後 API13 安全節點；`cycleapple/PingPlugin@f6a8386` 保留台服 TCP handshake 量測並完整校訂 zh-TW 介面，發布 2.9.0.2 |
