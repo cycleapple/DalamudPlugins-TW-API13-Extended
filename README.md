@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | NecroLens | 1.0.8.13 | 深層迷宮輔助 | 已發布；92 個介面資源鍵已完整轉為台灣繁中，並補上本地化協助與匿名資料收集說明；保留 API13 型別相容修補 |
 | MidiBard 2 | 3.2.1.3 | 樂器演奏 | 已發布；API14 型別誤用前的安全節點；補齊 zh-TW 介面資源 |
 | GatherBuddy Reborn | 7.3.5.5 | 採集輔助 | 已發布；修正時間欄亂碼，並依台服資料表跳過尚未實裝的國際版 7.3 後段魚類 |
-| Artisan | 4.0.4.19 | 生產輔助 | 已發布；修正繁中清單編輯器無法在製作筆記右鍵加入配方後即時刷新，並保留素材清單與半成品統計修正 |
+| Artisan | 4.0.4.20 | 生產輔助 | 已發布；尚缺數量改為可靠的需求量－物品欄－雇員，個別可製作量明確標示為推估，避免共用素材被重複估算後錯誤歸零 |
 | Burning Down the House | 1.7.1.2 | 房屋裝修 | 已發布；補齊指令說明、家具清單標題與座標欄位 |
 | Raphael.Dalamud | 0.0.5.1 | 生產求解器／依賴庫 | 已發布；無設定視窗，已完成 manifest zh-TW 翻譯 |
 | Something Need Doing | 0.0.0.1 | 巨集擴展 | 已發布；完成設定、說明、彈窗與 manifest zh-TW 翻譯 |
