@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Bossmod Reborn | 7.3.8.5 | 技能範圍與戰鬥輔助 | 已發布；一般使用者介面 zh-TW 完成 |
 | Rotation Solver Reborn | 7.3.5.3 | 技能循環 | 已發布；使用者介面 zh-TW 完成 |
 | Splatoon | 3.8.2.5 | 場景繪製點、線、面 | 已發布；使用者介面 zh-TW 完成；保留台服 7.3 MapEffect hooks |
-| Wrath Combo | 1.0.1.24 | 整合連段 | 已發布；補齊功能清單與職業設定 zh-TW；修正繁中名稱影響 Questionable 戰鬥 IPC 分類 |
+| Wrath Combo | 1.0.1.25 | 整合連段 | 已發布；改由冷卻群組直接讀取冷卻資料，修正台服 GetRecastTime 簽名解析失敗 |
 | AntiAfkKick | 2.1.0.10 | 防止閒置斷線 | 已發布；繁中插件說明，插件本身無設定介面 |
 | AutoRetainer | 4.5.1.29 | 雇員相關功能 | 已發布；補齊物品欄整理清單、工房航線工具、浮層、通知、操作選單與登入覆蓋層服務帳戶選擇等 zh-TW 介面 |
 | Saucy | 1.4.2.9 | 金碟相關功能 | 已發布；完成 zh-TW 主介面與九宮幻卡資源翻譯 |
