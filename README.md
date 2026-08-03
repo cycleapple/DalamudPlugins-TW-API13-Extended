@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | NecroLens | 1.0.8.13 | 深層迷宮輔助 | 已發布；92 個介面資源鍵已完整轉為台灣繁中，並補上本地化協助與匿名資料收集說明；保留 API13 型別相容修補 |
 | MidiBard 2 | 3.2.1.3 | 樂器演奏 | 已發布；API14 型別誤用前的安全節點；補齊 zh-TW 介面資源 |
 | GatherBuddy Reborn | 7.3.5.5 | 採集輔助 | 已發布；修正時間欄亂碼，並依台服資料表跳過尚未實裝的國際版 7.3 後段魚類 |
-| Artisan | 4.0.4.21 | 生產輔助 | 已發布；恢復物品欄、雇員與個別推估可製作量合計足夠時的藍色提示，同時維持可靠的尚缺與採購數量計算 |
+| Artisan | 4.0.4.22 | 生產輔助 | 已發布；修正宇宙探索 Raphael 解法產生後未自動從 Standard 切換的問題 |
 | Burning Down the House | 1.7.1.2 | 房屋裝修 | 已發布；補齊指令說明、家具清單標題與座標欄位 |
 | Raphael.Dalamud | 0.0.5.1 | 生產求解器／依賴庫 | 已發布；無設定視窗，已完成 manifest zh-TW 翻譯 |
 | Something Need Doing | 0.0.0.1 | 巨集擴展 | 已發布；完成設定、說明、彈窗與 manifest zh-TW 翻譯 |
@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | YesAlready | 0.0.0.1 | 自動確認對話 | 已發布；完成主設定、各分頁、Bothers 說明與提示 zh-TW 翻譯 |
 | Price Insight | 2.11.3.1 | 顯示市場價格 | 已發布、繁中介面 |
 | Gearsetter | 4.0.0.1 | 裝備升級建議 | 已發布；完成設定、裝備比較、屬性與提示 zh-TW 翻譯 |
-| Ice's Cosmic Exploration | 0.0.73.44 | 宇宙探索採集、生產與任務輔助 | 已發布；依台服資料支援各探索階段的研究威、修理、交換與好運道 NPC；一般使用者介面 zh-TW 完成 |
+| Ice's Cosmic Exploration | 0.0.73.47 | 宇宙探索採集、生產與任務輔助 | 已發布；修正 Artisan 製作握手、重複送單、Raphael 運算逾時，以及修理流程卡住等問題 |
 | Better Occult Crescent & Chest Helper Interface | 1.0.1.1 | 蜃景新月島寶箱、兔子與遭遇輔助 | 已發布；由官方 1.0.1 API13 節點重新編譯；完整 zh-TW 介面 |
 | Umbra XIV | 3.1.7.1 | 自訂工具列與世界標記 | 已發布；使用 API14 介面變更前的 API13 節點；完整 zh-TW 介面 |
 | MissFisher | 1.6.5.13 | 釣魚輔助 | 已發布；回移上游 GatherBuddy Reborn 識別與啟用名稱修正；585 組內嵌介面資源為台灣繁中 |
