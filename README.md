@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | 插件 | 目標版本 | 用途 | 狀態 |
 |---|---:|---|---|
 | Boss Mod | 0.1.4.3 | Boss 機制輔助 | 已發布；一般使用者介面 zh-TW 完成 |
-| Bossmod Reborn | 7.3.8.5 | 技能範圍與戰鬥輔助 | 已發布；一般使用者介面 zh-TW 完成 |
+| Bossmod Reborn | 7.3.8.7 | 技能範圍與戰鬥輔助 | 已發布；新增朱雀幻巧戰、UWU 風神階段提示，以及隊伍同步與 M07N 空值防護；一般使用者介面 zh-TW 完成 |
 | Rotation Solver Reborn | 7.3.5.3 | 技能循環 | 已發布；使用者介面 zh-TW 完成 |
 | Splatoon | 3.8.2.5 | 場景繪製點、線、面 | 已發布；使用者介面 zh-TW 完成；保留台服 7.3 MapEffect hooks |
 | Wrath Combo | 1.0.1.25 | 整合連段 | 已發布；改由冷卻群組直接讀取冷卻資料，修正台服 GetRecastTime 簽名解析失敗 |
@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Something Need Doing | 0.0.0.1 | 巨集擴展 | 已發布；完成設定、說明、彈窗與 manifest zh-TW 翻譯 |
 | TextAdvance | 3.2.4.8 | 對話自動處理 | 已發布、繁中介面 |
 | Lifestream | 2.5.3.8 | 傳送輔助 | 已發布；台服世界選單直接依 ID 顯示，修正巴哈姆特因同名舊資料遭排除 |
-| vnavmesh | 1.1.2.4 | 尋路與移動工具 | 已發布；月面 Cosmoliner 改依有效 layout 模型逐對建立連線，不再以 Phase 9 限制整套客製網格，並恢復預設垂直 polygon 搜尋範圍 |
+| vnavmesh | 1.1.2.5 | 尋路與移動工具 | 已發布；月面 Cosmoliner 改依有效 layout 模型逐對建立連線，並補上 SS 與隧道間的安全雙向連線 |
 | AutoDuty | 0.0.0.7 | 副本自動化框架 | 已發布 API13；修正 Rotation Solver Reborn AutoDuty 模式 IPC 值錯位，並完成一般使用者介面 zh-TW |
 | Pixel Perfect | 3.3.2.1 | 顯示角色碰撞圈 | 已發布；完成 zh-TW 介面翻譯 |
 | LazyLoot | 5.3.2.5 | 戰利品擲骰輔助 | 已發布；完成 zh-TW 介面、指令說明與診斷訊息翻譯 |
