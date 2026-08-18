@@ -3,8 +3,8 @@
 > [!WARNING]
 > 本倉庫收錄的插件相對高風險，部分功能涉及遊戲記憶體 Hook、自動化操作或非官方介面。遊戲、Dalamud 或台服客戶端更新後，插件可能立即失效、造成遊戲崩潰、角色操作異常或資料損壞。使用第三方插件亦可能違反遊戲服務條款並帶來帳號處分風險。請自行評估並承擔使用風險，重要設定務必先行備份；遊戲更新後，在相容性重新確認前請停用本倉庫插件。
 
-台服 FFXIV 使用的 Dalamud API13 擴充插件倉庫。本倉庫與外觀插件用的
-[DalamudPlugins-TW](https://github.com/cycleapple/DalamudPlugins-TW) 分開維護。
+台服 FFXIV 使用的 Dalamud API13 擴充插件倉庫。外觀插件主要仍由
+[DalamudPlugins-TW](https://github.com/cycleapple/DalamudPlugins-TW) 維護；經台服整合驗證的 Brio 與 Glamourer 修正版亦會在此提供。
 
 ## 安裝網址
 
@@ -23,6 +23,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | 插件 | 目標版本 | 用途 | 狀態 |
 |---|---:|---|---|
 | Boss Mod | 0.1.4.3 | Boss 機制輔助 | 已發布；一般使用者介面 zh-TW 完成 |
+| Brio | 0.5.2.3 | GPose actor、姿勢與場景管理 | 已發布；修正召喚 actor 的 Penumbra collection 與 Glamourer 套用目標解析 |
 | Bossmod Reborn | 7.3.8.8 | 技能範圍與戰鬥輔助 | 已發布；修正 API13 隊伍角色分配與成員同步，並保留朱雀幻巧戰、UWU 提示及 M07N 空值防護；一般使用者介面 zh-TW 完成 |
 | Rotation Solver Reborn | 7.3.5.3 | 技能循環 | 已發布；使用者介面 zh-TW 完成 |
 | Splatoon | 3.8.2.5 | 場景繪製點、線、面 | 已發布；使用者介面 zh-TW 完成；保留台服 7.3 MapEffect hooks |
@@ -48,6 +49,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | YesAlready | 0.0.0.1 | 自動確認對話 | 已發布；完成主設定、各分頁、Bothers 說明與提示 zh-TW 翻譯 |
 | Price Insight | 2.11.3.1 | 顯示市場價格 | 已發布、繁中介面 |
 | Gearsetter | 4.0.0.1 | 裝備升級建議 | 已發布；完成設定、裝備比較、屬性與提示 zh-TW 翻譯 |
+| Glamourer | 1.5.0.14 | 外觀、服裝與角色設計管理 | 已發布；修正 Brio 新生 actor cache 未刷新造成 `Affecting nothing`；需要 Penumbra |
 | Ice's Cosmic Exploration | 0.0.73.48 | 宇宙探索採集、生產與任務輔助 | 已發布；整合 Raphael 狀態 IPC，統一一般與雙職送單；求解失敗會顯示原因並安全停止 |
 | Better Occult Crescent & Chest Helper Interface | 1.0.1.1 | 蜃景新月島寶箱、兔子與遭遇輔助 | 已發布；由官方 1.0.1 API13 節點重新編譯；完整 zh-TW 介面 |
 | Umbra XIV | 3.1.7.1 | 自訂工具列與世界標記 | 已發布；使用 API14 介面變更前的 API13 節點；完整 zh-TW 介面 |

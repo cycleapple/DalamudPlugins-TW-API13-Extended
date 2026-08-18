@@ -134,6 +134,8 @@
 | Enemy List Debuffs | 待處理 | 待翻譯設定與 manifest；狀態 ID、Hook 與敵對列表判定不可修改 |
 | Penny Pincher | 待處理 | 待翻譯設定、狀態與提示；市場計算、剪貼簿與上架流程不可修改 |
 | Housemate | 待處理 | 待翻譯浮動窗、設定與房屋物件標籤；房屋資料 ID 與物件操作不可修改 |
+| Brio | 已完成 | 延用主外觀庫 291 個台灣繁中語系鍵；本次僅修改 Penumbra／Glamourer actor 整合與版本資訊 |
+| Glamourer | 已完成 | 延用主外觀庫的設計、進階染色、自動化集合與裝備介面繁中翻譯；本次僅修改 actor cache 與版本資訊 |
 
 ## 驗證要求
 
