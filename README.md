@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | 插件 | 目標版本 | 用途 | 狀態 |
 |---|---:|---|---|
 | Boss Mod | 0.1.4.3 | Boss 機制輔助 | 已發布；一般使用者介面 zh-TW 完成 |
-| Bossmod Reborn | 7.3.8.7 | 技能範圍與戰鬥輔助 | 已發布；新增朱雀幻巧戰、UWU 風神階段提示，以及隊伍同步與 M07N 空值防護；一般使用者介面 zh-TW 完成 |
+| Bossmod Reborn | 7.3.8.8 | 技能範圍與戰鬥輔助 | 已發布；修正 API13 隊伍角色分配與成員同步，並保留朱雀幻巧戰、UWU 提示及 M07N 空值防護；一般使用者介面 zh-TW 完成 |
 | Rotation Solver Reborn | 7.3.5.3 | 技能循環 | 已發布；使用者介面 zh-TW 完成 |
 | Splatoon | 3.8.2.5 | 場景繪製點、線、面 | 已發布；使用者介面 zh-TW 完成；保留台服 7.3 MapEffect hooks |
 | Wrath Combo | 1.0.1.25 | 整合連段 | 已發布；改由冷卻群組直接讀取冷卻資料，修正台服 GetRecastTime 簽名解析失敗 |

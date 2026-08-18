@@ -5,7 +5,7 @@
 | 插件 | 上游 | 截止 commit | 日期（UTC） | 初步結果 |
 |---|---|---|---|---|
 | Bossmod／Boss Mod | `awgil/ffxiv_bossmod` | `381151125` | 2025-11-29 | API13 編譯成功；`cycleapple/ffxiv_bossmod@2d2c09056de23d599e3e2811088186c2692e6204` 保留台服 7.3 相容修正並完成一般使用者介面 zh-TW；0 警告、0 錯誤，發布 0.1.4.3。後續開始使用 API14 `IPlayerState` |
-| Bossmod Reborn | `FFXIV-CombatReborn/BossmodReborn` | `9222b6062` / tag `7.3.8.1` | 2025-11-24 | API13 編譯成功；`cycleapple/BossmodReborn@f2919169a` 保留台服 ClientStructs、Dalamud 型別修正與完整 zh-TW，並回移上游朱雀幻巧戰、UWU 風神階段提示、隊伍同步及 M07N 空值防護；API13 Release 建置 0 警告、0 錯誤，發布 7.3.8.7。後續主線已使用 API14 型別 |
+| Bossmod Reborn | `FFXIV-CombatReborn/BossmodReborn` | `9222b6062` / tag `7.3.8.1` | 2025-11-24 | API13 編譯成功；`cycleapple/BossmodReborn@b838d4ccc` 保留台服 ClientStructs、Dalamud 型別修正與完整 zh-TW，回移朱雀幻巧戰、UWU 提示、隊伍同步及 M07N 空值防護，並修正 API13 隊伍角色分配與重複玩家欄位；API13 Release 建置 0 警告、0 錯誤，發布 7.3.8.8。後續主線已使用 API14 型別 |
 | Rotation Solver Reborn | `FFXIV-CombatReborn/RotationSolverReborn` | `4907d030` / tag `7.3.5.0` | 2025-10-07 | `cycleapple/RotationSolverReborn@939b5182c6aea1df9076e89edeb030e399b638dc` 保留 net9 相容 Lumina.Excel 並完成一般使用者介面 zh-TW；API13 建置 0 錯誤、1 個既有 XML 註解警告，發布 7.3.5.3。較晚的 7.3.8.x 雖標 API13，已使用 API14 型別 |
 | Splatoon | `PunishXIV/Splatoon` | `ae37f2b` / tag `3.8.1.5` | 2025-08-28 | `cycleapple/Splatoon@d1873a6` 保留 301 個查詢鍵、台服 7.3 MapEffect 修正與功能邏輯，完成一般使用者介面 zh-TW；API13 建置 0 錯誤、3 個既有參考警告，發布 3.8.2.5 |
 | Wrath Combo | `MeowZWR/WrathCombo` | `3b968ca32` | 2025-08-05 | 保留 API13 戰鬥邏輯，參考 `1.0.1.20-cn` 與 `1.0.4.19-cn` 的在地化資源補齊功能清單及職業設定 zh-TW；將未翻譯的 combo metadata 與繁中顯示名稱分離，修正 Questionable 透過 IPC 啟動戰鬥時缺少 `SingleTarget` 分類的例外；API13 Release 建置 0 錯誤，發布 1.0.1.24。12 月節點雖仍標 API13，但已使用新版 Dalamud 型別，不相容台服 API13 |
