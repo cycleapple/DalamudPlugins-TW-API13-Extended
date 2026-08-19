@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | ChatCoordinates | 2.1.2.10 | 將聊天座標設為地圖旗標 | 已發布；完成 zh-TW 設定、說明與錯誤訊息翻譯 |
 | FPS Plugin | 1.7.0.5 | 顯示遊戲 FPS | 已發布；完成 zh-TW 設定介面與狀態提示翻譯 |
 | Craftimizer | 2.8.0.2 | 製作模擬、巨集產生與技能建議 | 已發布；完成設定、巨集、製作筆記與製作輔助 zh-TW 翻譯 |
-| SortaKinda | 2.1.1.7 | 自訂物品欄排序 | 已發布；完成 zh-TW 介面翻譯 |
+| SortaKinda | 2.1.1.8 | 自訂物品欄排序 | 已發布；修正背景並行排序競爭與物品欄空指標；保留完整 zh-TW 介面 |
 | QoL Bar | 2.3.3.8 | 自訂指令與插件快捷列 | 已發布；修正台服 API13 字型資產不相容；完成 zh-TW 介面翻譯 |
 | IINACT | 1.13.9.6 | ACT 相容戰鬥資料解析 | 直接使用 PlusoneChiang 正式套件，不由本倉庫自行編譯 |
 | LMeter | 1.13.0.3 | 遊戲內 ACT 戰鬥統計介面 | 已發布；完成 zh-TW 介面翻譯；搭配 IINACT 使用 |
