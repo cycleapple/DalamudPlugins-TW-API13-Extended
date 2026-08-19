@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Raphael.Dalamud | 0.0.5.1 | 生產求解器／依賴庫 | 已發布；無設定視窗，已完成 manifest zh-TW 翻譯 |
 | Something Need Doing | 0.0.0.1 | 巨集擴展 | 已發布；完成設定、說明、彈窗與 manifest zh-TW 翻譯 |
 | TextAdvance | 3.2.4.8 | 對話自動處理 | 已發布、繁中介面 |
-| Lifestream | 2.5.3.8 | 傳送輔助 | 已發布；台服世界選單直接依 ID 顯示，修正巴哈姆特因同名舊資料遭排除 |
+| Lifestream | 2.5.3.9 | 傳送輔助 | 已發布；新增 `/li ren` 前往傳喚鈴，Custom Alias 支援等待與自訂 Slash 指令；保留台服世界 ID 修正 |
 | vnavmesh | 1.1.2.5 | 尋路與移動工具 | 已發布；月面 Cosmoliner 改依有效 layout 模型逐對建立連線，並補上 SS 與隧道間的安全雙向連線 |
 | AutoDuty | 0.0.0.7 | 副本自動化框架 | 已發布 API13；修正 Rotation Solver Reborn AutoDuty 模式 IPC 值錯位，並完成一般使用者介面 zh-TW |
 | Pixel Perfect | 3.3.2.1 | 顯示角色碰撞圈 | 已發布；完成 zh-TW 介面翻譯 |

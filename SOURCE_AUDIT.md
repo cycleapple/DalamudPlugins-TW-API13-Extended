@@ -21,7 +21,7 @@
 | Raphael.Dalamud | `Dalamud-DailyRoutines/Raphael.Dalamud` | `de11e646` | 2025-09-16 | `cycleapple/Raphael.Dalamud@583151a` 完成 manifest zh-TW；台服 API13 建置 0 警告、0 錯誤並發布 0.0.5.1 |
 | Something Need Doing | `Jaksuhn/SomethingNeedDoing` | `11422e55` | 2025-11-28 | `cycleapple/SomethingNeedDoing@0d05161` 完成主要 zh-TW 介面；台服 API13 建置僅 2 個 AutoRetainerAPI 既有參考警告、0 錯誤並發布 0.0.0.1 |
 | TextAdvance | `cycleapple/TextAdvance` (`api13-tw`) | `f8a7cf5` | 2025-11-22 基底 | API13 編譯成功；繁中介面發布 3.2.4.8 |
-| Lifestream | `NightmareXIV/Lifestream` | API13 相容節點 | 2025 | `cycleapple/Lifestream@851230d` 依照台服 `World.csv` 修正世界 ID `4028–4035` 的名稱對照；台服世界選單直接傳遞 `World` row，避免「巴哈姆特」先命中非公開 row 1160 而排除正確 row 4033；API13 Release 建置 25 個既有警告、0 錯誤，發布 2.5.3.8 |
+| Lifestream | `NightmareXIV/Lifestream` | API13 相容節點 | 2025 | `cycleapple/Lifestream@8d1b5f7` 保留台服世界 ID 與名稱解析修正；參考 `aliceric27/DalamudPlugins-TW` 移植 `/li ren` 返回住所並互動傳喚鈴，以及 Custom Alias 等待、自訂 Slash 指令；另加入無可用住所提示、傳喚鈴 30 秒逾時停止及指令格式／長度驗證，並維持既有 enum 數值避免舊設定錯位；API13 Release 建置 25 個既有警告、0 錯誤，發布 2.5.3.9 |
 | vnavmesh | `awgil/ffxiv_navmesh` | `5f512e5` / tag `v1.1.2.1` | 2025-12-15 | API13 編譯成功；`cycleapple/ffxiv_navmesh@93b4eac` 完成主要介面 zh-TW，改依有效 layout 模型逐對建立月面 Cosmoliner 連線，並只在三個外圈站點皆存在時加入 SS 與隧道間的雙向連線；API13 Release 建置 0 錯誤，發布 1.1.2.5。上游於 12 月 17 日才切換 API14 |
 | AutoDuty | `ffxivcode/AutoDuty` | `a7d1eca8` | 2025-12-08 | `cycleapple/AutoDuty@de97d56` 保留既有路徑分頁容錯與 zh-TW 介面，並對齊 Rotation Solver Reborn IPC 的 `StateCommandType` 數值，避免 AutoDuty 模式被送成未定義值 4；API13 建置 0 錯誤，發布 0.0.0.7 |
 | Pixel Perfect | `Haplo064/PixelPerfect` | `b371fe07` | 2025-08-07 | `cycleapple/PixelPerfect@80adfa2` 僅翻譯歡迎頁、設定、圖形參數、匯入／匯出通知、編輯器與說明；API13 編譯成功（4 個上游 nullable 警告、0 錯誤），發布 3.3.2.1 |
