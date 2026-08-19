@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | NoClippy | 0.5.0.20 | 改善技能延遲 | 已發布；完成 zh-TW 介面翻譯 |
 | NecroLens | 1.0.8.13 | 深層迷宮輔助 | 已發布；92 個介面資源鍵已完整轉為台灣繁中，並補上本地化協助與匿名資料收集說明；保留 API13 型別相容修補 |
 | MidiBard 2 | 3.2.1.3 | 樂器演奏 | 已發布；API14 型別誤用前的安全節點；補齊 zh-TW 介面資源 |
-| GatherBuddy Reborn | 7.3.5.6 | 採集輔助 | 已發布；新增分級防卡死與定期指令，可搭配 Lifestream 定期回家並在完成後自動恢復採集 |
+| GatherBuddy Reborn | 7.3.5.7 | 採集輔助 | 已發布；新增分級防卡死與定期指令，可搭配 Lifestream 定期回家並在完成後自動恢復採集 |
 | Artisan | 4.0.4.23 | 生產輔助 | 已發布；完整管理 Raphael 求解中、成功、失敗與逾時狀態，IPC 製作不再暗中改用 Standard |
 | Burning Down the House | 1.7.1.2 | 房屋裝修 | 已發布；補齊指令說明、家具清單標題與座標欄位 |
 | Raphael.Dalamud | 0.0.5.1 | 生產求解器／依賴庫 | 已發布；無設定視窗，已完成 manifest zh-TW 翻譯 |
