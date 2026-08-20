@@ -114,4 +114,4 @@
 | Penny Pincher | `tesu/PennyPincher` | `b26e81e0be` | 2025-08-09 | 上游 API13／1.8.0.6 節點；`cycleapple/PennyPincher@api13-tw` 重建成功 |
 | Housemate | `perchbirdd/Housemate` | `1a097d3fc3` | 2025-08-07 | 上游 API13／1.0.3.4 節點；`cycleapple/Housemate@api13-tw` 重建成功 |
 | Brio | `Etheirys/Brio` | `6d4e3bd` | 2026-08-18 | `cycleapple/Brio@api13-tw` 明確解除新建 GPose actor 的 Penumbra cutscene parent，檢查 collection／design IPC 回傳碼並發布 0.5.2.3；台服 API13 建置成功（既有 MessagePack 弱點與 3 個程式警告，0 錯誤） |
-| Glamourer | `Ottermandias/Glamourer` | `03e1b36` | 2026-08-18 | `cycleapple/Glamourer@api13-tw` 搭配 `cycleapple/Penumbra.GameData@60f79b2`，在 actor dictionary 查詢前刷新 object cache，修正 Brio 新生 actor `Affecting nothing`；發布 1.5.0.14，台服 API13 建置 0 警告、0 錯誤 |
+| Glamourer | `Ottermandias/Glamourer` | `97cd7f7` | 2026-08-20 | `cycleapple/Glamourer@api13-tw` 搭配 `cycleapple/Penumbra.GameData@d610cb7`，以物件索引取得 actor 時即時補入識別碼快取，修正 Brio／Ktisis 等工具新建 actor 後的 `Affecting nothing`；發布 1.5.0.15，台服 API13 建置 0 警告、0 錯誤 |
