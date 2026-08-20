@@ -50,7 +50,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Price Insight | 2.11.3.1 | 顯示市場價格 | 已發布、繁中介面 |
 | Gearsetter | 4.0.0.1 | 裝備升級建議 | 已發布；完成設定、裝備比較、屬性與提示 zh-TW 翻譯 |
 | Glamourer | 1.5.0.14 | 外觀、服裝與角色設計管理 | 已發布；修正 Brio 新生 actor cache 未刷新造成 `Affecting nothing`；需要 Penumbra |
-| Ice's Cosmic Exploration | 0.0.73.48 | 宇宙探索採集、生產與任務輔助 | 已發布；整合 Raphael 狀態 IPC，統一一般與雙職送單；求解失敗會顯示原因並安全停止 |
+| Ice's Cosmic Exploration | 0.0.73.49 | 宇宙探索採集、生產與任務輔助 | 已發布；修正接任務確認、CriticalScore 空引用與雙職製作完成後無法轉採集 |
 | Better Occult Crescent & Chest Helper Interface | 1.0.1.1 | 蜃景新月島寶箱、兔子與遭遇輔助 | 已發布；由官方 1.0.1 API13 節點重新編譯；完整 zh-TW 介面 |
 | Umbra XIV | 3.1.7.1 | 自訂工具列與世界標記 | 已發布；使用 API14 介面變更前的 API13 節點；完整 zh-TW 介面 |
 | MissFisher | 1.6.5.13 | 釣魚輔助 | 已發布；回移上游 GatherBuddy Reborn 識別與啟用名稱修正；585 組內嵌介面資源為台灣繁中 |
