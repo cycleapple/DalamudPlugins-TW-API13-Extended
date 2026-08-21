@@ -51,7 +51,7 @@
 | MidiBard 2 | 已完成 | 3.2.1.3；zh-Hant 介面鍵 213/213，補齊 14 個缺漏字串 |
 | Questionable | 已完成 | 13.68.129.7；完成任務優先順序、任務日誌、友好部族額度、單人任務戰鬥與 BossMod 相容性、進階設定、必要插件提示、採集日誌搜尋及 Quest Map／vnavmesh 使用者提示；另修正 RSR 7.3.5 IPC 枚舉相容性與 Pandora 選用 IPC 警告。任務路徑、導航、指令、Excel ID、Addon、hook/signature 未變更 |
 | Gearsetter | 已完成 | 4.0.0.1；完成主要設定、裝備比較、屬性、提示與 manifest；裝備計算、Excel ID、Addon 名稱與 IPC 未變更 |
-| Ice's Cosmic Exploration | 已完成 | 0.0.73.50；既有 manifest 與一般使用者 zh-TW 介面完整保留；本次修正任務逾時、有限採集、Critical 繳交、設定保存、據點座標與技能解鎖邏輯，未改動翻譯邊界、IPC、資料 ID 與序列化欄位名稱 |
+| Ice's Cosmic Exploration | 已完成 | 0.0.73.51；既有 manifest 與一般使用者 zh-TW 介面完整保留，新增任務預設的繁中名稱、說明與操作；任務逾時、有限採集、Critical 繳交、設定保存、據點座標與技能解鎖修正均保留，未改動 IPC、資料 ID 與既有序列化欄位名稱 |
 | BOCCHI | 已完成 | 1.0.1.1；22 份 zh 語系資源完整，補齊 2 個缺漏值並轉為台灣繁中 |
 | Umbra XIV | 已完成 | 3.1.7.1；`zh.json` 介面鍵 1568/1568，轉為台灣繁中 |
 | MissFisher | 已完成 | 1.6.5.13；保留 585 個查詢鍵，只轉換內嵌 `lang.json` 的中文顯示值；補齊上游新增的宇宙探索、預設快取與驗證狀態文字 |
