@@ -54,7 +54,7 @@
 | AutoMinion | `Asuna/AutoMinion` | `07fb9427` | 2025-03-27 | 上游在指定日期範圍內沒有節點；`cycleapple/AutoMinion@c22463b` 將 SDK、Packager、ImGui binding 與 ECommons 實際移植至 API13；`cycleapple/AutoMinion@e1e208b` 僅翻譯設定、搜尋、按鈕、指令說明與 manifest；16 個上游警告、0 錯誤；較高風險，發布 1.0.0.2 |
 | XIV 藏寶圖工具小幫手 | `cycleapple/xiv-party-treasure-helper` | `aaa94f7` | 2026-04-27 | 自有 API12 專案；`cycleapple/xiv-party-treasure-helper@054af73` 保留 API13 移植與 zh-TW 介面，新增可自訂聊天頻道及獨立的解碼後自動開地圖打旗標選項，0 警告、0 錯誤；發布 0.1.9.4 |
 | Visland | `awgil/ffxiv_visland` | `f7f40e1` / tag `v0.0.0.137` | 2025-08-09 | 上游 API13 安全節點；`cycleapple/ffxiv_visland@006b620` 完成主要 zh-TW 介面，並將上一版誤植的 API14 `BaseId` 恢復為 API13 等價 `DataId`（16 處），台服 API13 建置 0 警告、0 錯誤並發布 0.0.0.138 |
-| Chat 2 | `Infiziert90/ChatTwo` | `956e57a` | 2025-11-17 | 上游 API13 安全節點；`cycleapple/ChatTwo@b1861f3` 更新有漏洞的依賴，`cycleapple/ChatTwo@09814af` 第二輪補齊資料庫瀏覽／維護、搜尋、字體重設與內建 Web 聊天介面 zh-TW；主插件以台服 API13 編譯成功（15 個上游警告、0 錯誤），發布 1.32.0.2 |
+| Chat 2 | `Infiziert90/ChatTwo` | `956e57a` | 2025-11-17 | 上游 API13 安全節點；`cycleapple/ChatTwo@0b7b5ed` 更新有漏洞的依賴、完成資料庫／搜尋／字體與 Web 聊天介面 zh-TW，並補入台灣繁中字形、CJK 標點及全半形符號範圍；主插件以台服 API13 編譯成功（15 個既有警告、0 錯誤），發布 1.32.0.3 |
 | Doorbell | `Aida-Enna/Doorbell` | `0a01851` | 2025-08-09 | 上游明確更新 7.3 並使用 SDK 13；`cycleapple/Doorbell@9b59581` 僅翻譯設定視窗、指令說明、狀態訊息與預設通知文字；台服 API13 編譯 0 警告、0 錯誤，發布 1.0.4.1 |
 | MultiHit | `Bluefissure/MultiHit` | `72d95e8f65` | 2025-08-18 | 上游原生 `Dalamud.NET.Sdk/13.0.0` 節點；`cycleapple/MultiHit@1357aab` 僅翻譯顯示文字、說明與通知，以台服 API13 編譯成功（340 個上游平台／nullable 警告、0 錯誤），發布 0.0.4.1 |
 | Namingway | `reiichi001/NamingWay` | `f7987e3257` | 2025-03-29 | 指定日期範圍內沒有 API13 節點；`cycleapple/NamingWay@079d4c7` 將 SDK、ImGui binding、list clipper 與 texture handle 實際移植至 API13；`cycleapple/NamingWay@968bfb9` 僅翻譯介面與預設套組顯示名稱；1 個上游 nullable 警告、0 錯誤，發布 1.1.17.1 |
