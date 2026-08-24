@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | LazyLoot | 5.3.2.5 | 戰利品擲骰輔助 | 已發布；完成 zh-TW 介面、指令說明與診斷訊息翻譯 |
 | Questionable | 13.68.129.8 | 任務輔助 | 已發布；新增安全 Auto 接續模式與最多 5 次指數退避重試；使用者介面 zh-TW 完成 |
 | YesAlready | 0.0.0.1 | 自動確認對話 | 已發布；完成主設定、各分頁、Bothers 說明與提示 zh-TW 翻譯 |
-| Price Insight | 2.11.3.3 | 顯示市場價格 | 已發布、繁中介面；支援繁中服舊染料 Universalis v3 相容查詢 |
+| Price Insight | 2.11.3.4 | 顯示市場價格 | 已發布、繁中介面；支援繁中服染料 Universalis v3 相容查詢及未收錄物品容錯 |
 | Gearsetter | 4.0.0.1 | 裝備升級建議 | 已發布；完成設定、裝備比較、屬性與提示 zh-TW 翻譯 |
 | Glamourer | 1.5.0.15 | 外觀、服裝與角色設計管理 | 已發布；修正 Brio／Ktisis 等工具新建 actor 後的識別碼快取及 `Affecting nothing`；需要 Penumbra |
 | Ice's Cosmic Exploration | 0.0.73.52 | 宇宙探索採集、生產與任務輔助 | 已發布；新增製作設定檔、Agenda、任務偏好／停止條件與路線稽核；旅行捷徑預設關閉 |

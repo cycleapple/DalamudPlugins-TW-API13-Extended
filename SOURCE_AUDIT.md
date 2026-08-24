@@ -27,7 +27,7 @@
 | Pixel Perfect | `Haplo064/PixelPerfect` | `b371fe07` | 2025-08-07 | `cycleapple/PixelPerfect@80adfa2` 僅翻譯歡迎頁、設定、圖形參數、匯入／匯出通知、編輯器與說明；API13 編譯成功（4 個上游 nullable 警告、0 錯誤），發布 3.3.2.1 |
 | LazyLoot | `PunishXIV/LazyLoot` | `d685ef0c` | 2025-11-19 | `cycleapple/LazyLoot@994d7ad` 完成設定介面、指令說明、狀態列、擲骰結果與診斷訊息繁中化；保留指令參數、設定格式與擲骰邏輯；台服 API13 編譯成功（2 個既有警告、0 錯誤），發布 5.3.2.5 |
 | YesAlready | `PunishXIV/YesAlready` | `ca2288dd` | 2025-11-10 | `cycleapple/YesAlready@619d0a3` 建立 API13 fork 並完成主要 zh-TW 介面；建置僅 4 個既有 nullable／unused 警告、0 錯誤並發布 0.0.0.1 |
-| Price Insight | `cycleapple/ffxiv-priceinsight` (`api13-tw`) | `7d928a9` | 2025-08-07 基底 | API13 編譯 0 警告、0 錯誤；繁中介面與 Universalis 暫時性錯誤重試；繁中服舊染料在 aggregated API 拒絕時改用 v3 overview 相容查詢，發布 2.11.3.3 |
+| Price Insight | `cycleapple/ffxiv-priceinsight` (`api13-tw`) | `49d87ae` | 2025-08-07 基底 | API13 編譯 0 警告、0 錯誤；繁中介面與 Universalis 暫時性錯誤重試；繁中服染料在 aggregated API 拒絕時改用 v3 overview 相容查詢，並將未收錄物品的 404 視為無市場資料。以 126 種可搜尋染料實測：21 種由 v2 回傳，105 種 fallback 全部獲得 v3 200（94 種有資料、11 種空資料），發布 2.11.3.4 |
 | MidiBard 2 | `reckhou/MidiBard2` | `1665029` | 2025-11-30 | API13 編譯成功；`cycleapple/MidiBard2@d141b5d` 修正 SDK 與台服組件路徑並補齊 zh-TW 介面資源，發布 3.2.1.3。下一提交開始誤用 API14 `IPlayerState` |
 | Questionable | `PunishXIV/Questionable` | `34735346f` / tag `v13.68.129.2` | 2025-12-15 | `cycleapple/Questionable@2e935d9e8` 保留 TC-BASE 相容修正並完成使用者介面 zh-TW；將 2025-10-23 新版 RSR 的 `TargetOnly` IPC 合約回配至台服安全版 RSR 7.3.5（`Manual=2`），並讓 Pandora 選用 IPC 未就緒時安靜重試；API13 Release 建置 0 錯誤、5 個既有警告，發布 13.68.129.7 |
 | Gearsetter | `VeraNala/Gearsetter` | `21a2b8c` / tag `v4.0` | 2025-08-10 | 使用原始鎖定的 `qstxiv/LLib@f1716ee`；`cycleapple/Gearsetter@357ce36` 完成主要 zh-TW 介面，台服 API13 建置 0 警告、0 錯誤並發布 4.0.0.1 |
