@@ -118,12 +118,12 @@
     "Author": "Kouzukii",
     "Name": "Price Insight",
     "InternalName": "PriceInsight",
-    "AssemblyVersion": "2.11.3.2",
-    "TestingAssemblyVersion": "2.11.3.2",
-    "Description": "Shows Universalis marketboard prices when hovering over an item. Taiwan Dalamud API13 build.",
+    "AssemblyVersion": "2.11.3.3",
+    "TestingAssemblyVersion": "2.11.3.3",
+    "Description": "滑鼠停留物品時顯示 Universalis 市場佈告板價格；繁中服舊染料在 v2 拒絕時會自動改用 v3 overview 相容查詢。",
     "Punchline": "滑鼠移到物品上時顯示市場價格。",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Kouzukii/ffxiv-priceinsight",
+    "RepoUrl": "https://github.com/cycleapple/ffxiv-priceinsight/tree/api13-tw",
     "Tags": [
       "marketboard",
       "items",
@@ -145,9 +145,9 @@
       "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/PriceInsight/images/image1.png"
     ],
     "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/PriceInsight.png",
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PriceInsight-2.11.3.2.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PriceInsight-2.11.3.2.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PriceInsight-2.11.3.2.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PriceInsight-2.11.3.3.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PriceInsight-2.11.3.3.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PriceInsight-2.11.3.3.zip",
     "AcceptsFeedback": true
   },
   {
