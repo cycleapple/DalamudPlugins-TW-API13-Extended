@@ -11,7 +11,7 @@
 | Wrath Combo | `MeowZWR/WrathCombo` | `3b968ca32` | 2025-08-05 | 保留 API13 戰鬥邏輯，參考 `1.0.1.20-cn` 與 `1.0.4.19-cn` 的在地化資源補齊功能清單及職業設定 zh-TW；將未翻譯的 combo metadata 與繁中顯示名稱分離，修正 Questionable 透過 IPC 啟動戰鬥時缺少 `SingleTarget` 分類的例外；API13 Release 建置 0 錯誤，發布 1.0.1.24。12 月節點雖仍標 API13，但已使用新版 Dalamud 型別，不相容台服 API13 |
 | MapLinker | `Bluefissure/MapLinker` | `466c7c7753bf45590e504c6b32e0667b1750dabf` | 2025-08-17 | `cycleapple/MapLinker@8ef3ab1eec6c5fedacfca0b3a0293d90db4433fb` 完成一般使用者介面 zh-TW；保留聊天類型、指令 token、地圖連結解析、設定鍵與功能流程，發布 1.1.11.2 |
 | AntiAfkKick | `NightmareXIV/AntiAfkKick` | `7a0ebaa8` | 2025-08-07 | `cycleapple/AntiAfkKick@8689ea7` 僅翻譯插件安裝頁說明；插件本身無設定介面；API13 編譯 0 警告、0 錯誤，發布 2.1.0.10 |
-| AutoRetainer | `PunishXIV/AutoRetainer` | `1e4e6b6` / tag `4.5.1.12` | 2025-08-15 | `cycleapple/AutoRetainer@6afc52e` 保留繁中公會工坊／組件功能比對，並參考 AutoRetainerLocalizer zh-TW 補齊物品欄整理、工房航線工具、浮層、通知、操作選單與登入覆蓋層服務帳戶選擇；以 .NET SDK 10.0.302 建置（40 個既有警告、0 錯誤），發布 4.5.1.29 |
+| AutoRetainer | `PunishXIV/AutoRetainer` | `1e4e6b6` / tag `4.5.1.12` + `11e55d7` QuickExploration hunk | 2026-07-03 | `cycleapple/AutoRetainer@0747a7f` 保留繁中公會工坊／組件功能比對與完整 zh-TW 介面，回移上游 `tw` 分支目前使用的「自由尋寶委託」比對；使用 API13 Dalamud 組件及 .NET SDK 10.0.302 建置（40 個既有警告、0 錯誤），發布 4.5.1.30 |
 | Saucy | `PunishXIV/Saucy` | `8e8d5949` | 2025-08-15 | 台服修正 `cycleapple/Saucy@a79b1c5`；`cycleapple/Saucy@5c751d1` 翻譯主介面與九宮幻卡 zh 資源，並修正語言檔未嵌入 DLL 的問題；API13 編譯成功（8 個上游警告、0 錯誤），發布 1.4.2.9 |
 | NoClippy | `UnknownX7/NoClippy` | `d32ae7af` | 2025-08-09 | `cycleapple/NoClippy@934ab0f` 僅翻譯設定、技能後搖、戰鬥統計、記錄選項、狀態預測警告與指令回覆；API13 編譯 0 警告、0 錯誤，發布 0.5.0.20 |
 | NecroLens | `Jukkales/NecroLens` | `d6646478` | 2025-11-26 | `cycleapple/NecroLens@aad2e7b` 保留 `BaseId` API13 修正，完成 92 鍵 zh-TW 資源並補齊本地化協助與匿名資料收集介面；台服 API13 建置 0 警告、0 錯誤並發布 1.0.8.13 |
