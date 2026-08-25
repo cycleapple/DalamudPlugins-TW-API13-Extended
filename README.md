@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | YesAlready | 0.0.0.1 | 自動確認對話 | 已發布；完成主設定、各分頁、Bothers 說明與提示 zh-TW 翻譯 |
 | Price Insight | 2.11.3.5 | 顯示市場價格 | 已發布、繁中介面；支援繁中服染料 v3 相容查詢、404 世界復核與安全成交統計 |
 | Gearsetter | 4.0.0.1 | 裝備升級建議 | 已發布；完成設定、裝備比較、屬性與提示 zh-TW 翻譯 |
-| Glamourer | 1.5.0.15 | 外觀、服裝與角色設計管理 | 已發布；修正 Brio／Ktisis 等工具新建 actor 後的識別碼快取及 `Affecting nothing`；需要 Penumbra |
+| Glamourer | 1.5.0.16 | 外觀、服裝與角色設計管理 | 已發布；修正 Designs 左側清單分隔線拖曳後回彈；需要 Penumbra |
 | Ice's Cosmic Exploration | 0.0.73.52 | 宇宙探索採集、生產與任務輔助 | 已發布；新增製作設定檔、Agenda、任務偏好／停止條件與路線稽核；旅行捷徑預設關閉 |
 | Better Occult Crescent & Chest Helper Interface | 1.0.1.1 | 蜃景新月島寶箱、兔子與遭遇輔助 | 已發布；由官方 1.0.1 API13 節點重新編譯；完整 zh-TW 介面 |
 | Umbra XIV | 3.1.7.1 | 自訂工具列與世界標記 | 已發布；使用 API14 介面變更前的 API13 節點；完整 zh-TW 介面 |

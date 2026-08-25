@@ -2983,9 +2983,9 @@
     "Author": "Ottermandias",
     "Name": "Glamourer",
     "InternalName": "Glamourer",
-    "AssemblyVersion": "1.5.0.15",
-    "TestingAssemblyVersion": "1.5.0.15",
-    "Description": "外觀修改與儲存工具。已修正台服繁中 Excel 語言頁、角色辨識，以及 Brio／Ktisis 等工具新建 actor 的快取更新。需要 Penumbra。",
+    "AssemblyVersion": "1.5.0.16",
+    "TestingAssemblyVersion": "1.5.0.16",
+    "Description": "外觀修改與儲存工具。已修正台服繁中 Excel 語言頁、角色辨識、第三方 actor 快取，以及設計清單分隔線寬度保存。需要 Penumbra。",
     "Punchline": "修改及儲存玩家與 GPose actor 外觀。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/Glamourer/tree/api13-tw",
@@ -3000,10 +3000,10 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/Glamourer.png",
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Glamourer-1.5.0.15.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Glamourer-1.5.0.15.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Glamourer-1.5.0.15.zip",
-    "Changelog": "修正 Ktisis 等第三方工具新建 actor 後，ApplyDesign 顯示 Success 卻記錄 Affecting nothing；以索引取得 actor 時即時補入識別碼快取。",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Glamourer-1.5.0.16.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Glamourer-1.5.0.16.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Glamourer-1.5.0.16.zip",
+    "Changelog": "修正 Designs 頁面左側清單分隔線往左拖曳後，往右調整會在放開滑鼠時彈回最小寬度的問題。",
     "AcceptsFeedback": false
   }
 ]

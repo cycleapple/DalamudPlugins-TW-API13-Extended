@@ -114,4 +114,4 @@
 | Penny Pincher | `tesu/PennyPincher` | `b26e81e0be` | 2025-08-09 | 上游 API13／1.8.0.6 節點；`cycleapple/PennyPincher@api13-tw` 重建成功 |
 | Housemate | `perchbirdd/Housemate` | `1a097d3fc3` | 2025-08-07 | 上游 API13／1.0.3.4 節點；`cycleapple/Housemate@api13-tw` 重建成功 |
 | Brio | `Etheirys/Brio` | `6d4e3bd` | 2026-08-18 | `cycleapple/Brio@api13-tw` 明確解除新建 GPose actor 的 Penumbra cutscene parent，檢查 collection／design IPC 回傳碼並發布 0.5.2.3；台服 API13 建置成功（既有 MessagePack 弱點與 3 個程式警告，0 錯誤） |
-| Glamourer | `Ottermandias/Glamourer` | `97cd7f7` | 2026-08-20 | `cycleapple/Glamourer@api13-tw` 搭配 `cycleapple/Penumbra.GameData@d610cb7`，以物件索引取得 actor 時即時補入識別碼快取，修正 Brio／Ktisis 等工具新建 actor 後的 `Affecting nothing`；發布 1.5.0.15，台服 API13 建置 0 警告、0 錯誤 |
+| Glamourer | `Ottermandias/Glamourer` | `c757050` | 2026-08-25 | `cycleapple/Glamourer@api13-tw` 搭配 `cycleapple/OtterGui@cf29d2d`，恢復可調整子視窗在 ImGui storage 中的狀態與寬度 reference，修正 Designs 左側分隔線放開滑鼠後回彈；發布 1.5.0.16，台服 API13 建置 0 警告、0 錯誤 |
