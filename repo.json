@@ -3005,5 +3005,32 @@
     "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/Glamourer-1.5.0.16.zip",
     "Changelog": "修正 Designs 頁面左側清單分隔線往左拖曳後，往右調整會在放開滑鼠時彈回最小寬度的問題。",
     "AcceptsFeedback": false
+  },
+  {
+    "Author": "Zeffuro; API 13 port by cycleapple",
+    "Name": "MouseLock",
+    "InternalName": "MouseLock",
+    "AssemblyVersion": "1.0.0.3",
+    "TestingAssemblyVersion": "1.0.0.3",
+    "Description": "自動維持滑鼠視角，不必持續按住右鍵；開啟聊天、背包、選單等介面時會暫停，左右鍵也可設定為遊戲輸入、快捷列動作或 MouseLock 控制。",
+    "Punchline": "不需持續按住右鍵的滑鼠視角鎖定。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/MouseLock/tree/api13",
+    "Tags": ["mouse", "mouselook", "cursor", "camera", "movement", "input", "keybind", "hotbar", "qol"],
+    "CategoryTags": ["utility"],
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/MouseLock.png",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MouseLock-1.0.0.3.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MouseLock-1.0.0.3.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MouseLock-1.0.0.3.zip",
+    "Changelog": "移植至台服 Dalamud API13／.NET 9，並更新服務取得方式與遊戲函式相容綁定。",
+    "AcceptsFeedback": true
   }
 ]
