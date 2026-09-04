@@ -3010,8 +3010,8 @@
     "Author": "Zeffuro; API 13 port by cycleapple",
     "Name": "MouseLock",
     "InternalName": "MouseLock",
-    "AssemblyVersion": "1.0.0.4",
-    "TestingAssemblyVersion": "1.0.0.4",
+    "AssemblyVersion": "1.0.0.5",
+    "TestingAssemblyVersion": "1.0.0.5",
     "Description": "自動維持滑鼠視角，不必持續按住右鍵；開啟聊天、背包、選單等介面時會暫停，左右鍵也可設定為遊戲輸入、快捷列動作或 MouseLock 控制。",
     "Punchline": "不需持續按住右鍵的滑鼠視角鎖定。",
     "ApplicableVersion": "any",
@@ -3027,10 +3027,10 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/MouseLock.png",
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MouseLock-1.0.0.4.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MouseLock-1.0.0.4.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MouseLock-1.0.0.4.zip",
-    "Changelog": "完成首次啟動、設定分頁、狀態列、提示、通知與聊天指令回饋的台灣繁中翻譯；IPC、設定格式與輸入邏輯未變更。",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MouseLock-1.0.0.5.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MouseLock-1.0.0.5.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MouseLock-1.0.0.5.zip",
+    "Changelog": "完成首次啟動、設定分頁、狀態列、提示、通知、聊天指令回饋與歷史變更記錄的台灣繁中翻譯；IPC、設定格式與輸入邏輯未變更。",
     "AcceptsFeedback": true
   }
 ]

@@ -133,7 +133,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Enemy List Debuffs | 1.13.0.0 | 在敵對列表顯示負面狀態 | 已發布；API13；繁中介面待處理 |
 | Penny Pincher | 1.8.0.6 | 協助調整市場布告板上架價格 | 已發布；API13；繁中介面待處理 |
 | Housemate | 1.0.3.4 | 顯示房屋物件資訊並輔助裝修 | 已發布；API13；繁中介面待處理 |
-| MouseLock | 1.0.0.4 | 不需持續按住右鍵的滑鼠視角鎖定 | 已發布；完成 zh-TW 介面翻譯；涉及滑鼠輸入與遊戲函式 Hook |
+| MouseLock | 1.0.0.5 | 不需持續按住右鍵的滑鼠視角鎖定 | 已發布；完成 zh-TW 介面翻譯；涉及滑鼠輸入與遊戲函式 Hook |
 
 Questionable 的台服建置停用了程式內「放棄任務」原生命令；需要放棄任務時請使用遊戲任務日誌。此限制不影響任務路徑、對話、傳送或 vnavmesh 導航。
 
