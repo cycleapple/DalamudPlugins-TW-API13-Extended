@@ -3032,5 +3032,32 @@
     "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MouseLock-1.0.0.5.zip",
     "Changelog": "完成首次啟動、設定分頁、狀態列、提示、通知、聊天指令回饋與歷史變更記錄的台灣繁中翻譯；IPC、設定格式與輸入邏輯未變更。",
     "AcceptsFeedback": true
+  },
+  {
+    "Author": "doomzao; API 13 port by cycleapple",
+    "Name": "Mask of Kefka",
+    "InternalName": "MaskOfKefka",
+    "AssemblyVersion": "0.2.0.1",
+    "TestingAssemblyVersion": "0.2.0.1",
+    "Description": "建立不含 ImGui／Dalamud 覆蓋介面的獨立遊戲輸出視窗，供 OBS 或 Discord 擷取；也可選擇只顯示場景、隱藏遊戲 UI。",
+    "Punchline": "直播時隱藏 Dalamud 覆蓋介面。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/mask-of-kefka/tree/api13-tw",
+    "Tags": ["streamer mode", "streaming", "obs", "overlay", "capture"],
+    "CategoryTags": ["utility"],
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/MaskOfKefka.png",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MaskOfKefka-0.2.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MaskOfKefka-0.2.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MaskOfKefka-0.2.0.1.zip",
+    "Changelog": "將上游 API15／.NET 10 版本移植至台服 Dalamud API13／.NET 9，加入 API13 服務注入與 TerraFX 相容處理，並完成設定介面與 manifest 的台灣繁中翻譯。",
+    "AcceptsFeedback": true
   }
 ]
