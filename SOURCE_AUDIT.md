@@ -36,7 +36,7 @@
 | Umbra XIV | `una-xiv/umbra` | `2d165ce` | 2025-10-08 | `Dalamud.NET.Sdk/13.0.0`；`cycleapple/umbra@ba18260` 將 1568 個既有中文介面鍵轉為台灣繁中並以台服 API13 編譯，發布 3.1.7.1。後期提交開始使用台服 API13 不存在的 `BaseId` 與 `IObjectTable.LocalPlayer` |
 | MissFisher | `BlackCleaverLoli/MissFisher` | `80274683` | 2026-07-30 | `cycleapple/MissFisher@18f70b2` 改以上游正式 API13 版 1.6.5.11 DLL 為基底，保留官方驗證流程；回移 GatherBuddy Reborn 安裝／載入偵測及 `GatherBuddyReborn` 正確內部名稱，僅以 Mono.Cecil 置換 585 組台灣繁中資源並標記 1.6.5.13 |
 | Skippy | `BoxuChan/Skippy` | `61c7c4f` | 2025-08-12 | 上游 manifest 與 Packager 均為 API13；`cycleapple/Skippy@4bad10c` 完成 zh-TW 回饋與指令說明，台服 API13 建置 0 警告、0 錯誤並發布 1.2.2.9 |
-| AutoHook | `PunishXIV/AutoHook` | `081cab55` / tag `v5.0.0.23` | 2025-12-03 | 位於安全日期範圍且 manifest 為 API13；包含 GatherBuddy 7.3.5 所需的 `GetPluginState`、`GetAutoStartFishing` 與 `SetAutoStartFishing` IPC；`cycleapple/AutoHook@16103ca` 套用台服 `DataId` 相容修補及完整 zh-TW 介面，發布 5.0.0.14 |
+| AutoHook | `PunishXIV/AutoHook` | `081cab55` / tag `v5.0.0.23` | 2025-12-03 | 位於安全日期範圍且 manifest 為 API13；包含 GatherBuddy 7.3.5 所需的 `GetPluginState`、`GetAutoStartFishing` 與 `SetAutoStartFishing` IPC；`cycleapple/AutoHook@2cf599e` 套用台服 `DataId` 相容修補及完整 zh-TW 介面，發布 5.0.0.15；內建 67 個歷史海釣模板，社群模板頁可離線匯入；API13 Release 建置與模板資料檢查通過，尚未遊戲內實測。 |
 | Avarice | `PunishXIV/Avarice` | `0c831ce` | 2025-09-02 | `cycleapple/Avarice@86f3ef1` 使用 API13 相依節點並完成主要 zh-TW 介面；建置僅 6 個既有 ECommons 警告、0 錯誤，發布 2.1.1.8 |
 | Orbwalker | `PunishXIV/Orbwalker` | `caf40f9` | 2025-09-13 | SDK 與 manifest 均為 API13；`cycleapple/Orbwalker@07bec91` 完成主要 zh-TW 介面，建置僅 1 個既有 nullable 警告、0 錯誤並發布 1.0.1.7 |
 | Palace Pal | `PunishXIV/PalacePal` | `bac8abe` | 2025-10-09 | SDK 13.1、manifest API13；`cycleapple/PalacePal@44afb5b` 新增完整 zh-TW 資源，台服 API13 建置及套件資源驗證成功，發布 4.14.0.1 |

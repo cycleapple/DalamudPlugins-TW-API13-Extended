@@ -55,7 +55,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Umbra XIV | 3.1.7.1 | 自訂工具列與世界標記 | 已發布；使用 API14 介面變更前的 API13 節點；完整 zh-TW 介面 |
 | MissFisher | 1.6.5.13 | 釣魚輔助 | 已發布；回移上游 GatherBuddy Reborn 識別與啟用名稱修正；585 組內嵌介面資源為台灣繁中 |
 | Skippy | 1.2.2.9 | 主線隨機任務過場跳過輔助 | 已發布；完成指令說明與聊天回饋 zh-TW 翻譯 |
-| AutoHook | 5.0.0.14 | 釣魚與刺魚輔助 | 已發布；補齊 GatherBuddy 7.3.5 所需 IPC，含台服 API13 `DataId` 相容修補與完整繁中介面 |
+| AutoHook | 5.0.0.15 | 釣魚與刺魚輔助 | 已發布；補齊 GatherBuddy 7.3.5 所需 IPC，含台服 API13 `DataId` 相容修補與完整繁中介面；內建 67 個歷史海釣模板，社群模板頁可離線匯入；API13 Release 建置與模板資料檢查通過，尚未遊戲內實測。 |
 | Avarice | 2.1.1.8 | 身位與距離提示 | 已發布；完成主要設定、設定檔、統計與視覺回饋 zh-TW 翻譯 |
 | Orbwalker | 1.0.1.7 | 施法移動控制 | 已發布；完成主要設定、移動、顯示層、職業與按鍵 zh-TW 翻譯 |
 | Palace Pal | 4.14.0.1 | 深層迷宮陷阱與寶藏提示 | 已發布；116/116 個介面資源鍵完整 zh-TW；需要 Splatoon |
