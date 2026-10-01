@@ -595,20 +595,20 @@
   },
   {
     "Author": "Faye",
-    "Name": "Better Occult Crescent & Chest Helper Interface",
+    "Name": "BOCCHI 新月島助手",
     "InternalName": "BOCCHI",
-    "AssemblyVersion": "1.0.1.1",
-    "TestingAssemblyVersion": "1.0.1.1",
-    "Description": "Occult Crescent treasure, carrot, Fate and Critical Encounter helper. Taiwan 7.3 / Dalamud API13 build.",
-    "Punchline": "蜃景新月島寶箱、兔子、FATE 與關鍵遭遇輔助。",
+    "AssemblyVersion": "1.0.1.2",
+    "TestingAssemblyVersion": "1.0.1.2",
+    "Description": "提供繁體中文（台灣）介面。\n- 查看危命任務與緊急遭遇戰及其獎勵。\n- 自動規劃路徑、傳送、尋找寶箱與胡蘿蔔。\n- 追蹤經驗值、貨幣及兩歧塔狀態。\n- 可依設定啟用全自動模式。",
+    "Punchline": "新月島探索、危命任務、緊急遭遇戰與尋寶助手。",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/cycleapple/BOCCHI",
+    "RepoUrl": "https://github.com/cycleapple/BOCCHI/tree/api13-tw",
     "Tags": [
       "BOCCHI",
-      "Occult Crescent",
-      "Treasure",
-      "Critical Encounter",
-      "Fate"
+      "新月島",
+      "尋寶",
+      "危命任務",
+      "緊急遭遇戰"
     ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
@@ -619,9 +619,9 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/BOCCHI.png",
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BOCCHI-1.0.1.1.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BOCCHI-1.0.1.1.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BOCCHI-1.0.1.1.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BOCCHI-1.0.1.2.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BOCCHI-1.0.1.2.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/BOCCHI-1.0.1.2.zip",
     "AcceptsFeedback": true
   },
   {
