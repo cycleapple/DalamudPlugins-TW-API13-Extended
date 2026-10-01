@@ -22,6 +22,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 
 | 插件 | 目標版本 | 用途 | 狀態 |
 |---|---:|---|---|
+| Pocket Recorder | 1.0.5.21 | 遊戲畫面、音訊與倒數計時自動錄影 | 已發布 API13 繁中移植測試版；完整建置與套件檢查通過，尚未遊戲內實測 |
 | Boss Mod | 0.1.4.3 | Boss 機制輔助 | 已發布；一般使用者介面 zh-TW 完成 |
 | Brio | 0.5.2.3 | GPose actor、姿勢與場景管理 | 已發布；修正召喚 actor 的 Penumbra collection 與 Glamourer 套用目標解析 |
 | Bossmod Reborn | 7.3.8.8 | 技能範圍與戰鬥輔助 | 已發布；修正 API13 隊伍角色分配與成員同步，並保留朱雀幻巧戰、UWU 提示及 M07N 空值防護；一般使用者介面 zh-TW 完成 |
@@ -135,6 +136,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Housemate | 1.0.3.4 | 顯示房屋物件資訊並輔助裝修 | 已發布；API13；繁中介面待處理 |
 | MouseLock | 1.0.0.5 | 不需持續按住右鍵的滑鼠視角鎖定 | 已發布；完成 zh-TW 介面翻譯；涉及滑鼠輸入與遊戲函式 Hook |
 | Mask of Kefka | 0.2.0.1 | 建立供 OBS 擷取、隱藏 Dalamud 覆蓋介面的獨立輸出視窗 | 已發布；由 API15 回移至 API13；完成 zh-TW 介面翻譯；涉及 DX11 共享貼圖與遊戲渲染目標 |
+| Facade | 1.0.0.3 | 自訂住宅外觀、染色與節慶裝飾 | 已發布測試版；API13／.NET 9、zh-TW 介面；922 項離線檢查及 CI 通過，尚未遊戲內實測 |
 
 Questionable 的台服建置停用了程式內「放棄任務」原生命令；需要放棄任務時請使用遊戲任務日誌。此限制不影響任務路徑、對話、傳送或 vnavmesh 導航。
 
