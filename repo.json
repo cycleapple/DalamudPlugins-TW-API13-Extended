@@ -3061,7 +3061,6 @@
     "AcceptsFeedback": true
   },
   {
-<<<<<<< HEAD
     "Author": "keifufu / cycleapple（API 13 繁中移植）",
     "Name": "Facade",
     "InternalName": "Facade",
@@ -3094,8 +3093,6 @@
     "Changelog": "API 13／.NET 9 繁中移植版；修正玩家服務、4 組節慶欄位、渲染旗標與地皮判定。Debug／Release、922 項離線檢查及 GitHub CI 通過；尚未完成遊戲內實測。"
   },
   {
-=======
->>>>>>> b4cc897 (Add Pocket Recorder API13 Traditional Chinese test build 1.0.5.21)
     "Author": "Wotou",
     "Name": "Pocket Recorder（繁體中文）",
     "Punchline": "一鍵錄製 FFXIV 畫面與聲音，支援倒數計時自動錄影。",
