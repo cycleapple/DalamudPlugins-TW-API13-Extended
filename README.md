@@ -165,3 +165,7 @@ Questionable 的台服建置停用了程式內「放棄任務」原生命令；�
 - [aliceric27/DalamudPlugins-TW](https://github.com/aliceric27/DalamudPlugins-TW)
 - [台服 Dalamud](https://github.com/yanmucorp/Dalamud)
 - [台服 FFXIVClientStructs TC-BASE](https://github.com/yanmucorp/FFXIVClientStructs/tree/TC-BASE)
+
+## VFXEditor API 13 繁中版
+
+新增 VFXEditor 1.9.2.9，651 個繁中詞條，主要介面繁中化。以最後一版上游 API 13 主線原始碼為基底，部分進階欄位保留英文。已完成 Release 建置、本地化及套件檢查；尚未完成遊戲內實測。指令：`/vfxedit`。

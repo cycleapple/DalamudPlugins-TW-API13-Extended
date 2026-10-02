@@ -3125,5 +3125,34 @@
     "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PocketRecorder-1.0.5.21.zip",
     "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PocketRecorder-1.0.5.21.zip",
     "Changelog": "API 13／.NET 9 繁體中文移植測試版。預設繁中介面，包含原生 GPU 錄影元件及 FFmpeg 備援。已通過建置、199 個語系鍵與套件檢查；尚未完成遊戲內錄影與音訊實測。"
+  },
+  {
+    "Author": "ocealot / cycleapple（API 13 繁中版）",
+    "Name": "VFXEditor（繁體中文）",
+    "InternalName": "VFXEditor",
+    "AssemblyVersion": "1.9.2.9",
+    "Description": "編輯及預覽 FFXIV 特效、動畫、音效、貼圖與模型。以最後一版上游 API 13 原始碼為基底，主要操作介面為繁體中文，部分進階格式欄位保留英文。圖示：PAPACHIN。尚未完成繁中客戶端遊戲內實測。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/Dalamud-VFXEditor-API13",
+    "Tags": [
+      "VFX",
+      "AVFX"
+    ],
+    "DalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 69,
+    "Punchline": "特效、動畫與音效編輯器（API 13／繁體中文）",
+    "AcceptsFeedback": false,
+    "TestingDalamudApiLevel": 13,
+    "TestingAssemblyVersion": "1.9.2.9",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "Changelog": "API 13／.NET 9 繁體中文版本。以最後一個上游 API 13 主線節點為基底；651 個翻譯詞條，主要選單、設定及編輯操作繁中化，部分進階欄位保留英文。Release 建置、11 項本地化測試、DLL 參照及套件檢查通過；尚未完成繁中客戶端遊戲內實測。",
+    "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/VFXEditor.png",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/VFXEditor-1.9.2.9.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/VFXEditor-1.9.2.9.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/VFXEditor-1.9.2.9.zip"
   }
 ]
