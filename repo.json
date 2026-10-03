@@ -3130,7 +3130,7 @@
     "Author": "ocealot / cycleapple（API 13 繁中版）",
     "Name": "VFXEditor（繁體中文）",
     "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.9.2.9",
+    "AssemblyVersion": "1.9.2.10",
     "Description": "編輯及預覽 FFXIV 特效、動畫、音效、貼圖與模型。以最後一版上游 API 13 原始碼為基底，主要操作介面為繁體中文，部分進階格式欄位保留英文。圖示：PAPACHIN。尚未完成繁中客戶端遊戲內實測。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/cycleapple/Dalamud-VFXEditor-API13",
@@ -3146,13 +3146,13 @@
     "Punchline": "特效、動畫與音效編輯器（API 13／繁體中文）",
     "AcceptsFeedback": false,
     "TestingDalamudApiLevel": 13,
-    "TestingAssemblyVersion": "1.9.2.9",
+    "TestingAssemblyVersion": "1.9.2.10",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "Changelog": "API 13／.NET 9 繁體中文版本。以最後一個上游 API 13 主線節點為基底；651 個翻譯詞條，主要選單、設定及編輯操作繁中化，部分進階欄位保留英文。Release 建置、11 項本地化測試、DLL 參照及套件檢查通過；尚未完成繁中客戶端遊戲內實測。",
+    "Changelog": "修正 GetFileManager2 簽名找不到而無法載入的錯誤：回移上游的函式本體簽名，避開台服不同的呼叫端指令。歷史台服／國際服函式匯出各唯一命中；11 項本地化與 2 組簽名回歸測試、Release 建置及套件檢查通過。請更新後重新啟動遊戲再啟用；尚待回報者遊戲內確認。",
     "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/VFXEditor.png",
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/VFXEditor-1.9.2.9.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/VFXEditor-1.9.2.9.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/VFXEditor-1.9.2.9.zip"
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/VFXEditor-1.9.2.10.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/VFXEditor-1.9.2.10.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/VFXEditor-1.9.2.10.zip"
   }
 ]

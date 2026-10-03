@@ -123,3 +123,7 @@
 ## VFXEditor 1.9.2.9
 
 來源：https://github.com/cycleapple/Dalamud-VFXEditor-API13/tree/api13-zh-tw 。上游基底：0ceal0t/Dalamud-VFXEditor `c320f08c`（1.9.2.8，API 14 更新之前）。以 Dalamud 13.0.0.6／.NET 9 建置；遊戲掛鉤及 Penumbra IPC 沿用上游 API 13，尚未遊戲內驗證。
+
+## VFXEditor 1.9.2.10
+
+回移上游 `fbbfedb4` 的 GetFileManager2 函式本體簽名。2025-12-02 歷史函式匯出：台服 98,845 個函式中唯一入口 0x140455BA0；國際服 97,901 個函式中唯一入口 0x1401E6B00。保留 API 13／.NET 9，新增兩組入口簽名回歸測試。未取得回報者目前執行檔，以上並非完整客戶端掃描或遊戲內實測。
