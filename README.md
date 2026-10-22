@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 
 | 插件 | 目標版本 | 用途 | 狀態 |
 |---|---:|---|---|
-| Pocket Recorder | 1.0.5.22 | 遊戲畫面、音訊與倒數計時自動錄影 | 整合原生錄影崩潰與 ReShade 修復；掛鉤延後釋放、暫停衛月介面錄製切換；建置與套件檢查通過，尚未遊戲內實測 |
+| Pocket Recorder | 1.0.5.23 | 遊戲畫面、音訊與倒數計時自動錄影 | 恢復衛月介面錄製切換，修正設定傳遞與延後擷取交換鏈；原作者回報實測，追加修正待遊戲內複驗 |
 | Boss Mod | 0.1.4.3 | Boss 機制輔助 | 已發布；一般使用者介面 zh-TW 完成 |
 | Brio | 0.5.2.3 | GPose actor、姿勢與場景管理 | 已發布；修正召喚 actor 的 Penumbra collection 與 Glamourer 套用目標解析 |
 | Bossmod Reborn | 7.3.8.8 | 技能範圍與戰鬥輔助 | 已發布；修正 API13 隊伍角色分配與成員同步，並保留朱雀幻巧戰、UWU 提示及 M07N 空值防護；一般使用者介面 zh-TW 完成 |
