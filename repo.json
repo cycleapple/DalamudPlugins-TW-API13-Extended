@@ -3106,8 +3106,8 @@
       "ffxiv"
     ],
     "InternalName": "PocketRecorder",
-    "AssemblyVersion": "1.0.5.21",
-    "TestingAssemblyVersion": "1.0.5.21",
+    "AssemblyVersion": "1.0.5.22",
+    "TestingAssemblyVersion": "1.0.5.22",
     "RepoUrl": "https://github.com/cycleapple/PocketRecorder",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
@@ -3121,10 +3121,10 @@
     "TestingDalamudApiLevel": 13,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PocketRecorder-1.0.5.21.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PocketRecorder-1.0.5.21.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PocketRecorder-1.0.5.21.zip",
-    "Changelog": "API 13／.NET 9 繁體中文移植測試版。預設繁中介面，包含原生 GPU 錄影元件及 FFmpeg 備援。已通過建置、199 個語系鍵與套件檢查；尚未完成遊戲內錄影與音訊實測。"
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PocketRecorder-1.0.5.22.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PocketRecorder-1.0.5.22.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/PocketRecorder-1.0.5.22.zip",
+    "Changelog": "1.0.5.22：修正原生錄影舊 VC++ Runtime 衝突與 UTF-8 轉換問題；整合 ReShade Present 掛鉤修復，延後釋放仍在使用的掛鉤與影像資源。固定於 Present 前擷取，暫停提供衛月介面錄製切換。完整 Windows／原生 DLL 建置、200 個語系鍵、回歸與打包檢查通過；尚未遊戲內實測。"
   },
   {
     "Author": "ocealot / cycleapple（API 13 繁中版）",
