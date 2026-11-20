@@ -53,7 +53,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Gearsetter | 4.0.0.1 | 裝備升級建議 | 已發布；完成設定、裝備比較、屬性與提示 zh-TW 翻譯 |
 | Glamourer | 1.5.0.18 | 外觀、服裝與角色設計管理 | 已發布診斷版；修正眼鏡暫存裝備讀取並增加染色清除原因紀錄；戒指重置尚未確認修復；需要 Penumbra |
 | Penumbra | 1.5.1.27 | 模組載入與管理 | 已發布；補上裝備分類 23 與共享快取更新，修正拉姆札外衣清單及辨識；待遊戲內驗證 |
-| Ice's Cosmic Exploration | 0.0.73.53 | 宇宙探索採集、生產與任務輔助 | 已發布；修正到點後停止導航／下坐騎、釣魚啟動與反覆換餌，以及 AutoHook 換餌 IPC 型別 |
+| Ice's Cosmic Exploration | 0.0.73.54 | 宇宙探索採集、生產與任務輔助 | 已發布；新增收藏品採集 5 秒無進展復原，排除動畫、暫停與自然 GP 回復；保留到點及釣魚修正 |
 | Better Occult Crescent & Chest Helper Interface | 1.0.1.1 | 蜃景新月島寶箱、兔子與遭遇輔助 | 已發布；由官方 1.0.1 API13 節點重新編譯；完整 zh-TW 介面 |
 | Umbra XIV | 3.1.7.1 | 自訂工具列與世界標記 | 已發布；使用 API14 介面變更前的 API13 節點；完整 zh-TW 介面 |
 | MissFisher | 1.6.5.13 | 釣魚輔助 | 已發布；回移上游 GatherBuddy Reborn 識別與啟用名稱修正；585 組內嵌介面資源為台灣繁中 |
