@@ -620,6 +620,36 @@
     "AcceptsFeedback": true
   },
   {
+    "Author": "Ice",
+    "Name": "Ice's Cosmic Exploration（新版測試版）",
+    "InternalName": "ICECandidate",
+    "AssemblyVersion": "1.0.0.6",
+    "TestingAssemblyVersion": "1.0.0.6",
+    "Description": "以新版 1.0 基底移植至 API13，含核心繁中、舊設定匯入、採集與釣魚復原。使用 /icecandidate 開啟；執行前請停用正式版 ICE。使用獨立設定，尚未完成遊戲內驗證。",
+    "Punchline": "宇宙探索新版基底測試版，與正式版分開安裝。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cycleapple/Ices-Cosmic-Exploration/tree/api13-next-evaluation",
+    "Tags": [
+      "Gatherers",
+      "Cosmic Exploration",
+      "Testing"
+    ],
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/ICE.png",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ICECandidate-1.0.0.6.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ICECandidate-1.0.0.6.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/ICECandidate-1.0.0.6.zip",
+    "Changelog": "首次獨立發布新版測試版：獨立插件識別、指令與設定，保留正式版；含舊設定預覽／匯入、核心繁中與採集／釣魚修正。177 項離線檢查通過，尚未遊戲內實測。",
+    "AcceptsFeedback": true
+  },
+  {
     "Author": "Faye",
     "Name": "BOCCHI 新月島助手",
     "InternalName": "BOCCHI",
