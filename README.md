@@ -4,7 +4,7 @@
 > 本倉庫收錄的插件相對高風險，部分功能涉及遊戲記憶體 Hook、自動化操作或非官方介面。遊戲、Dalamud 或台服客戶端更新後，插件可能立即失效、造成遊戲崩潰、角色操作異常或資料損壞。使用第三方插件亦可能違反遊戲服務條款並帶來帳號處分風險。請自行評估並承擔使用風險，重要設定務必先行備份；遊戲更新後，在相容性重新確認前請停用本倉庫插件。
 
 台服 FFXIV 使用的 Dalamud API13 擴充插件倉庫。外觀插件主要仍由
-[DalamudPlugins-TW](https://github.com/cycleapple/DalamudPlugins-TW) 維護；經台服整合驗證的 Brio 與 Glamourer 修正版亦會在此提供。
+[DalamudPlugins-TW](https://github.com/cycleapple/DalamudPlugins-TW) 維護；Brio、Glamourer 與 Penumbra 的台服修正版及診斷測試版亦會在此提供。
 
 ## 安裝網址
 
@@ -51,7 +51,8 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | YesAlready | 0.0.0.1 | 自動確認對話 | 已發布；完成主設定、各分頁、Bothers 說明與提示 zh-TW 翻譯 |
 | Price Insight | 2.11.3.5 | 顯示市場價格 | 已發布、繁中介面；支援繁中服染料 v3 相容查詢、404 世界復核與安全成交統計 |
 | Gearsetter | 4.0.0.1 | 裝備升級建議 | 已發布；完成設定、裝備比較、屬性與提示 zh-TW 翻譯 |
-| Glamourer | 1.5.0.17 | 外觀、服裝與角色設計管理 | 已發布；修正拉姆札外衣搜尋與進階色表貼上後重建時的染色清除；編譯與回歸檢查通過，待遊戲內驗證；需要 Penumbra |
+| Glamourer | 1.5.0.18 | 外觀、服裝與角色設計管理 | 已發布診斷版；修正眼鏡暫存裝備讀取並增加染色清除原因紀錄；戒指重置尚未確認修復；需要 Penumbra |
+| Penumbra | 1.5.1.27 | 模組載入與管理 | 已發布；補上裝備分類 23 與共享快取更新，修正拉姆札外衣清單及辨識；待遊戲內驗證 |
 | Ice's Cosmic Exploration | 0.0.73.53 | 宇宙探索採集、生產與任務輔助 | 已發布；修正到點後停止導航／下坐騎、釣魚啟動與反覆換餌，以及 AutoHook 換餌 IPC 型別 |
 | Better Occult Crescent & Chest Helper Interface | 1.0.1.1 | 蜃景新月島寶箱、兔子與遭遇輔助 | 已發布；由官方 1.0.1 API13 節點重新編譯；完整 zh-TW 介面 |
 | Umbra XIV | 3.1.7.1 | 自訂工具列與世界標記 | 已發布；使用 API14 介面變更前的 API13 節點；完整 zh-TW 介面 |
