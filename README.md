@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | BOCCHI | 1.0.1.2 | 新月島探索與尋寶助手 | 已發布；預設繁體中文並保存語言選擇，補齊介面、提示、狀態與通知，依繁中資料庫校訂專有名詞 |
 | MidiBard 2 | 3.2.1.3 | 樂器演奏 | 已發布；API14 型別誤用前的安全節點；補齊 zh-TW 介面資源 |
 | GatherBuddy Reborn | 7.3.5.7 | 採集輔助 | 已發布；新增分級防卡死與定期指令，可搭配 Lifestream 定期回家並在完成後自動恢復採集 |
-| Artisan | 4.0.4.27 | 生產輔助 | 已發布；修正 Raphael 配方資料庫差異造成的求解失敗，並保留完整錯誤診斷 |
+| Artisan | 4.0.4.28 | 生產輔助 | 已發布；修正宇宙配方選取／啟動交接，未選對時重選、逾時停止；保留 Raphael 配方資料修正；39 項組件交接回歸檢查通過 |
 | Burning Down the House | 1.7.1.2 | 房屋裝修 | 已發布；補齊指令說明、家具清單標題與座標欄位 |
 | Raphael.Dalamud | 0.0.5.1 | 生產求解器／依賴庫 | 已發布；無設定視窗，已完成 manifest zh-TW 翻譯 |
 | Something Need Doing | 0.0.0.1 | 巨集擴展 | 已發布；完成設定、說明、彈窗與 manifest zh-TW 翻譯 |
@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Glamourer | 1.5.0.18 | 外觀、服裝與角色設計管理 | 已發布診斷版；修正眼鏡暫存裝備讀取並增加染色清除原因紀錄；戒指重置尚未確認修復；需要 Penumbra |
 | Penumbra | 1.5.1.27 | 模組載入與管理 | 已發布；補上裝備分類 23 與共享快取更新，修正拉姆札外衣清單及辨識；待遊戲內驗證 |
 | Ice's Cosmic Exploration | 0.0.73.56 | 宇宙探索 | 已發布；套用使用者 patch，補上採集／雙職任務結束檢查、耗時防護與預設工具階段 14；141 項既有離線檢查通過，尚未遊戲內實測 |
-| Ice's Cosmic Exploration（新版測試版） | 1.0.0.9 | 宇宙探索新版基底獨立測試項目 | 已發布；補工具培養計畫研究交付、API13 分析階段與交付職業修正；280 項離線檢查通過，尚未遊戲內實測 |
+| Ice's Cosmic Exploration（新版測試版） | 1.0.0.10 | 宇宙探索新版基底獨立測試項目 | 已發布；修正 Artisan 舊失敗重試、等待監測與配方 ID；搭配 Artisan 4.0.4.28，319 項離線檢查通過，尚未遊戲內實測 |
 | Better Occult Crescent & Chest Helper Interface | 1.0.1.1 | 蜃景新月島寶箱、兔子與遭遇輔助 | 已發布；由官方 1.0.1 API13 節點重新編譯；完整 zh-TW 介面 |
 | Umbra XIV | 3.1.7.1 | 自訂工具列與世界標記 | 已發布；使用 API14 介面變更前的 API13 節點；完整 zh-TW 介面 |
 | MissFisher | 1.6.5.14 | 釣魚輔助 | 已發布；支援 ICECandidate 偵測、切換快取與啟用目標；2435 項離線檢查通過；保留原有驗證及 585 組繁中資源 |
