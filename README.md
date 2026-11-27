@@ -53,7 +53,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Gearsetter | 4.0.0.1 | 裝備升級建議 | 已發布；完成設定、裝備比較、屬性與提示 zh-TW 翻譯 |
 | Glamourer | 1.5.0.18 | 外觀、服裝與角色設計管理 | 已發布診斷版；修正眼鏡暫存裝備讀取並增加染色清除原因紀錄；戒指重置尚未確認修復；需要 Penumbra |
 | Penumbra | 1.5.1.27 | 模組載入與管理 | 已發布；補上裝備分類 23 與共享快取更新，修正拉姆札外衣清單及辨識；待遊戲內驗證 |
-| Ice's Cosmic Exploration | 0.0.73.55 | 宇宙探索 | 已發布；修正 MF 搭配換餌、任務結束後等待 HUD 與後處理；141 項離線檢查通過，尚未遊戲內實測 |
+| Ice's Cosmic Exploration | 0.0.73.56 | 宇宙探索 | 已發布；套用使用者 patch，補上採集／雙職任務結束檢查、耗時防護與預設工具階段 14；141 項既有離線檢查通過，尚未遊戲內實測 |
 | Ice's Cosmic Exploration（新版測試版） | 1.0.0.8 | 宇宙探索新版基底獨立測試項目 | 已發布；修正 MF 回報後不接任務、ID 0 錯誤及自動換餌；保留獎牌與修裝修正；258 項離線檢查通過，尚未遊戲內實測 |
 | Better Occult Crescent & Chest Helper Interface | 1.0.1.1 | 蜃景新月島寶箱、兔子與遭遇輔助 | 已發布；由官方 1.0.1 API13 節點重新編譯；完整 zh-TW 介面 |
 | Umbra XIV | 3.1.7.1 | 自訂工具列與世界標記 | 已發布；使用 API14 介面變更前的 API13 節點；完整 zh-TW 介面 |
