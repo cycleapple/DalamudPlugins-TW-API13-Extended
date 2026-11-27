@@ -54,10 +54,10 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/ma
 | Glamourer | 1.5.0.18 | 外觀、服裝與角色設計管理 | 已發布診斷版；修正眼鏡暫存裝備讀取並增加染色清除原因紀錄；戒指重置尚未確認修復；需要 Penumbra |
 | Penumbra | 1.5.1.27 | 模組載入與管理 | 已發布；補上裝備分類 23 與共享快取更新，修正拉姆札外衣清單及辨識；待遊戲內驗證 |
 | Ice's Cosmic Exploration | 0.0.73.54 | 宇宙探索採集、生產與任務輔助 | 已發布；新增收藏品採集 5 秒無進展復原，排除動畫、暫停與自然 GP 回復；保留到點及釣魚修正 |
-| Ice's Cosmic Exploration（新版測試版） | 1.0.0.6 | 宇宙探索新版基底獨立測試項目 | 已發布；`/icecandidate` 開啟，獨立設定；執行前停用正式版 ICE；177 項離線檢查通過，尚未遊戲內實測 |
+| Ice's Cosmic Exploration（新版測試版） | 1.0.0.7 | 宇宙探索新版基底獨立測試項目 | 已發布；修正獎牌分數、繳交導航與逐分類修理；240 項離線檢查通過，尚未遊戲內實測 |
 | Better Occult Crescent & Chest Helper Interface | 1.0.1.1 | 蜃景新月島寶箱、兔子與遭遇輔助 | 已發布；由官方 1.0.1 API13 節點重新編譯；完整 zh-TW 介面 |
 | Umbra XIV | 3.1.7.1 | 自訂工具列與世界標記 | 已發布；使用 API14 介面變更前的 API13 節點；完整 zh-TW 介面 |
-| MissFisher | 1.6.5.13 | 釣魚輔助 | 已發布；回移上游 GatherBuddy Reborn 識別與啟用名稱修正；585 組內嵌介面資源為台灣繁中 |
+| MissFisher | 1.6.5.14 | 釣魚輔助 | 已發布；支援 ICECandidate 偵測、切換快取與啟用目標；2435 項離線檢查通過；保留原有驗證及 585 組繁中資源 |
 | Skippy | 1.2.2.9 | 主線隨機任務過場跳過輔助 | 已發布；完成指令說明與聊天回饋 zh-TW 翻譯 |
 | AutoHook | 5.0.0.15 | 釣魚與刺魚輔助 | 已發布；補齊 GatherBuddy 7.3.5 所需 IPC，含台服 API13 `DataId` 相容修補與完整繁中介面；內建 67 個歷史海釣模板，社群模板頁可離線匯入；API13 Release 建置與模板資料檢查通過，尚未遊戲內實測。 |
 | Avarice | 2.1.1.8 | 身位與距離提示 | 已發布；完成主要設定、設定檔、統計與視覺回饋 zh-TW 翻譯 |
